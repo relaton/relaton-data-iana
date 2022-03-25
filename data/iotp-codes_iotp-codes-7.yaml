@@ -11,8 +11,8 @@ docid:
 - id: IANA iotp-codes/iotp-codes-7
   type: IANA
   primary: true
-- id: IOTP-CODES/IOTP-CODES-7
-  type: IANA
+- id: IOTP-CODES__IOTP-CODES-7
+  type: IETF
   scope: anchor
 docnumber: iotp-codes/iotp-codes-7
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

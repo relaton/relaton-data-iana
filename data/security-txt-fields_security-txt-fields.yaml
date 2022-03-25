@@ -11,8 +11,8 @@ docid:
 - id: IANA security-txt-fields/security-txt-fields
   type: IANA
   primary: true
-- id: SECURITY-TXT-FIELDS/SECURITY-TXT-FIELDS
-  type: IANA
+- id: SECURITY-TXT-FIELDS__SECURITY-TXT-FIELDS
+  type: IETF
   scope: anchor
 docnumber: security-txt-fields/security-txt-fields
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

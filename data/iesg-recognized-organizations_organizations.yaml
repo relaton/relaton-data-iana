@@ -12,8 +12,8 @@ docid:
 - id: IANA iesg-recognized-organizations/organizations
   type: IANA
   primary: true
-- id: IESG-RECOGNIZED-ORGANIZATIONS/ORGANIZATIONS
-  type: IANA
+- id: IESG-RECOGNIZED-ORGANIZATIONS__ORGANIZATIONS
+  type: IETF
   scope: anchor
 docnumber: iesg-recognized-organizations/organizations
 date:
@@ -32,4 +32,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

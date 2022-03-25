@@ -11,8 +11,8 @@ docid:
 - id: IANA iscsi-parameters/management-function-response
   type: IANA
   primary: true
-- id: ISCSI-PARAMETERS/MANAGEMENT-FUNCTION-RESPONSE
-  type: IANA
+- id: ISCSI-PARAMETERS__MANAGEMENT-FUNCTION-RESPONSE
+  type: IETF
   scope: anchor
 docnumber: iscsi-parameters/management-function-response
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

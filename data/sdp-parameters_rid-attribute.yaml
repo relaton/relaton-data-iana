@@ -11,8 +11,8 @@ docid:
 - id: IANA sdp-parameters/rid-attribute
   type: IANA
   primary: true
-- id: SDP-PARAMETERS/RID-ATTRIBUTE
-  type: IANA
+- id: SDP-PARAMETERS__RID-ATTRIBUTE
+  type: IETF
   scope: anchor
 docnumber: sdp-parameters/rid-attribute
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

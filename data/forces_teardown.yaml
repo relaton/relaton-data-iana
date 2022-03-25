@@ -11,8 +11,8 @@ docid:
 - id: IANA forces/teardown
   type: IANA
   primary: true
-- id: FORCES/TEARDOWN
-  type: IANA
+- id: FORCES__TEARDOWN
+  type: IETF
   scope: anchor
 docnumber: forces/teardown
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

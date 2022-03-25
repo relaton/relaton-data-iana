@@ -11,8 +11,8 @@ docid:
 - id: IANA dkim-parameters/dkim-parameters-5
   type: IANA
   primary: true
-- id: DKIM-PARAMETERS/DKIM-PARAMETERS-5
-  type: IANA
+- id: DKIM-PARAMETERS__DKIM-PARAMETERS-5
+  type: IETF
   scope: anchor
 docnumber: dkim-parameters/dkim-parameters-5
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

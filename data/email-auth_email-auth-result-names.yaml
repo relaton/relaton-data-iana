@@ -11,8 +11,8 @@ docid:
 - id: IANA email-auth/email-auth-result-names
   type: IANA
   primary: true
-- id: EMAIL-AUTH/EMAIL-AUTH-RESULT-NAMES
-  type: IANA
+- id: EMAIL-AUTH__EMAIL-AUTH-RESULT-NAMES
+  type: IETF
   scope: anchor
 docnumber: email-auth/email-auth-result-names
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

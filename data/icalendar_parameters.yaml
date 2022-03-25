@@ -11,8 +11,8 @@ docid:
 - id: IANA icalendar/parameters
   type: IANA
   primary: true
-- id: ICALENDAR/PARAMETERS
-  type: IANA
+- id: ICALENDAR__PARAMETERS
+  type: IETF
   scope: anchor
 docnumber: icalendar/parameters
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

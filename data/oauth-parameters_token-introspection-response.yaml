@@ -11,8 +11,8 @@ docid:
 - id: IANA oauth-parameters/token-introspection-response
   type: IANA
   primary: true
-- id: OAUTH-PARAMETERS/TOKEN-INTROSPECTION-RESPONSE
-  type: IANA
+- id: OAUTH-PARAMETERS__TOKEN-INTROSPECTION-RESPONSE
+  type: IETF
   scope: anchor
 docnumber: oauth-parameters/token-introspection-response
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

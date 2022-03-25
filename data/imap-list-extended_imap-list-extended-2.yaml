@@ -11,8 +11,8 @@ docid:
 - id: IANA imap-list-extended/imap-list-extended-2
   type: IANA
   primary: true
-- id: IMAP-LIST-EXTENDED/IMAP-LIST-EXTENDED-2
-  type: IANA
+- id: IMAP-LIST-EXTENDED__IMAP-LIST-EXTENDED-2
+  type: IETF
   scope: anchor
 docnumber: imap-list-extended/imap-list-extended-2
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

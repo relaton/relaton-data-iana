@@ -11,8 +11,8 @@ docid:
 - id: IANA brski-parameters/pledge-brski-status-telemetry-attributes
   type: IANA
   primary: true
-- id: BRSKI-PARAMETERS/PLEDGE-BRSKI-STATUS-TELEMETRY-ATTRIBUTES
-  type: IANA
+- id: BRSKI-PARAMETERS__PLEDGE-BRSKI-STATUS-TELEMETRY-ATTRIBUTES
+  type: IETF
   scope: anchor
 docnumber: brski-parameters/pledge-brski-status-telemetry-attributes
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

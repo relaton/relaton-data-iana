@@ -11,8 +11,8 @@ docid:
 - id: IANA pim-parameters/port-option-types
   type: IANA
   primary: true
-- id: PIM-PARAMETERS/PORT-OPTION-TYPES
-  type: IANA
+- id: PIM-PARAMETERS__PORT-OPTION-TYPES
+  type: IETF
   scope: anchor
 docnumber: pim-parameters/port-option-types
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

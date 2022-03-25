@@ -11,8 +11,8 @@ docid:
 - id: IANA icalendar/resource-types
   type: IANA
   primary: true
-- id: ICALENDAR/RESOURCE-TYPES
-  type: IANA
+- id: ICALENDAR__RESOURCE-TYPES
+  type: IETF
   scope: anchor
 docnumber: icalendar/resource-types
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

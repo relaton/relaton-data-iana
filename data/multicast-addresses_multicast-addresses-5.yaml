@@ -11,8 +11,8 @@ docid:
 - id: IANA multicast-addresses/multicast-addresses-5
   type: IANA
   primary: true
-- id: MULTICAST-ADDRESSES/MULTICAST-ADDRESSES-5
-  type: IANA
+- id: MULTICAST-ADDRESSES__MULTICAST-ADDRESSES-5
+  type: IETF
   scope: anchor
 docnumber: multicast-addresses/multicast-addresses-5
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

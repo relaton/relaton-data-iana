@@ -11,8 +11,8 @@ docid:
 - id: IANA kerberos-parameters/fast-options
   type: IANA
   primary: true
-- id: KERBEROS-PARAMETERS/FAST-OPTIONS
-  type: IANA
+- id: KERBEROS-PARAMETERS__FAST-OPTIONS
+  type: IETF
   scope: anchor
 docnumber: kerberos-parameters/fast-options
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

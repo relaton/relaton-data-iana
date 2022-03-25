@@ -11,8 +11,8 @@ docid:
 - id: IANA ppp-numbers/ppp-numbers-8
   type: IANA
   primary: true
-- id: PPP-NUMBERS/PPP-NUMBERS-8
-  type: IANA
+- id: PPP-NUMBERS__PPP-NUMBERS-8
+  type: IETF
   scope: anchor
 docnumber: ppp-numbers/ppp-numbers-8
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

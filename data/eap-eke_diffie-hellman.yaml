@@ -11,8 +11,8 @@ docid:
 - id: IANA eap-eke/diffie-hellman
   type: IANA
   primary: true
-- id: EAP-EKE/DIFFIE-HELLMAN
-  type: IANA
+- id: EAP-EKE__DIFFIE-HELLMAN
+  type: IETF
   scope: anchor
 docnumber: eap-eke/diffie-hellman
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

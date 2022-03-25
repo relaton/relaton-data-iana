@@ -11,8 +11,8 @@ docid:
 - id: IANA iax-parameters/iax-parameters-10
   type: IANA
   primary: true
-- id: IAX-PARAMETERS/IAX-PARAMETERS-10
-  type: IANA
+- id: IAX-PARAMETERS__IAX-PARAMETERS-10
+  type: IETF
   scope: anchor
 docnumber: iax-parameters/iax-parameters-10
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

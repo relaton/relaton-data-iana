@@ -11,8 +11,8 @@ docid:
 - id: IANA rid/enumeration
   type: IANA
   primary: true
-- id: RID/ENUMERATION
-  type: IANA
+- id: RID__ENUMERATION
+  type: IETF
   scope: anchor
 docnumber: rid/enumeration
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

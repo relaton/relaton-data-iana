@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SNOOP-DATALINK-TYPES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: snoop-datalink-types
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

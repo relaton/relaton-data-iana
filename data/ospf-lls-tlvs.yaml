@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: OSPF-LLS-TLVS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ospf-lls-tlvs
 date:
@@ -32,4 +32,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

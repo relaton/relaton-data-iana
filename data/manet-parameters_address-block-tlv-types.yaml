@@ -11,8 +11,8 @@ docid:
 - id: IANA manet-parameters/address-block-tlv-types
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/ADDRESS-BLOCK-TLV-TYPES
-  type: IANA
+- id: MANET-PARAMETERS__ADDRESS-BLOCK-TLV-TYPES
+  type: IETF
   scope: anchor
 docnumber: manet-parameters/address-block-tlv-types
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

@@ -11,8 +11,8 @@ docid:
 - id: IANA quic/quic-frame-types
   type: IANA
   primary: true
-- id: QUIC/QUIC-FRAME-TYPES
-  type: IANA
+- id: QUIC__QUIC-FRAME-TYPES
+  type: IETF
   scope: anchor
 docnumber: quic/quic-frame-types
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

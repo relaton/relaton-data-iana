@@ -11,8 +11,8 @@ docid:
 - id: IANA imap-capabilities/imap-capabilities-1
   type: IANA
   primary: true
-- id: IMAP-CAPABILITIES/IMAP-CAPABILITIES-1
-  type: IANA
+- id: IMAP-CAPABILITIES__IMAP-CAPABILITIES-1
+  type: IETF
   scope: anchor
 docnumber: imap-capabilities/imap-capabilities-1
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

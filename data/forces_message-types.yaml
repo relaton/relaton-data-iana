@@ -11,8 +11,8 @@ docid:
 - id: IANA forces/message-types
   type: IANA
   primary: true
-- id: FORCES/MESSAGE-TYPES
-  type: IANA
+- id: FORCES__MESSAGE-TYPES
+  type: IETF
   scope: anchor
 docnumber: forces/message-types
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

@@ -11,8 +11,8 @@ docid:
 - id: IANA ldp-namespaces/status-codes
   type: IANA
   primary: true
-- id: LDP-NAMESPACES/STATUS-CODES
-  type: IANA
+- id: LDP-NAMESPACES__STATUS-CODES
+  type: IETF
   scope: anchor
 docnumber: ldp-namespaces/status-codes
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

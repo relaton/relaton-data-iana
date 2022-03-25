@@ -11,8 +11,8 @@ docid:
 - id: IANA mrt/subtype-codes
   type: IANA
   primary: true
-- id: MRT/SUBTYPE-CODES
-  type: IANA
+- id: MRT__SUBTYPE-CODES
+  type: IETF
   scope: anchor
 docnumber: mrt/subtype-codes
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

@@ -11,8 +11,8 @@ docid:
 - id: IANA bgp-parameters/mcast-vpn-route-types
   type: IANA
   primary: true
-- id: BGP-PARAMETERS/MCAST-VPN-ROUTE-TYPES
-  type: IANA
+- id: BGP-PARAMETERS__MCAST-VPN-ROUTE-TYPES
+  type: IETF
   scope: anchor
 docnumber: bgp-parameters/mcast-vpn-route-types
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

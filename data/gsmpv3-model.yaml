@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: GSMPV3-MODEL
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: gsmpv3-model
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

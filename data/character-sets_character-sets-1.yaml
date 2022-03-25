@@ -11,8 +11,8 @@ docid:
 - id: IANA character-sets/character-sets-1
   type: IANA
   primary: true
-- id: CHARACTER-SETS/CHARACTER-SETS-1
-  type: IANA
+- id: CHARACTER-SETS__CHARACTER-SETS-1
+  type: IETF
   scope: anchor
 docnumber: character-sets/character-sets-1
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

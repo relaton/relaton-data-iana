@@ -11,8 +11,8 @@ docid:
 - id: IANA cont-disp/cont-disp-1
   type: IANA
   primary: true
-- id: CONT-DISP/CONT-DISP-1
-  type: IANA
+- id: CONT-DISP__CONT-DISP-1
+  type: IETF
   scope: anchor
 docnumber: cont-disp/cont-disp-1
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

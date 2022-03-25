@@ -11,8 +11,8 @@ docid:
 - id: IANA transfer-encodings/transfer-encodings-1
   type: IANA
   primary: true
-- id: TRANSFER-ENCODINGS/TRANSFER-ENCODINGS-1
-  type: IANA
+- id: TRANSFER-ENCODINGS__TRANSFER-ENCODINGS-1
+  type: IETF
   scope: anchor
 docnumber: transfer-encodings/transfer-encodings-1
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

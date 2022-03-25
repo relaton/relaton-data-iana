@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: PROTOCOL-NUMBERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: protocol-numbers
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

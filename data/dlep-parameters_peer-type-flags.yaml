@@ -11,8 +11,8 @@ docid:
 - id: IANA dlep-parameters/peer-type-flags
   type: IANA
   primary: true
-- id: DLEP-PARAMETERS/PEER-TYPE-FLAGS
-  type: IANA
+- id: DLEP-PARAMETERS__PEER-TYPE-FLAGS
+  type: IETF
   scope: anchor
 docnumber: dlep-parameters/peer-type-flags
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

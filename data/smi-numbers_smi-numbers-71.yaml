@@ -11,8 +11,8 @@ docid:
 - id: IANA smi-numbers/smi-numbers-71
   type: IANA
   primary: true
-- id: SMI-NUMBERS/SMI-NUMBERS-71
-  type: IANA
+- id: SMI-NUMBERS__SMI-NUMBERS-71
+  type: IETF
   scope: anchor
 docnumber: smi-numbers/smi-numbers-71
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

@@ -11,8 +11,8 @@ docid:
 - id: IANA ccmp-parameters/response-codes
   type: IANA
   primary: true
-- id: CCMP-PARAMETERS/RESPONSE-CODES
-  type: IANA
+- id: CCMP-PARAMETERS__RESPONSE-CODES
+  type: IETF
   scope: anchor
 docnumber: ccmp-parameters/response-codes
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

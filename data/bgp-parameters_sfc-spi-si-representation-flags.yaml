@@ -11,8 +11,8 @@ docid:
 - id: IANA bgp-parameters/sfc-spi-si-representation-flags
   type: IANA
   primary: true
-- id: BGP-PARAMETERS/SFC-SPI-SI-REPRESENTATION-FLAGS
-  type: IANA
+- id: BGP-PARAMETERS__SFC-SPI-SI-REPRESENTATION-FLAGS
+  type: IETF
   scope: anchor
 docnumber: bgp-parameters/sfc-spi-si-representation-flags
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

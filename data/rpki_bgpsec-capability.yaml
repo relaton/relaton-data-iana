@@ -11,8 +11,8 @@ docid:
 - id: IANA rpki/bgpsec-capability
   type: IANA
   primary: true
-- id: RPKI/BGPSEC-CAPABILITY
-  type: IANA
+- id: RPKI__BGPSEC-CAPABILITY
+  type: IETF
   scope: anchor
 docnumber: rpki/bgpsec-capability
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

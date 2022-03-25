@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: GSTN-EXTENSIONS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: gstn-extensions
 date:
@@ -30,4 +30,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

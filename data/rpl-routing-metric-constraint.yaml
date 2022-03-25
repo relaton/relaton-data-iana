@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: RPL-ROUTING-METRIC-CONSTRAINT
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: rpl-routing-metric-constraint
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

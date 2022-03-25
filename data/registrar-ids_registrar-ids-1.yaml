@@ -11,8 +11,8 @@ docid:
 - id: IANA registrar-ids/registrar-ids-1
   type: IANA
   primary: true
-- id: REGISTRAR-IDS/REGISTRAR-IDS-1
-  type: IANA
+- id: REGISTRAR-IDS__REGISTRAR-IDS-1
+  type: IETF
   scope: anchor
 docnumber: registrar-ids/registrar-ids-1
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

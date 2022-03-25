@@ -11,8 +11,8 @@ docid:
 - id: IANA forces/header-flags
   type: IANA
   primary: true
-- id: FORCES/HEADER-FLAGS
-  type: IANA
+- id: FORCES__HEADER-FLAGS
+  type: IETF
   scope: anchor
 docnumber: forces/header-flags
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

@@ -11,8 +11,8 @@ docid:
 - id: IANA bgp-ls-parameters/protocol-ids
   type: IANA
   primary: true
-- id: BGP-LS-PARAMETERS/PROTOCOL-IDS
-  type: IANA
+- id: BGP-LS-PARAMETERS__PROTOCOL-IDS
+  type: IETF
   scope: anchor
 docnumber: bgp-ls-parameters/protocol-ids
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

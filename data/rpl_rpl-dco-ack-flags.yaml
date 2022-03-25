@@ -11,8 +11,8 @@ docid:
 - id: IANA rpl/rpl-dco-ack-flags
   type: IANA
   primary: true
-- id: RPL/RPL-DCO-ACK-FLAGS
-  type: IANA
+- id: RPL__RPL-DCO-ACK-FLAGS
+  type: IETF
   scope: anchor
 docnumber: rpl/rpl-dco-ack-flags
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

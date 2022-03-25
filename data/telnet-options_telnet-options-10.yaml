@@ -11,8 +11,8 @@ docid:
 - id: IANA telnet-options/telnet-options-10
   type: IANA
   primary: true
-- id: TELNET-OPTIONS/TELNET-OPTIONS-10
-  type: IANA
+- id: TELNET-OPTIONS__TELNET-OPTIONS-10
+  type: IETF
   scope: anchor
 docnumber: telnet-options/telnet-options-10
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

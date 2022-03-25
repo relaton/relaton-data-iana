@@ -11,8 +11,8 @@ docid:
 - id: IANA yang-module-tags/yang-module-tag-prefixes
   type: IANA
   primary: true
-- id: YANG-MODULE-TAGS/YANG-MODULE-TAG-PREFIXES
-  type: IANA
+- id: YANG-MODULE-TAGS__YANG-MODULE-TAG-PREFIXES
+  type: IETF
   scope: anchor
 docnumber: yang-module-tags/yang-module-tag-prefixes
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

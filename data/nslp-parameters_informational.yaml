@@ -11,8 +11,8 @@ docid:
 - id: IANA nslp-parameters/informational
   type: IANA
   primary: true
-- id: NSLP-PARAMETERS/INFORMATIONAL
-  type: IANA
+- id: NSLP-PARAMETERS__INFORMATIONAL
+  type: IETF
   scope: anchor
 docnumber: nslp-parameters/informational
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

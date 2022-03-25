@@ -11,8 +11,8 @@ docid:
 - id: IANA managesieve/response
   type: IANA
   primary: true
-- id: MANAGESIEVE/RESPONSE
-  type: IANA
+- id: MANAGESIEVE__RESPONSE
+  type: IETF
   scope: anchor
 docnumber: managesieve/response
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

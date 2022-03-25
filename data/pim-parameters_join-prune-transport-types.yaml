@@ -11,8 +11,8 @@ docid:
 - id: IANA pim-parameters/join-prune-transport-types
   type: IANA
   primary: true
-- id: PIM-PARAMETERS/JOIN-PRUNE-TRANSPORT-TYPES
-  type: IANA
+- id: PIM-PARAMETERS__JOIN-PRUNE-TRANSPORT-TYPES
+  type: IETF
   scope: anchor
 docnumber: pim-parameters/join-prune-transport-types
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

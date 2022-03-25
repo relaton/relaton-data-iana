@@ -11,8 +11,8 @@ docid:
 - id: IANA rpl-routing-metric-constraint/common-header-a
   type: IANA
   primary: true
-- id: RPL-ROUTING-METRIC-CONSTRAINT/COMMON-HEADER-A
-  type: IANA
+- id: RPL-ROUTING-METRIC-CONSTRAINT__COMMON-HEADER-A
+  type: IETF
   scope: anchor
 docnumber: rpl-routing-metric-constraint/common-header-a
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

@@ -11,8 +11,8 @@ docid:
 - id: IANA idna-tables-6.0.0/idna-tables-6.0.0-context
   type: IANA
   primary: true
-- id: IDNA-TABLES-6.0.0/IDNA-TABLES-6.0.0-CONTEXT
-  type: IANA
+- id: IDNA-TABLES-6.0.0__IDNA-TABLES-6.0.0-CONTEXT
+  type: IETF
   scope: anchor
 docnumber: idna-tables-6.0.0/idna-tables-6.0.0-context
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

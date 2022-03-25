@@ -11,8 +11,8 @@ docid:
 - id: IANA rpl/ocp
   type: IANA
   primary: true
-- id: RPL/OCP
-  type: IANA
+- id: RPL__OCP
+  type: IETF
   scope: anchor
 docnumber: rpl/ocp
 date:
@@ -31,4 +31,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'

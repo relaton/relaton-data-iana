@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SERVICE-FUNCTION-CHAINING-SERVICE-FUNCTION-TYPES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: service-function-chaining-service-function-types
 date:
@@ -29,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-03-24'
+fetched: '2022-03-25'
