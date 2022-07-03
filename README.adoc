@@ -1,0 +1,7 @@
+= Publications bibliographic data for Relaton-IANA
+
+This repository is used by Relaton-IANA to represent known publications.
+
+Data is stored in Relaton YAML format.
+
+This repository uses https://github.com/relaton/relaton-iana#fetch-data[relaton-iana] gem to fetch the documents and runs daly.
