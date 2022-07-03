@@ -1,0 +1,31 @@
+---
+id: IANAace/oauth-parameters-cbor-mappings
+title:
+- content: OAuth Parameters CBOR Mappings
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ace
+  type: src
+type: standard
+docid:
+- id: IANA ace/oauth-parameters-cbor-mappings
+  type: IANA
+  primary: true
+docnumber: ace/oauth-parameters-cbor-mappings
+date:
+- type: created
+  value: '2021-07-27'
+- type: updated
+  value: '2022-09-02'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

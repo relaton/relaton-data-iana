@@ -1,0 +1,29 @@
+---
+id: IANAospf-opaque-types/ospf-opaque-types-2
+title:
+- content: Opaque Link-State Advertisements (LSA) Option Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ospf-opaque-types
+  type: src
+type: standard
+docid:
+- id: IANA ospf-opaque-types/ospf-opaque-types-2
+  type: IANA
+  primary: true
+docnumber: ospf-opaque-types/ospf-opaque-types-2
+date:
+- type: updated
+  value: '2022-10-14'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

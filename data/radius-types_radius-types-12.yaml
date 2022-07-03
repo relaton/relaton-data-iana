@@ -1,0 +1,29 @@
+---
+id: IANAradius-types/radius-types-12
+title:
+- content: Values for RADIUS Attribute 49, Acct-Terminate-Cause
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/radius-types
+  type: src
+type: standard
+docid:
+- id: IANA radius-types/radius-types-12
+  type: IANA
+  primary: true
+docnumber: radius-types/radius-types-12
+date:
+- type: updated
+  value: '2022-10-19'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

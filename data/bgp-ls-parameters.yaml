@@ -1,0 +1,31 @@
+---
+id: IANAbgp-ls-parameters
+title:
+- content: Border Gateway Protocol - Link State (BGP-LS) Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-ls-parameters
+  type: src
+type: standard
+docid:
+- id: IANA bgp-ls-parameters
+  type: IANA
+  primary: true
+docnumber: bgp-ls-parameters
+date:
+- type: created
+  value: '2015-11-03'
+- type: updated
+  value: '2022-08-29'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

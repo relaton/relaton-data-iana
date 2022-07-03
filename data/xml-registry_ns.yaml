@@ -1,0 +1,29 @@
+---
+id: IANAxml-registry/ns
+title:
+- content: ns
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/xml-registry
+  type: src
+type: standard
+docid:
+- id: IANA xml-registry/ns
+  type: IANA
+  primary: true
+docnumber: xml-registry/ns
+date:
+- type: updated
+  value: '2022-10-18'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

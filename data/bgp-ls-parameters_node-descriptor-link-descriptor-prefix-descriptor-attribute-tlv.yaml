@@ -1,0 +1,32 @@
+---
+id: IANAbgp-ls-parameters/node-descriptor-link-descriptor-prefix-descriptor-attribute-tlv
+title:
+- content: BGP-LS Node Descriptor, Link Descriptor, Prefix Descriptor, and Attribute
+    TLVs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-ls-parameters
+  type: src
+type: standard
+docid:
+- id: IANA bgp-ls-parameters/node-descriptor-link-descriptor-prefix-descriptor-attribute-tlv
+  type: IANA
+  primary: true
+docnumber: bgp-ls-parameters/node-descriptor-link-descriptor-prefix-descriptor-attribute-tlv
+date:
+- type: created
+  value: '2015-11-03'
+- type: updated
+  value: '2022-08-29'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

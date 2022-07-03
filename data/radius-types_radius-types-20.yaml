@@ -1,0 +1,29 @@
+---
+id: IANAradius-types/radius-types-20
+title:
+- content: Location Profiles (Attribute 127, Location-Information)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/radius-types
+  type: src
+type: standard
+docid:
+- id: IANA radius-types/radius-types-20
+  type: IANA
+  primary: true
+docnumber: radius-types/radius-types-20
+date:
+- type: updated
+  value: '2022-10-19'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

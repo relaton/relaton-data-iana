@@ -1,0 +1,29 @@
+---
+id: IANAicmpv6-parameters/address-registration
+title:
+- content: Address Registration Option Status Values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/icmpv6-parameters
+  type: src
+type: standard
+docid:
+- id: IANA icmpv6-parameters/address-registration
+  type: IANA
+  primary: true
+docnumber: icmpv6-parameters/address-registration
+date:
+- type: updated
+  value: '2022-09-07'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

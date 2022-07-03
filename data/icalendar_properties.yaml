@@ -1,0 +1,31 @@
+---
+id: IANAicalendar/properties
+title:
+- content: Properties
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/icalendar
+  type: src
+type: standard
+docid:
+- id: IANA icalendar/properties
+  type: IANA
+  primary: true
+docnumber: icalendar/properties
+date:
+- type: created
+  value: '2009-04-29'
+- type: updated
+  value: '2022-08-19'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

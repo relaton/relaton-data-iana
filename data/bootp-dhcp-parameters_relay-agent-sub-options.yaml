@@ -1,0 +1,29 @@
+---
+id: IANAbootp-dhcp-parameters/relay-agent-sub-options
+title:
+- content: DHCP Relay Agent Sub-Option Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bootp-dhcp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA bootp-dhcp-parameters/relay-agent-sub-options
+  type: IANA
+  primary: true
+docnumber: bootp-dhcp-parameters/relay-agent-sub-options
+date:
+- type: updated
+  value: '2022-09-01'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

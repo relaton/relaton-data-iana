@@ -1,0 +1,29 @@
+---
+id: IANAmedia-types/application
+title:
+- content: application
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/media-types
+  type: src
+type: standard
+docid:
+- id: IANA media-types/application
+  type: IANA
+  primary: true
+docnumber: media-types/application
+date:
+- type: updated
+  value: '2022-10-21'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

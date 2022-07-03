@@ -1,0 +1,31 @@
+---
+id: IANAoauth-parameters/uri
+title:
+- content: OAuth URI
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/oauth-parameters
+  type: src
+type: standard
+docid:
+- id: IANA oauth-parameters/uri
+  type: IANA
+  primary: true
+docnumber: oauth-parameters/uri
+date:
+- type: created
+  value: '2012-07-27'
+- type: updated
+  value: '2022-09-23'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

@@ -1,0 +1,31 @@
+---
+id: IANApa-tnc-parameters/pa-tnc-parameters-2
+title:
+- content: PA-TNC Error Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/pa-tnc-parameters
+  type: src
+type: standard
+docid:
+- id: IANA pa-tnc-parameters/pa-tnc-parameters-2
+  type: IANA
+  primary: true
+docnumber: pa-tnc-parameters/pa-tnc-parameters-2
+date:
+- type: created
+  value: '2009-11-13'
+- type: updated
+  value: '2022-08-01'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

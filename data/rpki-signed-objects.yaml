@@ -1,0 +1,26 @@
+---
+id: IANArpki-signed-objects
+title:
+- content: rpki-signed-objects
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rpki-signed-objects
+  type: src
+type: standard
+docid:
+- id: IANA rpki-signed-objects
+  type: IANA
+  primary: true
+docnumber: rpki-signed-objects
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

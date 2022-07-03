@@ -1,0 +1,31 @@
+---
+id: IANAace/oauth-grant-type-cbor-mappings
+title:
+- content: OAuth Grant Type CBOR Mappings
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ace
+  type: src
+type: standard
+docid:
+- id: IANA ace/oauth-grant-type-cbor-mappings
+  type: IANA
+  primary: true
+docnumber: ace/oauth-grant-type-cbor-mappings
+date:
+- type: created
+  value: '2021-07-27'
+- type: updated
+  value: '2022-09-02'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

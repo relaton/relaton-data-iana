@@ -1,0 +1,29 @@
+---
+id: IANAbgp-tunnel-encapsulation
+title:
+- content: Border Gateway Protocol (BGP) Tunnel Encapsulation
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-tunnel-encapsulation
+  type: src
+type: standard
+docid:
+- id: IANA bgp-tunnel-encapsulation
+  type: IANA
+  primary: true
+docnumber: bgp-tunnel-encapsulation
+date:
+- type: updated
+  value: '2022-08-31'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

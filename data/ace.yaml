@@ -1,0 +1,31 @@
+---
+id: IANAace
+title:
+- content: Authentication and Authorization for Constrained Environments (ACE)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ace
+  type: src
+type: standard
+docid:
+- id: IANA ace
+  type: IANA
+  primary: true
+docnumber: ace
+date:
+- type: created
+  value: '2021-07-27'
+- type: updated
+  value: '2022-09-02'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

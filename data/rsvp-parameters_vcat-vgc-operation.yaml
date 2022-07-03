@@ -1,0 +1,29 @@
+---
+id: IANArsvp-parameters/vcat-vgc-operation
+title:
+- content: VCAT VCG Operation Actions
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rsvp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA rsvp-parameters/vcat-vgc-operation
+  type: IANA
+  primary: true
+docnumber: rsvp-parameters/vcat-vgc-operation
+date:
+- type: updated
+  value: '2022-08-12'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

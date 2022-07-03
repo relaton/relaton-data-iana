@@ -1,0 +1,31 @@
+---
+id: IANAoauth-parameters/client-metadata
+title:
+- content: OAuth Dynamic Client Registration Metadata
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/oauth-parameters
+  type: src
+type: standard
+docid:
+- id: IANA oauth-parameters/client-metadata
+  type: IANA
+  primary: true
+docnumber: oauth-parameters/client-metadata
+date:
+- type: created
+  value: '2012-07-27'
+- type: updated
+  value: '2022-09-23'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
