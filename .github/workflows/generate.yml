@@ -32,4 +32,4 @@ jobs:
           git config user.name ietf-bib-bot
           git config user.email gh-bib-bot@llc.ietf.org
           git add data flag.txt
-          git diff --quiet && git diff --staged --quiet || (git commit --amend -m 'update documents' && git push -f)
+          git diff --quiet && git diff --staged --quiet || (git commit -m 'update documents' && git push -f)

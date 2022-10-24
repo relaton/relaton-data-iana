@@ -1,7 +1,7 @@
 ---
 id: IANAhttp-proxy-status
 title:
-- content: HTTP Proxy-Status
+- content: Hypertext Transfer Protocol (HTTP) Proxy-Status
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/http-proxy-status
@@ -16,16 +16,16 @@ date:
 - type: created
   value: '2021-10-22'
 - type: updated
-  value: '2021-10-22'
+  value: '2022-07-01'
 contributor:
 - organization:
     name:
-    - Internet Assigned Numbers Authority
-    abbreviation: IANA
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
   role:
   - publisher
 language:
 - en
 script:
 - Latn
-fetched: '2022-07-03'

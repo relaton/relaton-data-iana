@@ -15,15 +15,17 @@ docnumber: rdap-object-tags
 date:
 - type: created
   value: '2018-11-21'
+- type: updated
+  value: '2022-01-26'
 contributor:
 - organization:
     name:
-    - Internet Assigned Numbers Authority
-    abbreviation: IANA
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
   role:
   - publisher
 language:
 - en
 script:
 - Latn
-fetched: '2022-07-03'

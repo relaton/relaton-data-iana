@@ -14,16 +14,16 @@ docid:
 docnumber: ipv4-address-space
 date:
 - type: updated
-  value: '2021-02-05'
+  value: '2022-02-04'
 contributor:
 - organization:
     name:
-    - Internet Assigned Numbers Authority
-    abbreviation: IANA
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
   role:
   - publisher
 language:
 - en
 script:
 - Latn
-fetched: '2022-07-03'

@@ -14,16 +14,16 @@ docid:
 docnumber: icmpv6-parameters/icmpv6-parameters-10
 date:
 - type: updated
-  value: '2021-10-01'
+  value: '2022-09-07'
 contributor:
 - organization:
     name:
-    - Internet Assigned Numbers Authority
-    abbreviation: IANA
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
   role:
   - publisher
 language:
 - en
 script:
 - Latn
-fetched: '2022-07-03'

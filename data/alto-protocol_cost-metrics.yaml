@@ -1,7 +1,7 @@
 ---
 id: IANAalto-protocol/cost-metrics
 title:
-- content: ALTO Cost Metric Registry
+- content: ALTO Cost Metrics
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/alto-protocol
@@ -16,16 +16,16 @@ date:
 - type: created
   value: '2014-03-18'
 - type: updated
-  value: '2014-09-08'
+  value: '2022-09-27'
 contributor:
 - organization:
     name:
-    - Internet Assigned Numbers Authority
-    abbreviation: IANA
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
   role:
   - publisher
 language:
 - en
 script:
 - Latn
-fetched: '2022-07-03'

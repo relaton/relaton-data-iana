@@ -1,0 +1,31 @@
+---
+id: IANAcmp
+title:
+- content: Certificate Management Protocol (CMP)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/cmp
+  type: src
+type: standard
+docid:
+- id: IANA cmp
+  type: IANA
+  primary: true
+docnumber: cmp
+date:
+- type: created
+  value: '2022-07-27'
+- type: updated
+  value: '2022-10-19'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn

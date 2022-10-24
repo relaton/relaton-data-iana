@@ -16,16 +16,16 @@ date:
 - type: created
   value: '2020-03-19'
 - type: updated
-  value: '2020-11-18'
+  value: '2022-01-27'
 contributor:
 - organization:
     name:
-    - Internet Assigned Numbers Authority
-    abbreviation: IANA
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
   role:
   - publisher
 language:
 - en
 script:
 - Latn
-fetched: '2022-07-03'
