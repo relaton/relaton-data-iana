@@ -24,7 +24,7 @@ contributor:
     abbreviation:
       content: IANA
   role:
-  - publisher
+  - type: publisher
 language:
 - en
 script:
