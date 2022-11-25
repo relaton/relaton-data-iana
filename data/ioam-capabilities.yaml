@@ -1,22 +1,22 @@
 ---
-id: IANAioam/dex-flags
+id: IANAioam-capabilities
 title:
-- content: IOAM DEX Flags
+- content: In Situ OAM (IOAM) Capabilities
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ioam
+- content: http://www.iana.org/assignments/ioam-capabilities
   type: src
 type: standard
 docid:
-- id: IANA ioam/dex-flags
+- id: IANA ioam-capabilities
   type: IANA
   primary: true
-docnumber: ioam/dex-flags
+docnumber: ioam-capabilities
 date:
 - type: created
-  value: '2021-12-20'
+  value: '2022-11-23'
 - type: updated
-  value: '2022-11-24'
+  value: '2022-11-23'
 contributor:
 - organization:
     name:

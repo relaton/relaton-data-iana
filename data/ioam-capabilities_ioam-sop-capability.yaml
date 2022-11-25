@@ -1,22 +1,22 @@
 ---
-id: IANAioam/dex-flags
+id: IANAioam-capabilities/ioam-sop-capability
 title:
-- content: IOAM DEX Flags
+- content: IOAM SoP Capability
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ioam
+- content: http://www.iana.org/assignments/ioam-capabilities
   type: src
 type: standard
 docid:
-- id: IANA ioam/dex-flags
+- id: IANA ioam-capabilities/ioam-sop-capability
   type: IANA
   primary: true
-docnumber: ioam/dex-flags
+docnumber: ioam-capabilities/ioam-sop-capability
 date:
 - type: created
-  value: '2021-12-20'
+  value: '2022-11-23'
 - type: updated
-  value: '2022-11-24'
+  value: '2022-11-23'
 contributor:
 - organization:
     name:
