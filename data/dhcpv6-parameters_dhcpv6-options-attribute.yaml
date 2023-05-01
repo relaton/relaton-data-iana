@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: IANAidna-tables-10.0.0-idna-tables-context
+id: IANAdhcpv6-parameters-dhcpv6-options-attribute
 title:
-- content: IDNA Contextual Rules
+- content: DHCPv6 Options Permitted in the RADIUS DHCPv6-Options Attribute
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/idna-tables-10.0.0
+- content: http://www.iana.org/assignments/dhcpv6-parameters
   type: src
 type: standard
 docid:
-- id: IANA idna-tables-10.0.0/idna-tables-context
+- id: IANA dhcpv6-parameters/dhcpv6-options-attribute
   type: IANA
   primary: true
-docnumber: idna-tables-10.0.0/idna-tables-context
+docnumber: dhcpv6-parameters/dhcpv6-options-attribute
 date:
 - type: created
-  value: '2010-03-31'
+  value: '2003-11-03'
 - type: updated
-  value: '2010-03-31'
+  value: '2023-04-28'
 contributor:
 - organization:
     name:

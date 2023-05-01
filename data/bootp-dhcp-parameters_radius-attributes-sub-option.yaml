@@ -1,23 +1,21 @@
 ---
 schema-version: v1.2.3
-id: IANAidna-tables-12.0.0-idna-tables-context
+id: IANAbootp-dhcp-parameters-radius-attributes-sub-option
 title:
-- content: IDNA Contextual Rules
+- content: RADIUS Attributes Permitted in RADIUS Attributes Sub-option
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/idna-tables-12.0.0
+- content: http://www.iana.org/assignments/bootp-dhcp-parameters
   type: src
 type: standard
 docid:
-- id: IANA idna-tables-12.0.0/idna-tables-context
+- id: IANA bootp-dhcp-parameters/radius-attributes-sub-option
   type: IANA
   primary: true
-docnumber: idna-tables-12.0.0/idna-tables-context
+docnumber: bootp-dhcp-parameters/radius-attributes-sub-option
 date:
-- type: created
-  value: '2010-03-31'
 - type: updated
-  value: '2010-03-31'
+  value: '2023-04-28'
 contributor:
 - organization:
     name:

@@ -1,21 +1,23 @@
 ---
 schema-version: v1.2.3
-id: IANAsmi-numbers-smi-numbers-50
+id: IANArolie-rolie-information-types
 title:
-- content: SMI Security for Name System Designators Codes (nametypes)
+- content: ROLIE Information Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/smi-numbers
+- content: http://www.iana.org/assignments/rolie
   type: src
 type: standard
 docid:
-- id: IANA smi-numbers/smi-numbers-50
+- id: IANA rolie/rolie-information-types
   type: IANA
   primary: true
-docnumber: smi-numbers/smi-numbers-50
+docnumber: rolie/rolie-information-types
 date:
+- type: created
+  value: '2017-12-21'
 - type: updated
-  value: '2023-03-02'
+  value: '2018-04-13'
 contributor:
 - organization:
     name:
