@@ -1,9 +1,9 @@
 require 'fileutils'
 require 'relaton_iana'
 
-# ENV["GITHUB_TOKEN"] = ARGV.shift
+# token = ARGV.shift
 
-system("git clone --dept 1 git@github.com:ietf-tools/iana-registries.git")
+system("git clone https://github.com/ietf-tools/iana-registries.git iana-registries")
 
 FileUtils.rm_rf("data")
 RelatonIana::DataFetcher.fetch
