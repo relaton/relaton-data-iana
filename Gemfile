@@ -2,4 +2,4 @@
 
 source 'https://rubygems.org'
 
-gem 'relaton-iana'
+gem 'relaton-iana', github: 'relaton/relaton-iana', branch: 'main'
