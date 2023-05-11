@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: IANAtls-parameters-tls-parameters-6
+id: IANAacme-acme-authority-token-challenge-types
 title:
-- content: TLS Alerts
+- content: ACME Authority Token Challenge Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/tls-parameters
+- content: http://www.iana.org/assignments/acme
   type: src
 type: standard
 docid:
-- id: IANA tls-parameters/tls-parameters-6
+- id: IANA acme/acme-authority-token-challenge-types
   type: IANA
   primary: true
-docnumber: tls-parameters/tls-parameters-6
+docnumber: acme/acme-authority-token-challenge-types
 date:
 - type: created
-  value: '2005-08-23'
+  value: '2019-01-02'
 - type: updated
-  value: '2023-05-10'
+  value: '2023-05-09'
 contributor:
 - organization:
     name:
