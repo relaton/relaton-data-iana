@@ -181,6 +181,8 @@
   :file: data/masque.yaml
 - :id: masque/masque-uri-suffixes
   :file: data/masque_masque-uri-suffixes.yaml
+- :id: masque/http-capsule-types
+  :file: data/masque_http-capsule-types.yaml
 - :id: qspec
   :file: data/qspec.yaml
 - :id: qspec/object-types
