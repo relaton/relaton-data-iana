@@ -4647,6 +4647,8 @@
   :file: data/secevent.yaml
 - :id: secevent/secevent-error-codes
   :file: data/secevent_secevent-error-codes.yaml
+- :id: secevent/secevent-identifier-formats
+  :file: data/secevent_secevent-identifier-formats.yaml
 - :id: uri-schemes
   :file: data/uri-schemes.yaml
 - :id: uri-schemes/uri-schemes-1
