@@ -4065,6 +4065,16 @@
   :file: data/ospfv3-parameters_extended-lsa-tlvs.yaml
 - :id: ospfv3-parameters/extended-lsa-sub-tlvs
   :file: data/ospfv3-parameters_extended-lsa-sub-tlvs.yaml
+- :id: ospfv3-parameters/srv6-capabilities
+  :file: data/ospfv3-parameters_srv6-capabilities.yaml
+- :id: ospfv3-parameters/srv6-end-sid
+  :file: data/ospfv3-parameters_srv6-end-sid.yaml
+- :id: ospfv3-parameters/srv6-adjacency-sid
+  :file: data/ospfv3-parameters_srv6-adjacency-sid.yaml
+- :id: ospfv3-parameters/srv6-locator-lsa
+  :file: data/ospfv3-parameters_srv6-locator-lsa.yaml
+- :id: ospfv3-parameters/srv6-locator-lsa-sub-tlvs
+  :file: data/ospfv3-parameters_srv6-locator-lsa-sub-tlvs.yaml
 - :id: media-types-parameters
   :file: data/media-types-parameters.yaml
 - :id: media-types-parameters/media-types-parameters-1
