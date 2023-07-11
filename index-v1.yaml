@@ -6217,6 +6217,8 @@
   :file: data/ospfv2-parameters_extended-inter-area-asbr-tlvs.yaml
 - :id: ospfv2-parameters/extended-inter-area-asbr-sub-tlvs
   :file: data/ospfv2-parameters_extended-inter-area-asbr-sub-tlvs.yaml
+- :id: ospfv2-parameters/ip-algorithm-prefix-reachability-sub-tlv-flags
+  :file: data/ospfv2-parameters_ip-algorithm-prefix-reachability-sub-tlv-flags.yaml
 - :id: yang-geographic-location
   :file: data/yang-geographic-location.yaml
 - :id: yang-geographic-location/geodetic-system-values
