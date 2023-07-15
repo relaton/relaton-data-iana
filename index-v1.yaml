@@ -4637,6 +4637,22 @@
   :file: data/ospf-parameters_flex-algorithm-prefix-metric-bits.yaml
 - :id: ospf-parameters/flexible-algorithm-definition-tlv-sub-tlvs
   :file: data/ospf-parameters_flexible-algorithm-definition-tlv-sub-tlvs.yaml
+- :id: sfc-active-oam
+  :file: data/sfc-active-oam.yaml
+- :id: sfc-active-oam/sfc-active-oam
+  :file: data/sfc-active-oam_sfc-active-oam.yaml
+- :id: sfc-active-oam/sfc-echo-request-reply
+  :file: data/sfc-active-oam_sfc-echo-request-reply.yaml
+- :id: sfc-active-oam/sfc-echo-types
+  :file: data/sfc-active-oam_sfc-echo-types.yaml
+- :id: sfc-active-oam/sfc-echo-reply-modes
+  :file: data/sfc-active-oam_sfc-echo-reply-modes.yaml
+- :id: sfc-active-oam/sfc-echo-return-codes
+  :file: data/sfc-active-oam_sfc-echo-return-codes.yaml
+- :id: sfc-active-oam/sfc-active-tlv
+  :file: data/sfc-active-oam_sfc-active-tlv.yaml
+- :id: sfc-active-oam/sfc-identifier
+  :file: data/sfc-active-oam_sfc-identifier.yaml
 - :id: auth-namespaces
   :file: data/auth-namespaces.yaml
 - :id: auth-namespaces/auth-namespaces-1
