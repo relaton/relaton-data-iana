@@ -5917,6 +5917,8 @@
   :file: data/passport_passport-extensions.yaml
 - :id: passport/passport-rph-types
   :file: data/passport_passport-rph-types.yaml
+- :id: passport/passport-rcd-claim-types
+  :file: data/passport_passport-rcd-claim-types.yaml
 - :id: nsh
   :file: data/nsh.yaml
 - :id: nsh/base-header
