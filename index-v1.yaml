@@ -4297,6 +4297,10 @@
   :file: data/mdn_disp-not-opt.yaml
 - :id: mdn/ext-field-names
   :file: data/mdn_ext-field-names.yaml
+- :id: http-digest-hash-alg
+  :file: data/http-digest-hash-alg.yaml
+- :id: http-digest-hash-alg/digest-fields
+  :file: data/http-digest-hash-alg_digest-fields.yaml
 - :id: gsmpv3-result
   :file: data/gsmpv3-result.yaml
 - :id: gsmpv3-result/gsmpv3-result-1
