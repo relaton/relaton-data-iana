@@ -1603,8 +1603,8 @@
   :file: data/alto-protocol_cost-modes.yaml
 - :id: alto-protocol/cost-metrics
   :file: data/alto-protocol_cost-metrics.yaml
-- :id: alto-protocol/cost-source
-  :file: data/alto-protocol_cost-source.yaml
+- :id: alto-protocol/cost-source-types
+  :file: data/alto-protocol_cost-source-types.yaml
 - :id: alto-protocol/endpoint-property-types
   :file: data/alto-protocol_endpoint-property-types.yaml
 - :id: alto-protocol/address-types
