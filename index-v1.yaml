@@ -901,6 +901,8 @@
   :file: data/bgp-parameters_srv6-service-data-sub-sub-tlv-types.yaml
 - :id: bgp-parameters/bgp-srv6-service-sid-flags
   :file: data/bgp-parameters_bgp-srv6-service-sid-flags.yaml
+- :id: bgp-parameters/long-lived-graceful-restart-flags-for-address-family
+  :file: data/bgp-parameters_long-lived-graceful-restart-flags-for-address-family.yaml
 - :id: gmpls-sig-parameters
   :file: data/gmpls-sig-parameters.yaml
 - :id: gmpls-sig-parameters/gmpls-sig-parameters-2
@@ -1871,8 +1873,8 @@
   :file: data/bootp-dhcp-parameters_ntp-time-source.yaml
 - :id: bootp-dhcp-parameters/vss-type
   :file: data/bootp-dhcp-parameters_vss-type.yaml
-- :id: bootp-dhcp-parameters/radius-attributes-sub-option
-  :file: data/bootp-dhcp-parameters_radius-attributes-sub-option.yaml
+- :id: bootp-dhcp-parameters/radius-attributes-dhcp-suboption
+  :file: data/bootp-dhcp-parameters_radius-attributes-dhcp-suboption.yaml
 - :id: bootp-dhcp-parameters/dhcpv4-options-atrribute
   :file: data/bootp-dhcp-parameters_dhcpv4-options-atrribute.yaml
 - :id: alert-urns
@@ -3565,6 +3567,10 @@
   :file: data/stamp-tlv-types_stamp-timestamping-methods.yaml
 - :id: stamp-tlv-types/stamp-return-codes
   :file: data/stamp-tlv-types_stamp-return-codes.yaml
+- :id: stamp-tlv-types/stamp-return-path-sub-tlvs
+  :file: data/stamp-tlv-types_stamp-return-path-sub-tlvs.yaml
+- :id: stamp-tlv-types/stamp-return-path-control-code-flags
+  :file: data/stamp-tlv-types_stamp-return-path-control-code-flags.yaml
 - :id: geolocation-policy
   :file: data/geolocation-policy.yaml
 - :id: geolocation-policy/location-profiles
