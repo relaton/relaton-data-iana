@@ -1047,6 +1047,16 @@
   :file: data/cga-message-types_cga-message-types-2.yaml
 - :id: cga-message-types/cga-message-types-3
   :file: data/cga-message-types_cga-message-types-3.yaml
+- :id: http-message-signature
+  :file: data/http-message-signature.yaml
+- :id: http-message-signature/signature-algorithms
+  :file: data/http-message-signature_signature-algorithms.yaml
+- :id: http-message-signature/signature-metadata-parameters
+  :file: data/http-message-signature_signature-metadata-parameters.yaml
+- :id: http-message-signature/signature-derived-component-names
+  :file: data/http-message-signature_signature-derived-component-names.yaml
+- :id: http-message-signature/component-parameters
+  :file: data/http-message-signature_component-parameters.yaml
 - :id: spi-numbers
   :file: data/spi-numbers.yaml
 - :id: spi-numbers/spi-numbers-1
