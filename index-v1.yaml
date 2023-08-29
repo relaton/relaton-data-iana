@@ -743,6 +743,18 @@
   :file: data/message-headers_prov-headers.yaml
 - :id: message-headers/content-translation-type-header-field-values
   :file: data/message-headers_content-translation-type-header-field-values.yaml
+- :id: edhoc
+  :file: data/edhoc.yaml
+- :id: edhoc/edhoc-exporter-label
+  :file: data/edhoc_edhoc-exporter-label.yaml
+- :id: edhoc/edhoc-cipher-suites
+  :file: data/edhoc_edhoc-cipher-suites.yaml
+- :id: edhoc/edhoc-method-type
+  :file: data/edhoc_edhoc-method-type.yaml
+- :id: edhoc/edhoc-error-codes
+  :file: data/edhoc_edhoc-error-codes.yaml
+- :id: edhoc/edhoc-ead
+  :file: data/edhoc_edhoc-ead.yaml
 - :id: cxtp-parameters
   :file: data/cxtp-parameters.yaml
 - :id: cxtp-parameters/cxtp-parameters-1
