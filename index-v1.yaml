@@ -919,6 +919,8 @@
   :file: data/pcep_te-path-binding-tlv-flags.yaml
 - :id: pcep/lsp-extended-flag-tlv-flags
   :file: data/pcep_lsp-extended-flag-tlv-flags.yaml
+- :id: pcep/lsp-exclusion-sub-object-flag-field
+  :file: data/pcep_lsp-exclusion-sub-object-flag-field.yaml
 - :id: madcap-parameters
   :file: data/madcap-parameters.yaml
 - :id: madcap-parameters/madcap-parameters-1
