@@ -5497,6 +5497,8 @@
   :file: data/ccnx_ccnx-hash-function-types.yaml
 - :id: ccnx/ccnx-reply-types
   :file: data/ccnx_ccnx-reply-types.yaml
+- :id: ccnx/ccnx-echo-reply-code
+  :file: data/ccnx_ccnx-echo-reply-code.yaml
 - :id: nslp-parameters
   :file: data/nslp-parameters.yaml
 - :id: nslp-parameters/messages
