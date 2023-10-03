@@ -317,6 +317,10 @@
   :file: data/ccnx_ccnx-reply-types.yaml
 - :id: ccnx/ccnx-echo-reply-codes
   :file: data/ccnx_ccnx-echo-reply-codes.yaml
+- :id: rdap-reverse-search-mapping
+  :file: data/rdap-reverse-search-mapping.yaml
+- :id: rdap-reverse-search-mapping/rdap-reverse-search-mapping
+  :file: data/rdap-reverse-search-mapping_rdap-reverse-search-mapping.yaml
 - :id: iana-bgp-l2-encaps
   :file: data/iana-bgp-l2-encaps.yaml
 - :id: isis-mt-parameters
@@ -3629,6 +3633,10 @@
   :file: data/lmp-parameters_lmp-parameters-4.yaml
 - :id: lmp-parameters/behavior-config-flags
   :file: data/lmp-parameters_behavior-config-flags.yaml
+- :id: rdap-reverse-search
+  :file: data/rdap-reverse-search.yaml
+- :id: rdap-reverse-search/rdap-reverse-search
+  :file: data/rdap-reverse-search_rdap-reverse-search.yaml
 - :id: ltp-parameters
   :file: data/ltp-parameters.yaml
 - :id: ltp-parameters/ltp-parameters-1
