@@ -4485,6 +4485,10 @@
   :file: data/tesla-parameters_tesla-parameters-3.yaml
 - :id: tesla-parameters/tesla-parameters-4
   :file: data/tesla-parameters_tesla-parameters-4.yaml
+- :id: jsonpath
+  :file: data/jsonpath.yaml
+- :id: jsonpath/function-extensions
+  :file: data/jsonpath_function-extensions.yaml
 - :id: rdap-dns
   :file: data/rdap-dns.yaml
 - :id: link-relations
