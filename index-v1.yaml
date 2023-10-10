@@ -2453,6 +2453,8 @@
   :file: data/bgp-extended-communities_arp-nd-extended-community-flags.yaml
 - :id: bgp-extended-communities/multicast-flags
   :file: data/bgp-extended-communities_multicast-flags.yaml
+- :id: bgp-extended-communities/context-specific-label-space-id-type
+  :file: data/bgp-extended-communities_context-specific-label-space-id-type.yaml
 - :id: novell-sap-numbers
   :file: data/novell-sap-numbers.yaml
 - :id: novell-sap-numbers/novell-sap-numbers-1
