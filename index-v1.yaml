@@ -5941,6 +5941,8 @@
   :file: data/core-parameters_core-standard-problem-detail-keys.yaml
 - :id: core-parameters/core-custom-problem-detail-keys
   :file: data/core-parameters_core-custom-problem-detail-keys.yaml
+- :id: core-parameters/target-attributes
+  :file: data/core-parameters_target-attributes.yaml
 - :id: sppf-orgidtype-namespace
   :file: data/sppf-orgidtype-namespace.yaml
 - :id: sppf-orgidtype-namespace/sppf-orgidtype-namespace-1
