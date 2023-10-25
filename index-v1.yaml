@@ -2919,6 +2919,10 @@
   :file: data/scep_scep-message-types.yaml
 - :id: scep/scep-ca-capabilities
   :file: data/scep_scep-ca-capabilities.yaml
+- :id: internet-date-time-format
+  :file: data/internet-date-time-format.yaml
+- :id: internet-date-time-format/timestamp-suffix-tag-keys
+  :file: data/internet-date-time-format_timestamp-suffix-tag-keys.yaml
 - :id: rdap-ipv6
   :file: data/rdap-ipv6.yaml
 - :id: character-sets
