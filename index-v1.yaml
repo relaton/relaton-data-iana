@@ -25,6 +25,10 @@
   :file: data/cbor-tags.yaml
 - :id: cbor-tags/tags
   :file: data/cbor-tags_tags.yaml
+- :id: cbor-tags/timescales
+  :file: data/cbor-tags_timescales.yaml
+- :id: cbor-tags/time-tag-map-keys
+  :file: data/cbor-tags_time-tag-map-keys.yaml
 - :id: bgp-well-known-communities
   :file: data/bgp-well-known-communities.yaml
 - :id: bgp-well-known-communities/bgp-well-known-communities-1
@@ -1535,6 +1539,8 @@
   :file: data/ethernet-numbers_ethernet-numbers-5.yaml
 - :id: ethernet-numbers/ethernet-numbers-6
   :file: data/ethernet-numbers_ethernet-numbers-6.yaml
+- :id: ethernet-numbers/iana-lldp-tlv-subtypes
+  :file: data/ethernet-numbers_iana-lldp-tlv-subtypes.yaml
 - :id: eap-eke
   :file: data/eap-eke.yaml
 - :id: eap-eke/diffie-hellman
