@@ -3153,6 +3153,10 @@
   :file: data/quic_quic-frame-types.yaml
 - :id: quic/quic-transport-error-codes
   :file: data/quic_quic-transport-error-codes.yaml
+- :id: rdap-query-purpose-values
+  :file: data/rdap-query-purpose-values.yaml
+- :id: rdap-query-purpose-values/rdap-query-purpose-values
+  :file: data/rdap-query-purpose-values_rdap-query-purpose-values.yaml
 - :id: ipseckey-rr-parameters
   :file: data/ipseckey-rr-parameters.yaml
 - :id: ipseckey-rr-parameters/ipseckey-rr-parameters-1
