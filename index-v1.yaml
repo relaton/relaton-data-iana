@@ -1227,6 +1227,8 @@
   :file: data/mail-parameters_mail-parameters-10.yaml
 - :id: mail-parameters/multicast-email-smtp-extensions
   :file: data/mail-parameters_multicast-email-smtp-extensions.yaml
+- :id: mail-parameters/smtp-service-extensions
+  :file: data/mail-parameters_smtp-service-extensions.yaml
 - :id: coswid
   :file: data/coswid.yaml
 - :id: coswid/coswid-items
