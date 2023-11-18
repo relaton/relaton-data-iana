@@ -2175,6 +2175,12 @@
   :file: data/icalendar_resource-types.yaml
 - :id: icalendar/proximity-values
   :file: data/icalendar_proximity-values.yaml
+- :id: UUID
+  :file: data/uuid.yaml
+- :id: UUID/uuid-subtypes
+  :file: data/uuid_uuid-subtypes.yaml
+- :id: UUID/uuid-namespace-ids
+  :file: data/uuid_uuid-namespace-ids.yaml
 - :id: message-headers
   :file: data/message-headers.yaml
 - :id: message-headers/perm-headers
@@ -6107,6 +6113,10 @@
   :file: data/tls-extensiontype-values_cachedinformationtype.yaml
 - :id: tls-extensiontype-values/tls-certificate-compression-algorithm-ids
   :file: data/tls-extensiontype-values_tls-certificate-compression-algorithm-ids.yaml
+- :id: privacy-pass
+  :file: data/privacy-pass.yaml
+- :id: privacy-pass/token-type
+  :file: data/privacy-pass_token-type.yaml
 - :id: profile-uris
   :file: data/profile-uris.yaml
 - :id: profile-uris/profile
