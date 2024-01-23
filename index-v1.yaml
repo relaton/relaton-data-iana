@@ -1029,6 +1029,10 @@
   :file: data/dcep-parameters_message-type.yaml
 - :id: dcep-parameters/channel-type
   :file: data/dcep-parameters_channel-type.yaml
+- :id: detnet-ach-flags
+  :file: data/detnet-ach-flags.yaml
+- :id: detnet-ach-flags/detnet-associated-channel-header-flags
+  :file: data/detnet-ach-flags_detnet-associated-channel-header-flags.yaml
 - :id: device-identification
   :file: data/device-identification.yaml
 - :id: device-identification/dev-urn-subtypes
