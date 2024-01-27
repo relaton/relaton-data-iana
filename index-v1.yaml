@@ -6409,3 +6409,11 @@
   :file: data/yang-parameters.yaml
 - :id: yang-parameters/yang-parameters-1
   :file: data/yang-parameters_yang-parameters-1.yaml
+- :id: yang-sid-mega-range
+  :file: data/yang-sid-mega-range.yaml
+- :id: yang-sid-mega-range/sid-mega-range
+  :file: data/yang-sid-mega-range_sid-mega-range.yaml
+- :id: yang-sid-mega-range/yang-sid-range
+  :file: data/yang-sid-mega-range_yang-sid-range.yaml
+- :id: yang-sid-mega-range/yang-sid
+  :file: data/yang-sid-mega-range_yang-sid.yaml
