@@ -4471,36 +4471,6 @@
   :file: data/perm-mcast-groupids_perm-mcast-groupids-1.yaml
 - :id: pgp-parameters
   :file: data/pgp-parameters.yaml
-- :id: pgp-parameters/pgp-parameters-1
-  :file: data/pgp-parameters_pgp-parameters-1.yaml
-- :id: pgp-parameters/pgp-parameters-2
-  :file: data/pgp-parameters_pgp-parameters-2.yaml
-- :id: pgp-parameters/pgp-parameters-3
-  :file: data/pgp-parameters_pgp-parameters-3.yaml
-- :id: pgp-parameters/pgp-parameters-4
-  :file: data/pgp-parameters_pgp-parameters-4.yaml
-- :id: pgp-parameters/pgp-parameters-5
-  :file: data/pgp-parameters_pgp-parameters-5.yaml
-- :id: pgp-parameters/pgp-parameters-6
-  :file: data/pgp-parameters_pgp-parameters-6.yaml
-- :id: pgp-parameters/pgp-parameters-7
-  :file: data/pgp-parameters_pgp-parameters-7.yaml
-- :id: pgp-parameters/pgp-parameters-8
-  :file: data/pgp-parameters_pgp-parameters-8.yaml
-- :id: pgp-parameters/pgp-parameters-9
-  :file: data/pgp-parameters_pgp-parameters-9.yaml
-- :id: pgp-parameters/pgp-parameters-10
-  :file: data/pgp-parameters_pgp-parameters-10.yaml
-- :id: pgp-parameters/pgp-parameters-11
-  :file: data/pgp-parameters_pgp-parameters-11.yaml
-- :id: pgp-parameters/pgp-parameters-12
-  :file: data/pgp-parameters_pgp-parameters-12.yaml
-- :id: pgp-parameters/pgp-parameters-13
-  :file: data/pgp-parameters_pgp-parameters-13.yaml
-- :id: pgp-parameters/pgp-parameters-14
-  :file: data/pgp-parameters_pgp-parameters-14.yaml
-- :id: pgp-parameters/pgp-parameters-15
-  :file: data/pgp-parameters_pgp-parameters-15.yaml
 - :id: phbid-codes
   :file: data/phbid-codes.yaml
 - :id: phbid-codes/phbid-codes-1
@@ -6409,11 +6379,11 @@
   :file: data/yang-parameters.yaml
 - :id: yang-parameters/yang-parameters-1
   :file: data/yang-parameters_yang-parameters-1.yaml
-- :id: yang-sid-mega-range
-  :file: data/yang-sid-mega-range.yaml
-- :id: yang-sid-mega-range/sid-mega-range
-  :file: data/yang-sid-mega-range_sid-mega-range.yaml
-- :id: yang-sid-mega-range/yang-sid-range
-  :file: data/yang-sid-mega-range_yang-sid-range.yaml
-- :id: yang-sid-mega-range/yang-sid
-  :file: data/yang-sid-mega-range_yang-sid.yaml
+- :id: yang-sid
+  :file: data/yang-sid.yaml
+- :id: yang-sid/sid-mega-range
+  :file: data/yang-sid_sid-mega-range.yaml
+- :id: yang-sid/yang-sid-range
+  :file: data/yang-sid_yang-sid-range.yaml
+- :id: yang-sid/yang-sid
+  :file: data/yang-sid_yang-sid.yaml
