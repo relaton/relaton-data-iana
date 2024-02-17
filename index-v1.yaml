@@ -2951,6 +2951,10 @@
   :file: data/kerberos-parameters_realm-names.yaml
 - :id: kerberos-parameters/transport-type
   :file: data/kerberos-parameters_transport-type.yaml
+- :id: kerberos-parameters/second-factor-types
+  :file: data/kerberos-parameters_second-factor-types.yaml
+- :id: kerberos-parameters/spake-groups
+  :file: data/kerberos-parameters_spake-groups.yaml
 - :id: kerberos-v-gss-api
   :file: data/kerberos-v-gss-api.yaml
 - :id: kerberos-v-gss-api/extension-types
