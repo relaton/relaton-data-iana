@@ -1233,6 +1233,10 @@
   :file: data/drip_hierarchical-hit-prefixes.yaml
 - :id: drip/hierarchical-hit-suite-ids
   :file: data/drip_hierarchical-hit-suite-ids.yaml
+- :id: drip/drip-sam-types
+  :file: data/drip_drip-sam-types.yaml
+- :id: drip/drip-frame-types
+  :file: data/drip_drip-frame-types.yaml
 - :id: ds-rr-types
   :file: data/ds-rr-types.yaml
 - :id: ds-rr-types/ds-rr-types-1
