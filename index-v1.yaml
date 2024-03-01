@@ -4477,8 +4477,6 @@
   :file: data/perm-mcast-groupids.yaml
 - :id: perm-mcast-groupids/perm-mcast-groupids-1
   :file: data/perm-mcast-groupids_perm-mcast-groupids-1.yaml
-- :id: pgp-parameters
-  :file: data/pgp-parameters.yaml
 - :id: phbid-codes
   :file: data/phbid-codes.yaml
 - :id: phbid-codes/phbid-codes-1
