@@ -1581,6 +1581,10 @@
   :file: data/fedfs-parameters_keys.yaml
 - :id: fedfs-parameters/oids
   :file: data/fedfs-parameters_oids.yaml
+- :id: flac
+  :file: data/flac.yaml
+- :id: flac/flac-application-metadata-block-ids
+  :file: data/flac_flac-application-metadata-block-ids.yaml
 - :id: flow-spec
   :file: data/flow-spec.yaml
 - :id: flow-spec/flow-spec-2
