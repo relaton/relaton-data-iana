@@ -2873,6 +2873,8 @@
   :file: data/isis-tlv-codepoints_isis-sub-sub-tlvs-flexible-algorithm-definition-sub-tlv.yaml
 - :id: isis-tlv-codepoints/isis-sub-sub-tlvs-flood-reflection-discovery-sub-tlv
   :file: data/isis-tlv-codepoints_isis-sub-sub-tlvs-flood-reflection-discovery-sub-tlv.yaml
+- :id: isis-tlv-codepoints/isis-sub-tlvs-for-the-area-proxy-tlv
+  :file: data/isis-tlv-codepoints_isis-sub-tlvs-for-the-area-proxy-tlv.yaml
 - :id: isns-parameters
   :file: data/isns-parameters.yaml
 - :id: isns-parameters/isns-parameters-1
