@@ -1765,6 +1765,40 @@
   :file: data/gmpls-wson.yaml
 - :id: gmpls-wson/interface-label-stack-address-type
   :file: data/gmpls-wson_interface-label-stack-address-type.yaml
+- :id: gnap
+  :file: data/gnap.yaml
+- :id: gnap/gnap-grant-request-parameters
+  :file: data/gnap_gnap-grant-request-parameters.yaml
+- :id: gnap/gnap-access-token-flags
+  :file: data/gnap_gnap-access-token-flags.yaml
+- :id: gnap/gnap-subject-information-request-fields
+  :file: data/gnap_gnap-subject-information-request-fields.yaml
+- :id: gnap/gnap-assertion-formats
+  :file: data/gnap_gnap-assertion-formats.yaml
+- :id: gnap/gnap-client-instance-fields
+  :file: data/gnap_gnap-client-instance-fields.yaml
+- :id: gnap/gnap-client-instance-display-fields
+  :file: data/gnap_gnap-client-instance-display-fields.yaml
+- :id: gnap/gnap-interaction-start-modes
+  :file: data/gnap_gnap-interaction-start-modes.yaml
+- :id: gnap/gnap-interaction-finish-methods
+  :file: data/gnap_gnap-interaction-finish-methods.yaml
+- :id: gnap/gnap-interaction-hints
+  :file: data/gnap_gnap-interaction-hints.yaml
+- :id: gnap/gnap-grant-response-parameters
+  :file: data/gnap_gnap-grant-response-parameters.yaml
+- :id: gnap/gnap-interaction-mode-responses
+  :file: data/gnap_gnap-interaction-mode-responses.yaml
+- :id: gnap/gnap-subject-information-response-fields
+  :file: data/gnap_gnap-subject-information-response-fields.yaml
+- :id: gnap/gnap-error-codes
+  :file: data/gnap_gnap-error-codes.yaml
+- :id: gnap/gnap-key-proofing-methods
+  :file: data/gnap_gnap-key-proofing-methods.yaml
+- :id: gnap/gnap-key-formats
+  :file: data/gnap_gnap-key-formats.yaml
+- :id: gnap/gnap-authorization-server-discovery-fields
+  :file: data/gnap_gnap-authorization-server-discovery-fields.yaml
 - :id: gnss
   :file: data/gnss.yaml
 - :id: gnss/types
