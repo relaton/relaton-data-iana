@@ -2121,6 +2121,16 @@
   :file: data/iana-pseudowire-types.yaml
 - :id: iana-routing-types
   :file: data/iana-routing-types.yaml
+- :id: iana-ssh-encryption-algs
+  :file: data/iana-ssh-encryption-algs.yaml
+- :id: iana-ssh-key-exchange-algs
+  :file: data/iana-ssh-key-exchange-algs.yaml
+- :id: iana-ssh-mac-algs
+  :file: data/iana-ssh-mac-algs.yaml
+- :id: iana-ssh-public-key-algs
+  :file: data/iana-ssh-public-key-algs.yaml
+- :id: iana-tls-cipher-suite-algs
+  :file: data/iana-tls-cipher-suite-algs.yaml
 - :id: iana-tunnel-type
   :file: data/iana-tunnel-type.yaml
 - :id: ianaaddressfamilynumbers-mib
