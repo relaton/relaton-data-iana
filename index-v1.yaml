@@ -5569,6 +5569,10 @@
   :file: data/sfc-active-oam_sfc-active-tlv.yaml
 - :id: sfc-active-oam/sfc-identifier
   :file: data/sfc-active-oam_sfc-identifier.yaml
+- :id: sframe
+  :file: data/sframe.yaml
+- :id: sframe/sframe-cipher-suites
+  :file: data/sframe_sframe-cipher-suites.yaml
 - :id: sgmp-vendor-specific-codes
   :file: data/sgmp-vendor-specific-codes.yaml
 - :id: sgmp-vendor-specific-codes/sgmp-vendor-specific-codes-1
