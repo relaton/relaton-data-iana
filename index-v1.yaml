@@ -1449,6 +1449,8 @@
   :file: data/eapsimaka-numbers_eapsimaka-numbers-7.yaml
 - :id: eapsimaka-numbers/trusted-non-3gpp-access
   :file: data/eapsimaka-numbers_trusted-non-3gpp-access.yaml
+- :id: eapsimaka-numbers/eap-aka-at-kdf-fs-key-derivation-function
+  :file: data/eapsimaka-numbers_eap-aka-at-kdf-fs-key-derivation-function.yaml
 - :id: ebml
   :file: data/ebml.yaml
 - :id: ebml/ebml-element-id
@@ -4491,6 +4493,12 @@
   :file: data/pcep_lsp-extended-flag-tlv-flags.yaml
 - :id: pcep/lsp-exclusion-sub-object-flag-field
   :file: data/pcep_lsp-exclusion-sub-object-flag-field.yaml
+- :id: pcep/pcep-srv6-ero-nai-types
+  :file: data/pcep_pcep-srv6-ero-nai-types.yaml
+- :id: pcep/srv6-ero-flag-field
+  :file: data/pcep_srv6-ero-flag-field.yaml
+- :id: pcep/srv6-capability-flag-field
+  :file: data/pcep_srv6-capability-flag-field.yaml
 - :id: pcim-oids
   :file: data/pcim-oids.yaml
 - :id: pcim-oids/pcim-oids-1
