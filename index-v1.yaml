@@ -2419,6 +2419,8 @@
   :file: data/igp-parameters_pce-capability-flags.yaml
 - :id: igp-parameters/pced-sub-tlv-type-indicators
   :file: data/igp-parameters_pced-sub-tlv-type-indicators.yaml
+- :id: igp-parameters/algorithm-type-computing-flooding-topology
+  :file: data/igp-parameters_algorithm-type-computing-flooding-topology.yaml
 - :id: ikev2-parameters
   :file: data/ikev2-parameters.yaml
 - :id: ikev2-parameters/ikev2-parameters-1
@@ -4203,6 +4205,10 @@
   :file: data/ospf-parameters_flex-algorithm-prefix-metric-bits.yaml
 - :id: ospf-parameters/flexible-algorithm-definition-tlv-sub-tlvs
   :file: data/ospf-parameters_flexible-algorithm-definition-tlv-sub-tlvs.yaml
+- :id: ospf-parameters/dynamic-flooding-lsa
+  :file: data/ospf-parameters_dynamic-flooding-lsa.yaml
+- :id: ospf-parameters/link-attributes-sub-tlv
+  :file: data/ospf-parameters_link-attributes-sub-tlv.yaml
 - :id: ospf-sig-alg
   :file: data/ospf-sig-alg.yaml
 - :id: ospf-sig-alg/ospf-sig-alg-1
