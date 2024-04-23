@@ -93,6 +93,20 @@
   :file: data/ace_oauth-token-instrospection-response-cbor-mappings.yaml
 - :id: ace/oscore-security-context-parameters
   :file: data/ace_oscore-security-context-parameters.yaml
+- :id: ace/ace-groupcomm-parameters
+  :file: data/ace_ace-groupcomm-parameters.yaml
+- :id: ace/ace-groupcomm-key-types
+  :file: data/ace_ace-groupcomm-key-types.yaml
+- :id: ace/ace-groupcomm-profiles
+  :file: data/ace_ace-groupcomm-profiles.yaml
+- :id: ace/ace-groupcomm-policies
+  :file: data/ace_ace-groupcomm-policies.yaml
+- :id: ace/sequence-number-synchronization-methods
+  :file: data/ace_sequence-number-synchronization-methods.yaml
+- :id: ace/ace-groupcomm-errors
+  :file: data/ace_ace-groupcomm-errors.yaml
+- :id: ace/ace-groupcomm-rekeying-schemes
+  :file: data/ace_ace-groupcomm-rekeying-schemes.yaml
 - :id: acme
   :file: data/acme.yaml
 - :id: acme/acme-account-object-fields
