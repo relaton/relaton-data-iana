@@ -1495,6 +1495,8 @@
   :file: data/edhoc_edhoc-error-codes.yaml
 - :id: edhoc/edhoc-ead
   :file: data/edhoc_edhoc-ead.yaml
+- :id: edhoc/edhoc-authentication-credential-types
+  :file: data/edhoc_edhoc-authentication-credential-types.yaml
 - :id: email-auth
   :file: data/email-auth.yaml
 - :id: email-auth/email-auth-methods
