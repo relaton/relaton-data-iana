@@ -5547,8 +5547,8 @@
   :file: data/secevent.yaml
 - :id: secevent/secevent-error-codes
   :file: data/secevent_secevent-error-codes.yaml
-- :id: secevent/secevent-identifier-formats
-  :file: data/secevent_secevent-identifier-formats.yaml
+- :id: secevent/subject-identifier-formats
+  :file: data/secevent_subject-identifier-formats.yaml
 - :id: security-label-format-selection
   :file: data/security-label-format-selection.yaml
 - :id: security-label-format-selection/security-label-format-selection-registry
