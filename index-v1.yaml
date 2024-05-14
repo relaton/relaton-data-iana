@@ -6321,11 +6321,11 @@
   :file: data/urn-serviceid-labels.yaml
 - :id: urn-serviceid-labels/urn-serviceid-labels-1
   :file: data/urn-serviceid-labels_urn-serviceid-labels-1.yaml
-- :id: UUID
+- :id: uuid
   :file: data/uuid.yaml
-- :id: UUID/uuid-subtypes
+- :id: uuid/uuid-subtypes
   :file: data/uuid_uuid-subtypes.yaml
-- :id: UUID/uuid-namespace-ids
+- :id: uuid/uuid-namespace-ids
   :file: data/uuid_uuid-namespace-ids.yaml
 - :id: vcard-elements
   :file: data/vcard-elements.yaml
