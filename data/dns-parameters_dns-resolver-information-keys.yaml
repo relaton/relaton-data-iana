@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.8
-id: IANAdns-parameters-csync-flags
+id: IANAdns-parameters-dns-resolver-information-keys
 title:
-- content: Child Synchronization (CSYNC) Flags
+- content: DNS Resolver Information Keys
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/dns-parameters
   type: src
 type: standard
 docid:
-- id: IANA dns-parameters/csync-flags
+- id: IANA dns-parameters/dns-resolver-information-keys
   type: IANA
   primary: true
-docnumber: dns-parameters/csync-flags
+docnumber: dns-parameters/dns-resolver-information-keys
 date:
 - type: updated
   value: '2024-06-03'

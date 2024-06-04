@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.8
-id: IANAdns-parameters-csync-flags
+id: IANAicmpv6-parameters-edar-message-flags
 title:
-- content: Child Synchronization (CSYNC) Flags
+- content: EDAR Message Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dns-parameters
+- content: http://www.iana.org/assignments/icmpv6-parameters
   type: src
 type: standard
 docid:
-- id: IANA dns-parameters/csync-flags
+- id: IANA icmpv6-parameters/edar-message-flags
   type: IANA
   primary: true
-docnumber: dns-parameters/csync-flags
+docnumber: icmpv6-parameters/edar-message-flags
 date:
 - type: updated
-  value: '2024-06-03'
+  value: '2023-11-07'
 contributor:
 - organization:
     name:

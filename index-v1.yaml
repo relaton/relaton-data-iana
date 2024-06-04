@@ -1199,6 +1199,8 @@
   :file: data/dns-parameters_dns-quic-error-codes.yaml
 - :id: dns-parameters/dns-catalog-zones
   :file: data/dns-parameters_dns-catalog-zones.yaml
+- :id: dns-parameters/dns-resolver-information-keys
+  :file: data/dns-parameters_dns-resolver-information-keys.yaml
 - :id: dns-sec-alg-numbers
   :file: data/dns-sec-alg-numbers.yaml
 - :id: dns-sec-alg-numbers/dns-sec-alg-numbers-1
@@ -2317,6 +2319,10 @@
   :file: data/icmpv6-parameters_pvd-option-flags.yaml
 - :id: icmpv6-parameters/icmpv6-crypto-types
   :file: data/icmpv6-parameters_icmpv6-crypto-types.yaml
+- :id: icmpv6-parameters/p-field-values
+  :file: data/icmpv6-parameters_p-field-values.yaml
+- :id: icmpv6-parameters/edar-message-flags
+  :file: data/icmpv6-parameters_edar-message-flags.yaml
 - :id: idmef-parameters
   :file: data/idmef-parameters.yaml
 - :id: idmef-parameters/idmef-parameters-names
