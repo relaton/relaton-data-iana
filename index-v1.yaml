@@ -3493,10 +3493,12 @@
   :file: data/media-types_application.yaml
 - :id: media-types/audio
   :file: data/media-types_audio.yaml
+- :id: media-types/example
+  :file: data/media-types_example.yaml
 - :id: media-types/font
   :file: data/media-types_font.yaml
-- :id: media-types/examples
-  :file: data/media-types_examples.yaml
+- :id: media-types/haptics
+  :file: data/media-types_haptics.yaml
 - :id: media-types/image
   :file: data/media-types_image.yaml
 - :id: media-types/message
@@ -6281,6 +6283,10 @@
   :file: data/token-binding-protocol_token-binding-types.yaml
 - :id: token-binding-protocol/token-binding-extensions
   :file: data/token-binding-protocol_token-binding-extensions.yaml
+- :id: top-level-media-types
+  :file: data/top-level-media-types.yaml
+- :id: top-level-media-types/top-level-media-types
+  :file: data/top-level-media-types_top-level-media-types.yaml
 - :id: trailer-types
   :file: data/trailer-types.yaml
 - :id: trailer-types/trailer-types-1
