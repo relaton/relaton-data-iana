@@ -4825,6 +4825,8 @@
   :file: data/pvds_additional-information-pvd-keys.yaml
 - :id: pvds/pvd-option-flags
   :file: data/pvds_pvd-option-flags.yaml
+- :id: pvds/pvd-split-dns-claims
+  :file: data/pvds_pvd-split-dns-claims.yaml
 - :id: pwe3-parameters
   :file: data/pwe3-parameters.yaml
 - :id: pwe3-parameters/pwe3-parameters-2
