@@ -533,6 +533,12 @@
   :file: data/bootp-dhcp-parameters_radius-attributes-dhcp-suboption.yaml
 - :id: bootp-dhcp-parameters/dhcpv4-options-atrribute
   :file: data/bootp-dhcp-parameters_dhcpv4-options-atrribute.yaml
+- :id: bpf-instructions
+  :file: data/bpf-instructions.yaml
+- :id: bpf-instructions/bpf-instruction-conformance-groups
+  :file: data/bpf-instructions_bpf-instruction-conformance-groups.yaml
+- :id: bpf-instructions/bpf-instruction-set
+  :file: data/bpf-instructions_bpf-instruction-set.yaml
 - :id: brski-parameters
   :file: data/brski-parameters.yaml
 - :id: brski-parameters/pledge-brski-status-telemetry-attributes
