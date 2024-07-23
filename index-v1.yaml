@@ -2143,6 +2143,8 @@
   :file: data/iana-ipv6-special-registry.yaml
 - :id: iana-ipv6-special-registry/iana-ipv6-special-registry-1
   :file: data/iana-ipv6-special-registry_iana-ipv6-special-registry-1.yaml
+- :id: iana-msd-types
+  :file: data/iana-msd-types.yaml
 - :id: iana-pseudowire-types
   :file: data/iana-pseudowire-types.yaml
 - :id: iana-routing-types
@@ -4129,8 +4131,8 @@
   :file: data/openpgp_openpgp-signature-subpacket-types.yaml
 - :id: openpgp/openpgp-key-server-preference-flags
   :file: data/openpgp_openpgp-key-server-preference-flags.yaml
-- :id: openpgp/openpgp-reason-revocation-code
-  :file: data/openpgp_openpgp-reason-revocation-code.yaml
+- :id: openpgp/openpgp-reason-revocation-revocation-octet
+  :file: data/openpgp_openpgp-reason-revocation-revocation-octet.yaml
 - :id: openpgp/openpgp-features-flags
   :file: data/openpgp_openpgp-features-flags.yaml
 - :id: openpgp/openpgp-new-packet-versions
@@ -4153,16 +4155,16 @@
   :file: data/openpgp_openpgp-signature-notation-data-subpacket-notation-flags.yaml
 - :id: openpgp/openpgp-signature-notation-data-subpacket-types
   :file: data/openpgp_openpgp-signature-notation-data-subpacket-types.yaml
-- :id: openpgp/openpgp-key-id-fingerprint
-  :file: data/openpgp_openpgp-key-id-fingerprint.yaml
-- :id: openpgp/openpgp-image-attribute-version
-  :file: data/openpgp_openpgp-image-attribute-version.yaml
-- :id: openpgp/openpgp-armor-header-line
-  :file: data/openpgp_openpgp-armor-header-line.yaml
-- :id: openpgp/openpgp-armor-header-key
-  :file: data/openpgp_openpgp-armor-header-key.yaml
-- :id: openpgp/openpgp-ecc-curve-oid-usage
-  :file: data/openpgp_openpgp-ecc-curve-oid-usage.yaml
+- :id: openpgp/openpgp-key-ids-fingerprints
+  :file: data/openpgp_openpgp-key-ids-fingerprints.yaml
+- :id: openpgp/openpgp-image-attribute-versions
+  :file: data/openpgp_openpgp-image-attribute-versions.yaml
+- :id: openpgp/openpgp-armor-header-lines
+  :file: data/openpgp_openpgp-armor-header-lines.yaml
+- :id: openpgp/openpgp-armor-header-keys
+  :file: data/openpgp_openpgp-armor-header-keys.yaml
+- :id: openpgp/openpgp-ecc-curve-oids-usage
+  :file: data/openpgp_openpgp-ecc-curve-oids-usage.yaml
 - :id: openpgp/openpgp-curve-specific-wire-formats
   :file: data/openpgp_openpgp-curve-specific-wire-formats.yaml
 - :id: openpgp/openpgp-hash-alg-ids-rsa-sig-emsa-pkcs1-v1_5-padding
