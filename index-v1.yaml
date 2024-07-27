@@ -4981,6 +4981,10 @@
   :file: data/radius-types_softwire46-configuration-multicast-attributes.yaml
 - :id: radius-types/option-codes-softwire46-priority-attribute
   :file: data/radius-types_option-codes-softwire46-priority-attribute.yaml
+- :id: rats
+  :file: data/rats.yaml
+- :id: rats/eat-intended-uses
+  :file: data/rats_eat-intended-uses.yaml
 - :id: rdap-asn
   :file: data/rdap-asn.yaml
 - :id: rdap-dns
@@ -5569,6 +5573,8 @@
   :file: data/sctp-parameters_sctp-parameters-26.yaml
 - :id: sctp-parameters/sctp-parameters-27
   :file: data/sctp-parameters_sctp-parameters-27.yaml
+- :id: sctp-parameters/sctp-error-detection-methods
+  :file: data/sctp-parameters_sctp-error-detection-methods.yaml
 - :id: sdp-parameters
   :file: data/sdp-parameters.yaml
 - :id: sdp-parameters/sdp-parameters-1
