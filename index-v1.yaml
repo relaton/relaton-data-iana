@@ -3831,6 +3831,8 @@
   :file: data/mpls-lsp-ping-parameters_lsr-capability-flags.yaml
 - :id: mpls-lsp-ping-parameters/interface-index-flags
   :file: data/mpls-lsp-ping-parameters_interface-index-flags.yaml
+- :id: mpls-lsp-ping-parameters/segment-id-sub-tlv-flags
+  :file: data/mpls-lsp-ping-parameters_segment-id-sub-tlv-flags.yaml
 - :id: mpls-multi-topology-parameters
   :file: data/mpls-multi-topology-parameters.yaml
 - :id: mpls-multi-topology-parameters/multi-topology-ids
