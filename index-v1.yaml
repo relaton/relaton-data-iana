@@ -5381,6 +5381,8 @@
   :file: data/rsvp-parameters_vcat-elementary-signal.yaml
 - :id: rsvp-parameters/vcat-vgc-operation
   :file: data/rsvp-parameters_vcat-vgc-operation.yaml
+- :id: rsvp-parameters/conditions-object-flags
+  :file: data/rsvp-parameters_conditions-object-flags.yaml
 - :id: rsvp-te-oam
   :file: data/rsvp-te-oam.yaml
 - :id: rsvp-te-oam/oam-types
