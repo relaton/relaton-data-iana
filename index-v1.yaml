@@ -6523,6 +6523,12 @@
   :file: data/wesp-flags_wesp-flags-1.yaml
 - :id: wesp-flags/wesp-flags-2
   :file: data/wesp-flags_wesp-flags-2.yaml
+- :id: whip
+  :file: data/whip.yaml
+- :id: whip/whip-urns
+  :file: data/whip_whip-urns.yaml
+- :id: whip/whip-extension-urns
+  :file: data/whip_whip-extension-urns.yaml
 - :id: x25-type-numbers
   :file: data/x25-type-numbers.yaml
 - :id: x25-type-numbers/x25-type-numbers-1
