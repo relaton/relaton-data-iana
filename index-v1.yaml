@@ -3265,6 +3265,8 @@
   :file: data/locally-served-dns-zones_ipv6.yaml
 - :id: locally-served-dns-zones/transport-independent
   :file: data/locally-served-dns-zones_transport-independent.yaml
+- :id: locally-served-dns-zones/service-arpa-subdomain
+  :file: data/locally-served-dns-zones_service-arpa-subdomain.yaml
 - :id: location-type-registry
   :file: data/location-type-registry.yaml
 - :id: location-type-registry/location-type-registry-1
