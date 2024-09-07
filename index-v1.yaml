@@ -2435,6 +2435,10 @@
   :file: data/igmp-type-numbers_igmp-type-numbers-2.yaml
 - :id: igmp-type-numbers/igmp-mld-extension-types
   :file: data/igmp-type-numbers_igmp-mld-extension-types.yaml
+- :id: igmp-type-numbers/igmp-mld-query-message-flags
+  :file: data/igmp-type-numbers_igmp-mld-query-message-flags.yaml
+- :id: igmp-type-numbers/igmp-mld-report-message-flags
+  :file: data/igmp-type-numbers_igmp-mld-report-message-flags.yaml
 - :id: igp-parameters
   :file: data/igp-parameters.yaml
 - :id: igp-parameters/igp-algorithm-types
