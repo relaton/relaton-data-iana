@@ -367,6 +367,12 @@
   :file: data/bgp-extended-communities_multicast-flags.yaml
 - :id: bgp-extended-communities/context-specific-label-space-id-type
   :file: data/bgp-extended-communities_context-specific-label-space-id-type.yaml
+- :id: bgp-extended-communities/evpn-esi-label-extended-community-flags
+  :file: data/bgp-extended-communities_evpn-esi-label-extended-community-flags.yaml
+- :id: bgp-extended-communities/multihoming-redundancy-mode
+  :file: data/bgp-extended-communities_multihoming-redundancy-mode.yaml
+- :id: bgp-extended-communities/split-horizon-type
+  :file: data/bgp-extended-communities_split-horizon-type.yaml
 - :id: bgp-ls-parameters
   :file: data/bgp-ls-parameters.yaml
 - :id: bgp-ls-parameters/nlri-types
