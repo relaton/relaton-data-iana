@@ -5,7 +5,7 @@ title:
 - content: SNMP Management Architecture - Security Subsystem (SnmpSecurityModel)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/smi-numbers
+- content: https://www.iana.org/assignments/smi-numbers
   type: src
 type: standard
 docid:
