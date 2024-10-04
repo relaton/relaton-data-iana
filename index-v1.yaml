@@ -495,8 +495,8 @@
   :file: data/bmp-parameters_peer-flags-loc-rib.yaml
 - :id: bmp-parameters/statistics-types
   :file: data/bmp-parameters_statistics-types.yaml
-- :id: bmp-parameters/initiation-peer-up-tlvs
-  :file: data/bmp-parameters_initiation-peer-up-tlvs.yaml
+- :id: bmp-parameters/initiation-information-tlvs
+  :file: data/bmp-parameters_initiation-information-tlvs.yaml
 - :id: bmp-parameters/termination-message-tlvs
   :file: data/bmp-parameters_termination-message-tlvs.yaml
 - :id: bmp-parameters/termination-message-reason-codes
@@ -507,6 +507,8 @@
   :file: data/bmp-parameters_route-mirroring-tlvs.yaml
 - :id: bmp-parameters/route-mirroring-information-codes
   :file: data/bmp-parameters_route-mirroring-information-codes.yaml
+- :id: bmp-parameters/peer-up-message-tlvs
+  :file: data/bmp-parameters_peer-up-message-tlvs.yaml
 - :id: bootp-dhcp-parameters
   :file: data/bootp-dhcp-parameters.yaml
 - :id: bootp-dhcp-parameters/options
