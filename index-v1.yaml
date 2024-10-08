@@ -2739,6 +2739,8 @@
   :file: data/ipfix_ipfix-information-element-units.yaml
 - :id: ipfix/ipfix-structured-data-types-semantics
   :file: data/ipfix_ipfix-structured-data-types-semantics.yaml
+- :id: ipfix/ipfix-ipv6extensionheaders-bits
+  :file: data/ipfix_ipfix-ipv6extensionheaders-bits.yaml
 - :id: ipp-registrations
   :file: data/ipp-registrations.yaml
 - :id: ipp-registrations/ipp-registrations-1
