@@ -4167,6 +4167,8 @@
   :file: data/oauth-parameters_token-introspection-response.yaml
 - :id: oauth-parameters/authorization-server-metadata
   :file: data/oauth-parameters_authorization-server-metadata.yaml
+- :id: oauth-parameters/protected-resource-metadata
+  :file: data/oauth-parameters_protected-resource-metadata.yaml
 - :id: olsr-types
   :file: data/olsr-types.yaml
 - :id: olsr-types/olsr-types-2
