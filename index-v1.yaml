@@ -1843,6 +1843,20 @@
   :file: data/gnap_gnap-key-formats.yaml
 - :id: gnap/gnap-authorization-server-discovery-fields
   :file: data/gnap_gnap-authorization-server-discovery-fields.yaml
+- :id: gnap/gnap-token-formats
+  :file: data/gnap_gnap-token-formats.yaml
+- :id: gnap/gnap-token-introspection-request
+  :file: data/gnap_gnap-token-introspection-request.yaml
+- :id: gnap/gnap-token-introspection-response
+  :file: data/gnap_gnap-token-introspection-response.yaml
+- :id: gnap/gnap-resource-set-registration-request-parameters
+  :file: data/gnap_gnap-resource-set-registration-request-parameters.yaml
+- :id: gnap/gnap-resource-set-registration-response-parameters
+  :file: data/gnap_gnap-resource-set-registration-response-parameters.yaml
+- :id: gnap/gnap-rs-facing-discovery-document-fields
+  :file: data/gnap_gnap-rs-facing-discovery-document-fields.yaml
+- :id: gnap/gnap-rs-facing-error-codes
+  :file: data/gnap_gnap-rs-facing-error-codes.yaml
 - :id: gnss
   :file: data/gnss.yaml
 - :id: gnss/types
