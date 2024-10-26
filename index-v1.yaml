@@ -107,6 +107,10 @@
   :file: data/ace_ace-groupcomm-errors.yaml
 - :id: ace/ace-groupcomm-rekeying-schemes
   :file: data/ace_ace-groupcomm-rekeying-schemes.yaml
+- :id: ace/ace-token-revocation-list-parameters
+  :file: data/ace_ace-token-revocation-list-parameters.yaml
+- :id: ace/ace-token-revocation-list-errors
+  :file: data/ace_ace-token-revocation-list-errors.yaml
 - :id: acl-tls
   :file: data/acl-tls.yaml
 - :id: acl-tls/acl-tls-version-codes
@@ -1691,6 +1695,8 @@
   :file: data/g-ach-parameters_loss-delay-control-code-response.yaml
 - :id: g-ach-parameters/loss-delay-measurement-tlv
   :file: data/g-ach-parameters_loss-delay-measurement-tlv.yaml
+- :id: g-ach-parameters/return-path-sub-tlv-type
+  :file: data/g-ach-parameters_return-path-sub-tlv-type.yaml
 - :id: g-ach-parameters/fault-message-type
   :file: data/g-ach-parameters_fault-message-type.yaml
 - :id: g-ach-parameters/fault-flag
