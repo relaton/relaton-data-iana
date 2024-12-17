@@ -4721,6 +4721,10 @@
   :file: data/posh-service-names.yaml
 - :id: posh-service-names/service-names
   :file: data/posh-service-names_service-names.yaml
+- :id: post-stack-first-nibble
+  :file: data/post-stack-first-nibble.yaml
+- :id: post-stack-first-nibble/post-stack-first-nibble
+  :file: data/post-stack-first-nibble_post-stack-first-nibble.yaml
 - :id: power-state-sets
   :file: data/power-state-sets.yaml
 - :id: power-state-sets/ieee1621
