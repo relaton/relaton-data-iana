@@ -463,6 +463,8 @@
   :file: data/bgp-parameters_bgp-srv6-service-sid-flags.yaml
 - :id: bgp-parameters/long-lived-graceful-restart-flags-for-address-family
   :file: data/bgp-parameters_long-lived-graceful-restart-flags-for-address-family.yaml
+- :id: bgp-parameters/bgp-bier-tlv-sub-tlv-types
+  :file: data/bgp-parameters_bgp-bier-tlv-sub-tlv-types.yaml
 - :id: bgp-tunnel-encapsulation
   :file: data/bgp-tunnel-encapsulation.yaml
 - :id: bgp-tunnel-encapsulation/tunnel-types
@@ -3165,10 +3167,20 @@
   :file: data/lang-subtags-templates_lang-subtags-templates-1.yaml
 - :id: lang-tag-apps
   :file: data/lang-tag-apps.yaml
+- :id: lang-tag-apps/lang-tag-registration-forms
+  :file: data/lang-tag-apps_lang-tag-registration-forms.yaml
 - :id: language-subtag-registry
   :file: data/language-subtag-registry.yaml
 - :id: language-subtag-registry/language-subtag-registry-1
   :file: data/language-subtag-registry_language-subtag-registry-1.yaml
+- :id: draft-tags-subtags
+  :file: data/draft-tags-subtags.yaml
+- :id: draft-tags-subtags/language-subtags
+  :file: data/draft-tags-subtags_language-subtags.yaml
+- :id: draft-tags-subtags/language-tag-extensions
+  :file: data/draft-tags-subtags_language-tag-extensions.yaml
+- :id: draft-tags-subtags/language-tags
+  :file: data/draft-tags-subtags_language-tags.yaml
 - :id: language-tag-extensions-registry
   :file: data/language-tag-extensions-registry.yaml
 - :id: language-tag-extensions-registry/language-tag-extensions-registry-1
