@@ -3375,6 +3375,8 @@
   :file: data/mail-parameters_multicast-email-smtp-extensions.yaml
 - :id: mail-parameters/smtp-service-extensions
   :file: data/mail-parameters_smtp-service-extensions.yaml
+- :id: mail-parameters/mail-header-confidentiality-policies
+  :file: data/mail-parameters_mail-header-confidentiality-policies.yaml
 - :id: managesieve
   :file: data/managesieve.yaml
 - :id: managesieve/capability
