@@ -819,6 +819,10 @@
   :file: data/cdni-parameters_cdni-uri-signing-verification-codes.yaml
 - :id: cdni-parameters/cdni-uri-signing-signed-token-transport
   :file: data/cdni-parameters_cdni-uri-signing-signed-token-transport.yaml
+- :id: cdni-parameters/telemetry-source-types
+  :file: data/cdni-parameters_telemetry-source-types.yaml
+- :id: cdni-parameters/capacity-limit-types
+  :file: data/cdni-parameters_capacity-limit-types.yaml
 - :id: cert-rr-types
   :file: data/cert-rr-types.yaml
 - :id: cert-rr-types/cert-rr-types-2
