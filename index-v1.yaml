@@ -465,6 +465,14 @@
   :file: data/bgp-parameters_long-lived-graceful-restart-flags-for-address-family.yaml
 - :id: bgp-parameters/bgp-bier-tlv-sub-tlv-types
   :file: data/bgp-parameters_bgp-bier-tlv-sub-tlv-types.yaml
+- :id: bgp-spf
+  :file: data/bgp-spf.yaml
+- :id: bgp-spf/bgp-ls-spf-node-nlri-attribute
+  :file: data/bgp-spf_bgp-ls-spf-node-nlri-attribute.yaml
+- :id: bgp-spf/bgp-ls-spf-link-nlri-attribute
+  :file: data/bgp-spf_bgp-ls-spf-link-nlri-attribute.yaml
+- :id: bgp-spf/bgp-ls-spf-prefix-nlri-attribute
+  :file: data/bgp-spf_bgp-ls-spf-prefix-nlri-attribute.yaml
 - :id: bgp-tunnel-encapsulation
   :file: data/bgp-tunnel-encapsulation.yaml
 - :id: bgp-tunnel-encapsulation/tunnel-types
