@@ -909,6 +909,12 @@
   :file: data/cnrp-parameters_cnrp-parameters-2.yaml
 - :id: cnrp-parameters/cnrp-parameters-3
   :file: data/cnrp-parameters_cnrp-parameters-3.yaml
+- :id: coap-eap
+  :file: data/coap-eap.yaml
+- :id: coap-eap/coap-eap-cipher-suites
+  :file: data/coap-eap_coap-eap-cipher-suites.yaml
+- :id: coap-eap/coap-eap-information-elements
+  :file: data/coap-eap_coap-eap-information-elements.yaml
 - :id: collation
   :file: data/collation.yaml
 - :id: comp-meth-ids
