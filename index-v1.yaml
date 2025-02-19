@@ -487,6 +487,16 @@
   :file: data/bgp-tunnel-encapsulation_embedded-label-handling-sub-tlv.yaml
 - :id: bgp-tunnel-encapsulation/color-extended-community-flags
   :file: data/bgp-tunnel-encapsulation_color-extended-community-flags.yaml
+- :id: bgp-tunnel-encapsulation/sr-policy-segment-list-sub-tlvs
+  :file: data/bgp-tunnel-encapsulation_sr-policy-segment-list-sub-tlvs.yaml
+- :id: bgp-tunnel-encapsulation/sr-policy-binding-sid-flags
+  :file: data/bgp-tunnel-encapsulation_sr-policy-binding-sid-flags.yaml
+- :id: bgp-tunnel-encapsulation/sr-policy-srv6-binding-sid-flags
+  :file: data/bgp-tunnel-encapsulation_sr-policy-srv6-binding-sid-flags.yaml
+- :id: bgp-tunnel-encapsulation/sr-policy-segment-flags
+  :file: data/bgp-tunnel-encapsulation_sr-policy-segment-flags.yaml
+- :id: bgp-tunnel-encapsulation/color-extended-community-color-only-types
+  :file: data/bgp-tunnel-encapsulation_color-extended-community-color-only-types.yaml
 - :id: bgp-well-known-communities
   :file: data/bgp-well-known-communities.yaml
 - :id: bgp-well-known-communities/bgp-well-known-communities-1
@@ -2551,6 +2561,14 @@
   :file: data/ikev2-parameters_hash-algorithms.yaml
 - :id: ikev2-parameters/ikev2-post-quantum-preshared-key-id-types
   :file: data/ikev2-parameters_ikev2-post-quantum-preshared-key-id-types.yaml
+- :id: ikev2-parameters/gsa-attributes
+  :file: data/ikev2-parameters_gsa-attributes.yaml
+- :id: ikev2-parameters/group-wide-policy-attributes
+  :file: data/ikev2-parameters_group-wide-policy-attributes.yaml
+- :id: ikev2-parameters/group-key-bag-attributes
+  :file: data/ikev2-parameters_group-key-bag-attributes.yaml
+- :id: ikev2-parameters/member-key-bag-attributes
+  :file: data/ikev2-parameters_member-key-bag-attributes.yaml
 - :id: im-srv-labels
   :file: data/im-srv-labels.yaml
 - :id: im-srv-labels/im-srv-labels-1
@@ -5793,6 +5811,8 @@
   :file: data/segment-routing_srv6-endpoint-behaviors.yaml
 - :id: segment-routing/segment-types
   :file: data/segment-routing_segment-types.yaml
+- :id: segment-routing/sr-policy-enlp-values
+  :file: data/segment-routing_sr-policy-enlp-values.yaml
 - :id: senml
   :file: data/senml.yaml
 - :id: senml/senml-units
