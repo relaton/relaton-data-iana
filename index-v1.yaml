@@ -145,6 +145,8 @@
   :file: data/acme_acme-star-delegation-csr-template-extensions.yaml
 - :id: acme/acme-authority-token-challenge-types
   :file: data/acme_acme-authority-token-challenge-types.yaml
+- :id: acme/acme-renewal-info-object-fields
+  :file: data/acme_acme-renewal-info-object-fields.yaml
 - :id: acp
   :file: data/acp.yaml
 - :id: acp/acp-address-type
