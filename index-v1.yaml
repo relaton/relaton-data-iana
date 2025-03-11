@@ -387,6 +387,10 @@
   :file: data/bgp-extended-communities_multihoming-redundancy-mode.yaml
 - :id: bgp-extended-communities/split-horizon-type
   :file: data/bgp-extended-communities_split-horizon-type.yaml
+- :id: bgp-extended-communities/trans-transport-class
+  :file: data/bgp-extended-communities_trans-transport-class.yaml
+- :id: bgp-extended-communities/non-trans-transport-class
+  :file: data/bgp-extended-communities_non-trans-transport-class.yaml
 - :id: bgp-ls-parameters
   :file: data/bgp-ls-parameters.yaml
 - :id: bgp-ls-parameters/nlri-types
