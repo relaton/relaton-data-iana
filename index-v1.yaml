@@ -409,6 +409,10 @@
   :file: data/bgp-ls-parameters_bgp-ls-mpls-protocol-mask.yaml
 - :id: bgp-ls-parameters/bgp-ls-igp-prefix-flags
   :file: data/bgp-ls-parameters_bgp-ls-igp-prefix-flags.yaml
+- :id: bgp-ls-parameters/bgp-ls-sr-segment-descriptor-types
+  :file: data/bgp-ls-parameters_bgp-ls-sr-segment-descriptor-types.yaml
+- :id: bgp-ls-parameters/bgp-ls-sr-policy-metric-type
+  :file: data/bgp-ls-parameters_bgp-ls-sr-policy-metric-type.yaml
 - :id: bgp-parameters
   :file: data/bgp-parameters.yaml
 - :id: bgp-parameters/bgp-parameters-1
@@ -5819,6 +5823,8 @@
   :file: data/segment-routing_segment-types.yaml
 - :id: segment-routing/sr-policy-enlp-values
   :file: data/segment-routing_sr-policy-enlp-values.yaml
+- :id: segment-routing/sr-policy-protocol-origin
+  :file: data/segment-routing_sr-policy-protocol-origin.yaml
 - :id: senml
   :file: data/senml.yaml
 - :id: senml/senml-units
