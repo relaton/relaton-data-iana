@@ -475,6 +475,10 @@
   :file: data/bgp-parameters_long-lived-graceful-restart-flags-for-address-family.yaml
 - :id: bgp-parameters/bgp-bier-tlv-sub-tlv-types
   :file: data/bgp-parameters_bgp-bier-tlv-sub-tlv-types.yaml
+- :id: bgp-parameters/bgp-car-nlri-types
+  :file: data/bgp-parameters_bgp-car-nlri-types.yaml
+- :id: bgp-parameters/bgp-car-nlri-tlv-types
+  :file: data/bgp-parameters_bgp-car-nlri-tlv-types.yaml
 - :id: bgp-spf
   :file: data/bgp-spf.yaml
 - :id: bgp-spf/bgp-ls-spf-node-nlri-attribute
@@ -5457,6 +5461,20 @@
   :file: data/rpl_rpl-non-rej-status.yaml
 - :id: rpl/rpl-rej-status
   :file: data/rpl_rpl-rej-status.yaml
+- :id: rpl/rpl-options-flags
+  :file: data/rpl_rpl-options-flags.yaml
+- :id: rpl/projected-dao-request
+  :file: data/rpl_projected-dao-request.yaml
+- :id: rpl/pdr-ack-flags
+  :file: data/rpl_pdr-ack-flags.yaml
+- :id: rpl/pdr-ack-acceptance-status-values
+  :file: data/rpl_pdr-ack-acceptance-status-values.yaml
+- :id: rpl/pdr-ack-rejection-status-values
+  :file: data/rpl_pdr-ack-rejection-status-values.yaml
+- :id: rpl/via-information-options-flags
+  :file: data/rpl_via-information-options-flags.yaml
+- :id: rpl/sibling-information-option-flags
+  :file: data/rpl_sibling-information-option-flags.yaml
 - :id: rpl-routing-metric-constraint
   :file: data/rpl-routing-metric-constraint.yaml
 - :id: rpl-routing-metric-constraint/rmc-type
