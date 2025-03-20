@@ -5463,8 +5463,8 @@
   :file: data/rpl_rpl-rej-status.yaml
 - :id: rpl/rpl-options-flags
   :file: data/rpl_rpl-options-flags.yaml
-- :id: rpl/projected-dao-request
-  :file: data/rpl_projected-dao-request.yaml
+- :id: rpl/projected-dao-request-flags
+  :file: data/rpl_projected-dao-request-flags.yaml
 - :id: rpl/pdr-ack-flags
   :file: data/rpl_pdr-ack-flags.yaml
 - :id: rpl/pdr-ack-acceptance-status-values
