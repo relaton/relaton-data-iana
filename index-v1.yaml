@@ -6321,8 +6321,8 @@
   :file: data/tcp-parameters_mptcp-option-subtypes.yaml
 - :id: tcp-parameters/mptcp-handshake
   :file: data/tcp-parameters_mptcp-handshake.yaml
-- :id: tcp-parameters/tcp-exids
-  :file: data/tcp-parameters_tcp-exids.yaml
+- :id: tcp-parameters/tcp-udp-exids
+  :file: data/tcp-parameters_tcp-udp-exids.yaml
 - :id: tcp-parameters/tcp-encryption
   :file: data/tcp-parameters_tcp-encryption.yaml
 - :id: tcp-parameters/tcpcrypt-aead-algorithms
@@ -6579,6 +6579,12 @@
   :file: data/uaddr-formats.yaml
 - :id: uaddr-formats/uaddr-formats-1
   :file: data/uaddr-formats_uaddr-formats-1.yaml
+- :id: udp
+  :file: data/udp.yaml
+- :id: udp/udp-options
+  :file: data/udp_udp-options.yaml
+- :id: udp/tcp-udp-exids
+  :file: data/udp_tcp-udp-exids.yaml
 - :id: ule-next-headers
   :file: data/ule-next-headers.yaml
 - :id: ule-next-headers/ule-next-headers-1
