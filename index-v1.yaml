@@ -5749,6 +5749,16 @@
   :file: data/sctp-parameters_sctp-parameters-27.yaml
 - :id: sctp-parameters/sctp-error-detection-methods
   :file: data/sctp-parameters_sctp-error-detection-methods.yaml
+- :id: sdf
+  :file: data/sdf.yaml
+- :id: sdf/sdf-quality-names
+  :file: data/sdf_sdf-quality-names.yaml
+- :id: sdf/sdf-quality-name-prefixes
+  :file: data/sdf_sdf-quality-name-prefixes.yaml
+- :id: sdf/sdftype-values
+  :file: data/sdf_sdftype-values.yaml
+- :id: sdf/sdf-feature-names
+  :file: data/sdf_sdf-feature-names.yaml
 - :id: sdp-parameters
   :file: data/sdp-parameters.yaml
 - :id: sdp-parameters/sdp-parameters-1
