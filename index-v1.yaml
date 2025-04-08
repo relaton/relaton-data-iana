@@ -1209,6 +1209,8 @@
   :file: data/dlep-parameters_hop-control-actions-values.yaml
 - :id: dlep-parameters/queue-parameters-sub-data-item-type-values
   :file: data/dlep-parameters_queue-parameters-sub-data-item-type-values.yaml
+- :id: dlep-parameters/traffic-classification-sub-data-item-type-values
+  :file: data/dlep-parameters_traffic-classification-sub-data-item-type-values.yaml
 - :id: dmarc-parameters
   :file: data/dmarc-parameters.yaml
 - :id: dmarc-parameters/tag
