@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAstamp-tlv-types
-title:
-- content: Simple Two-way Active Measurement Protocol (STAMP) TLV Types
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/stamp-tlv-types
-  type: self
+id: IANAstamptlvtypes
 type: standard
-docid:
-- id: IANA stamp-tlv-types
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Simple Two-way Active Measurement Protocol (STAMP) TLV Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/stamp-tlv-types
+docidentifier:
+- content: IANA stamp-tlv-types
   type: IANA
   primary: true
 docnumber: stamp-tlv-types
 date:
 - type: created
-  value: '2020-11-19'
+  at: '2020-11-19'
 - type: updated
-  value: '2024-02-01'
+  at: '2024-02-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

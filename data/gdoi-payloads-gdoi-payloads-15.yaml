@@ -1,0 +1,33 @@
+---
+id: IANAgdoipayloadsgdoipayloads15
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Key Download Type Values
+source:
+- type: self
+  content: https://www.iana.org/assignments/gdoi-payloads
+docidentifier:
+- content: IANA gdoi-payloads/gdoi-payloads-15
+  type: IANA
+  primary: true
+docnumber: gdoi-payloads/gdoi-payloads-15
+date:
+- type: created
+  at: '2003-03-28'
+- type: updated
+  at: '2017-12-26'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

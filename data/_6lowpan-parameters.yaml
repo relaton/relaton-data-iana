@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANA_6lowpan-parameters
-title:
-- content: IPv6 Low Power Personal Area Network Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/_6lowpan-parameters
-  type: self
+id: IANA_6lowpanparameters
 type: standard
-docid:
-- id: IANA _6lowpan-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IPv6 Low Power Personal Area Network Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/_6lowpan-parameters
+docidentifier:
+- content: IANA _6lowpan-parameters
   type: IANA
   primary: true
 docnumber: _6lowpan-parameters
 date:
 - type: created
-  value: '2007-05-02'
+  at: '2007-05-02'
 - type: updated
-  value: '2025-03-19'
+  at: '2025-03-19'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

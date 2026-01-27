@@ -1,0 +1,33 @@
+---
+id: IANAmulticastacquisitionreportblocktlv
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Multicast Acquisition Report Block TLV Space Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/multicast-acquisition
+docidentifier:
+- content: IANA multicast-acquisition/report-block-tlv
+  type: IANA
+  primary: true
+docnumber: multicast-acquisition/report-block-tlv
+date:
+- type: created
+  at: '2011-06-17'
+- type: updated
+  at: '2015-05-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

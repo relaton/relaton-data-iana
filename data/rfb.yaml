@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANArfb
-title:
-- content: Remote Framebuffer (RFB)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rfb
-  type: self
 type: standard
-docid:
-- id: IANA rfb
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Remote Framebuffer (RFB)
+source:
+- type: self
+  content: https://www.iana.org/assignments/rfb
+docidentifier:
+- content: IANA rfb
   type: IANA
   primary: true
 docnumber: rfb
 date:
 - type: created
-  value: '2010-12-08'
+  at: '2010-12-08'
 - type: updated
-  value: '2024-08-14'
+  at: '2024-08-14'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

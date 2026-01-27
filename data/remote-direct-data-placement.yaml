@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAremote-direct-data-placement
-title:
-- content: Remote Direct Data Placement
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/remote-direct-data-placement
-  type: self
+id: IANAremotedirectdataplacement
 type: standard
-docid:
-- id: IANA remote-direct-data-placement
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Remote Direct Data Placement
+source:
+- type: self
+  content: https://www.iana.org/assignments/remote-direct-data-placement
+docidentifier:
+- content: IANA remote-direct-data-placement
   type: IANA
   primary: true
 docnumber: remote-direct-data-placement
 date:
 - type: created
-  value: '2020-03-02'
+  at: '2020-03-02'
 - type: updated
-  value: '2023-04-25'
+  at: '2023-04-25'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

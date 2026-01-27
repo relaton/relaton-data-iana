@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAtrans
-title:
-- content: Public Notary Transparency
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/trans
-  type: self
 type: standard
-docid:
-- id: IANA trans
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Public Notary Transparency
+source:
+- type: self
+  content: https://www.iana.org/assignments/trans
+docidentifier:
+- content: IANA trans
   type: IANA
   primary: true
 docnumber: trans
 date:
 - type: created
-  value: '2021-08-04'
+  at: '2021-08-04'
 - type: updated
-  value: '2021-12-14'
+  at: '2021-12-14'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

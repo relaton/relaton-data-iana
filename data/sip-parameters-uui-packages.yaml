@@ -1,0 +1,33 @@
+---
+id: IANAsipparametersuuipackages
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: UUI Packages
+source:
+- type: self
+  content: https://www.iana.org/assignments/sip-parameters
+docidentifier:
+- content: IANA sip-parameters/uui-packages
+  type: IANA
+  primary: true
+docnumber: sip-parameters/uui-packages
+date:
+- type: created
+  at: 2002-01
+- type: updated
+  at: '2024-03-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

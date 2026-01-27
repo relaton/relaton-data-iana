@@ -1,0 +1,33 @@
+---
+id: IANAcivicaddresstypesregistryrltypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Relative Location Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/civic-address-types-registry
+docidentifier:
+- content: IANA civic-address-types-registry/rltypes
+  type: IANA
+  primary: true
+docnumber: civic-address-types-registry/rltypes
+date:
+- type: created
+  at: '2006-04-11'
+- type: updated
+  at: '2014-04-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

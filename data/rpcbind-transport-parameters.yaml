@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANArpcbind-transport-parameters
-title:
-- content: RPCBIND Transport Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rpcbind-transport-parameters
-  type: self
+id: IANArpcbindtransportparameters
 type: standard
-docid:
-- id: IANA rpcbind-transport-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: RPCBIND Transport Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/rpcbind-transport-parameters
+docidentifier:
+- content: IANA rpcbind-transport-parameters
   type: IANA
   primary: true
 docnumber: rpcbind-transport-parameters
 date:
 - type: created
-  value: '2006-11-08'
+  at: '2006-11-08'
 - type: updated
-  value: '2011-10-06'
+  at: '2011-10-06'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,0 +1,33 @@
+---
+id: IANAudptcpudpexids
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: TCP/UDP Experimental Option Experiment Identifiers (TCP/UDP ExIDs)
+source:
+- type: self
+  content: https://www.iana.org/assignments/udp
+docidentifier:
+- content: IANA udp/tcp-udp-exids
+  type: IANA
+  primary: true
+docnumber: udp/tcp-udp-exids
+date:
+- type: created
+  at: '2025-03-25'
+- type: updated
+  at: '2025-03-26'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

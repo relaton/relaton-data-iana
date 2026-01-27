@@ -1,0 +1,33 @@
+---
+id: IANAsshparameterssshparameters14
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Signal Names
+source:
+- type: self
+  content: https://www.iana.org/assignments/ssh-parameters
+docidentifier:
+- content: IANA ssh-parameters/ssh-parameters-14
+  type: IANA
+  primary: true
+docnumber: ssh-parameters/ssh-parameters-14
+date:
+- type: created
+  at: '2005-06-02'
+- type: updated
+  at: '2025-02-18'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

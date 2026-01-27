@@ -1,0 +1,33 @@
+---
+id: IANAltpparameterscancelsegmentreasoncodes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: LTP Cancel Segment Reason Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/ltp-parameters
+docidentifier:
+- content: IANA ltp-parameters/cancel-segment-reason-codes
+  type: IANA
+  primary: true
+docnumber: ltp-parameters/cancel-segment-reason-codes
+date:
+- type: created
+  at: '2008-07-17'
+- type: updated
+  at: '2022-10-25'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

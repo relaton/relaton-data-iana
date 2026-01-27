@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANArtsp-parameters
-title:
-- content: Real Time Streaming Protocol (RTSP)/1.0 Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rtsp-parameters
-  type: self
+id: IANArtspparameters
 type: standard
-docid:
-- id: IANA rtsp-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Real Time Streaming Protocol (RTSP)/1.0 Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/rtsp-parameters
+docidentifier:
+- content: IANA rtsp-parameters
   type: IANA
   primary: true
 docnumber: rtsp-parameters
 date:
 - type: created
-  value: '2005-10-11'
+  at: '2005-10-11'
 - type: updated
-  value: '2019-02-19'
+  at: '2019-02-19'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,0 +1,33 @@
+---
+id: IANAdsrparametersdsrparameters1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Dynamic Source Routing (DSR) Protocol Options
+source:
+- type: self
+  content: https://www.iana.org/assignments/dsr-parameters
+docidentifier:
+- content: IANA dsr-parameters/dsr-parameters-1
+  type: IANA
+  primary: true
+docnumber: dsr-parameters/dsr-parameters-1
+date:
+- type: created
+  at: '2006-10-03'
+- type: updated
+  at: '2023-08-25'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,0 +1,33 @@
+---
+id: IANAeapfastparameterseapfastparameters2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: EAP-FAST (value 43) Error-TLV (value 5) Error-Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/eap-fast-parameters
+docidentifier:
+- content: IANA eap-fast-parameters/eap-fast-parameters-2
+  type: IANA
+  primary: true
+docnumber: eap-fast-parameters/eap-fast-parameters-2
+date:
+- type: created
+  at: '2008-12-12'
+- type: updated
+  at: '2013-07-26'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

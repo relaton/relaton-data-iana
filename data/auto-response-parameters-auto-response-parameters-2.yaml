@@ -1,0 +1,33 @@
+---
+id: IANAautoresponseparametersautoresponseparameters2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Auto-Submitted header field optional parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/auto-response-parameters
+docidentifier:
+- content: IANA auto-response-parameters/auto-response-parameters-2
+  type: IANA
+  primary: true
+docnumber: auto-response-parameters/auto-response-parameters-2
+date:
+- type: created
+  at: '2004-06-18'
+- type: updated
+  at: '2009-01-23'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAhttp-priority
-title:
-- content: Hypertext Transfer Protocol (HTTP) Priority
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/http-priority
-  type: self
+id: IANAhttppriority
 type: standard
-docid:
-- id: IANA http-priority
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Hypertext Transfer Protocol (HTTP) Priority
+source:
+- type: self
+  content: https://www.iana.org/assignments/http-priority
+docidentifier:
+- content: IANA http-priority
   type: IANA
   primary: true
 docnumber: http-priority
 date:
 - type: created
-  value: '2022-01-25'
+  at: '2022-01-25'
 - type: updated
-  value: '2022-06-09'
+  at: '2022-06-09'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

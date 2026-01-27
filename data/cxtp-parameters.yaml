@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAcxtp-parameters
-title:
-- content: Context Transfer Protocol (CXTP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/cxtp-parameters
-  type: self
+id: IANAcxtpparameters
 type: standard
-docid:
-- id: IANA cxtp-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Context Transfer Protocol (CXTP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/cxtp-parameters
+docidentifier:
+- content: IANA cxtp-parameters
   type: IANA
   primary: true
 docnumber: cxtp-parameters
 date:
 - type: created
-  value: '2005-01-19'
+  at: '2005-01-19'
 - type: updated
-  value: '2023-02-21'
+  at: '2023-02-21'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

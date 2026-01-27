@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANArmt-fec-parameters
-title:
-- content: Reliable Multicast Transport (RMT) FEC Encoding IDs and FEC Instance IDs
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rmt-fec-parameters
-  type: self
+id: IANArmtfecparameters
 type: standard
-docid:
-- id: IANA rmt-fec-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Reliable Multicast Transport (RMT) FEC Encoding IDs and FEC Instance IDs
+source:
+- type: self
+  content: https://www.iana.org/assignments/rmt-fec-parameters
+docidentifier:
+- content: IANA rmt-fec-parameters
   type: IANA
   primary: true
 docnumber: rmt-fec-parameters
 date:
 - type: created
-  value: '2002-11-07'
+  at: '2002-11-07'
 - type: updated
-  value: '2020-01-16'
+  at: '2020-01-16'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANApkix-parameters
-title:
-- content: Public Key Infrastructure using X.509 (PKIX) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/pkix-parameters
-  type: self
+id: IANApkixparameters
 type: standard
-docid:
-- id: IANA pkix-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Public Key Infrastructure using X.509 (PKIX) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/pkix-parameters
+docidentifier:
+- content: IANA pkix-parameters
   type: IANA
   primary: true
 docnumber: pkix-parameters
 date:
 - type: created
-  value: '2003-12-23'
+  at: '2003-12-23'
 - type: updated
-  value: '2023-10-16'
+  at: '2023-10-16'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

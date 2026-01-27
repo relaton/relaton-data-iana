@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAeap-noob
-title:
-- content: Nimble Out-of-Band Authentication for EAP Parameters (EAP-NOOB)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/eap-noob
-  type: self
+id: IANAeapnoob
 type: standard
-docid:
-- id: IANA eap-noob
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Nimble Out-of-Band Authentication for EAP Parameters (EAP-NOOB)
+source:
+- type: self
+  content: https://www.iana.org/assignments/eap-noob
+docidentifier:
+- content: IANA eap-noob
   type: IANA
   primary: true
 docnumber: eap-noob
 date:
 - type: created
-  value: '2021-09-21'
+  at: '2021-09-21'
 - type: updated
-  value: '2022-01-07'
+  at: '2022-01-07'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

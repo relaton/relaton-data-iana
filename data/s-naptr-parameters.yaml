@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAs-naptr-parameters
-title:
-- content: Straightforward-NAPTR (S-NAPTR) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/s-naptr-parameters
-  type: self
+id: IANAsnaptrparameters
 type: standard
-docid:
-- id: IANA s-naptr-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Straightforward-NAPTR (S-NAPTR) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/s-naptr-parameters
+docidentifier:
+- content: IANA s-naptr-parameters
   type: IANA
   primary: true
 docnumber: s-naptr-parameters
 date:
 - type: created
-  value: '2004-10-10'
+  at: '2004-10-10'
 - type: updated
-  value: '2021-01-15'
+  at: '2021-01-15'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

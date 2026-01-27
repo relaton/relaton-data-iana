@@ -1,0 +1,33 @@
+---
+id: IANAurnserviceidlabelsurnserviceidlabels1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: URN Service Labels
+source:
+- type: self
+  content: https://www.iana.org/assignments/urn-serviceid-labels
+docidentifier:
+- content: IANA urn-serviceid-labels/urn-serviceid-labels-1
+  type: IANA
+  primary: true
+docnumber: urn-serviceid-labels/urn-serviceid-labels-1
+date:
+- type: created
+  at: '2007-08-22'
+- type: updated
+  at: '2017-05-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

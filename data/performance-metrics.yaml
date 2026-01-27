@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAperformance-metrics
-title:
-- content: Performance Metrics
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/performance-metrics
-  type: self
+id: IANAperformancemetrics
 type: standard
-docid:
-- id: IANA performance-metrics
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Performance Metrics
+source:
+- type: self
+  content: https://www.iana.org/assignments/performance-metrics
+docidentifier:
+- content: IANA performance-metrics
   type: IANA
   primary: true
 docnumber: performance-metrics
 date:
 - type: created
-  value: '2020-03-19'
+  at: '2020-03-19'
 - type: updated
-  value: '2025-01-14'
+  at: '2025-01-14'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

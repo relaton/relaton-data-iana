@@ -1,0 +1,33 @@
+---
+id: IANAhpkehpkeaeadids
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: HPKE AEAD Identifiers
+source:
+- type: self
+  content: https://www.iana.org/assignments/hpke
+docidentifier:
+- content: IANA hpke/hpke-aead-ids
+  type: IANA
+  primary: true
+docnumber: hpke/hpke-aead-ids
+date:
+- type: created
+  at: '2021-11-16'
+- type: updated
+  at: '2024-11-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

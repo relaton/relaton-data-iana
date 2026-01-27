@@ -1,0 +1,33 @@
+---
+id: IANAgsmpv3trafficgsmpv3traffic1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Traffic Control Flags
+source:
+- type: self
+  content: https://www.iana.org/assignments/gsmpv3-traffic
+docidentifier:
+- content: IANA gsmpv3-traffic/gsmpv3-traffic-1
+  type: IANA
+  primary: true
+docnumber: gsmpv3-traffic/gsmpv3-traffic-1
+date:
+- type: created
+  at: '2002-03-28'
+- type: updated
+  at: '2023-08-25'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,0 +1,33 @@
+---
+id: IANAisistlvcodepointsapplicationspecificlinkattributes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IS-IS Sub-Sub-TLV Codepoints for Application-Specific Link Attributes
+source:
+- type: self
+  content: https://www.iana.org/assignments/isis-tlv-codepoints
+docidentifier:
+- content: IANA isis-tlv-codepoints/application-specific-link-attributes
+  type: IANA
+  primary: true
+docnumber: isis-tlv-codepoints/application-specific-link-attributes
+date:
+- type: created
+  at: '2003-05-06'
+- type: updated
+  at: '2025-03-03'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

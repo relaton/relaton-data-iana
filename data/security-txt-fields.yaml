@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAsecurity-txt-fields
-title:
-- content: security.txt Fields
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/security-txt-fields
-  type: self
+id: IANAsecuritytxtfields
 type: standard
-docid:
-- id: IANA security-txt-fields
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: security.txt Fields
+source:
+- type: self
+  content: https://www.iana.org/assignments/security-txt-fields
+docidentifier:
+- content: IANA security-txt-fields
   type: IANA
   primary: true
 docnumber: security-txt-fields
 date:
 - type: created
-  value: '2021-07-13'
+  at: '2021-07-13'
 - type: updated
-  value: '2023-02-15'
+  at: '2023-02-15'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

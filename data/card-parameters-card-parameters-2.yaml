@@ -1,0 +1,33 @@
+---
+id: IANAcardparameterscardparameters2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Layer 2 Access Technology Identifier Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/card-parameters
+docidentifier:
+- content: IANA card-parameters/card-parameters-2
+  type: IANA
+  primary: true
+docnumber: card-parameters/card-parameters-2
+date:
+- type: created
+  at: '2005-01-19'
+- type: updated
+  at: '2023-02-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAianaaddressfamilynumbers-mib
-title:
-- content: IANA-ADDRESS-FAMILY-NUMBERS-MIB
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ianaaddressfamilynumbers-mib
-  type: self
+id: IANAianaaddressfamilynumbersmib
 type: standard
-docid:
-- id: IANA ianaaddressfamilynumbers-mib
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IANA-ADDRESS-FAMILY-NUMBERS-MIB
+source:
+- type: self
+  content: https://www.iana.org/assignments/ianaaddressfamilynumbers-mib
+docidentifier:
+- content: IANA ianaaddressfamilynumbers-mib
   type: IANA
   primary: true
 docnumber: ianaaddressfamilynumbers-mib
 date:
 - type: created
-  value: '1999-08-26'
+  at: '1999-08-26'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

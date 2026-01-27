@@ -1,0 +1,31 @@
+---
+id: IANAradiustypesfragstatus2411
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Code Values for RADIUS Attribute 241.1, Frag-Status
+source:
+- type: self
+  content: https://www.iana.org/assignments/radius-types
+docidentifier:
+- content: IANA radius-types/frag-status-241-1
+  type: IANA
+  primary: true
+docnumber: radius-types/frag-status-241-1
+date:
+- type: updated
+  at: '2023-08-18'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

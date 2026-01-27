@@ -1,0 +1,33 @@
+---
+id: IANAl2tpparametersl2tpparameters34
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: L2TPv3 Pseudowire Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/l2tp-parameters
+docidentifier:
+- content: IANA l2tp-parameters/l2tp-parameters-34
+  type: IANA
+  primary: true
+docnumber: l2tp-parameters/l2tp-parameters-34
+date:
+- type: created
+  at: 2003-03
+- type: updated
+  at: '2024-09-02'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

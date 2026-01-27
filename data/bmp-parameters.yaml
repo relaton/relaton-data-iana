@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAbmp-parameters
-title:
-- content: BGP Monitoring Protocol (BMP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/bmp-parameters
-  type: self
+id: IANAbmpparameters
 type: standard
-docid:
-- id: IANA bmp-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: BGP Monitoring Protocol (BMP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/bmp-parameters
+docidentifier:
+- content: IANA bmp-parameters
   type: IANA
   primary: true
 docnumber: bmp-parameters
 date:
 - type: created
-  value: '2016-04-14'
+  at: '2016-04-14'
 - type: updated
-  value: '2025-03-13'
+  at: '2025-03-13'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

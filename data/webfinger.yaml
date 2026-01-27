@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAwebfinger
-title:
-- content: Webfinger Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/webfinger
-  type: self
 type: standard
-docid:
-- id: IANA webfinger
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Webfinger Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/webfinger
+docidentifier:
+- content: IANA webfinger
   type: IANA
   primary: true
 docnumber: webfinger
 date:
 - type: created
-  value: '2013-09-06'
+  at: '2013-09-06'
 - type: updated
-  value: '2013-10-01'
+  at: '2013-10-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

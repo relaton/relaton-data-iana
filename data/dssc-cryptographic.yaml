@@ -1,0 +1,33 @@
+---
+id: IANAdssccryptographic
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cryptographic Algorithms
+source:
+- type: self
+  content: https://www.iana.org/assignments/dssc
+docidentifier:
+- content: IANA dssc/cryptographic
+  type: IANA
+  primary: true
+docnumber: dssc/cryptographic
+date:
+- type: created
+  at: '2009-10-13'
+- type: updated
+  at: '2018-04-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

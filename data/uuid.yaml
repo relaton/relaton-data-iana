@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAuuid
-title:
-- content: UUID
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/uuid
-  type: self
 type: standard
-docid:
-- id: IANA uuid
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: UUID
+source:
+- type: self
+  content: https://www.iana.org/assignments/uuid
+docidentifier:
+- content: IANA uuid
   type: IANA
   primary: true
 docnumber: uuid
 date:
 - type: created
-  value: '2023-11-17'
+  at: '2023-11-17'
 - type: updated
-  value: '2024-05-22'
+  at: '2024-05-22'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

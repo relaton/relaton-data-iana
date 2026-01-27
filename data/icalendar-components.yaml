@@ -1,0 +1,33 @@
+---
+id: IANAicalendarcomponents
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Components
+source:
+- type: self
+  content: https://www.iana.org/assignments/icalendar
+docidentifier:
+- content: IANA icalendar/components
+  type: IANA
+  primary: true
+docnumber: icalendar/components
+date:
+- type: created
+  at: '2009-04-29'
+- type: updated
+  at: '2023-12-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

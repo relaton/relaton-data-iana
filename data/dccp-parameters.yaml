@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAdccp-parameters
-title:
-- content: Datagram Congestion Control Protocol (DCCP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/dccp-parameters
-  type: self
+id: IANAdccpparameters
 type: standard
-docid:
-- id: IANA dccp-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Datagram Congestion Control Protocol (DCCP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/dccp-parameters
+docidentifier:
+- content: IANA dccp-parameters
   type: IANA
   primary: true
 docnumber: dccp-parameters
 date:
 - type: created
-  value: '2005-08-25'
+  at: '2005-08-25'
 - type: updated
-  value: '2025-03-05'
+  at: '2025-03-05'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

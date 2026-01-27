@@ -1,0 +1,33 @@
+---
+id: IANAhashfunctiontextnameshashfunctiontextnames1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Hash Function Textual Names
+source:
+- type: self
+  content: https://www.iana.org/assignments/hash-function-text-names
+docidentifier:
+- content: IANA hash-function-text-names/hash-function-text-names-1
+  type: IANA
+  primary: true
+docnumber: hash-function-text-names/hash-function-text-names-1
+date:
+- type: created
+  at: '2006-04-21'
+- type: updated
+  at: '2019-12-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

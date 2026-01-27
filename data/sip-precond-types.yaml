@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAsip-precond-types
-title:
-- content: Precondition Types Used with Session Initiation Protocol (SIP)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/sip-precond-types
-  type: self
+id: IANAsipprecondtypes
 type: standard
-docid:
-- id: IANA sip-precond-types
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Precondition Types Used with Session Initiation Protocol (SIP)
+source:
+- type: self
+  content: https://www.iana.org/assignments/sip-precond-types
+docidentifier:
+- content: IANA sip-precond-types
   type: IANA
   primary: true
 docnumber: sip-precond-types
 date:
 - type: created
-  value: '2002-08-21'
+  at: '2002-08-21'
 - type: updated
-  value: '2010-07-07'
+  at: '2010-07-07'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

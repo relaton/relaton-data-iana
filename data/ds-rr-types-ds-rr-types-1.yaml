@@ -1,0 +1,33 @@
+---
+id: IANAdsrrtypesdsrrtypes1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Digest Algorithms
+source:
+- type: self
+  content: https://www.iana.org/assignments/ds-rr-types
+docidentifier:
+- content: IANA ds-rr-types/ds-rr-types-1
+  type: IANA
+  primary: true
+docnumber: ds-rr-types/ds-rr-types-1
+date:
+- type: created
+  at: '2003-10-31'
+- type: updated
+  at: '2024-12-05'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

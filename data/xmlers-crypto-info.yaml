@@ -1,0 +1,33 @@
+---
+id: IANAxmlerscryptoinfo
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cryptographic Information Type
+source:
+- type: self
+  content: https://www.iana.org/assignments/xmlers
+docidentifier:
+- content: IANA xmlers/crypto-info
+  type: IANA
+  primary: true
+docnumber: xmlers/crypto-info
+date:
+- type: created
+  at: '2011-04-13'
+- type: updated
+  at: '2011-07-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

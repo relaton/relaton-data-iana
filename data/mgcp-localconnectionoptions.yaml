@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAmgcp-localconnectionoptions
-title:
-- content: Media Gateway Control Protocol (MGCP)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/mgcp-localconnectionoptions
-  type: self
+id: IANAmgcplocalconnectionoptions
 type: standard
-docid:
-- id: IANA mgcp-localconnectionoptions
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Media Gateway Control Protocol (MGCP)
+source:
+- type: self
+  content: https://www.iana.org/assignments/mgcp-localconnectionoptions
+docidentifier:
+- content: IANA mgcp-localconnectionoptions
   type: IANA
   primary: true
 docnumber: mgcp-localconnectionoptions
 date:
 - type: created
-  value: '2002-09-30'
+  at: '2002-09-30'
 - type: updated
-  value: '2008-03-27'
+  at: '2008-03-27'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAlang-subtags-templates
-title:
-- content: Language Subtag Registration Form Archive
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/lang-subtags-templates
-  type: self
+id: IANAlangsubtagstemplates
 type: standard
-docid:
-- id: IANA lang-subtags-templates
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Language Subtag Registration Form Archive
+source:
+- type: self
+  content: https://www.iana.org/assignments/lang-subtags-templates
+docidentifier:
+- content: IANA lang-subtags-templates
   type: IANA
   primary: true
 docnumber: lang-subtags-templates
 date:
 - type: updated
-  value: '2025-03-10'
+  at: '2025-03-10'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

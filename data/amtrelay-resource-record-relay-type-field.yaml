@@ -1,0 +1,33 @@
+---
+id: IANAamtrelayresourcerecordrelaytypefield
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: AMTRELAY Relay Type Field
+source:
+- type: self
+  content: https://www.iana.org/assignments/amtrelay-resource-record
+docidentifier:
+- content: IANA amtrelay-resource-record/relay-type-field
+  type: IANA
+  primary: true
+docnumber: amtrelay-resource-record/relay-type-field
+date:
+- type: created
+  at: '2019-12-23'
+- type: updated
+  at: '2021-10-08'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

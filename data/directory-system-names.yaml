@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAdirectory-system-names
-title:
-- content: Directory System Names
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/directory-system-names
-  type: self
+id: IANAdirectorysystemnames
 type: standard
-docid:
-- id: IANA directory-system-names
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Directory System Names
+source:
+- type: self
+  content: https://www.iana.org/assignments/directory-system-names
+docidentifier:
+- content: IANA directory-system-names
   type: IANA
   primary: true
 docnumber: directory-system-names
 date:
 - type: updated
-  value: '2006-08-10'
+  at: '2006-08-10'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

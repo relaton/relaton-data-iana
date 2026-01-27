@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAyang-sid
-title:
-- content: YANG SIDs
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/yang-sid
-  type: self
+id: IANAyangsid
 type: standard
-docid:
-- id: IANA yang-sid
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: YANG SIDs
+source:
+- type: self
+  content: https://www.iana.org/assignments/yang-sid
+docidentifier:
+- content: IANA yang-sid
   type: IANA
   primary: true
 docnumber: yang-sid
 date:
 - type: created
-  value: '2024-01-26'
+  at: '2024-01-26'
 - type: updated
-  value: '2024-10-04'
+  at: '2024-10-04'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

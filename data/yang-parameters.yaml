@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAyang-parameters
-title:
-- content: YANG Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/yang-parameters
-  type: self
+id: IANAyangparameters
 type: standard
-docid:
-- id: IANA yang-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: YANG Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/yang-parameters
+docidentifier:
+- content: IANA yang-parameters
   type: IANA
   primary: true
 docnumber: yang-parameters
 date:
 - type: created
-  value: '2010-06-10'
+  at: '2010-06-10'
 - type: updated
-  value: '2025-03-28'
+  at: '2025-03-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

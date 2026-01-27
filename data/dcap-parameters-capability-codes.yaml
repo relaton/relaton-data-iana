@@ -1,0 +1,33 @@
+---
+id: IANAdcapparameterscapabilitycodes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Data Link Switching Protocol Sender Capability Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/dcap-parameters
+docidentifier:
+- content: IANA dcap-parameters/capability-codes
+  type: IANA
+  primary: true
+docnumber: dcap-parameters/capability-codes
+date:
+- type: created
+  at: '2009-10-23'
+- type: updated
+  at: '2009-10-23'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

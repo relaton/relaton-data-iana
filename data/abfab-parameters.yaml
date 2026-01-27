@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAabfab-parameters
-title:
-- content: Application Bridging for Federated Access Beyond Web (ABFAB) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/abfab-parameters
-  type: self
+id: IANAabfabparameters
 type: standard
-docid:
-- id: IANA abfab-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Application Bridging for Federated Access Beyond Web (ABFAB) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/abfab-parameters
+docidentifier:
+- content: IANA abfab-parameters
   type: IANA
   primary: true
 docnumber: abfab-parameters
 date:
 - type: created
-  value: '2016-01-14'
+  at: '2016-01-14'
 - type: updated
-  value: '2016-05-13'
+  at: '2016-05-13'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

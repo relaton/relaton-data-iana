@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANApaws
-title:
-- content: Protocol to Access White-Space (PAWS)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/paws
-  type: self
 type: standard
-docid:
-- id: IANA paws
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Protocol to Access White-Space (PAWS)
+source:
+- type: self
+  content: https://www.iana.org/assignments/paws
+docidentifier:
+- content: IANA paws
   type: IANA
   primary: true
 docnumber: paws
 date:
 - type: created
-  value: '2014-11-13'
+  at: '2014-11-13'
 - type: updated
-  value: '2015-05-22'
+  at: '2015-05-22'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,0 +1,33 @@
+---
+id: IANAhttpauthenticationcontrolparametersauthenticationcontrolparameters
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: HTTP Authentication Control Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/http-authentication-control-parameters
+docidentifier:
+- content: IANA http-authentication-control-parameters/authentication-control-parameters
+  type: IANA
+  primary: true
+docnumber: http-authentication-control-parameters/authentication-control-parameters
+date:
+- type: created
+  at: '2016-11-17'
+- type: updated
+  at: '2017-04-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,0 +1,33 @@
+---
+id: IANAdccpccid2parametersdccpccid2parameters2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CCID2-specific Option Types (128-255)
+source:
+- type: self
+  content: https://www.iana.org/assignments/dccp-ccid2-parameters
+docidentifier:
+- content: IANA dccp-ccid2-parameters/dccp-ccid2-parameters-2
+  type: IANA
+  primary: true
+docnumber: dccp-ccid2-parameters/dccp-ccid2-parameters-2
+date:
+- type: created
+  at: '2005-08-26'
+- type: updated
+  at: '2006-05-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

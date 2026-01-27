@@ -1,0 +1,33 @@
+---
+id: IANAteapparameterstrustedserverroot
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: TEAP Trusted-Server-Root TLV (value 17) Credential-Format Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/teap-parameters
+docidentifier:
+- content: IANA teap-parameters/trusted-server-root
+  type: IANA
+  primary: true
+docnumber: teap-parameters/trusted-server-root
+date:
+- type: created
+  at: '2014-01-24'
+- type: updated
+  at: '2024-06-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

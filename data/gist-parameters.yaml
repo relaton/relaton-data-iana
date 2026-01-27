@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAgist-parameters
-title:
-- content: General Internet Signalling Transport (GIST) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/gist-parameters
-  type: self
+id: IANAgistparameters
 type: standard
-docid:
-- id: IANA gist-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: General Internet Signalling Transport (GIST) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/gist-parameters
+docidentifier:
+- content: IANA gist-parameters
   type: IANA
   primary: true
 docnumber: gist-parameters
 date:
 - type: created
-  value: '2009-07-30'
+  at: '2009-07-30'
 - type: updated
-  value: '2011-01-20'
+  at: '2011-01-20'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

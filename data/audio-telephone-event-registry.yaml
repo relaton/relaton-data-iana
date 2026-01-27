@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAaudio-telephone-event-registry
-title:
-- content: audio/telephone-event Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/audio-telephone-event-registry
-  type: self
+id: IANAaudiotelephoneeventregistry
 type: standard
-docid:
-- id: IANA audio-telephone-event-registry
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: audio/telephone-event Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/audio-telephone-event-registry
+docidentifier:
+- content: IANA audio-telephone-event-registry
   type: IANA
   primary: true
 docnumber: audio-telephone-event-registry
 date:
 - type: updated
-  value: '2011-12-07'
+  at: '2011-12-07'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

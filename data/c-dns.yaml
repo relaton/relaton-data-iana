@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAc-dns
-title:
-- content: C-DNS DNS Capture Format
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/c-dns
-  type: self
+id: IANAcdns
 type: standard
-docid:
-- id: IANA c-dns
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: C-DNS DNS Capture Format
+source:
+- type: self
+  content: https://www.iana.org/assignments/c-dns
+docidentifier:
+- content: IANA c-dns
   type: IANA
   primary: true
 docnumber: c-dns
 date:
 - type: created
-  value: '2019-01-07'
+  at: '2019-01-07'
 - type: updated
-  value: '2020-12-09'
+  at: '2020-12-09'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

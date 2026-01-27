@@ -1,0 +1,33 @@
+---
+id: IANAwellknownuriswellknownuris1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Well-Known URIs
+source:
+- type: self
+  content: https://www.iana.org/assignments/well-known-uris
+docidentifier:
+- content: IANA well-known-uris/well-known-uris-1
+  type: IANA
+  primary: true
+docnumber: well-known-uris/well-known-uris-1
+date:
+- type: created
+  at: '2010-01-20'
+- type: updated
+  at: '2025-04-04'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

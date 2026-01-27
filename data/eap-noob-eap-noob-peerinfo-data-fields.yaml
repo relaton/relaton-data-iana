@@ -1,0 +1,33 @@
+---
+id: IANAeapnoobeapnoobpeerinfodatafields
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: EAP-NOOB PeerInfo Data Fields
+source:
+- type: self
+  content: https://www.iana.org/assignments/eap-noob
+docidentifier:
+- content: IANA eap-noob/eap-noob-peerinfo-data-fields
+  type: IANA
+  primary: true
+docnumber: eap-noob/eap-noob-peerinfo-data-fields
+date:
+- type: created
+  at: '2021-09-21'
+- type: updated
+  at: '2022-01-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAdhcpv6-parameters
-title:
-- content: Dynamic Host Configuration Protocol for IPv6 (DHCPv6)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/dhcpv6-parameters
-  type: self
+id: IANAdhcpv6parameters
 type: standard
-docid:
-- id: IANA dhcpv6-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Dynamic Host Configuration Protocol for IPv6 (DHCPv6)
+source:
+- type: self
+  content: https://www.iana.org/assignments/dhcpv6-parameters
+docidentifier:
+- content: IANA dhcpv6-parameters
   type: IANA
   primary: true
 docnumber: dhcpv6-parameters
 date:
 - type: created
-  value: '2003-11-03'
+  at: '2003-11-03'
 - type: updated
-  value: '2024-12-05'
+  at: '2024-12-05'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

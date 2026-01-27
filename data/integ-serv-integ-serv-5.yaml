@@ -1,0 +1,33 @@
+---
+id: IANAintegservintegserv5
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Compression Hints
+source:
+- type: self
+  content: https://www.iana.org/assignments/integ-serv
+docidentifier:
+- content: IANA integ-serv/integ-serv-5
+  type: IANA
+  primary: true
+docnumber: integ-serv/integ-serv-5
+date:
+- type: created
+  at: '2002-03-05'
+- type: updated
+  at: '2002-04-09'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

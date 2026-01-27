@@ -1,0 +1,31 @@
+---
+id: IANAterminaltypenamesterminaltypenames1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Terminal Type Names
+source:
+- type: self
+  content: https://www.iana.org/assignments/terminal-type-names
+docidentifier:
+- content: IANA terminal-type-names/terminal-type-names-1
+  type: IANA
+  primary: true
+docnumber: terminal-type-names/terminal-type-names-1
+date:
+- type: updated
+  at: '2006-12-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

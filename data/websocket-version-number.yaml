@@ -1,0 +1,33 @@
+---
+id: IANAwebsocketversionnumber
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: WebSocket Version Number Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/websocket
+docidentifier:
+- content: IANA websocket/version-number
+  type: IANA
+  primary: true
+docnumber: websocket/version-number
+date:
+- type: created
+  at: '2011-10-21'
+- type: updated
+  at: '2024-08-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

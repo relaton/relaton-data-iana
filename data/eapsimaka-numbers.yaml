@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAeapsimaka-numbers
-title:
-- content: EAP-AKA and EAP-SIM Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/eapsimaka-numbers
-  type: self
+id: IANAeapsimakanumbers
 type: standard
-docid:
-- id: IANA eapsimaka-numbers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: EAP-AKA and EAP-SIM Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/eapsimaka-numbers
+docidentifier:
+- content: IANA eapsimaka-numbers
   type: IANA
   primary: true
 docnumber: eapsimaka-numbers
 date:
 - type: created
-  value: '2005-05-02'
+  at: '2005-05-02'
 - type: updated
-  value: '2025-03-06'
+  at: '2025-03-06'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

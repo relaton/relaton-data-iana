@@ -1,0 +1,33 @@
+---
+id: IANAbgplsparametersbgplsnodeflags
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: BGP-LS Node Flags
+source:
+- type: self
+  content: https://www.iana.org/assignments/bgp-ls-parameters
+docidentifier:
+- content: IANA bgp-ls-parameters/bgp-ls-node-flags
+  type: IANA
+  primary: true
+docnumber: bgp-ls-parameters/bgp-ls-node-flags
+date:
+- type: created
+  at: '2015-11-03'
+- type: updated
+  at: '2025-03-17'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

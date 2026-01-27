@@ -1,0 +1,31 @@
+---
+id: IANAethernetnumbersianalldptlvsubtypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IANA Link Layer Discovery Protocol (LLDP) TLV Subtypes
+source:
+- type: self
+  content: https://www.iana.org/assignments/ethernet-numbers
+docidentifier:
+- content: IANA ethernet-numbers/iana-lldp-tlv-subtypes
+  type: IANA
+  primary: true
+docnumber: ethernet-numbers/iana-lldp-tlv-subtypes
+date:
+- type: updated
+  at: '2024-05-02'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

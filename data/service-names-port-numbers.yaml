@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAservice-names-port-numbers
-title:
-- content: Service Name and Transport Protocol Port Number Registry
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/service-names-port-numbers
-  type: self
+id: IANAservicenamesportnumbers
 type: standard
-docid:
-- id: IANA service-names-port-numbers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Service Name and Transport Protocol Port Number Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/service-names-port-numbers
+docidentifier:
+- content: IANA service-names-port-numbers
   type: IANA
   primary: true
 docnumber: service-names-port-numbers
 date:
 - type: updated
-  value: '2025-04-07'
+  at: '2025-04-07'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

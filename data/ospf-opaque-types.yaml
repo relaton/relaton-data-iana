@@ -1,30 +1,31 @@
 ---
-schema-version: v1.2.9
-id: IANAospf-opaque-types
-title:
-- content: Open Shortest Path First (OSPF) Opaque Link-State Advertisements (LSA)
-    Option Types
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ospf-opaque-types
-  type: self
+id: IANAospfopaquetypes
 type: standard
-docid:
-- id: IANA ospf-opaque-types
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Open Shortest Path First (OSPF) Opaque Link-State Advertisements (LSA)
+    Option Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/ospf-opaque-types
+docidentifier:
+- content: IANA ospf-opaque-types
   type: IANA
   primary: true
 docnumber: ospf-opaque-types
 date:
 - type: updated
-  value: '2024-04-17'
+  at: '2024-04-17'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

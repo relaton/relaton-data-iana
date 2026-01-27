@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAbgp-spf
-title:
-- content: BGP Shortest Path First (BGP SPF)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/bgp-spf
-  type: self
+id: IANAbgpspf
 type: standard
-docid:
-- id: IANA bgp-spf
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: BGP Shortest Path First (BGP SPF)
+source:
+- type: self
+  content: https://www.iana.org/assignments/bgp-spf
+docidentifier:
+- content: IANA bgp-spf
   type: IANA
   primary: true
 docnumber: bgp-spf
 date:
 - type: created
-  value: '2025-01-28'
+  at: '2025-01-28'
 - type: updated
-  value: '2025-01-28'
+  at: '2025-01-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

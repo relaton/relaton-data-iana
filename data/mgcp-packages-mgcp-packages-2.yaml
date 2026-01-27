@@ -1,0 +1,33 @@
+---
+id: IANAmgcppackagesmgcppackages2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: List of Extension Digit Map Letters
+source:
+- type: self
+  content: https://www.iana.org/assignments/mgcp-packages
+docidentifier:
+- content: IANA mgcp-packages/mgcp-packages-2
+  type: IANA
+  primary: true
+docnumber: mgcp-packages/mgcp-packages-2
+date:
+- type: created
+  at: '2002-09-30'
+- type: updated
+  at: '2013-06-25'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

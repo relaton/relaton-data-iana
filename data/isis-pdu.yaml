@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAisis-pdu
-title:
-- content: IS-IS PDU Registry
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/isis-pdu
-  type: self
+id: IANAisispdu
 type: standard
-docid:
-- id: IANA isis-pdu
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IS-IS PDU Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/isis-pdu
+docidentifier:
+- content: IANA isis-pdu
   type: IANA
   primary: true
 docnumber: isis-pdu
 date:
 - type: created
-  value: '2011-03-02'
+  at: '2011-03-02'
 - type: updated
-  value: '2017-10-24'
+  at: '2017-10-24'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

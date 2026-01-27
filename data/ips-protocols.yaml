@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAips-protocols
-title:
-- content: IPS Protocol# (Protocol Number) Field
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ips-protocols
-  type: self
+id: IANAipsprotocols
 type: standard
-docid:
-- id: IANA ips-protocols
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IPS Protocol# (Protocol Number) Field
+source:
+- type: self
+  content: https://www.iana.org/assignments/ips-protocols
+docidentifier:
+- content: IANA ips-protocols
   type: IANA
   primary: true
 docnumber: ips-protocols
 date:
 - type: created
-  value: '2003-03-13'
+  at: '2003-03-13'
 - type: updated
-  value: '2011-06-06'
+  at: '2011-06-06'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

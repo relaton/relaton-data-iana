@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
 id: IANAmdn
-title:
-- content: Message Disposition Notification (MDN) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/mdn
-  type: self
 type: standard
-docid:
-- id: IANA mdn
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Message Disposition Notification (MDN) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/mdn
+docidentifier:
+- content: IANA mdn
   type: IANA
   primary: true
 docnumber: mdn
 date:
 - type: updated
-  value: '2017-03-03'
+  at: '2017-03-03'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

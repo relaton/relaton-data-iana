@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAlang-tag-apps
-title:
-- content: " Language Tag Registration Form Archive (OBSOLETE)"
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/lang-tag-apps
-  type: self
+id: IANAlangtagapps
 type: standard
-docid:
-- id: IANA lang-tag-apps
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: " Language Tag Registration Form Archive (OBSOLETE)"
+source:
+- type: self
+  content: https://www.iana.org/assignments/lang-tag-apps
+docidentifier:
+- content: IANA lang-tag-apps
   type: IANA
   primary: true
 docnumber: lang-tag-apps
 date:
 - type: updated
-  value: '2024-12-20'
+  at: '2024-12-20'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

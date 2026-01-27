@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAhttp3-parameters
-title:
-- content: Hypertext Transfer Protocol version 3 (HTTP/3)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/http3-parameters
-  type: self
+id: IANAhttp3parameters
 type: standard
-docid:
-- id: IANA http3-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Hypertext Transfer Protocol version 3 (HTTP/3)
+source:
+- type: self
+  content: https://www.iana.org/assignments/http3-parameters
+docidentifier:
+- content: IANA http3-parameters
   type: IANA
   primary: true
 docnumber: http3-parameters
 date:
 - type: created
-  value: '2021-02-26'
+  at: '2021-02-26'
 - type: updated
-  value: '2023-06-13'
+  at: '2023-06-13'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

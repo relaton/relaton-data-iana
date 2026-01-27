@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAmanagesieve
-title:
-- content: ManageSieve Registries
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/managesieve
-  type: self
 type: standard
-docid:
-- id: IANA managesieve
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ManageSieve Registries
+source:
+- type: self
+  content: https://www.iana.org/assignments/managesieve
+docidentifier:
+- content: IANA managesieve
   type: IANA
   primary: true
 docnumber: managesieve
 date:
 - type: created
-  value: '2009-01-29'
+  at: '2009-01-29'
 - type: updated
-  value: '2015-05-27'
+  at: '2015-05-27'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

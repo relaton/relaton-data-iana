@@ -1,26 +1,27 @@
 ---
-schema-version: v1.2.9
-id: IANArpki-signed-objects
-title:
-- content: rpki-signed-objects
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rpki-signed-objects
-  type: self
+id: IANArpkisignedobjects
 type: standard
-docid:
-- id: IANA rpki-signed-objects
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: rpki-signed-objects
+source:
+- type: self
+  content: https://www.iana.org/assignments/rpki-signed-objects
+docidentifier:
+- content: IANA rpki-signed-objects
   type: IANA
   primary: true
 docnumber: rpki-signed-objects
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

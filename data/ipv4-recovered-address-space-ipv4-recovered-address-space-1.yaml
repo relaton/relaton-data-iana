@@ -1,0 +1,31 @@
+---
+id: IANAipv4recoveredaddressspaceipv4recoveredaddressspace1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Current Recovered IPv4 Pool
+source:
+- type: self
+  content: https://www.iana.org/assignments/ipv4-recovered-address-space
+docidentifier:
+- content: IANA ipv4-recovered-address-space/ipv4-recovered-address-space-1
+  type: IANA
+  primary: true
+docnumber: ipv4-recovered-address-space/ipv4-recovered-address-space-1
+date:
+- type: updated
+  at: '2019-03-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

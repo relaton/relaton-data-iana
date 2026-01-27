@@ -1,0 +1,33 @@
+---
+id: IANAtoplevelmediatypestoplevelmediatypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Top-Level Media Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/top-level-media-types
+docidentifier:
+- content: IANA top-level-media-types/top-level-media-types
+  type: IANA
+  primary: true
+docnumber: top-level-media-types/top-level-media-types
+date:
+- type: created
+  at: '2024-06-25'
+- type: updated
+  at: '2025-03-18'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

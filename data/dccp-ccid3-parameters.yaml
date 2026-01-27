@@ -1,32 +1,33 @@
 ---
-schema-version: v1.2.9
-id: IANAdccp-ccid3-parameters
-title:
-- content: 'Profile for Datagram Congestion Control Protocol (DCCP) Congestion Control
-    ID 3: TFRC Congestion Control Parameters'
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/dccp-ccid3-parameters
-  type: self
+id: IANAdccpccid3parameters
 type: standard
-docid:
-- id: IANA dccp-ccid3-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Profile for Datagram Congestion Control Protocol (DCCP) Congestion Control
+    ID 3: TFRC Congestion Control Parameters'
+source:
+- type: self
+  content: https://www.iana.org/assignments/dccp-ccid3-parameters
+docidentifier:
+- content: IANA dccp-ccid3-parameters
   type: IANA
   primary: true
 docnumber: dccp-ccid3-parameters
 date:
 - type: created
-  value: '2005-08-26'
+  at: '2005-08-26'
 - type: updated
-  value: '2011-08-01'
+  at: '2011-08-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

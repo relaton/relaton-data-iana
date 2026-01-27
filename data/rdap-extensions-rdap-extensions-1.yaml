@@ -1,0 +1,33 @@
+---
+id: IANArdapextensionsrdapextensions1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: RDAP Extensions
+source:
+- type: self
+  content: https://www.iana.org/assignments/rdap-extensions
+docidentifier:
+- content: IANA rdap-extensions/rdap-extensions-1
+  type: IANA
+  primary: true
+docnumber: rdap-extensions/rdap-extensions-1
+date:
+- type: created
+  at: '2015-01-12'
+- type: updated
+  at: '2025-02-04'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

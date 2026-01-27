@@ -1,0 +1,33 @@
+---
+id: IANAeapnumberseapnumbersteaptlvtypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: TEAP TLV Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/eap-numbers
+docidentifier:
+- content: IANA eap-numbers/eap-numbers-teap-tlv-types
+  type: IANA
+  primary: true
+docnumber: eap-numbers/eap-numbers-teap-tlv-types
+date:
+- type: created
+  at: '2004-04-09'
+- type: updated
+  at: '2025-02-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

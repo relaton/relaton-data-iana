@@ -1,0 +1,33 @@
+---
+id: IANArdapreversesearchrdapreversesearch
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: RDAP Reverse Search
+source:
+- type: self
+  content: https://www.iana.org/assignments/rdap-reverse-search
+docidentifier:
+- content: IANA rdap-reverse-search/rdap-reverse-search
+  type: IANA
+  primary: true
+docnumber: rdap-reverse-search/rdap-reverse-search
+date:
+- type: created
+  at: '2023-10-02'
+- type: updated
+  at: '2024-10-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

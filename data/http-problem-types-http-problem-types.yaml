@@ -1,0 +1,33 @@
+---
+id: IANAhttpproblemtypeshttpproblemtypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: HTTP Problem Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/http-problem-types
+docidentifier:
+- content: IANA http-problem-types/http-problem-types
+  type: IANA
+  primary: true
+docnumber: http-problem-types/http-problem-types
+date:
+- type: created
+  at: '2023-05-02'
+- type: updated
+  at: '2024-02-12'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAspf-parameters
-title:
-- content: Sender Policy Framework (SPF) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/spf-parameters
-  type: self
+id: IANAspfparameters
 type: standard
-docid:
-- id: IANA spf-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Sender Policy Framework (SPF) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/spf-parameters
+docidentifier:
+- content: IANA spf-parameters
   type: IANA
   primary: true
 docnumber: spf-parameters
 date:
 - type: created
-  value: '2012-04-17'
+  at: '2012-04-17'
 - type: updated
-  value: '2014-04-29'
+  at: '2014-04-29'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

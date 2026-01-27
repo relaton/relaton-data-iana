@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAsvrloc-error-numbers
-title:
-- content: Service Location Protocol, Version 2 (SLPv2) Error Numbers
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/svrloc-error-numbers
-  type: self
+id: IANAsvrlocerrornumbers
 type: standard
-docid:
-- id: IANA svrloc-error-numbers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Service Location Protocol, Version 2 (SLPv2) Error Numbers
+source:
+- type: self
+  content: https://www.iana.org/assignments/svrloc-error-numbers
+docidentifier:
+- content: IANA svrloc-error-numbers
   type: IANA
   primary: true
 docnumber: svrloc-error-numbers
 date:
 - type: created
-  value: '2003-04-01'
+  at: '2003-04-01'
 - type: updated
-  value: '2003-04-02'
+  at: '2003-04-02'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

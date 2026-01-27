@@ -1,0 +1,33 @@
+---
+id: IANApttlsparametersmessagetypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: PT-TLS Message Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/pt-tls-parameters
+docidentifier:
+- content: IANA pt-tls-parameters/message-types
+  type: IANA
+  primary: true
+docnumber: pt-tls-parameters/message-types
+date:
+- type: created
+  at: '2013-01-03'
+- type: updated
+  at: '2013-03-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

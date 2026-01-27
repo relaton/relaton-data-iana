@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAdns-key-rr
-title:
-- content: DNS KEY Resource Record Protocol Octet Values
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/dns-key-rr
-  type: self
+id: IANAdnskeyrr
 type: standard
-docid:
-- id: IANA dns-key-rr
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: DNS KEY Resource Record Protocol Octet Values
+source:
+- type: self
+  content: https://www.iana.org/assignments/dns-key-rr
+docidentifier:
+- content: IANA dns-key-rr
   type: IANA
   primary: true
 docnumber: dns-key-rr
 date:
 - type: created
-  value: '2002-11-07'
+  at: '2002-11-07'
 - type: updated
-  value: '2009-04-03'
+  at: '2009-04-03'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

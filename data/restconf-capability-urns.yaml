@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANArestconf-capability-urns
-title:
-- content: RESTCONF Capability URNs
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/restconf-capability-urns
-  type: self
+id: IANArestconfcapabilityurns
 type: standard
-docid:
-- id: IANA restconf-capability-urns
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: RESTCONF Capability URNs
+source:
+- type: self
+  content: https://www.iana.org/assignments/restconf-capability-urns
+docidentifier:
+- content: IANA restconf-capability-urns
   type: IANA
   primary: true
 docnumber: restconf-capability-urns
 date:
 - type: created
-  value: '2016-11-03'
+  at: '2016-11-03'
 - type: updated
-  value: '2019-03-07'
+  at: '2019-03-07'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

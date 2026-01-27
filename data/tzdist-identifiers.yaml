@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAtzdist-identifiers
-title:
-- content: Time Zone Data Distribution Service (TZDIST) Identifiers
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/tzdist-identifiers
-  type: self
+id: IANAtzdistidentifiers
 type: standard
-docid:
-- id: IANA tzdist-identifiers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Time Zone Data Distribution Service (TZDIST) Identifiers
+source:
+- type: self
+  content: https://www.iana.org/assignments/tzdist-identifiers
+docidentifier:
+- content: IANA tzdist-identifiers
   type: IANA
   primary: true
 docnumber: tzdist-identifiers
 date:
 - type: created
-  value: '2015-08-05'
+  at: '2015-08-05'
 - type: updated
-  value: '2016-04-04'
+  at: '2016-04-04'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

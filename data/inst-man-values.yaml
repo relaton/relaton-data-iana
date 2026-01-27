@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAinst-man-values
-title:
-- content: Instance Manipulation Values
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/inst-man-values
-  type: self
+id: IANAinstmanvalues
 type: standard
-docid:
-- id: IANA inst-man-values
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Instance Manipulation Values
+source:
+- type: self
+  content: https://www.iana.org/assignments/inst-man-values
+docidentifier:
+- content: IANA inst-man-values
   type: IANA
   primary: true
 docnumber: inst-man-values
 date:
 - type: created
-  value: '2002-01-03'
+  at: '2002-01-03'
 - type: updated
-  value: '2015-06-08'
+  at: '2015-06-08'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAlocation-type-registry
-title:
-- content: Location Types Registry
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/location-type-registry
-  type: self
+id: IANAlocationtyperegistry
 type: standard
-docid:
-- id: IANA location-type-registry
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Location Types Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/location-type-registry
+docidentifier:
+- content: IANA location-type-registry
   type: IANA
   primary: true
 docnumber: location-type-registry
 date:
 - type: created
-  value: '2006-06-19'
+  at: '2006-06-19'
 - type: updated
-  value: '2024-07-08'
+  at: '2024-07-08'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

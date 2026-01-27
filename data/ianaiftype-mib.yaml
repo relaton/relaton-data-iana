@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAianaiftype-mib
-title:
-- content: IANAifType-MIB
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ianaiftype-mib
-  type: self
+id: IANAianaiftypemib
 type: standard
-docid:
-- id: IANA ianaiftype-mib
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IANAifType-MIB
+source:
+- type: self
+  content: https://www.iana.org/assignments/ianaiftype-mib
+docidentifier:
+- content: IANA ianaiftype-mib
   type: IANA
   primary: true
 docnumber: ianaiftype-mib
 date:
 - type: created
-  value: '1994-01-31'
+  at: '1994-01-31'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,0 +1,31 @@
+---
+id: IANAicmpparametersicmpparameterstypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ICMP Type Numbers
+source:
+- type: self
+  content: https://www.iana.org/assignments/icmp-parameters
+docidentifier:
+- content: IANA icmp-parameters/icmp-parameters-types
+  type: IANA
+  primary: true
+docnumber: icmp-parameters/icmp-parameters-types
+date:
+- type: updated
+  at: '2024-12-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

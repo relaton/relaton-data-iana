@@ -1,0 +1,33 @@
+---
+id: IANAeappwdparameterseappwdparameters1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: PWD-Exch Messages
+source:
+- type: self
+  content: https://www.iana.org/assignments/eap-pwd-parameters
+docidentifier:
+- content: IANA eap-pwd-parameters/eap-pwd-parameters-1
+  type: IANA
+  primary: true
+docnumber: eap-pwd-parameters/eap-pwd-parameters-1
+date:
+- type: created
+  at: '2010-01-06'
+- type: updated
+  at: '2017-04-24'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

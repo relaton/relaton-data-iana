@@ -1,0 +1,33 @@
+---
+id: IANApvdspvdoptionflags
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: PvD Option Flags
+source:
+- type: self
+  content: https://www.iana.org/assignments/pvds
+docidentifier:
+- content: IANA pvds/pvd-option-flags
+  type: IANA
+  primary: true
+docnumber: pvds/pvd-option-flags
+date:
+- type: created
+  at: '2020-02-18'
+- type: updated
+  at: '2025-02-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

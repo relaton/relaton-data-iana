@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAbrski-parameters
-title:
-- content: Bootstrapping Remote Secure Key Infrastructures (BRSKI) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/brski-parameters
-  type: self
+id: IANAbrskiparameters
 type: standard
-docid:
-- id: IANA brski-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Bootstrapping Remote Secure Key Infrastructures (BRSKI) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/brski-parameters
+docidentifier:
+- content: IANA brski-parameters
   type: IANA
   primary: true
 docnumber: brski-parameters
 date:
 - type: created
-  value: '2020-04-29'
+  at: '2020-04-29'
 - type: updated
-  value: '2024-01-16'
+  at: '2024-01-16'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

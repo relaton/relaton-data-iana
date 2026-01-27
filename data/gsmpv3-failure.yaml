@@ -1,32 +1,33 @@
 ---
-schema-version: v1.2.9
-id: IANAgsmpv3-failure
-title:
-- content: Global Switch Management Protocol version 3 (GSMPv3) Failure Response Message
-    Name Space
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/gsmpv3-failure
-  type: self
+id: IANAgsmpv3failure
 type: standard
-docid:
-- id: IANA gsmpv3-failure
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Global Switch Management Protocol version 3 (GSMPv3) Failure Response Message
+    Name Space
+source:
+- type: self
+  content: https://www.iana.org/assignments/gsmpv3-failure
+docidentifier:
+- content: IANA gsmpv3-failure
   type: IANA
   primary: true
 docnumber: gsmpv3-failure
 date:
 - type: created
-  value: '2002-03-28'
+  at: '2002-03-28'
 - type: updated
-  value: '2011-08-11'
+  at: '2011-08-11'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

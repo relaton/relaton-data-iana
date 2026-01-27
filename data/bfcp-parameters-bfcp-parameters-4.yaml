@@ -1,0 +1,33 @@
+---
+id: IANAbfcpparametersbfcpparameters4
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Error Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/bfcp-parameters
+docidentifier:
+- content: IANA bfcp-parameters/bfcp-parameters-4
+  type: IANA
+  primary: true
+docnumber: bfcp-parameters/bfcp-parameters-4
+date:
+- type: created
+  at: '2006-01-30'
+- type: updated
+  at: '2023-08-25'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

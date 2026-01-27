@@ -1,0 +1,33 @@
+---
+id: IANApwe3parameterspwstatusrefreshreductionmessageflags
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: PW Status Refresh Reduction Message Flags
+source:
+- type: self
+  content: https://www.iana.org/assignments/pwe3-parameters
+docidentifier:
+- content: IANA pwe3-parameters/pw-status-refresh-reduction-message-flags
+  type: IANA
+  primary: true
+docnumber: pwe3-parameters/pw-status-refresh-reduction-message-flags
+date:
+- type: created
+  at: '2005-12-12'
+- type: updated
+  at: '2022-12-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

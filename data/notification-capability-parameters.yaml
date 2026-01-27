@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAnotification-capability-parameters
-title:
-- content: Notification-Capability Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/notification-capability-parameters
-  type: self
+id: IANAnotificationcapabilityparameters
 type: standard
-docid:
-- id: IANA notification-capability-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Notification-Capability Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/notification-capability-parameters
+docidentifier:
+- content: IANA notification-capability-parameters
   type: IANA
   primary: true
 docnumber: notification-capability-parameters
 date:
 - type: created
-  value: '2008-01-30'
+  at: '2008-01-30'
 - type: updated
-  value: '2019-05-13'
+  at: '2019-05-13'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

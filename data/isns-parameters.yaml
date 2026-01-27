@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAisns-parameters
-title:
-- content: Internet Storage Name Service (iSNS) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/isns-parameters
-  type: self
+id: IANAisnsparameters
 type: standard
-docid:
-- id: IANA isns-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Internet Storage Name Service (iSNS) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/isns-parameters
+docidentifier:
+- content: IANA isns-parameters
   type: IANA
   primary: true
 docnumber: isns-parameters
 date:
 - type: created
-  value: '2005-01-19'
+  at: '2005-01-19'
 - type: updated
-  value: '2005-10-25'
+  at: '2005-10-25'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

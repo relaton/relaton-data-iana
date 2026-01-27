@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
 id: IANAapex
-title:
-- content: APEX Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/apex
-  type: self
 type: standard
-docid:
-- id: IANA apex
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: APEX Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/apex
+docidentifier:
+- content: IANA apex
   type: IANA
   primary: true
 docnumber: apex
 date:
 - type: updated
-  value: '2009-06-03'
+  at: '2009-06-03'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

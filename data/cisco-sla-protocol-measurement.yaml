@@ -1,0 +1,33 @@
+---
+id: IANAciscoslaprotocolmeasurement
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cisco SLA Protocol Measurement-Type Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/cisco-sla-protocol
+docidentifier:
+- content: IANA cisco-sla-protocol/measurement
+  type: IANA
+  primary: true
+docnumber: cisco-sla-protocol/measurement
+date:
+- type: created
+  at: '2012-10-19'
+- type: updated
+  at: '2013-01-18'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

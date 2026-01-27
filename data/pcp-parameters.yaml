@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANApcp-parameters
-title:
-- content: Port Control Protocol (PCP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/pcp-parameters
-  type: self
+id: IANApcpparameters
 type: standard
-docid:
-- id: IANA pcp-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Port Control Protocol (PCP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/pcp-parameters
+docidentifier:
+- content: IANA pcp-parameters
   type: IANA
   primary: true
 docnumber: pcp-parameters
 date:
 - type: created
-  value: '2012-11-21'
+  at: '2012-11-21'
 - type: updated
-  value: '2016-05-11'
+  at: '2016-05-11'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

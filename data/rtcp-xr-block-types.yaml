@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANArtcp-xr-block-types
-title:
-- content: RTP Control Protocol Extended Reports (RTCP XR) Block Type Registry
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rtcp-xr-block-types
-  type: self
+id: IANArtcpxrblocktypes
 type: standard
-docid:
-- id: IANA rtcp-xr-block-types
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: RTP Control Protocol Extended Reports (RTCP XR) Block Type Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/rtcp-xr-block-types
+docidentifier:
+- content: IANA rtcp-xr-block-types
   type: IANA
   primary: true
 docnumber: rtcp-xr-block-types
 date:
 - type: created
-  value: '2003-08-29'
+  at: '2003-08-29'
 - type: updated
-  value: '2022-01-31'
+  at: '2022-01-31'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

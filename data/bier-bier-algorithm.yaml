@@ -1,0 +1,33 @@
+---
+id: IANAbierbieralgorithm
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: BIER Algorithm
+source:
+- type: self
+  content: https://www.iana.org/assignments/bier
+docidentifier:
+- content: IANA bier/bier-algorithm
+  type: IANA
+  primary: true
+docnumber: bier/bier-algorithm
+date:
+- type: created
+  at: '2017-10-31'
+- type: updated
+  at: '2024-12-24'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

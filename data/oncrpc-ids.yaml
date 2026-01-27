@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAoncrpc-ids
-title:
-- content: Open Network Computing (ONC) Remote Procedure Call (RPC) Network Identifiers
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/oncrpc-ids
-  type: self
+id: IANAoncrpcids
 type: standard
-docid:
-- id: IANA oncrpc-ids
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Open Network Computing (ONC) Remote Procedure Call (RPC) Network Identifiers
+source:
+- type: self
+  content: https://www.iana.org/assignments/oncrpc-ids
+docidentifier:
+- content: IANA oncrpc-ids
   type: IANA
   primary: true
 docnumber: oncrpc-ids
 date:
 - type: created
-  value: '2003-03-12'
+  at: '2003-03-12'
 - type: updated
-  value: '2015-03-30'
+  at: '2015-03-30'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,0 +1,33 @@
+---
+id: IANAsecuritylabelformatselectionsecuritylabelformatselectionregistry
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Security Label Format Selection Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/security-label-format-selection
+docidentifier:
+- content: IANA security-label-format-selection/security-label-format-selection-registry
+  type: IANA
+  primary: true
+docnumber: security-label-format-selection/security-label-format-selection-registry
+date:
+- type: created
+  at: '2015-04-27'
+- type: updated
+  at: '2015-07-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

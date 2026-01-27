@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAxmss-extended-hash-based-signatures
-title:
-- content: 'XMSS: Extended Hash-Based Signatures'
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/xmss-extended-hash-based-signatures
-  type: self
+id: IANAxmssextendedhashbasedsignatures
 type: standard
-docid:
-- id: IANA xmss-extended-hash-based-signatures
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'XMSS: Extended Hash-Based Signatures'
+source:
+- type: self
+  content: https://www.iana.org/assignments/xmss-extended-hash-based-signatures
+docidentifier:
+- content: IANA xmss-extended-hash-based-signatures
   type: IANA
   primary: true
 docnumber: xmss-extended-hash-based-signatures
 date:
 - type: created
-  value: '2018-02-16'
+  at: '2018-02-16'
 - type: updated
-  value: '2020-05-15'
+  at: '2020-05-15'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAfoobar-af-numbers
-title:
-- content: FOOBAR Address Family Numbers
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/foobar-af-numbers
-  type: self
+id: IANAfoobarafnumbers
 type: standard
-docid:
-- id: IANA foobar-af-numbers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: FOOBAR Address Family Numbers
+source:
+- type: self
+  content: https://www.iana.org/assignments/foobar-af-numbers
+docidentifier:
+- content: IANA foobar-af-numbers
   type: IANA
   primary: true
 docnumber: foobar-af-numbers
 date:
 - type: updated
-  value: '2001-05-01'
+  at: '2001-05-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

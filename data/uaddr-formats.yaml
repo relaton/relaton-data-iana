@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAuaddr-formats
-title:
-- content: ONC RPC Universal Address (uaddr) Format Registry
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/uaddr-formats
-  type: self
+id: IANAuaddrformats
 type: standard
-docid:
-- id: IANA uaddr-formats
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ONC RPC Universal Address (uaddr) Format Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/uaddr-formats
+docidentifier:
+- content: IANA uaddr-formats
   type: IANA
   primary: true
 docnumber: uaddr-formats
 date:
 - type: created
-  value: '2009-02-06'
+  at: '2009-02-06'
 - type: updated
-  value: '2010-01-15'
+  at: '2010-01-15'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

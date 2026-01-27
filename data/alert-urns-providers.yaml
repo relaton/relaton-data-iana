@@ -1,0 +1,33 @@
+---
+id: IANAalerturnsproviders
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Alert URN Providers
+source:
+- type: self
+  content: https://www.iana.org/assignments/alert-urns
+docidentifier:
+- content: IANA alert-urns/providers
+  type: IANA
+  primary: true
+docnumber: alert-urns/providers
+date:
+- type: created
+  at: '2014-11-24'
+- type: updated
+  at: '2023-05-25'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAcdni-parameters
-title:
-- content: Content Delivery Network Interconnection (CDNI) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/cdni-parameters
-  type: self
+id: IANAcdniparameters
 type: standard
-docid:
-- id: IANA cdni-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Content Delivery Network Interconnection (CDNI) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/cdni-parameters
+docidentifier:
+- content: IANA cdni-parameters
   type: IANA
   primary: true
 docnumber: cdni-parameters
 date:
 - type: created
-  value: '2015-10-22'
+  at: '2015-10-22'
 - type: updated
-  value: '2025-01-23'
+  at: '2025-01-23'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

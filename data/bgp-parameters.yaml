@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAbgp-parameters
-title:
-- content: Border Gateway Protocol (BGP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/bgp-parameters
-  type: self
+id: IANAbgpparameters
 type: standard
-docid:
-- id: IANA bgp-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Border Gateway Protocol (BGP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/bgp-parameters
+docidentifier:
+- content: IANA bgp-parameters
   type: IANA
   primary: true
 docnumber: bgp-parameters
 date:
 - type: updated
-  value: '2025-03-20'
+  at: '2025-03-20'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

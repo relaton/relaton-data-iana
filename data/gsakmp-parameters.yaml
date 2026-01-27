@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAgsakmp-parameters
-title:
-- content: Group Secure Association Group Management Protocol (GSAKMP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/gsakmp-parameters
-  type: self
+id: IANAgsakmpparameters
 type: standard
-docid:
-- id: IANA gsakmp-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Group Secure Association Group Management Protocol (GSAKMP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/gsakmp-parameters
+docidentifier:
+- content: IANA gsakmp-parameters
   type: IANA
   primary: true
 docnumber: gsakmp-parameters
 date:
 - type: created
-  value: '2005-07-27'
+  at: '2005-07-27'
 - type: updated
-  value: '2018-09-12'
+  at: '2018-09-12'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

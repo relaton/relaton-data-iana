@@ -1,0 +1,33 @@
+---
+id: IANAyangsidyangsid
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IETF YANG-SID Modules
+source:
+- type: self
+  content: https://www.iana.org/assignments/yang-sid
+docidentifier:
+- content: IANA yang-sid/yang-sid
+  type: IANA
+  primary: true
+docnumber: yang-sid/yang-sid
+date:
+- type: created
+  at: '2024-01-26'
+- type: updated
+  at: '2024-10-04'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

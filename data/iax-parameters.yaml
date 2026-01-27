@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAiax-parameters
-title:
-- content: Inter-Asterisk eXchange (IAX) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/iax-parameters
-  type: self
+id: IANAiaxparameters
 type: standard
-docid:
-- id: IANA iax-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Inter-Asterisk eXchange (IAX) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/iax-parameters
+docidentifier:
+- content: IANA iax-parameters
   type: IANA
   primary: true
 docnumber: iax-parameters
 date:
 - type: created
-  value: '2008-12-03'
+  at: '2008-12-03'
 - type: updated
-  value: '2011-12-07'
+  at: '2011-12-07'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

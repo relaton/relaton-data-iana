@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAdns-svcb
-title:
-- content: DNS Service Bindings (SVCB)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/dns-svcb
-  type: self
+id: IANAdnssvcb
 type: standard
-docid:
-- id: IANA dns-svcb
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: DNS Service Bindings (SVCB)
+source:
+- type: self
+  content: https://www.iana.org/assignments/dns-svcb
+docidentifier:
+- content: IANA dns-svcb
   type: IANA
   primary: true
 docnumber: dns-svcb
 date:
 - type: created
-  value: '2022-05-26'
+  at: '2022-05-26'
 - type: updated
-  value: '2025-03-20'
+  at: '2025-03-20'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

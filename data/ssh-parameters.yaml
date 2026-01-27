@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAssh-parameters
-title:
-- content: Secure Shell (SSH) Protocol Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ssh-parameters
-  type: self
+id: IANAsshparameters
 type: standard
-docid:
-- id: IANA ssh-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Secure Shell (SSH) Protocol Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/ssh-parameters
+docidentifier:
+- content: IANA ssh-parameters
   type: IANA
   primary: true
 docnumber: ssh-parameters
 date:
 - type: created
-  value: '2005-06-02'
+  at: '2005-06-02'
 - type: updated
-  value: '2025-02-18'
+  at: '2025-02-18'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

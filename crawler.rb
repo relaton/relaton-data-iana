@@ -1,11 +1,11 @@
 require 'fileutils'
-require 'relaton_iana'
+require 'relaton/iana/data_fetcher'
 
 # token = ARGV.shift
 
 FileUtils.rm(Dir.glob("index*"))
 
-system("git clone https://github.com/ietf-tools/iana-registries.git iana-registries")
+# system("git clone https://github.com/ietf-tools/iana-registries.git iana-registries")
 
 FileUtils.rm_rf("data")
-RelatonIana::DataFetcher.fetch
+Relaton::Iana::DataFetcher.fetch

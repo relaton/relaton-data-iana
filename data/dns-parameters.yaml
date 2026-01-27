@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAdns-parameters
-title:
-- content: Domain Name System (DNS) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/dns-parameters
-  type: self
+id: IANAdnsparameters
 type: standard
-docid:
-- id: IANA dns-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Domain Name System (DNS) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/dns-parameters
+docidentifier:
+- content: IANA dns-parameters
   type: IANA
   primary: true
 docnumber: dns-parameters
 date:
 - type: updated
-  value: '2025-04-04'
+  at: '2025-04-04'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

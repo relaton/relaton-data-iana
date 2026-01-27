@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANArdap-asn
-title:
-- content: Bootstrap Service Registry for AS Number Space
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rdap-asn
-  type: self
+id: IANArdapasn
 type: standard
-docid:
-- id: IANA rdap-asn
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Bootstrap Service Registry for AS Number Space
+source:
+- type: self
+  content: https://www.iana.org/assignments/rdap-asn
+docidentifier:
+- content: IANA rdap-asn
   type: IANA
   primary: true
 docnumber: rdap-asn
 date:
 - type: created
-  value: '2015-03-23'
+  at: '2015-03-23'
 - type: updated
-  value: '2022-04-04'
+  at: '2022-04-04'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

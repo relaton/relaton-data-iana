@@ -1,0 +1,33 @@
+---
+id: IANArdapproviderobjecttagsrdapproviderobjecttags1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: RDAP Provider Object Tags
+source:
+- type: self
+  content: https://www.iana.org/assignments/rdap-provider-object-tags
+docidentifier:
+- content: IANA rdap-provider-object-tags/rdap-provider-object-tags-1
+  type: IANA
+  primary: true
+docnumber: rdap-provider-object-tags/rdap-provider-object-tags-1
+date:
+- type: created
+  at: '2018-09-25'
+- type: updated
+  at: '2023-07-05'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

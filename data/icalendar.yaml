@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAicalendar
-title:
-- content: iCalendar Element Registries
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/icalendar
-  type: self
 type: standard
-docid:
-- id: IANA icalendar
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: iCalendar Element Registries
+source:
+- type: self
+  content: https://www.iana.org/assignments/icalendar
+docidentifier:
+- content: IANA icalendar
   type: IANA
   primary: true
 docnumber: icalendar
 date:
 - type: created
-  value: '2009-04-29'
+  at: '2009-04-29'
 - type: updated
-  value: '2023-12-06'
+  at: '2023-12-06'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

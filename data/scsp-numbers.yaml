@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAscsp-numbers
-title:
-- content: Server Cache Synchronization Protocol (SCSP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/scsp-numbers
-  type: self
+id: IANAscspnumbers
 type: standard
-docid:
-- id: IANA scsp-numbers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Server Cache Synchronization Protocol (SCSP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/scsp-numbers
+docidentifier:
+- content: IANA scsp-numbers
   type: IANA
   primary: true
 docnumber: scsp-numbers
 date:
 - type: updated
-  value: '2001-05-10'
+  at: '2001-05-10'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,0 +1,33 @@
+---
+id: IANApatncparameterssoftwaredatamodeltypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Software Data Model Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/pa-tnc-parameters
+docidentifier:
+- content: IANA pa-tnc-parameters/software-data-model-types
+  type: IANA
+  primary: true
+docnumber: pa-tnc-parameters/software-data-model-types
+date:
+- type: created
+  at: '2009-11-13'
+- type: updated
+  at: '2023-06-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

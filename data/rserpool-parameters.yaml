@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANArserpool-parameters
-title:
-- content: Reliable Server Pooling (RSerPool) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rserpool-parameters
-  type: self
+id: IANArserpoolparameters
 type: standard
-docid:
-- id: IANA rserpool-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Reliable Server Pooling (RSerPool) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/rserpool-parameters
+docidentifier:
+- content: IANA rserpool-parameters
   type: IANA
   primary: true
 docnumber: rserpool-parameters
 date:
 - type: created
-  value: '2008-07-25'
+  at: '2008-07-25'
 - type: updated
-  value: '2008-09-30'
+  at: '2008-09-30'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

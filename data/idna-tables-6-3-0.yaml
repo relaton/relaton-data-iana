@@ -1,0 +1,33 @@
+---
+id: IANAidnatables630
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IDNA Rules and Derived Property Values
+source:
+- type: self
+  content: https://www.iana.org/assignments/idna-tables-6.3.0
+docidentifier:
+- content: IANA idna-tables-6.3.0
+  type: IANA
+  primary: true
+docnumber: idna-tables-6.3.0
+date:
+- type: created
+  at: '2010-03-31'
+- type: updated
+  at: '2022-02-17'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

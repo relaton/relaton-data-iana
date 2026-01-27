@@ -1,0 +1,31 @@
+---
+id: IANAlmpparameterslmpparameters4
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: LMP Object Class name space and Class type (C-Type)
+source:
+- type: self
+  content: https://www.iana.org/assignments/lmp-parameters
+docidentifier:
+- content: IANA lmp-parameters/lmp-parameters-4
+  type: IANA
+  primary: true
+docnumber: lmp-parameters/lmp-parameters-4
+date:
+- type: updated
+  at: '2019-03-25'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

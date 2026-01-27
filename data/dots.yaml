@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAdots
-title:
-- content: Distributed Denial-of-Service Open Threat Signaling (DOTS) Signal Channel
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/dots
-  type: self
 type: standard
-docid:
-- id: IANA dots
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Distributed Denial-of-Service Open Threat Signaling (DOTS) Signal Channel
+source:
+- type: self
+  content: https://www.iana.org/assignments/dots
+docidentifier:
+- content: IANA dots
   type: IANA
   primary: true
 docnumber: dots
 date:
 - type: created
-  value: '2020-01-16'
+  at: '2020-01-16'
 - type: updated
-  value: '2023-03-03'
+  at: '2023-03-03'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

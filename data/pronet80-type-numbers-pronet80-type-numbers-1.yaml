@@ -1,0 +1,31 @@
+---
+id: IANApronet80typenumberspronet80typenumbers1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Pronet 80 Type Numbers
+source:
+- type: self
+  content: https://www.iana.org/assignments/pronet80-type-numbers
+docidentifier:
+- content: IANA pronet80-type-numbers/pronet80-type-numbers-1
+  type: IANA
+  primary: true
+docnumber: pronet80-type-numbers/pronet80-type-numbers-1
+date:
+- type: updated
+  at: '2001-06-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

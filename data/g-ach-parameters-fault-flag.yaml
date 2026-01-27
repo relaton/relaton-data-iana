@@ -1,0 +1,33 @@
+---
+id: IANAgachparametersfaultflag
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: MPLS Fault OAM Flag Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/g-ach-parameters
+docidentifier:
+- content: IANA g-ach-parameters/fault-flag
+  type: IANA
+  primary: true
+docnumber: g-ach-parameters/fault-flag
+date:
+- type: created
+  at: '2014-02-07'
+- type: updated
+  at: '2024-10-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

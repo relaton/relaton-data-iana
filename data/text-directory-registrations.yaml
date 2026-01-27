@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAtext-directory-registrations
-title:
-- content: text/directory Registrations
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/text-directory-registrations
-  type: self
+id: IANAtextdirectoryregistrations
 type: standard
-docid:
-- id: IANA text-directory-registrations
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: text/directory Registrations
+source:
+- type: self
+  content: https://www.iana.org/assignments/text-directory-registrations
+docidentifier:
+- content: IANA text-directory-registrations
   type: IANA
   primary: true
 docnumber: text-directory-registrations
 date:
 - type: created
-  value: '2005-04-11'
+  at: '2005-04-11'
 - type: updated
-  value: '2015-03-05'
+  at: '2015-03-05'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

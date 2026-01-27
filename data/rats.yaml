@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANArats
-title:
-- content: Remote Attestation Procedures (RATS)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rats
-  type: self
 type: standard
-docid:
-- id: IANA rats
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Remote Attestation Procedures (RATS)
+source:
+- type: self
+  content: https://www.iana.org/assignments/rats
+docidentifier:
+- content: IANA rats
   type: IANA
   primary: true
 docnumber: rats
 date:
 - type: created
-  value: '2024-07-26'
+  at: '2024-07-26'
 - type: updated
-  value: '2024-08-02'
+  at: '2024-08-02'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

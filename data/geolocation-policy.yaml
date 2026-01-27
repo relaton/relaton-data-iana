@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAgeolocation-policy
-title:
-- content: Geolocation Policy
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/geolocation-policy
-  type: self
+id: IANAgeolocationpolicy
 type: standard
-docid:
-- id: IANA geolocation-policy
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Geolocation Policy
+source:
+- type: self
+  content: https://www.iana.org/assignments/geolocation-policy
+docidentifier:
+- content: IANA geolocation-policy
   type: IANA
   primary: true
 docnumber: geolocation-policy
 date:
 - type: created
-  value: '2012-09-06'
+  at: '2012-09-06'
 - type: updated
-  value: '2013-01-11'
+  at: '2013-01-11'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

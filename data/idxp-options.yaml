@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAidxp-options
-title:
-- content: Intrusion Detection Exchange Protocol (IDXP) Options
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/idxp-options
-  type: self
+id: IANAidxpoptions
 type: standard
-docid:
-- id: IANA idxp-options
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Intrusion Detection Exchange Protocol (IDXP) Options
+source:
+- type: self
+  content: https://www.iana.org/assignments/idxp-options
+docidentifier:
+- content: IANA idxp-options
   type: IANA
   primary: true
 docnumber: idxp-options
 date:
 - type: created
-  value: '2003-03-13'
+  at: '2003-03-13'
 - type: updated
-  value: '2007-04-03'
+  at: '2007-04-03'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

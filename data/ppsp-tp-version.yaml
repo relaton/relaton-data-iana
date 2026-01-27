@@ -1,0 +1,33 @@
+---
+id: IANAppsptpversion
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: PPSTP Version Number Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/ppsp-tp
+docidentifier:
+- content: IANA ppsp-tp/version
+  type: IANA
+  primary: true
+docnumber: ppsp-tp/version
+date:
+- type: created
+  at: '2016-01-14'
+- type: updated
+  at: '2016-06-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

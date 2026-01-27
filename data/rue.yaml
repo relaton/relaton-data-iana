@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANArue
-title:
-- content: Relay User Equipment (RUE)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rue
-  type: self
 type: standard
-docid:
-- id: IANA rue
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Relay User Equipment (RUE)
+source:
+- type: self
+  content: https://www.iana.org/assignments/rue
+docidentifier:
+- content: IANA rue
   type: IANA
   primary: true
 docnumber: rue
 date:
 - type: created
-  value: '2022-03-01'
+  at: '2022-03-01'
 - type: updated
-  value: '2022-07-19'
+  at: '2022-07-19'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

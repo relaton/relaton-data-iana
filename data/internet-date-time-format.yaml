@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAinternet-date-time-format
-title:
-- content: Internet Date/Time Format
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/internet-date-time-format
-  type: self
+id: IANAinternetdatetimeformat
 type: standard
-docid:
-- id: IANA internet-date-time-format
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Internet Date/Time Format
+source:
+- type: self
+  content: https://www.iana.org/assignments/internet-date-time-format
+docidentifier:
+- content: IANA internet-date-time-format
   type: IANA
   primary: true
 docnumber: internet-date-time-format
 date:
 - type: created
-  value: '2023-10-24'
+  at: '2023-10-24'
 - type: updated
-  value: '2024-05-22'
+  at: '2024-05-22'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAwesp-flags
-title:
-- content: Wrapped Encapsulating Security Payload (WESP) Flags
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/wesp-flags
-  type: self
+id: IANAwespflags
 type: standard
-docid:
-- id: IANA wesp-flags
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Wrapped Encapsulating Security Payload (WESP) Flags
+source:
+- type: self
+  content: https://www.iana.org/assignments/wesp-flags
+docidentifier:
+- content: IANA wesp-flags
   type: IANA
   primary: true
 docnumber: wesp-flags
 date:
 - type: created
-  value: '2010-01-27'
+  at: '2010-01-27'
 - type: updated
-  value: '2010-04-28'
+  at: '2010-04-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

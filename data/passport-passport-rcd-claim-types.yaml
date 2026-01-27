@@ -1,0 +1,33 @@
+---
+id: IANApassportpassportrcdclaimtypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: PASSporT RCD Claim Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/passport
+docidentifier:
+- content: IANA passport/passport-rcd-claim-types
+  type: IANA
+  primary: true
+docnumber: passport/passport-rcd-claim-types
+date:
+- type: created
+  at: '2017-06-12'
+- type: updated
+  at: '2023-12-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

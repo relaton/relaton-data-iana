@@ -1,0 +1,33 @@
+---
+id: IANAbundleprimaryversion
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Primary Bundle Protocol Version
+source:
+- type: self
+  content: https://www.iana.org/assignments/bundle
+docidentifier:
+- content: IANA bundle/primary-version
+  type: IANA
+  primary: true
+docnumber: bundle/primary-version
+date:
+- type: created
+  at: '2011-03-24'
+- type: updated
+  at: '2025-01-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

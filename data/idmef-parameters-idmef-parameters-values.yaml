@@ -1,0 +1,33 @@
+---
+id: IANAidmefparametersidmefparametersvalues
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Attribute Values
+source:
+- type: self
+  content: https://www.iana.org/assignments/idmef-parameters
+docidentifier:
+- content: IANA idmef-parameters/idmef-parameters-values
+  type: IANA
+  primary: true
+docnumber: idmef-parameters/idmef-parameters-values
+date:
+- type: created
+  at: '2006-10-04'
+- type: updated
+  at: '2007-03-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

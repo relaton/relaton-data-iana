@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAex-mobility-subtypes
-title:
-- content: Experimental Mobility Protocol Subtype Registry
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ex-mobility-subtypes
-  type: self
+id: IANAexmobilitysubtypes
 type: standard
-docid:
-- id: IANA ex-mobility-subtypes
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Experimental Mobility Protocol Subtype Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/ex-mobility-subtypes
+docidentifier:
+- content: IANA ex-mobility-subtypes
   type: IANA
   primary: true
 docnumber: ex-mobility-subtypes
 date:
 - type: created
-  value: '2005-01-19'
+  at: '2005-01-19'
 - type: updated
-  value: '2009-08-28'
+  at: '2009-08-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

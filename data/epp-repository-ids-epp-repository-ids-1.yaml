@@ -1,0 +1,33 @@
+---
+id: IANAepprepositoryidsepprepositoryids1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: EPP Repository Identifiers
+source:
+- type: self
+  content: https://www.iana.org/assignments/epp-repository-ids
+docidentifier:
+- content: IANA epp-repository-ids/epp-repository-ids-1
+  type: IANA
+  primary: true
+docnumber: epp-repository-ids/epp-repository-ids-1
+date:
+- type: created
+  at: '2004-10-26'
+- type: updated
+  at: '2025-02-18'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

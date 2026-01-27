@@ -1,0 +1,31 @@
+---
+id: IANAipparametersipv4routeralertoptionvalues
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IPv4 Router Alert Option Values
+source:
+- type: self
+  content: https://www.iana.org/assignments/ip-parameters
+docidentifier:
+- content: IANA ip-parameters/ipv4-router-alert-option-values
+  type: IANA
+  primary: true
+docnumber: ip-parameters/ipv4-router-alert-option-values
+date:
+- type: updated
+  at: '2018-05-03'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

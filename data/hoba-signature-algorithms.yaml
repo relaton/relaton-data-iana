@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAhoba-signature-algorithms
-title:
-- content: HTTP Origin-Bound Authentication (HOBA) Signature Algorithms
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/hoba-signature-algorithms
-  type: self
+id: IANAhobasignaturealgorithms
 type: standard
-docid:
-- id: IANA hoba-signature-algorithms
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: HTTP Origin-Bound Authentication (HOBA) Signature Algorithms
+source:
+- type: self
+  content: https://www.iana.org/assignments/hoba-signature-algorithms
+docidentifier:
+- content: IANA hoba-signature-algorithms
   type: IANA
   primary: true
 docnumber: hoba-signature-algorithms
 date:
 - type: created
-  value: '2015-01-20'
+  at: '2015-01-20'
 - type: updated
-  value: '2015-03-11'
+  at: '2015-03-11'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

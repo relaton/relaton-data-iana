@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAcapwap-parameters
-title:
-- content: Control And Provisioning of Wireless Access Points (CAPWAP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/capwap-parameters
-  type: self
+id: IANAcapwapparameters
 type: standard
-docid:
-- id: IANA capwap-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Control And Provisioning of Wireless Access Points (CAPWAP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/capwap-parameters
+docidentifier:
+- content: IANA capwap-parameters
   type: IANA
   primary: true
 docnumber: capwap-parameters
 date:
 - type: created
-  value: '2008-12-04'
+  at: '2008-12-04'
 - type: updated
-  value: '2023-06-06'
+  at: '2023-06-06'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

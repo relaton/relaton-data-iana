@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAmls
-title:
-- content: Messaging Layer Security (MLS)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/mls
-  type: self
 type: standard
-docid:
-- id: IANA mls
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Messaging Layer Security (MLS)
+source:
+- type: self
+  content: https://www.iana.org/assignments/mls
+docidentifier:
+- content: IANA mls
   type: IANA
   primary: true
 docnumber: mls
 date:
 - type: created
-  value: '2023-04-06'
+  at: '2023-04-06'
 - type: updated
-  value: '2023-08-24'
+  at: '2023-08-24'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

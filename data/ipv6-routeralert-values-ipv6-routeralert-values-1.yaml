@@ -1,0 +1,33 @@
+---
+id: IANAipv6routeralertvaluesipv6routeralertvalues1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IPv6 Router Alert Option Values
+source:
+- type: self
+  content: https://www.iana.org/assignments/ipv6-routeralert-values
+docidentifier:
+- content: IANA ipv6-routeralert-values/ipv6-routeralert-values-1
+  type: IANA
+  primary: true
+docnumber: ipv6-routeralert-values/ipv6-routeralert-values-1
+date:
+- type: created
+  at: '2001-06-29'
+- type: updated
+  at: '2024-05-24'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

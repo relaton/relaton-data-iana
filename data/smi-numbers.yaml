@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAsmi-numbers
-title:
-- content: Structure of Management Information (SMI) Numbers (MIB Module Registrations)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/smi-numbers
-  type: self
+id: IANAsminumbers
 type: standard
-docid:
-- id: IANA smi-numbers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Structure of Management Information (SMI) Numbers (MIB Module Registrations)
+source:
+- type: self
+  content: https://www.iana.org/assignments/smi-numbers
+docidentifier:
+- content: IANA smi-numbers
   type: IANA
   primary: true
 docnumber: smi-numbers
 date:
 - type: updated
-  value: '2025-02-12'
+  at: '2025-02-12'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

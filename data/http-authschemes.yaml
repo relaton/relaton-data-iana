@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAhttp-authschemes
-title:
-- content: Hypertext Transfer Protocol (HTTP) Authentication Scheme Registry
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/http-authschemes
-  type: self
+id: IANAhttpauthschemes
 type: standard
-docid:
-- id: IANA http-authschemes
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Hypertext Transfer Protocol (HTTP) Authentication Scheme Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/http-authschemes
+docidentifier:
+- content: IANA http-authschemes
   type: IANA
   primary: true
 docnumber: http-authschemes
 date:
 - type: created
-  value: '2014-02-17'
+  at: '2014-02-17'
 - type: updated
-  value: '2025-02-18'
+  at: '2025-02-18'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

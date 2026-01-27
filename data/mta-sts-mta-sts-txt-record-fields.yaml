@@ -1,0 +1,33 @@
+---
+id: IANAmtastsmtaststxtrecordfields
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: MTA-STS TXT Record Fields
+source:
+- type: self
+  content: https://www.iana.org/assignments/mta-sts
+docidentifier:
+- content: IANA mta-sts/mta-sts-txt-record-fields
+  type: IANA
+  primary: true
+docnumber: mta-sts/mta-sts-txt-record-fields
+date:
+- type: created
+  at: '2018-06-21'
+- type: updated
+  at: '2018-09-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

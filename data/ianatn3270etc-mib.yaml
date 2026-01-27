@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAianatn3270etc-mib
-title:
-- content: IANATn3270eTC-MIB
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ianatn3270etc-mib
-  type: self
+id: IANAianatn3270etcmib
 type: standard
-docid:
-- id: IANA ianatn3270etc-mib
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IANATn3270eTC-MIB
+source:
+- type: self
+  content: https://www.iana.org/assignments/ianatn3270etc-mib
+docidentifier:
+- content: IANA ianatn3270etc-mib
   type: IANA
   primary: true
 docnumber: ianatn3270etc-mib
 date:
 - type: created
-  value: '1999-09-01'
+  at: '1999-09-01'
 - type: updated
-  value: '2014-05-22'
+  at: '2014-05-22'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

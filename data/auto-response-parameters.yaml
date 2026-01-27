@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAauto-response-parameters
-title:
-- content: Automatic Responses to Electronic Mail Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/auto-response-parameters
-  type: self
+id: IANAautoresponseparameters
 type: standard
-docid:
-- id: IANA auto-response-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Automatic Responses to Electronic Mail Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/auto-response-parameters
+docidentifier:
+- content: IANA auto-response-parameters
   type: IANA
   primary: true
 docnumber: auto-response-parameters
 date:
 - type: created
-  value: '2004-06-18'
+  at: '2004-06-18'
 - type: updated
-  value: '2009-01-23'
+  at: '2009-01-23'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

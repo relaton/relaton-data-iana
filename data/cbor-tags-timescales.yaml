@@ -1,0 +1,33 @@
+---
+id: IANAcbortagstimescales
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Timescales
+source:
+- type: self
+  content: https://www.iana.org/assignments/cbor-tags
+docidentifier:
+- content: IANA cbor-tags/timescales
+  type: IANA
+  primary: true
+docnumber: cbor-tags/timescales
+date:
+- type: created
+  at: '2013-09-19'
+- type: updated
+  at: '2025-04-03'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,32 +1,33 @@
 ---
-schema-version: v1.2.9
 id: IANAprophet
-title:
-- content: Probabilistic Routing Protocol using History of Encounters and Transitivity
-    (PRoPHET)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/prophet
-  type: self
 type: standard
-docid:
-- id: IANA prophet
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Probabilistic Routing Protocol using History of Encounters and Transitivity
+    (PRoPHET)
+source:
+- type: self
+  content: https://www.iana.org/assignments/prophet
+docidentifier:
+- content: IANA prophet
   type: IANA
   primary: true
 docnumber: prophet
 date:
 - type: created
-  value: '2012-06-04'
+  at: '2012-06-04'
 - type: updated
-  value: '2012-09-11'
+  at: '2012-09-11'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAianastoragemediatype-mib
-title:
-- content: IANA-STORAGE-MEDIA-TYPE-MIB
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ianastoragemediatype-mib
-  type: self
+id: IANAianastoragemediatypemib
 type: standard
-docid:
-- id: IANA ianastoragemediatype-mib
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IANA-STORAGE-MEDIA-TYPE-MIB
+source:
+- type: self
+  content: https://www.iana.org/assignments/ianastoragemediatype-mib
+docidentifier:
+- content: IANA ianastoragemediatype-mib
   type: IANA
   primary: true
 docnumber: ianastoragemediatype-mib
 date:
 - type: created
-  value: '2015-08-13'
+  at: '2015-08-13'
 - type: updated
-  value: '2016-06-17'
+  at: '2016-06-17'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

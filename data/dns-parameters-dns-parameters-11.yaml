@@ -1,0 +1,31 @@
+---
+id: IANAdnsparametersdnsparameters11
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: DNS EDNS0 Option Codes (OPT)
+source:
+- type: self
+  content: https://www.iana.org/assignments/dns-parameters
+docidentifier:
+- content: IANA dns-parameters/dns-parameters-11
+  type: IANA
+  primary: true
+docnumber: dns-parameters/dns-parameters-11
+date:
+- type: updated
+  at: '2025-04-04'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

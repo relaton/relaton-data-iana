@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAmarf-parameters
-title:
-- content: Messaging Abuse Reporting Format (MARF) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/marf-parameters
-  type: self
+id: IANAmarfparameters
 type: standard
-docid:
-- id: IANA marf-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Messaging Abuse Reporting Format (MARF) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/marf-parameters
+docidentifier:
+- content: IANA marf-parameters
   type: IANA
   primary: true
 docnumber: marf-parameters
 date:
 - type: created
-  value: '2010-05-26'
+  at: '2010-05-26'
 - type: updated
-  value: '2015-03-24'
+  at: '2015-03-24'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

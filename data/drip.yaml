@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAdrip
-title:
-- content: Drone Remote ID Protocol
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/drip
-  type: self
 type: standard
-docid:
-- id: IANA drip
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Drone Remote ID Protocol
+source:
+- type: self
+  content: https://www.iana.org/assignments/drip
+docidentifier:
+- content: IANA drip
   type: IANA
   primary: true
 docnumber: drip
 date:
 - type: created
-  value: '2022-12-08'
+  at: '2022-12-08'
 - type: updated
-  value: '2024-08-09'
+  at: '2024-08-09'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

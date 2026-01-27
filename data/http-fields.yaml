@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAhttp-fields
-title:
-- content: Hypertext Transfer Protocol (HTTP) Field Name Registry
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/http-fields
-  type: self
+id: IANAhttpfields
 type: standard
-docid:
-- id: IANA http-fields
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Hypertext Transfer Protocol (HTTP) Field Name Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/http-fields
+docidentifier:
+- content: IANA http-fields
   type: IANA
   primary: true
 docnumber: http-fields
 date:
 - type: created
-  value: '2021-10-01'
+  at: '2021-10-01'
 - type: updated
-  value: '2025-04-01'
+  at: '2025-04-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

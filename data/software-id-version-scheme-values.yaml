@@ -1,0 +1,33 @@
+---
+id: IANAsoftwareidversionschemevalues
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Software ID Version Scheme Values
+source:
+- type: self
+  content: https://www.iana.org/assignments/software-id
+docidentifier:
+- content: IANA software-id/version-scheme-values
+  type: IANA
+  primary: true
+docnumber: software-id/version-scheme-values
+date:
+- type: created
+  at: '2022-08-01'
+- type: updated
+  at: '2023-09-22'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

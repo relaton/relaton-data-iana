@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAfc-port-types
-title:
-- content: Fibre Channel Port Types Registry
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/fc-port-types
-  type: self
+id: IANAfcporttypes
 type: standard
-docid:
-- id: IANA fc-port-types
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Fibre Channel Port Types Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/fc-port-types
+docidentifier:
+- content: IANA fc-port-types
   type: IANA
   primary: true
 docnumber: fc-port-types
 date:
 - type: created
-  value: '2005-04-07'
+  at: '2005-04-07'
 - type: updated
-  value: '2005-10-05'
+  at: '2005-10-05'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

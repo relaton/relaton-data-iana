@@ -1,0 +1,33 @@
+---
+id: IANAmanetparameterscryptographicalgorithm
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cryptographic Functions
+source:
+- type: self
+  content: https://www.iana.org/assignments/manet-parameters
+docidentifier:
+- content: IANA manet-parameters/cryptographic-algorithm
+  type: IANA
+  primary: true
+docnumber: manet-parameters/cryptographic-algorithm
+date:
+- type: created
+  at: '2008-12-23'
+- type: updated
+  at: '2022-01-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANApt-tls-parameters
-title:
-- content: TLS-based Posture Transport Protocol (PT-TLS)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/pt-tls-parameters
-  type: self
+id: IANApttlsparameters
 type: standard
-docid:
-- id: IANA pt-tls-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: TLS-based Posture Transport Protocol (PT-TLS)
+source:
+- type: self
+  content: https://www.iana.org/assignments/pt-tls-parameters
+docidentifier:
+- content: IANA pt-tls-parameters
   type: IANA
   primary: true
 docnumber: pt-tls-parameters
 date:
 - type: created
-  value: '2013-01-03'
+  at: '2013-01-03'
 - type: updated
-  value: '2013-03-01'
+  at: '2013-03-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

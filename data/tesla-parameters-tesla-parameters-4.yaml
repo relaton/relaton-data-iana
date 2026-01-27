@@ -1,0 +1,33 @@
+---
+id: IANAteslaparametersteslaparameters4
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Signature Cryptographic Function, TESLA-SIG-CRYPTO-FUNC Values
+source:
+- type: self
+  content: https://www.iana.org/assignments/tesla-parameters
+docidentifier:
+- content: IANA tesla-parameters/tesla-parameters-4
+  type: IANA
+  primary: true
+docnumber: tesla-parameters/tesla-parameters-4
+date:
+- type: created
+  at: '2006-02-14'
+- type: updated
+  at: '2010-04-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

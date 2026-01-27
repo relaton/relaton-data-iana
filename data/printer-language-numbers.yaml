@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAprinter-language-numbers
-title:
-- content: Printer MIB Interpreters Language Families - OBSOLETE
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/printer-language-numbers
-  type: self
+id: IANAprinterlanguagenumbers
 type: standard
-docid:
-- id: IANA printer-language-numbers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Printer MIB Interpreters Language Families - OBSOLETE
+source:
+- type: self
+  content: https://www.iana.org/assignments/printer-language-numbers
+docidentifier:
+- content: IANA printer-language-numbers
   type: IANA
   primary: true
 docnumber: printer-language-numbers
 date:
 - type: updated
-  value: '2022-01-28'
+  at: '2022-01-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

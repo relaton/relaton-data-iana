@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAbier
-title:
-- content: Bit Index Explicit Replication (BIER)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/bier
-  type: self
 type: standard
-docid:
-- id: IANA bier
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Bit Index Explicit Replication (BIER)
+source:
+- type: self
+  content: https://www.iana.org/assignments/bier
+docidentifier:
+- content: IANA bier
   type: IANA
   primary: true
 docnumber: bier
 date:
 - type: created
-  value: '2017-10-31'
+  at: '2017-10-31'
 - type: updated
-  value: '2024-12-24'
+  at: '2024-12-24'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

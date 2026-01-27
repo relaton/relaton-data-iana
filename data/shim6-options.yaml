@@ -1,0 +1,33 @@
+---
+id: IANAshim6options
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Shim6 Options
+source:
+- type: self
+  content: https://www.iana.org/assignments/shim6
+docidentifier:
+- content: IANA shim6/options
+  type: IANA
+  primary: true
+docnumber: shim6/options
+date:
+- type: created
+  at: '2009-03-18'
+- type: updated
+  at: '2009-06-18'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

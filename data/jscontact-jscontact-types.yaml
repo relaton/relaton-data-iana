@@ -1,0 +1,33 @@
+---
+id: IANAjscontactjscontacttypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: JSContact Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/jscontact
+docidentifier:
+- content: IANA jscontact/jscontact-types
+  type: IANA
+  primary: true
+docnumber: jscontact/jscontact-types
+date:
+- type: created
+  at: '2023-10-27'
+- type: updated
+  at: '2024-12-19'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

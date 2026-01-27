@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAphbid-codes
-title:
-- content: Per Hop Behavior Identification Codes
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/phbid-codes
-  type: self
+id: IANAphbidcodes
 type: standard
-docid:
-- id: IANA phbid-codes
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Per Hop Behavior Identification Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/phbid-codes
+docidentifier:
+- content: IANA phbid-codes
   type: IANA
   primary: true
 docnumber: phbid-codes
 date:
 - type: updated
-  value: '2001-06-21'
+  at: '2001-06-21'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

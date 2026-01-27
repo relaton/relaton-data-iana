@@ -1,0 +1,33 @@
+---
+id: IANAdmarcparametersreportformat
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: DMARC Report Formats
+source:
+- type: self
+  content: https://www.iana.org/assignments/dmarc-parameters
+docidentifier:
+- content: IANA dmarc-parameters/report-format
+  type: IANA
+  primary: true
+docnumber: dmarc-parameters/report-format
+date:
+- type: created
+  at: '2015-01-27'
+- type: updated
+  at: '2025-04-04'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

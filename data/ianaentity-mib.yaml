@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAianaentity-mib
-title:
-- content: IANA-ENTITY-MIB
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ianaentity-mib
-  type: self
+id: IANAianaentitymib
 type: standard
-docid:
-- id: IANA ianaentity-mib
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IANA-ENTITY-MIB
+source:
+- type: self
+  content: https://www.iana.org/assignments/ianaentity-mib
+docidentifier:
+- content: IANA ianaentity-mib
   type: IANA
   primary: true
 docnumber: ianaentity-mib
 date:
 - type: created
-  value: '2013-02-27'
+  at: '2013-02-27'
 - type: updated
-  value: '2022-12-01'
+  at: '2022-12-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

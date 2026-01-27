@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAipv6-parameters
-title:
-- content: Internet Protocol Version 6 (IPv6) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ipv6-parameters
-  type: self
+id: IANAipv6parameters
 type: standard
-docid:
-- id: IANA ipv6-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Internet Protocol Version 6 (IPv6) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/ipv6-parameters
+docidentifier:
+- content: IANA ipv6-parameters
   type: IANA
   primary: true
 docnumber: ipv6-parameters
 date:
 - type: updated
-  value: '2024-12-20'
+  at: '2024-12-20'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

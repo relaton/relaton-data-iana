@@ -1,0 +1,33 @@
+---
+id: IANAqspecqspecversion
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: QSPEC Version
+source:
+- type: self
+  content: https://www.iana.org/assignments/qspec
+docidentifier:
+- content: IANA qspec/qspec-version
+  type: IANA
+  primary: true
+docnumber: qspec/qspec-version
+date:
+- type: created
+  at: '2010-02-24'
+- type: updated
+  at: '2010-10-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

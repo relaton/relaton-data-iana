@@ -1,32 +1,33 @@
 ---
-schema-version: v1.2.9
-id: IANAeap-ikev2-payloads
-title:
-- content: Extensible Authentication Protocol-Internet Key Exchange Version 2 (EAP-IKEv2)
-    Payloads
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/eap-ikev2-payloads
-  type: self
+id: IANAeapikev2payloads
 type: standard
-docid:
-- id: IANA eap-ikev2-payloads
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Extensible Authentication Protocol-Internet Key Exchange Version 2 (EAP-IKEv2)
+    Payloads
+source:
+- type: self
+  content: https://www.iana.org/assignments/eap-ikev2-payloads
+docidentifier:
+- content: IANA eap-ikev2-payloads
   type: IANA
   primary: true
 docnumber: eap-ikev2-payloads
 date:
 - type: created
-  value: '2007-11-02'
+  at: '2007-11-02'
 - type: updated
-  value: '2013-07-26'
+  at: '2013-07-26'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

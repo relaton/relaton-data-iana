@@ -1,0 +1,33 @@
+---
+id: IANAppsppchunkaddressing
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: PPSP Peer Protocol Chunk Addressing Method Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/ppspp
+docidentifier:
+- content: IANA ppspp/chunk-addressing
+  type: IANA
+  primary: true
+docnumber: ppspp/chunk-addressing
+date:
+- type: created
+  at: '2015-04-05'
+- type: updated
+  at: '2015-07-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

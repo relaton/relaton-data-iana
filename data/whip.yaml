@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAwhip
-title:
-- content: WebRTC-HTTP Ingestion Protocol (WHIP)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/whip
-  type: self
 type: standard
-docid:
-- id: IANA whip
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: WebRTC-HTTP Ingestion Protocol (WHIP)
+source:
+- type: self
+  content: https://www.iana.org/assignments/whip
+docidentifier:
+- content: IANA whip
   type: IANA
   primary: true
 docnumber: whip
 date:
 - type: created
-  value: '2024-08-27'
+  at: '2024-08-27'
 - type: updated
-  value: '2025-03-27'
+  at: '2025-03-27'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

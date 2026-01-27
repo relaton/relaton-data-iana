@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAimap-response-codes
-title:
-- content: IMAP Response Codes
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/imap-response-codes
-  type: self
+id: IANAimapresponsecodes
 type: standard
-docid:
-- id: IANA imap-response-codes
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IMAP Response Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/imap-response-codes
+docidentifier:
+- content: IANA imap-response-codes
   type: IANA
   primary: true
 docnumber: imap-response-codes
 date:
 - type: created
-  value: '2009-03-24'
+  at: '2009-03-24'
 - type: updated
-  value: '2024-11-26'
+  at: '2024-11-26'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

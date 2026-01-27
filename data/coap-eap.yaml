@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAcoap-eap
-title:
-- content: CoAP-EAP Protocol
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/coap-eap
-  type: self
+id: IANAcoapeap
 type: standard
-docid:
-- id: IANA coap-eap
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CoAP-EAP Protocol
+source:
+- type: self
+  content: https://www.iana.org/assignments/coap-eap
+docidentifier:
+- content: IANA coap-eap
   type: IANA
   primary: true
 docnumber: coap-eap
 date:
 - type: created
-  value: '2025-02-14'
+  at: '2025-02-14'
 - type: updated
-  value: '2025-02-14'
+  at: '2025-02-14'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

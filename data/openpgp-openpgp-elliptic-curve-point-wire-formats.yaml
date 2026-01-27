@@ -1,0 +1,33 @@
+---
+id: IANAopenpgpopenpgpellipticcurvepointwireformats
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OpenPGP Elliptic Curve Point Wire Formats
+source:
+- type: self
+  content: https://www.iana.org/assignments/openpgp
+docidentifier:
+- content: IANA openpgp/openpgp-elliptic-curve-point-wire-formats
+  type: IANA
+  primary: true
+docnumber: openpgp/openpgp-elliptic-curve-point-wire-formats
+date:
+- type: created
+  at: '2024-01-19'
+- type: updated
+  at: '2024-09-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

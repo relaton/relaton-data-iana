@@ -1,0 +1,33 @@
+---
+id: IANAbundletcpconvergencelayermessage
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Bundle Protocol TCP Convergence-Layer Version 4 Message Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/bundle
+docidentifier:
+- content: IANA bundle/tcp-convergence-layer-message
+  type: IANA
+  primary: true
+docnumber: bundle/tcp-convergence-layer-message
+date:
+- type: created
+  at: '2011-03-24'
+- type: updated
+  at: '2025-01-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

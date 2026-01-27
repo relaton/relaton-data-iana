@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAimap-jmap-keywords
-title:
-- content: IMAP and JMAP Keywords
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/imap-jmap-keywords
-  type: self
+id: IANAimapjmapkeywords
 type: standard
-docid:
-- id: IANA imap-jmap-keywords
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IMAP and JMAP Keywords
+source:
+- type: self
+  content: https://www.iana.org/assignments/imap-jmap-keywords
+docidentifier:
+- content: IANA imap-jmap-keywords
   type: IANA
   primary: true
 docnumber: imap-jmap-keywords
 date:
 - type: created
-  value: '2009-12-22'
+  at: '2009-12-22'
 - type: updated
-  value: '2022-01-28'
+  at: '2022-01-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

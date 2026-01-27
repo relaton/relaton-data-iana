@@ -1,0 +1,33 @@
+---
+id: IANAscepscepmessagetypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SCEP Message Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/scep
+docidentifier:
+- content: IANA scep/scep-message-types
+  type: IANA
+  primary: true
+docnumber: scep/scep-message-types
+date:
+- type: created
+  at: '2020-03-25'
+- type: updated
+  at: '2020-11-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

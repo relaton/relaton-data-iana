@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAmessage-header-types
-title:
-- content: Context labels for Internet Messages
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/message-header-types
-  type: self
+id: IANAmessageheadertypes
 type: standard
-docid:
-- id: IANA message-header-types
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Context labels for Internet Messages
+source:
+- type: self
+  content: https://www.iana.org/assignments/message-header-types
+docidentifier:
+- content: IANA message-header-types
   type: IANA
   primary: true
 docnumber: message-header-types
 date:
 - type: created
-  value: '2002-08-08'
+  at: '2002-08-08'
 - type: updated
-  value: '2004-10-26'
+  at: '2004-10-26'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAianaiprouteprotocol-mib
-title:
-- content: IANA-RTPROTO-MIB
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ianaiprouteprotocol-mib
-  type: self
+id: IANAianaiprouteprotocolmib
 type: standard
-docid:
-- id: IANA ianaiprouteprotocol-mib
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IANA-RTPROTO-MIB
+source:
+- type: self
+  content: https://www.iana.org/assignments/ianaiprouteprotocol-mib
+docidentifier:
+- content: IANA ianaiprouteprotocol-mib
   type: IANA
   primary: true
 docnumber: ianaiprouteprotocol-mib
 date:
 - type: created
-  value: '2000-09-26'
+  at: '2000-09-26'
 - type: updated
-  value: '2016-04-25'
+  at: '2016-04-25'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

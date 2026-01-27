@@ -1,0 +1,31 @@
+---
+id: IANApop3extensionmechanismpop3extensionmechanism1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: POP3 Capabilities
+source:
+- type: self
+  content: https://www.iana.org/assignments/pop3-extension-mechanism
+docidentifier:
+- content: IANA pop3-extension-mechanism/pop3-extension-mechanism-1
+  type: IANA
+  primary: true
+docnumber: pop3-extension-mechanism/pop3-extension-mechanism-1
+date:
+- type: updated
+  at: '2013-03-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

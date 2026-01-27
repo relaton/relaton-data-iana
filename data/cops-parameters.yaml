@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAcops-parameters
-title:
-- content: Common Open Policy Service (COPS) Protocol
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/cops-parameters
-  type: self
+id: IANAcopsparameters
 type: standard
-docid:
-- id: IANA cops-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Common Open Policy Service (COPS) Protocol
+source:
+- type: self
+  content: https://www.iana.org/assignments/cops-parameters
+docidentifier:
+- content: IANA cops-parameters
   type: IANA
   primary: true
 docnumber: cops-parameters
 date:
 - type: created
-  value: 2000-11
+  at: 2000-11
 - type: updated
-  value: '2012-09-28'
+  at: '2012-09-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

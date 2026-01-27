@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANApreemption-namespace
-title:
-- content: Preemption Namespace Registry
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/preemption-namespace
-  type: self
+id: IANApreemptionnamespace
 type: standard
-docid:
-- id: IANA preemption-namespace
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Preemption Namespace Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/preemption-namespace
+docidentifier:
+- content: IANA preemption-namespace
   type: IANA
   primary: true
 docnumber: preemption-namespace
 date:
 - type: created
-  value: '2005-10-18'
+  at: '2005-10-18'
 - type: updated
-  value: '2006-02-23'
+  at: '2006-02-23'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

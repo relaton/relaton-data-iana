@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAtcp-parameters
-title:
-- content: Transmission Control Protocol (TCP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/tcp-parameters
-  type: self
+id: IANAtcpparameters
 type: standard
-docid:
-- id: IANA tcp-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Transmission Control Protocol (TCP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/tcp-parameters
+docidentifier:
+- content: IANA tcp-parameters
   type: IANA
   primary: true
 docnumber: tcp-parameters
 date:
 - type: updated
-  value: '2025-03-26'
+  at: '2025-03-26'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

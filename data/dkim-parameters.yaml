@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAdkim-parameters
-title:
-- content: DomainKeys Identified Mail (DKIM) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/dkim-parameters
-  type: self
+id: IANAdkimparameters
 type: standard
-docid:
-- id: IANA dkim-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: DomainKeys Identified Mail (DKIM) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/dkim-parameters
+docidentifier:
+- content: IANA dkim-parameters
   type: IANA
   primary: true
 docnumber: dkim-parameters
 date:
 - type: created
-  value: '2007-03-08'
+  at: '2007-03-08'
 - type: updated
-  value: '2018-07-06'
+  at: '2018-07-06'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,0 +1,31 @@
+---
+id: IANAtcpparametersmptcphandshake
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: MPTCP Handshake Algorithms
+source:
+- type: self
+  content: https://www.iana.org/assignments/tcp-parameters
+docidentifier:
+- content: IANA tcp-parameters/mptcp-handshake
+  type: IANA
+  primary: true
+docnumber: tcp-parameters/mptcp-handshake
+date:
+- type: updated
+  at: '2025-03-26'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

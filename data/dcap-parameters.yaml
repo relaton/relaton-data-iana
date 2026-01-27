@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAdcap-parameters
-title:
-- content: Data Link Switching Client Access Protocol (DCAP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/dcap-parameters
-  type: self
+id: IANAdcapparameters
 type: standard
-docid:
-- id: IANA dcap-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Data Link Switching Client Access Protocol (DCAP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/dcap-parameters
+docidentifier:
+- content: IANA dcap-parameters
   type: IANA
   primary: true
 docnumber: dcap-parameters
 date:
 - type: created
-  value: '2009-10-23'
+  at: '2009-10-23'
 - type: updated
-  value: '2009-10-23'
+  at: '2009-10-23'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

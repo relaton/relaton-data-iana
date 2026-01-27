@@ -1,0 +1,31 @@
+---
+id: IANAgssapiservicenamesgssapiservicenames1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: GSSAPI/Kerberos/SASL Service Names
+source:
+- type: self
+  content: https://www.iana.org/assignments/gssapi-service-names
+docidentifier:
+- content: IANA gssapi-service-names/gssapi-service-names-1
+  type: IANA
+  primary: true
+docnumber: gssapi-service-names/gssapi-service-names-1
+date:
+- type: updated
+  at: '2021-08-26'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,0 +1,31 @@
+---
+id: IANAcontdispcontdisp4
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Handling Parameter Values
+source:
+- type: self
+  content: https://www.iana.org/assignments/cont-disp
+docidentifier:
+- content: IANA cont-disp/cont-disp-4
+  type: IANA
+  primary: true
+docnumber: cont-disp/cont-disp-4
+date:
+- type: updated
+  at: '2021-09-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

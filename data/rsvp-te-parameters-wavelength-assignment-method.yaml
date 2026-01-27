@@ -1,0 +1,33 @@
+---
+id: IANArsvpteparameterswavelengthassignmentmethod
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Values for Wavelength Assignment Method field in WavelengthSelection Sub-TLV
+source:
+- type: self
+  content: https://www.iana.org/assignments/rsvp-te-parameters
+docidentifier:
+- content: IANA rsvp-te-parameters/wavelength-assignment-method
+  type: IANA
+  primary: true
+docnumber: rsvp-te-parameters/wavelength-assignment-method
+date:
+- type: created
+  at: '2006-01-23'
+- type: updated
+  at: '2019-07-17'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

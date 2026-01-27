@@ -1,0 +1,33 @@
+---
+id: IANArplsecuritysectionflags
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Security Section Flags
+source:
+- type: self
+  content: https://www.iana.org/assignments/rpl
+docidentifier:
+- content: IANA rpl/security-section-flags
+  type: IANA
+  primary: true
+docnumber: rpl/security-section-flags
+date:
+- type: created
+  at: '2011-04-08'
+- type: updated
+  at: '2025-03-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

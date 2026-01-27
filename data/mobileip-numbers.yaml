@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAmobileip-numbers
-title:
-- content: Mobile IPv4 Numbers
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/mobileip-numbers
-  type: self
+id: IANAmobileipnumbers
 type: standard
-docid:
-- id: IANA mobileip-numbers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mobile IPv4 Numbers
+source:
+- type: self
+  content: https://www.iana.org/assignments/mobileip-numbers
+docidentifier:
+- content: IANA mobileip-numbers
   type: IANA
   primary: true
 docnumber: mobileip-numbers
 date:
 - type: updated
-  value: '2023-08-24'
+  at: '2023-08-24'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

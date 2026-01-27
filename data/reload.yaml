@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAreload
-title:
-- content: REsource LOcation And Discovery (RELOAD)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/reload
-  type: self
 type: standard
-docid:
-- id: IANA reload
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: REsource LOcation And Discovery (RELOAD)
+source:
+- type: self
+  content: https://www.iana.org/assignments/reload
+docidentifier:
+- content: IANA reload
   type: IANA
   primary: true
 docnumber: reload
 date:
 - type: created
-  value: '2013-03-26'
+  at: '2013-03-26'
 - type: updated
-  value: '2017-03-24'
+  at: '2017-03-24'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

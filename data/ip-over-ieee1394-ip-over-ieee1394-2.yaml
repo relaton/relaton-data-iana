@@ -1,0 +1,33 @@
+---
+id: IANAipoverIEEE1394ipoverIEEE13942
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: MCAP (Multicast Channel Allocation Protocol) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/ip-over-IEEE1394
+docidentifier:
+- content: IANA ip-over-IEEE1394/ip-over-IEEE1394-2
+  type: IANA
+  primary: true
+docnumber: ip-over-IEEE1394/ip-over-IEEE1394-2
+date:
+- type: created
+  at: 2000-12
+- type: updated
+  at: '2009-06-08'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

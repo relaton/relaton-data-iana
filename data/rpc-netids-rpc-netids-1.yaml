@@ -1,0 +1,33 @@
+---
+id: IANArpcnetidsrpcnetids1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ONC RPC Netids (First Come First Served)
+source:
+- type: self
+  content: https://www.iana.org/assignments/rpc-netids
+docidentifier:
+- content: IANA rpc-netids/rpc-netids-1
+  type: IANA
+  primary: true
+docnumber: rpc-netids/rpc-netids-1
+date:
+- type: created
+  at: '2009-02-06'
+- type: updated
+  at: '2022-08-19'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

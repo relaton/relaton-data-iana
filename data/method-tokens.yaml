@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAmethod-tokens
-title:
-- content: Method Tokens
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/method-tokens
-  type: self
+id: IANAmethodtokens
 type: standard
-docid:
-- id: IANA method-tokens
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Method Tokens
+source:
+- type: self
+  content: https://www.iana.org/assignments/method-tokens
+docidentifier:
+- content: IANA method-tokens
   type: IANA
   primary: true
 docnumber: method-tokens
 date:
 - type: created
-  value: '2004-11-03'
+  at: '2004-11-03'
 - type: updated
-  value: '2022-09-15'
+  at: '2022-09-15'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

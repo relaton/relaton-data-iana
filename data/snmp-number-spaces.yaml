@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAsnmp-number-spaces
-title:
-- content: Simple Network Management Protocol (SNMP) Number Spaces
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/snmp-number-spaces
-  type: self
+id: IANAsnmpnumberspaces
 type: standard
-docid:
-- id: IANA snmp-number-spaces
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Simple Network Management Protocol (SNMP) Number Spaces
+source:
+- type: self
+  content: https://www.iana.org/assignments/snmp-number-spaces
+docidentifier:
+- content: IANA snmp-number-spaces
   type: IANA
   primary: true
 docnumber: snmp-number-spaces
 date:
 - type: updated
-  value: '2016-05-03'
+  at: '2016-05-03'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

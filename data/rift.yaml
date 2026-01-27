@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANArift
-title:
-- content: Routing in Fat Trees (RIFT)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rift
-  type: self
 type: standard
-docid:
-- id: IANA rift
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Routing in Fat Trees (RIFT)
+source:
+- type: self
+  content: https://www.iana.org/assignments/rift
+docidentifier:
+- content: IANA rift
   type: IANA
   primary: true
 docnumber: rift
 date:
 - type: created
-  value: '2024-06-07'
+  at: '2024-06-07'
 - type: updated
-  value: '2025-04-07'
+  at: '2025-04-07'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

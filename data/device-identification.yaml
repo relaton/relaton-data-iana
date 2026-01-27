@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAdevice-identification
-title:
-- content: Device Identification
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/device-identification
-  type: self
+id: IANAdeviceidentification
 type: standard
-docid:
-- id: IANA device-identification
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Device Identification
+source:
+- type: self
+  content: https://www.iana.org/assignments/device-identification
+docidentifier:
+- content: IANA device-identification
   type: IANA
   primary: true
 docnumber: device-identification
 date:
 - type: created
-  value: '2021-03-26'
+  at: '2021-03-26'
 - type: updated
-  value: '2024-08-02'
+  at: '2024-08-02'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

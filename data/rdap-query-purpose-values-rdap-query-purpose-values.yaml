@@ -1,0 +1,33 @@
+---
+id: IANArdapquerypurposevaluesrdapquerypurposevalues
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Registration Data Access Protocol (RDAP) Query Purpose Values
+source:
+- type: self
+  content: https://www.iana.org/assignments/rdap-query-purpose-values
+docidentifier:
+- content: IANA rdap-query-purpose-values/rdap-query-purpose-values
+  type: IANA
+  primary: true
+docnumber: rdap-query-purpose-values/rdap-query-purpose-values
+date:
+- type: created
+  at: '2023-11-09'
+- type: updated
+  at: '2024-05-22'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

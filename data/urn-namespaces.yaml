@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAurn-namespaces
-title:
-- content: Uniform Resource Names (URN) Namespaces
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/urn-namespaces
-  type: self
+id: IANAurnnamespaces
 type: standard
-docid:
-- id: IANA urn-namespaces
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Uniform Resource Names (URN) Namespaces
+source:
+- type: self
+  content: https://www.iana.org/assignments/urn-namespaces
+docidentifier:
+- content: IANA urn-namespaces
   type: IANA
   primary: true
 docnumber: urn-namespaces
 date:
 - type: updated
-  value: '2025-02-04'
+  at: '2025-02-04'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

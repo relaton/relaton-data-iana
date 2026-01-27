@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAdncp-registry
-title:
-- content: Distributed Node Consensus Protocol (DNCP)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/dncp-registry
-  type: self
+id: IANAdncpregistry
 type: standard
-docid:
-- id: IANA dncp-registry
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Distributed Node Consensus Protocol (DNCP)
+source:
+- type: self
+  content: https://www.iana.org/assignments/dncp-registry
+docidentifier:
+- content: IANA dncp-registry
   type: IANA
   primary: true
 docnumber: dncp-registry
 date:
 - type: created
-  value: '2015-11-03'
+  at: '2015-11-03'
 - type: updated
-  value: '2016-04-21'
+  at: '2016-04-21'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

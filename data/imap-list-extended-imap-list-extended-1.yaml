@@ -1,0 +1,33 @@
+---
+id: IANAimaplistextendedimaplistextended1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: LIST-EXTENDED options
+source:
+- type: self
+  content: https://www.iana.org/assignments/imap-list-extended
+docidentifier:
+- content: IANA imap-list-extended/imap-list-extended-1
+  type: IANA
+  primary: true
+docnumber: imap-list-extended/imap-list-extended-1
+date:
+- type: created
+  at: '2006-10-19'
+- type: updated
+  at: '2024-06-05'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

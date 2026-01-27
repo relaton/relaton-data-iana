@@ -1,32 +1,33 @@
 ---
-schema-version: v1.2.9
-id: IANAgsmpv3-traffic
-title:
-- content: Global Switch Management Protocol version 3 (GSMPv3) Traffic Control Name
-    Space
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/gsmpv3-traffic
-  type: self
+id: IANAgsmpv3traffic
 type: standard
-docid:
-- id: IANA gsmpv3-traffic
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Global Switch Management Protocol version 3 (GSMPv3) Traffic Control Name
+    Space
+source:
+- type: self
+  content: https://www.iana.org/assignments/gsmpv3-traffic
+docidentifier:
+- content: IANA gsmpv3-traffic
   type: IANA
   primary: true
 docnumber: gsmpv3-traffic
 date:
 - type: created
-  value: '2002-03-28'
+  at: '2002-03-28'
 - type: updated
-  value: '2023-08-25'
+  at: '2023-08-25'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

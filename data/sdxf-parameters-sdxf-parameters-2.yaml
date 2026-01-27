@@ -1,0 +1,33 @@
+---
+id: IANAsdxfparameterssdxfparameters2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Encryption Methods for SDXF
+source:
+- type: self
+  content: https://www.iana.org/assignments/sdxf-parameters
+docidentifier:
+- content: IANA sdxf-parameters/sdxf-parameters-2
+  type: IANA
+  primary: true
+docnumber: sdxf-parameters/sdxf-parameters-2
+date:
+- type: created
+  at: '2001-02-02'
+- type: updated
+  at: '2002-03-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

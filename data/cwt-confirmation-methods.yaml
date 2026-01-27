@@ -1,0 +1,33 @@
+---
+id: IANAcwtconfirmationmethods
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CWT Confirmation Methods
+source:
+- type: self
+  content: https://www.iana.org/assignments/cwt
+docidentifier:
+- content: IANA cwt/confirmation-methods
+  type: IANA
+  primary: true
+docnumber: cwt/confirmation-methods
+date:
+- type: created
+  at: '2018-03-22'
+- type: updated
+  at: '2024-12-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

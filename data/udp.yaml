@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAudp
-title:
-- content: User Datagram Protocol (UDP)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/udp
-  type: self
 type: standard
-docid:
-- id: IANA udp
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: User Datagram Protocol (UDP)
+source:
+- type: self
+  content: https://www.iana.org/assignments/udp
+docidentifier:
+- content: IANA udp
   type: IANA
   primary: true
 docnumber: udp
 date:
 - type: created
-  value: '2025-03-25'
+  at: '2025-03-25'
 - type: updated
-  value: '2025-03-26'
+  at: '2025-03-26'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

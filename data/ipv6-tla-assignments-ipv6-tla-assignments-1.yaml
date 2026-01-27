@@ -1,0 +1,31 @@
+---
+id: IANAipv6tlaassignmentsipv6tlaassignments1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: TLA Identifier Assignments
+source:
+- type: self
+  content: https://www.iana.org/assignments/ipv6-tla-assignments
+docidentifier:
+- content: IANA ipv6-tla-assignments/ipv6-tla-assignments-1
+  type: IANA
+  primary: true
+docnumber: ipv6-tla-assignments/ipv6-tla-assignments-1
+date:
+- type: updated
+  at: '2010-07-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

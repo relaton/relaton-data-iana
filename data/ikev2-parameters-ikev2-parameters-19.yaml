@@ -1,0 +1,33 @@
+---
+id: IANAikev2parametersikev2parameters19
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IKEv2 Traffic Selector Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/ikev2-parameters
+docidentifier:
+- content: IANA ikev2-parameters/ikev2-parameters-19
+  type: IANA
+  primary: true
+docnumber: ikev2-parameters/ikev2-parameters-19
+date:
+- type: created
+  at: '2005-01-18'
+- type: updated
+  at: '2025-03-19'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

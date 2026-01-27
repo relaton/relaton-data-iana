@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAtsig-algorithm-names
-title:
-- content: Secret Key Transaction Authentication for DNS (TSIG) Algorithm Names
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/tsig-algorithm-names
-  type: self
+id: IANAtsigalgorithmnames
 type: standard
-docid:
-- id: IANA tsig-algorithm-names
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Secret Key Transaction Authentication for DNS (TSIG) Algorithm Names
+source:
+- type: self
+  content: https://www.iana.org/assignments/tsig-algorithm-names
+docidentifier:
+- content: IANA tsig-algorithm-names
   type: IANA
   primary: true
 docnumber: tsig-algorithm-names
 date:
 - type: created
-  value: 2000-09
+  at: 2000-09
 - type: updated
-  value: '2020-12-02'
+  at: '2020-12-02'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,0 +1,33 @@
+---
+id: IANAtlsextensiontypevaluestlsextensiontypevalues3
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: TLS Certificate Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/tls-extensiontype-values
+docidentifier:
+- content: IANA tls-extensiontype-values/tls-extensiontype-values-3
+  type: IANA
+  primary: true
+docnumber: tls-extensiontype-values/tls-extensiontype-values-3
+date:
+- type: created
+  at: '2005-11-15'
+- type: updated
+  at: '2024-12-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

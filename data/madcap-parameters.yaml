@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAmadcap-parameters
-title:
-- content: Multicast Address Dynamic Client Allocation Protocol (MADCAP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/madcap-parameters
-  type: self
+id: IANAmadcapparameters
 type: standard
-docid:
-- id: IANA madcap-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Multicast Address Dynamic Client Allocation Protocol (MADCAP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/madcap-parameters
+docidentifier:
+- content: IANA madcap-parameters
   type: IANA
   primary: true
 docnumber: madcap-parameters
 date:
 - type: updated
-  value: '2001-08-23'
+  at: '2001-08-23'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

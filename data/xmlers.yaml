@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAxmlers
-title:
-- content: XML Evidence Record Syntax (XMLERS)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/xmlers
-  type: self
 type: standard
-docid:
-- id: IANA xmlers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: XML Evidence Record Syntax (XMLERS)
+source:
+- type: self
+  content: https://www.iana.org/assignments/xmlers
+docidentifier:
+- content: IANA xmlers
   type: IANA
   primary: true
 docnumber: xmlers
 date:
 - type: created
-  value: '2011-04-13'
+  at: '2011-04-13'
 - type: updated
-  value: '2011-07-20'
+  at: '2011-07-20'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

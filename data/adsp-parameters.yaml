@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAadsp-parameters
-title:
-- content: Author Domain Signing Practices (ADSP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/adsp-parameters
-  type: self
+id: IANAadspparameters
 type: standard
-docid:
-- id: IANA adsp-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Author Domain Signing Practices (ADSP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/adsp-parameters
+docidentifier:
+- content: IANA adsp-parameters
   type: IANA
   primary: true
 docnumber: adsp-parameters
 date:
 - type: created
-  value: '2009-07-01'
+  at: '2009-07-01'
 - type: updated
-  value: '2019-04-16'
+  at: '2019-04-16'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

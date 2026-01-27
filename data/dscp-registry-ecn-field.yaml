@@ -1,0 +1,31 @@
+---
+id: IANAdscpregistryecnfield
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ECN Field (Bits 6-7)
+source:
+- type: self
+  content: https://www.iana.org/assignments/dscp-registry
+docidentifier:
+- content: IANA dscp-registry/ecn-field
+  type: IANA
+  primary: true
+docnumber: dscp-registry/ecn-field
+date:
+- type: updated
+  at: '2024-11-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

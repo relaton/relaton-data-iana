@@ -1,0 +1,33 @@
+---
+id: IANAtrillparametersextendedrbridgechannelsecuritytypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Extended RBridge Channel Security Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/trill-parameters
+docidentifier:
+- content: IANA trill-parameters/extended-rbridge-channel-security-types
+  type: IANA
+  primary: true
+docnumber: trill-parameters/extended-rbridge-channel-security-types
+date:
+- type: created
+  at: '2010-03-26'
+- type: updated
+  at: '2024-09-02'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

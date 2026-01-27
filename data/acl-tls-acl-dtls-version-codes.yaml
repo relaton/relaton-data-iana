@@ -1,0 +1,33 @@
+---
+id: IANAacltlsacldtlsversioncodes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ACL DTLS Version Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/acl-tls
+docidentifier:
+- content: IANA acl-tls/acl-dtls-version-codes
+  type: IANA
+  primary: true
+docnumber: acl-tls/acl-dtls-version-codes
+date:
+- type: created
+  at: '2024-09-12'
+- type: updated
+  at: '2024-09-12'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

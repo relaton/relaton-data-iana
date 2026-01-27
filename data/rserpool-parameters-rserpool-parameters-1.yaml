@@ -1,0 +1,33 @@
+---
+id: IANArserpoolparametersrserpoolparameters1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Aggregate Server Access Protocol (ASAP) Message Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/rserpool-parameters
+docidentifier:
+- content: IANA rserpool-parameters/rserpool-parameters-1
+  type: IANA
+  primary: true
+docnumber: rserpool-parameters/rserpool-parameters-1
+date:
+- type: created
+  at: '2008-07-25'
+- type: updated
+  at: '2008-09-30'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

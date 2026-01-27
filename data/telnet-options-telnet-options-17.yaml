@@ -1,0 +1,32 @@
+---
+id: IANAtelnetoptionstelnetoptions17
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CAST5_40_CFB64 (Type 8) and  CAST128_CFB64 (Type 10) Telnet Encryption
+    Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/telnet-options
+docidentifier:
+- content: IANA telnet-options/telnet-options-17
+  type: IANA
+  primary: true
+docnumber: telnet-options/telnet-options-17
+date:
+- type: updated
+  at: '2022-03-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

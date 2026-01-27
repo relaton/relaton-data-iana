@@ -1,0 +1,33 @@
+---
+id: IANAcoreparameterssignalingcodes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CoAP Signaling Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/core-parameters
+docidentifier:
+- content: IANA core-parameters/signaling-codes
+  type: IANA
+  primary: true
+docnumber: core-parameters/signaling-codes
+date:
+- type: created
+  at: '2012-06-08'
+- type: updated
+  at: '2025-03-27'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

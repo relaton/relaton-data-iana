@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAmsdp-tlv-values
-title:
-- content: Multicast Source Discovery Protocol (MSDP) TLV Values Registry
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/msdp-tlv-values
-  type: self
+id: IANAmsdptlvvalues
 type: standard
-docid:
-- id: IANA msdp-tlv-values
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Multicast Source Discovery Protocol (MSDP) TLV Values Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/msdp-tlv-values
+docidentifier:
+- content: IANA msdp-tlv-values
   type: IANA
   primary: true
 docnumber: msdp-tlv-values
 date:
 - type: created
-  value: '2003-09-17'
+  at: '2003-09-17'
 - type: updated
-  value: '2003-10-31'
+  at: '2003-10-31'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

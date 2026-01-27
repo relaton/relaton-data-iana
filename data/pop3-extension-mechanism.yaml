@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANApop3-extension-mechanism
-title:
-- content: Post Office Protocol version 3 (POP3) Extension Mechanism
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/pop3-extension-mechanism
-  type: self
+id: IANApop3extensionmechanism
 type: standard
-docid:
-- id: IANA pop3-extension-mechanism
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Post Office Protocol version 3 (POP3) Extension Mechanism
+source:
+- type: self
+  content: https://www.iana.org/assignments/pop3-extension-mechanism
+docidentifier:
+- content: IANA pop3-extension-mechanism
   type: IANA
   primary: true
 docnumber: pop3-extension-mechanism
 date:
 - type: updated
-  value: '2013-03-13'
+  at: '2013-03-13'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

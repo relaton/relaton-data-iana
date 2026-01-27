@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAalert-urns
-title:
-- content: Alert URNs
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/alert-urns
-  type: self
+id: IANAalerturns
 type: standard
-docid:
-- id: IANA alert-urns
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Alert URNs
+source:
+- type: self
+  content: https://www.iana.org/assignments/alert-urns
+docidentifier:
+- content: IANA alert-urns
   type: IANA
   primary: true
 docnumber: alert-urns
 date:
 - type: created
-  value: '2014-11-24'
+  at: '2014-11-24'
 - type: updated
-  value: '2023-05-25'
+  at: '2023-05-25'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAversion-numbers
-title:
-- content: IP Version Numbers
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/version-numbers
-  type: self
+id: IANAversionnumbers
 type: standard
-docid:
-- id: IANA version-numbers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IP Version Numbers
+source:
+- type: self
+  content: https://www.iana.org/assignments/version-numbers
+docidentifier:
+- content: IANA version-numbers
   type: IANA
   primary: true
 docnumber: version-numbers
 date:
 - type: updated
-  value: '2021-01-28'
+  at: '2021-01-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAepp-extension-role-values
-title:
-- content: Extensible Provisioning Protocol (EPP) Organization Role Values
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/epp-extension-role-values
-  type: self
+id: IANAeppextensionrolevalues
 type: standard
-docid:
-- id: IANA epp-extension-role-values
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Extensible Provisioning Protocol (EPP) Organization Role Values
+source:
+- type: self
+  content: https://www.iana.org/assignments/epp-extension-role-values
+docidentifier:
+- content: IANA epp-extension-role-values
   type: IANA
   primary: true
 docnumber: epp-extension-role-values
 date:
 - type: created
-  value: '2018-12-26'
+  at: '2018-12-26'
 - type: updated
-  value: '2019-12-09'
+  at: '2019-12-09'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

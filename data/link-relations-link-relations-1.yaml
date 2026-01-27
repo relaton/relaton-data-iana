@@ -1,0 +1,33 @@
+---
+id: IANAlinkrelationslinkrelations1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Link Relation Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/link-relations
+docidentifier:
+- content: IANA link-relations/link-relations-1
+  type: IANA
+  primary: true
+docnumber: link-relations/link-relations-1
+date:
+- type: created
+  at: '2005-08-26'
+- type: updated
+  at: '2025-03-27'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,0 +1,33 @@
+---
+id: IANAccnxccnxvalidationdependentdatatypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CCNx Validation-Dependent Data Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/ccnx
+docidentifier:
+- content: IANA ccnx/ccnx-validation-dependent-data-types
+  type: IANA
+  primary: true
+docnumber: ccnx/ccnx-validation-dependent-data-types
+date:
+- type: created
+  at: '2019-02-11'
+- type: updated
+  at: '2024-04-19'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

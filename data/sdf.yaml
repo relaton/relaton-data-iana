@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAsdf
-title:
-- content: Semantic Definition Format (SDF)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/sdf
-  type: self
 type: standard
-docid:
-- id: IANA sdf
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Semantic Definition Format (SDF)
+source:
+- type: self
+  content: https://www.iana.org/assignments/sdf
+docidentifier:
+- content: IANA sdf
   type: IANA
   primary: true
 docnumber: sdf
 date:
 - type: created
-  value: '2025-03-27'
+  at: '2025-03-27'
 - type: updated
-  value: '2025-04-07'
+  at: '2025-04-07'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

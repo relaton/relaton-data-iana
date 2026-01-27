@@ -1,0 +1,33 @@
+---
+id: IANAmediacontrolchannelMixerctrl
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mixer Control Package Status Code Registration
+source:
+- type: self
+  content: https://www.iana.org/assignments/media-control-channel
+docidentifier:
+- content: IANA media-control-channel/Mixer-ctrl
+  type: IANA
+  primary: true
+docnumber: media-control-channel/Mixer-ctrl
+date:
+- type: created
+  at: '2011-03-08'
+- type: updated
+  at: '2013-04-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

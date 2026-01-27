@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAsdp-parameters
-title:
-- content: Session Description Protocol (SDP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/sdp-parameters
-  type: self
+id: IANAsdpparameters
 type: standard
-docid:
-- id: IANA sdp-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Session Description Protocol (SDP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/sdp-parameters
+docidentifier:
+- content: IANA sdp-parameters
   type: IANA
   primary: true
 docnumber: sdp-parameters
 date:
 - type: created
-  value: '2001-06-15'
+  at: '2001-06-15'
 - type: updated
-  value: '2025-03-28'
+  at: '2025-03-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

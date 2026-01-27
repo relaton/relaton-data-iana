@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAsigtran-adapt
-title:
-- content: Signaling User Adaptation Layer Assignments
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/sigtran-adapt
-  type: self
+id: IANAsigtranadapt
 type: standard
-docid:
-- id: IANA sigtran-adapt
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Signaling User Adaptation Layer Assignments
+source:
+- type: self
+  content: https://www.iana.org/assignments/sigtran-adapt
+docidentifier:
+- content: IANA sigtran-adapt
   type: IANA
   primary: true
 docnumber: sigtran-adapt
 date:
 - type: created
-  value: '2002-08-12'
+  at: '2002-08-12'
 - type: updated
-  value: '2011-12-01'
+  at: '2011-12-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

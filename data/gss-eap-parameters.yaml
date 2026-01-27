@@ -1,32 +1,33 @@
 ---
-schema-version: v1.2.9
-id: IANAgss-eap-parameters
-title:
-- content: The Extensible Authentication Protocol Mechanism for the Generic Security
-    Service Application Programming Interface (GSS-EAP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/gss-eap-parameters
-  type: self
+id: IANAgsseapparameters
 type: standard
-docid:
-- id: IANA gss-eap-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The Extensible Authentication Protocol Mechanism for the Generic Security
+    Service Application Programming Interface (GSS-EAP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/gss-eap-parameters
+docidentifier:
+- content: IANA gss-eap-parameters
   type: IANA
   primary: true
 docnumber: gss-eap-parameters
 date:
 - type: created
-  value: '2012-09-05'
+  at: '2012-09-05'
 - type: updated
-  value: '2014-01-08'
+  at: '2014-01-08'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

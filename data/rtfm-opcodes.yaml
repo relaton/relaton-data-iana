@@ -1,0 +1,33 @@
+---
+id: IANArtfmopcodes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Pattern Matching Engine (PME) Opcodes
+source:
+- type: self
+  content: https://www.iana.org/assignments/rtfm
+docidentifier:
+- content: IANA rtfm/opcodes
+  type: IANA
+  primary: true
+docnumber: rtfm/opcodes
+date:
+- type: created
+  at: '2009-10-15'
+- type: updated
+  at: '2009-10-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

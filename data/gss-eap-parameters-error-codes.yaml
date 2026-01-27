@@ -1,0 +1,33 @@
+---
+id: IANAgsseapparameterserrorcodes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: GSS-EAP Error Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/gss-eap-parameters
+docidentifier:
+- content: IANA gss-eap-parameters/error-codes
+  type: IANA
+  primary: true
+docnumber: gss-eap-parameters/error-codes
+date:
+- type: created
+  at: '2012-09-05'
+- type: updated
+  at: '2014-01-08'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

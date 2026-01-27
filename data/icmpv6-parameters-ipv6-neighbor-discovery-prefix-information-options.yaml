@@ -1,0 +1,31 @@
+---
+id: IANAicmpv6parametersipv6neighbordiscoveryprefixinformationoptions
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IPv6 Neighbor Discovery Prefix Information Option Flags
+source:
+- type: self
+  content: https://www.iana.org/assignments/icmpv6-parameters
+docidentifier:
+- content: IANA icmpv6-parameters/ipv6-neighbor-discovery-prefix-information-options
+  type: IANA
+  primary: true
+docnumber: icmpv6-parameters/ipv6-neighbor-discovery-prefix-information-options
+date:
+- type: updated
+  at: '2025-03-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

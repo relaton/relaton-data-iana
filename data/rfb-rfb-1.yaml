@@ -1,0 +1,33 @@
+---
+id: IANArfbrfb1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Remote Framebuffer Security Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/rfb
+docidentifier:
+- content: IANA rfb/rfb-1
+  type: IANA
+  primary: true
+docnumber: rfb/rfb-1
+date:
+- type: created
+  at: '2010-12-08'
+- type: updated
+  at: '2024-08-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

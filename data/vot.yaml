@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAvot
-title:
-- content: Vectors of Trust (VoT)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/vot
-  type: self
 type: standard
-docid:
-- id: IANA vot
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Vectors of Trust (VoT)
+source:
+- type: self
+  content: https://www.iana.org/assignments/vot
+docidentifier:
+- content: IANA vot
   type: IANA
   primary: true
 docnumber: vot
 date:
 - type: created
-  value: '2018-08-23'
+  at: '2018-08-23'
 - type: updated
-  value: '2018-10-16'
+  at: '2018-10-16'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

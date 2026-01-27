@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANArpc-netids
-title:
-- content: ONC RPC Network Identifiers (netids)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rpc-netids
-  type: self
+id: IANArpcnetids
 type: standard
-docid:
-- id: IANA rpc-netids
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ONC RPC Network Identifiers (netids)
+source:
+- type: self
+  content: https://www.iana.org/assignments/rpc-netids
+docidentifier:
+- content: IANA rpc-netids
   type: IANA
   primary: true
 docnumber: rpc-netids
 date:
 - type: created
-  value: '2009-02-06'
+  at: '2009-02-06'
 - type: updated
-  value: '2022-08-19'
+  at: '2022-08-19'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

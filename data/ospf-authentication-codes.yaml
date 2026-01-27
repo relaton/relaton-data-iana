@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAospf-authentication-codes
-title:
-- content: Open Shortest Path First (OSPF) Authentication Codes
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ospf-authentication-codes
-  type: self
+id: IANAospfauthenticationcodes
 type: standard
-docid:
-- id: IANA ospf-authentication-codes
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Open Shortest Path First (OSPF) Authentication Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/ospf-authentication-codes
+docidentifier:
+- content: IANA ospf-authentication-codes
   type: IANA
   primary: true
 docnumber: ospf-authentication-codes
 date:
 - type: updated
-  value: '2015-04-14'
+  at: '2015-04-14'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

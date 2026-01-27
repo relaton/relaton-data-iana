@@ -1,0 +1,33 @@
+---
+id: IANAcnrpparameterscnrpparameters1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Properties
+source:
+- type: self
+  content: https://www.iana.org/assignments/cnrp-parameters
+docidentifier:
+- content: IANA cnrp-parameters/cnrp-parameters-1
+  type: IANA
+  primary: true
+docnumber: cnrp-parameters/cnrp-parameters-1
+date:
+- type: created
+  at: '2002-08-15'
+- type: updated
+  at: '2002-08-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

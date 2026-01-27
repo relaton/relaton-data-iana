@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANArohc-pro-ids
-title:
-- content: RObust Header Compression (ROHC) Profile Identifiers
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rohc-pro-ids
-  type: self
+id: IANArohcproids
 type: standard
-docid:
-- id: IANA rohc-pro-ids
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: RObust Header Compression (ROHC) Profile Identifiers
+source:
+- type: self
+  content: https://www.iana.org/assignments/rohc-pro-ids
+docidentifier:
+- content: IANA rohc-pro-ids
   type: IANA
   primary: true
 docnumber: rohc-pro-ids
 date:
 - type: created
-  value: '2001-04-23'
+  at: '2001-04-23'
 - type: updated
-  value: '2023-02-03'
+  at: '2023-02-03'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

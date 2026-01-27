@@ -1,0 +1,33 @@
+---
+id: IANArtcpxrblocktypesidmsspst
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IDMS XR Block SPST Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/rtcp-xr-block-types
+docidentifier:
+- content: IANA rtcp-xr-block-types/idms-spst
+  type: IANA
+  primary: true
+docnumber: rtcp-xr-block-types/idms-spst
+date:
+- type: created
+  at: '2003-08-29'
+- type: updated
+  at: '2022-01-31'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

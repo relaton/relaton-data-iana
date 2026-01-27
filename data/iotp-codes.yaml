@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAiotp-codes
-title:
-- content: Internet Open Trading Protocol (IOTP) Codes
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/iotp-codes
-  type: self
+id: IANAiotpcodes
 type: standard
-docid:
-- id: IANA iotp-codes
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Internet Open Trading Protocol (IOTP) Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/iotp-codes
+docidentifier:
+- content: IANA iotp-codes
   type: IANA
   primary: true
 docnumber: iotp-codes
 date:
 - type: created
-  value: 2000-04
+  at: 2000-04
 - type: updated
-  value: '2012-02-02'
+  at: '2012-02-02'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAaccess-types
-title:
-- content: Access Types
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/access-types
-  type: self
+id: IANAaccesstypes
 type: standard
-docid:
-- id: IANA access-types
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Access Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/access-types
+docidentifier:
+- content: IANA access-types
   type: IANA
   primary: true
 docnumber: access-types
 date:
 - type: updated
-  value: '2010-04-29'
+  at: '2010-04-29'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

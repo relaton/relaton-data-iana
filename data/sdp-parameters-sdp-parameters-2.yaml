@@ -1,0 +1,33 @@
+---
+id: IANAsdpparameterssdpparameters2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: proto
+source:
+- type: self
+  content: https://www.iana.org/assignments/sdp-parameters
+docidentifier:
+- content: IANA sdp-parameters/sdp-parameters-2
+  type: IANA
+  primary: true
+docnumber: sdp-parameters/sdp-parameters-2
+date:
+- type: created
+  at: '2001-06-15'
+- type: updated
+  at: '2025-03-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

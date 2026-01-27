@@ -1,0 +1,33 @@
+---
+id: IANAospfparametersritlv
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OSPF Router Information (RI) TLVs
+source:
+- type: self
+  content: https://www.iana.org/assignments/ospf-parameters
+docidentifier:
+- content: IANA ospf-parameters/ri-tlv
+  type: IANA
+  primary: true
+docnumber: ospf-parameters/ri-tlv
+date:
+- type: created
+  at: '2015-11-03'
+- type: updated
+  at: '2025-03-03'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

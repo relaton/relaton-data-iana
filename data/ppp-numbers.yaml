@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAppp-numbers
-title:
-- content: Point-to-Point (PPP) Protocol Field Assignments
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ppp-numbers
-  type: self
+id: IANApppnumbers
 type: standard
-docid:
-- id: IANA ppp-numbers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Point-to-Point (PPP) Protocol Field Assignments
+source:
+- type: self
+  content: https://www.iana.org/assignments/ppp-numbers
+docidentifier:
+- content: IANA ppp-numbers
   type: IANA
   primary: true
 docnumber: ppp-numbers
 date:
 - type: updated
-  value: '2021-04-22'
+  at: '2021-04-22'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

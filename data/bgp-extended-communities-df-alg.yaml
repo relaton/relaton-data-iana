@@ -1,0 +1,33 @@
+---
+id: IANAbgpextendedcommunitiesdfalg
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: DF Alg
+source:
+- type: self
+  content: https://www.iana.org/assignments/bgp-extended-communities
+docidentifier:
+- content: IANA bgp-extended-communities/df-alg
+  type: IANA
+  primary: true
+docnumber: bgp-extended-communities/df-alg
+date:
+- type: created
+  at: '2005-08-15'
+- type: updated
+  at: '2025-03-19'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

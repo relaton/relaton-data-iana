@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAxml-ns-provided-by
-title:
-- content: US National Emergency Number Administration (NENA) Provided-By Schema
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/xml-ns-provided-by
-  type: self
+id: IANAxmlnsprovidedby
 type: standard
-docid:
-- id: IANA xml-ns-provided-by
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: US National Emergency Number Administration (NENA) Provided-By Schema
+source:
+- type: self
+  content: https://www.iana.org/assignments/xml-ns-provided-by
+docidentifier:
+- content: IANA xml-ns-provided-by
   type: IANA
   primary: true
 docnumber: xml-ns-provided-by
 date:
 - type: updated
-  value: '2016-09-06'
+  at: '2016-09-06'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

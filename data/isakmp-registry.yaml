@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAisakmp-registry
-title:
-- content: '"Magic Numbers" for ISAKMP Protocol'
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/isakmp-registry
-  type: self
+id: IANAisakmpregistry
 type: standard
-docid:
-- id: IANA isakmp-registry
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: '"Magic Numbers" for ISAKMP Protocol'
+source:
+- type: self
+  content: https://www.iana.org/assignments/isakmp-registry
+docidentifier:
+- content: IANA isakmp-registry
   type: IANA
   primary: true
 docnumber: isakmp-registry
 date:
 - type: updated
-  value: '2023-04-25'
+  at: '2023-04-25'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

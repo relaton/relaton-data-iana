@@ -1,0 +1,33 @@
+---
+id: IANArtspparametersrtspparameters4
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: RTSP/1.0 Option Tags
+source:
+- type: self
+  content: https://www.iana.org/assignments/rtsp-parameters
+docidentifier:
+- content: IANA rtsp-parameters/rtsp-parameters-4
+  type: IANA
+  primary: true
+docnumber: rtsp-parameters/rtsp-parameters-4
+date:
+- type: created
+  at: '2005-10-11'
+- type: updated
+  at: '2019-02-19'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

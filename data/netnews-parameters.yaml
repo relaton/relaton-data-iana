@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAnetnews-parameters
-title:
-- content: Netnews Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/netnews-parameters
-  type: self
+id: IANAnetnewsparameters
 type: standard
-docid:
-- id: IANA netnews-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Netnews Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/netnews-parameters
+docidentifier:
+- content: IANA netnews-parameters
   type: IANA
   primary: true
 docnumber: netnews-parameters
 date:
 - type: created
-  value: '2017-12-12'
+  at: '2017-12-12'
 - type: updated
-  value: '2018-02-14'
+  at: '2018-02-14'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

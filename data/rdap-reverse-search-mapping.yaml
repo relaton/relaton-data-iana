@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANArdap-reverse-search-mapping
-title:
-- content: RDAP Reverse Search Mapping
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rdap-reverse-search-mapping
-  type: self
+id: IANArdapreversesearchmapping
 type: standard
-docid:
-- id: IANA rdap-reverse-search-mapping
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: RDAP Reverse Search Mapping
+source:
+- type: self
+  content: https://www.iana.org/assignments/rdap-reverse-search-mapping
+docidentifier:
+- content: IANA rdap-reverse-search-mapping
   type: IANA
   primary: true
 docnumber: rdap-reverse-search-mapping
 date:
 - type: created
-  value: '2023-10-02'
+  at: '2023-10-02'
 - type: updated
-  value: '2024-10-28'
+  at: '2024-10-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

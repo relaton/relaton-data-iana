@@ -1,0 +1,31 @@
+---
+id: IANAbgpparameterspmsitunneltypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: P-Multicast Service Interface Tunnel (PMSI Tunnel) Tunnel Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/bgp-parameters
+docidentifier:
+- content: IANA bgp-parameters/pmsi-tunnel-types
+  type: IANA
+  primary: true
+docnumber: bgp-parameters/pmsi-tunnel-types
+date:
+- type: updated
+  at: '2025-03-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

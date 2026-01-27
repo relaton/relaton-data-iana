@@ -1,0 +1,33 @@
+---
+id: IANApowerstatesetsdmtf
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: DMTF Power State Set
+source:
+- type: self
+  content: https://www.iana.org/assignments/power-state-sets
+docidentifier:
+- content: IANA power-state-sets/dmtf
+  type: IANA
+  primary: true
+docnumber: power-state-sets/dmtf
+date:
+- type: created
+  at: '2014-05-28'
+- type: updated
+  at: '2014-09-05'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

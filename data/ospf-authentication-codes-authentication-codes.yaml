@@ -1,0 +1,31 @@
+---
+id: IANAospfauthenticationcodesauthenticationcodes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Authentication Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/ospf-authentication-codes
+docidentifier:
+- content: IANA ospf-authentication-codes/authentication-codes
+  type: IANA
+  primary: true
+docnumber: ospf-authentication-codes/authentication-codes
+date:
+- type: updated
+  at: '2015-04-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

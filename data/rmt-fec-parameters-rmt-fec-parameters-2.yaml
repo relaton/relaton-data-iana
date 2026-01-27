@@ -1,0 +1,33 @@
+---
+id: IANArmtfecparametersrmtfecparameters2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ietf:rmt:fec:encoding - Under-Specified FEC schemes (128-255)
+source:
+- type: self
+  content: https://www.iana.org/assignments/rmt-fec-parameters
+docidentifier:
+- content: IANA rmt-fec-parameters/rmt-fec-parameters-2
+  type: IANA
+  primary: true
+docnumber: rmt-fec-parameters/rmt-fec-parameters-2
+date:
+- type: created
+  at: '2002-11-07'
+- type: updated
+  at: '2020-01-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,0 +1,33 @@
+---
+id: IANAmtracemtrace2forwardingcodes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mtrace2 Forwarding Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/mtrace
+docidentifier:
+- content: IANA mtrace/mtrace2-forwarding-codes
+  type: IANA
+  primary: true
+docnumber: mtrace/mtrace2-forwarding-codes
+date:
+- type: created
+  at: '2018-07-31'
+- type: updated
+  at: '2018-10-30'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

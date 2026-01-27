@@ -1,32 +1,33 @@
 ---
-schema-version: v1.2.9
-id: IANAdccp-ccid4-parameters
-title:
-- content: 'Profile for Datagram Congestion Control Protocol (DCCP) Congestion Control
-    ID 4: TCP-Friendly Rate Control for Small Packets (TFRC-SP)'
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/dccp-ccid4-parameters
-  type: self
+id: IANAdccpccid4parameters
 type: standard
-docid:
-- id: IANA dccp-ccid4-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Profile for Datagram Congestion Control Protocol (DCCP) Congestion Control
+    ID 4: TCP-Friendly Rate Control for Small Packets (TFRC-SP)'
+source:
+- type: self
+  content: https://www.iana.org/assignments/dccp-ccid4-parameters
+docidentifier:
+- content: IANA dccp-ccid4-parameters
   type: IANA
   primary: true
 docnumber: dccp-ccid4-parameters
 date:
 - type: created
-  value: '2009-07-06'
+  at: '2009-07-06'
 - type: updated
-  value: '2011-08-01'
+  at: '2011-08-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAauth-namespaces
-title:
-- content: Dynamic Host Configuration Protocol (DHCP) Authentication Option Name Spaces
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/auth-namespaces
-  type: self
+id: IANAauthnamespaces
 type: standard
-docid:
-- id: IANA auth-namespaces
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Dynamic Host Configuration Protocol (DHCP) Authentication Option Name Spaces
+source:
+- type: self
+  content: https://www.iana.org/assignments/auth-namespaces
+docidentifier:
+- content: IANA auth-namespaces
   type: IANA
   primary: true
 docnumber: auth-namespaces
 date:
 - type: created
-  value: '2001-05-15'
+  at: '2001-05-15'
 - type: updated
-  value: '2025-01-31'
+  at: '2025-01-31'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

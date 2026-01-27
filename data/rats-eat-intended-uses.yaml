@@ -1,0 +1,33 @@
+---
+id: IANAratseatintendeduses
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Entity Attestation Token (EAT) Intended Uses
+source:
+- type: self
+  content: https://www.iana.org/assignments/rats
+docidentifier:
+- content: IANA rats/eat-intended-uses
+  type: IANA
+  primary: true
+docnumber: rats/eat-intended-uses
+date:
+- type: created
+  at: '2024-07-26'
+- type: updated
+  at: '2024-08-02'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

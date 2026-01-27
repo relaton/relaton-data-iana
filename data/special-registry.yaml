@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAspecial-registry
-title:
-- content: Special People Numbers Registry (SPNR)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/special-registry
-  type: self
+id: IANAspecialregistry
 type: standard
-docid:
-- id: IANA special-registry
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Special People Numbers Registry (SPNR)
+source:
+- type: self
+  content: https://www.iana.org/assignments/special-registry
+docidentifier:
+- content: IANA special-registry
   type: IANA
   primary: true
 docnumber: special-registry
 date:
 - type: created
-  value: '2003-06-25'
+  at: '2003-06-25'
 - type: updated
-  value: '2021-04-30'
+  at: '2021-04-30'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

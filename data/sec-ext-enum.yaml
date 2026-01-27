@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAsec-ext-enum
-title:
-- content: Security External Enumeration Registry
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/sec-ext-enum
-  type: self
+id: IANAsecextenum
 type: standard
-docid:
-- id: IANA sec-ext-enum
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Security External Enumeration Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/sec-ext-enum
+docidentifier:
+- content: IANA sec-ext-enum
   type: IANA
   primary: true
 docnumber: sec-ext-enum
 date:
 - type: created
-  value: '2015-02-24'
+  at: '2015-02-24'
 - type: updated
-  value: '2015-03-26'
+  at: '2015-03-26'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

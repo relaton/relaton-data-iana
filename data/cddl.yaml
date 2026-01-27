@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAcddl
-title:
-- content: Concise Data Definition Language (CDDL)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/cddl
-  type: self
 type: standard
-docid:
-- id: IANA cddl
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Concise Data Definition Language (CDDL)
+source:
+- type: self
+  content: https://www.iana.org/assignments/cddl
+docidentifier:
+- content: IANA cddl
   type: IANA
   primary: true
 docnumber: cddl
 date:
 - type: created
-  value: '2019-03-28'
+  at: '2019-03-28'
 - type: updated
-  value: '2025-03-06'
+  at: '2025-03-06'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

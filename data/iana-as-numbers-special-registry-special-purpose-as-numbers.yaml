@@ -1,0 +1,33 @@
+---
+id: IANAianaasnumbersspecialregistryspecialpurposeasnumbers
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Special-Purpose AS Numbers
+source:
+- type: self
+  content: https://www.iana.org/assignments/iana-as-numbers-special-registry
+docidentifier:
+- content: IANA iana-as-numbers-special-registry/special-purpose-as-numbers
+  type: IANA
+  primary: true
+docnumber: iana-as-numbers-special-registry/special-purpose-as-numbers
+date:
+- type: created
+  at: '2014-03-11'
+- type: updated
+  at: '2015-08-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

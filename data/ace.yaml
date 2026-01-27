@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAace
-title:
-- content: Authentication and Authorization for Constrained Environments (ACE)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ace
-  type: self
 type: standard
-docid:
-- id: IANA ace
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Authentication and Authorization for Constrained Environments (ACE)
+source:
+- type: self
+  content: https://www.iana.org/assignments/ace
+docidentifier:
+- content: IANA ace
   type: IANA
   primary: true
 docnumber: ace
 date:
 - type: created
-  value: '2021-07-27'
+  at: '2021-07-27'
 - type: updated
-  value: '2024-10-25'
+  at: '2024-10-25'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

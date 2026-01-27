@@ -1,0 +1,33 @@
+---
+id: IANAmegacoh248megacoh2484
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Error Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/megaco-h248
+docidentifier:
+- content: IANA megaco-h248/megaco-h248-4
+  type: IANA
+  primary: true
+docnumber: megaco-h248/megaco-h248-4
+date:
+- type: created
+  at: 2000-10
+- type: updated
+  at: '2017-12-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAuri-schemes
-title:
-- content: Uniform Resource Identifier (URI) Schemes
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/uri-schemes
-  type: self
+id: IANAurischemes
 type: standard
-docid:
-- id: IANA uri-schemes
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Uniform Resource Identifier (URI) Schemes
+source:
+- type: self
+  content: https://www.iana.org/assignments/uri-schemes
+docidentifier:
+- content: IANA uri-schemes
   type: IANA
   primary: true
 docnumber: uri-schemes
 date:
 - type: updated
-  value: '2025-03-31'
+  at: '2025-03-31'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,0 +1,33 @@
+---
+id: IANAhobasignaturealgorithmsalgorithmnames
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: HOBA Signature Algorithms
+source:
+- type: self
+  content: https://www.iana.org/assignments/hoba-signature-algorithms
+docidentifier:
+- content: IANA hoba-signature-algorithms/algorithm-names
+  type: IANA
+  primary: true
+docnumber: hoba-signature-algorithms/algorithm-names
+date:
+- type: created
+  at: '2015-01-20'
+- type: updated
+  at: '2015-03-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,0 +1,33 @@
+---
+id: IANAwebpushparametersvapidauthenticationschemeparameters
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: VAPID Authentication Scheme Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/webpush-parameters
+docidentifier:
+- content: IANA webpush-parameters/vapid-authentication-scheme-parameters
+  type: IANA
+  primary: true
+docnumber: webpush-parameters/vapid-authentication-scheme-parameters
+date:
+- type: created
+  at: '2016-11-02'
+- type: updated
+  at: '2017-12-26'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAmrt
-title:
-- content: " Multi-threaded Routing Toolkit (MRT)"
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/mrt
-  type: self
 type: standard
-docid:
-- id: IANA mrt
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: " Multi-threaded Routing Toolkit (MRT)"
+source:
+- type: self
+  content: https://www.iana.org/assignments/mrt
+docidentifier:
+- content: IANA mrt
   type: IANA
   primary: true
 docnumber: mrt
 date:
 - type: created
-  value: '2011-09-02'
+  at: '2011-09-02'
 - type: updated
-  value: '2020-01-08'
+  at: '2020-01-08'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

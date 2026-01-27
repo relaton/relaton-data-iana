@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAhoba-key-identifiers
-title:
-- content: HTTP Origin-Bound Authentication (HOBA) Key Identifier Types
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/hoba-key-identifiers
-  type: self
+id: IANAhobakeyidentifiers
 type: standard
-docid:
-- id: IANA hoba-key-identifiers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: HTTP Origin-Bound Authentication (HOBA) Key Identifier Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/hoba-key-identifiers
+docidentifier:
+- content: IANA hoba-key-identifiers
   type: IANA
   primary: true
 docnumber: hoba-key-identifiers
 date:
 - type: created
-  value: '2015-01-20'
+  at: '2015-01-20'
 - type: updated
-  value: '2015-03-11'
+  at: '2015-03-11'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAiana-pseudowire-types
-title:
-- content: iana-pseudowire-types YANG Module
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/iana-pseudowire-types
-  type: self
+id: IANAianapseudowiretypes
 type: standard
-docid:
-- id: IANA iana-pseudowire-types
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: iana-pseudowire-types YANG Module
+source:
+- type: self
+  content: https://www.iana.org/assignments/iana-pseudowire-types
+docidentifier:
+- content: IANA iana-pseudowire-types
   type: IANA
   primary: true
 docnumber: iana-pseudowire-types
 date:
 - type: created
-  value: '2022-06-15'
+  at: '2022-06-15'
 - type: updated
-  value: '2022-09-23'
+  at: '2022-09-23'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

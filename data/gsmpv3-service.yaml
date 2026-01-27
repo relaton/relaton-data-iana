@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAgsmpv3-service
-title:
-- content: Global Switch Management Protocol version 3 (GSMPv3) Service ID Name Space
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/gsmpv3-service
-  type: self
+id: IANAgsmpv3service
 type: standard
-docid:
-- id: IANA gsmpv3-service
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Global Switch Management Protocol version 3 (GSMPv3) Service ID Name Space
+source:
+- type: self
+  content: https://www.iana.org/assignments/gsmpv3-service
+docidentifier:
+- content: IANA gsmpv3-service
   type: IANA
   primary: true
 docnumber: gsmpv3-service
 date:
 - type: created
-  value: '2002-03-28'
+  at: '2002-03-28'
 - type: updated
-  value: '2002-06-10'
+  at: '2002-06-10'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

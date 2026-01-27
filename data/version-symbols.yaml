@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAversion-symbols
-title:
-- content: "'version' symbols used within the ISUP and QSIG"
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/version-symbols
-  type: self
+id: IANAversionsymbols
 type: standard
-docid:
-- id: IANA version-symbols
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: "'version' symbols used within the ISUP and QSIG"
+source:
+- type: self
+  content: https://www.iana.org/assignments/version-symbols
+docidentifier:
+- content: IANA version-symbols
   type: IANA
   primary: true
 docnumber: version-symbols
 date:
 - type: created
-  value: '2001-09-06'
+  at: '2001-09-06'
 - type: updated
-  value: '2023-02-21'
+  at: '2023-02-21'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

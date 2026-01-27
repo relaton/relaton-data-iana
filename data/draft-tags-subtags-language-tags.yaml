@@ -1,0 +1,31 @@
+---
+id: IANAdrafttagssubtagslanguagetags
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Language Tags (OBSOLETE)
+source:
+- type: self
+  content: https://www.iana.org/assignments/draft-tags-subtags
+docidentifier:
+- content: IANA draft-tags-subtags/language-tags
+  type: IANA
+  primary: true
+docnumber: draft-tags-subtags/language-tags
+date:
+- type: updated
+  at: '2024-12-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

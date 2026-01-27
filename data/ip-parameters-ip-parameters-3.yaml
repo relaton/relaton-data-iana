@@ -1,0 +1,31 @@
+---
+id: IANAipparametersipparameters3
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IP TOS Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/ip-parameters
+docidentifier:
+- content: IANA ip-parameters/ip-parameters-3
+  type: IANA
+  primary: true
+docnumber: ip-parameters/ip-parameters-3
+date:
+- type: updated
+  at: '2018-05-03'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

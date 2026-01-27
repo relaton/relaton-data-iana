@@ -1,0 +1,33 @@
+---
+id: IANAospfmtroutingospfmtrouting2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Multi-Topology ID Values
+source:
+- type: self
+  content: https://www.iana.org/assignments/ospf-mt-routing
+docidentifier:
+- content: IANA ospf-mt-routing/ospf-mt-routing-2
+  type: IANA
+  primary: true
+docnumber: ospf-mt-routing/ospf-mt-routing-2
+date:
+- type: created
+  at: '2007-06-04'
+- type: updated
+  at: '2013-05-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

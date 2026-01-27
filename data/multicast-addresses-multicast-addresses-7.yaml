@@ -1,0 +1,31 @@
+---
+id: IANAmulticastaddressesmulticastaddresses7
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: RESERVED (224.5.0.0-224.251.255.255 (251 /16s))
+source:
+- type: self
+  content: https://www.iana.org/assignments/multicast-addresses
+docidentifier:
+- content: IANA multicast-addresses/multicast-addresses-7
+  type: IANA
+  primary: true
+docnumber: multicast-addresses/multicast-addresses-7
+date:
+- type: updated
+  at: '2025-04-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

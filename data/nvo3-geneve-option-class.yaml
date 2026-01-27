@@ -1,0 +1,33 @@
+---
+id: IANAnvo3geneveoptionclass
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Geneve Option Class
+source:
+- type: self
+  content: https://www.iana.org/assignments/nvo3
+docidentifier:
+- content: IANA nvo3/geneve-option-class
+  type: IANA
+  primary: true
+docnumber: nvo3/geneve-option-class
+date:
+- type: created
+  at: '2020-05-04'
+- type: updated
+  at: '2024-12-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

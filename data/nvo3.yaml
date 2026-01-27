@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAnvo3
-title:
-- content: Network Virtualization Overlay (NVO3)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/nvo3
-  type: self
 type: standard
-docid:
-- id: IANA nvo3
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Network Virtualization Overlay (NVO3)
+source:
+- type: self
+  content: https://www.iana.org/assignments/nvo3
+docidentifier:
+- content: IANA nvo3
   type: IANA
   primary: true
 docnumber: nvo3
 date:
 - type: created
-  value: '2020-05-04'
+  at: '2020-05-04'
 - type: updated
-  value: '2024-12-20'
+  at: '2024-12-20'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

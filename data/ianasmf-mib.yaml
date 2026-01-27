@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAianasmf-mib
-title:
-- content: IANA-SMF-MIB
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ianasmf-mib
-  type: self
+id: IANAianasmfmib
 type: standard
-docid:
-- id: IANA ianasmf-mib
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IANA-SMF-MIB
+source:
+- type: self
+  content: https://www.iana.org/assignments/ianasmf-mib
+docidentifier:
+- content: IANA ianasmf-mib
   type: IANA
   primary: true
 docnumber: ianasmf-mib
 date:
 - type: created
-  value: '2014-08-14'
+  at: '2014-08-14'
 - type: updated
-  value: '2014-10-14'
+  at: '2014-10-14'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

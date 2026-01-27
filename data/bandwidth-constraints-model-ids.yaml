@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAbandwidth-constraints-model-ids
-title:
-- content: Bandwidth Constraints Model Identifiers
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/bandwidth-constraints-model-ids
-  type: self
+id: IANAbandwidthconstraintsmodelids
 type: standard
-docid:
-- id: IANA bandwidth-constraints-model-ids
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Bandwidth Constraints Model Identifiers
+source:
+- type: self
+  content: https://www.iana.org/assignments/bandwidth-constraints-model-ids
+docidentifier:
+- content: IANA bandwidth-constraints-model-ids
   type: IANA
   primary: true
 docnumber: bandwidth-constraints-model-ids
 date:
 - type: created
-  value: '2005-01-28'
+  at: '2005-01-28'
 - type: updated
-  value: '2005-09-19'
+  at: '2005-09-19'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

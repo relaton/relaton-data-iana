@@ -1,0 +1,33 @@
+---
+id: IANAyangmoduletagsietfyangmoduletags
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IETF YANG Module Tags
+source:
+- type: self
+  content: https://www.iana.org/assignments/yang-module-tags
+docidentifier:
+- content: IANA yang-module-tags/ietf-yang-module-tags
+  type: IANA
+  primary: true
+docnumber: yang-module-tags/ietf-yang-module-tags
+date:
+- type: created
+  at: '2020-03-23'
+- type: updated
+  at: '2021-02-05'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

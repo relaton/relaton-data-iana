@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAmarkdown-variants
-title:
-- content: Markdown Variants
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/markdown-variants
-  type: self
+id: IANAmarkdownvariants
 type: standard
-docid:
-- id: IANA markdown-variants
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Markdown Variants
+source:
+- type: self
+  content: https://www.iana.org/assignments/markdown-variants
+docidentifier:
+- content: IANA markdown-variants
   type: IANA
   primary: true
 docnumber: markdown-variants
 date:
 - type: created
-  value: '2015-10-22'
+  at: '2015-10-22'
 - type: updated
-  value: '2023-03-21'
+  at: '2023-03-21'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

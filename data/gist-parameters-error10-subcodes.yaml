@@ -1,0 +1,33 @@
+---
+id: IANAgistparameterserror10subcodes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Error Code 10 Subcodes
+source:
+- type: self
+  content: https://www.iana.org/assignments/gist-parameters
+docidentifier:
+- content: IANA gist-parameters/error10-subcodes
+  type: IANA
+  primary: true
+docnumber: gist-parameters/error10-subcodes
+date:
+- type: created
+  at: '2009-07-30'
+- type: updated
+  at: '2011-01-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

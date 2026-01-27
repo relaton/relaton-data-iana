@@ -1,0 +1,33 @@
+---
+id: IANAinternetdatetimeformattimestampsuffixtagkeys
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Timestamp Suffix Tag Keys
+source:
+- type: self
+  content: https://www.iana.org/assignments/internet-date-time-format
+docidentifier:
+- content: IANA internet-date-time-format/timestamp-suffix-tag-keys
+  type: IANA
+  primary: true
+docnumber: internet-date-time-format/timestamp-suffix-tag-keys
+date:
+- type: created
+  at: '2023-10-24'
+- type: updated
+  at: '2024-05-22'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

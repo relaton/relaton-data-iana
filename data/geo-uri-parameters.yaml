@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAgeo-uri-parameters
-title:
-- content: "'geo' URI Parameters"
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/geo-uri-parameters
-  type: self
+id: IANAgeouriparameters
 type: standard
-docid:
-- id: IANA geo-uri-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: "'geo' URI Parameters"
+source:
+- type: self
+  content: https://www.iana.org/assignments/geo-uri-parameters
+docidentifier:
+- content: IANA geo-uri-parameters
   type: IANA
   primary: true
 docnumber: geo-uri-parameters
 date:
 - type: created
-  value: '2010-04-20'
+  at: '2010-04-20'
 - type: updated
-  value: '2010-06-07'
+  at: '2010-06-07'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

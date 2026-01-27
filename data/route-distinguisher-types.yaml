@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAroute-distinguisher-types
-title:
-- content: Route Distinguisher Type Field
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/route-distinguisher-types
-  type: self
+id: IANAroutedistinguishertypes
 type: standard
-docid:
-- id: IANA route-distinguisher-types
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Route Distinguisher Type Field
+source:
+- type: self
+  content: https://www.iana.org/assignments/route-distinguisher-types
+docidentifier:
+- content: IANA route-distinguisher-types
   type: IANA
   primary: true
 docnumber: route-distinguisher-types
 date:
 - type: created
-  value: '2005-02-15'
+  at: '2005-02-15'
 - type: updated
-  value: '2015-05-15'
+  at: '2015-05-15'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAnovell-sap-numbers
-title:
-- content: Novell Service Advisor Protocol (SAP) Numbers - Novell Object Types
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/novell-sap-numbers
-  type: self
+id: IANAnovellsapnumbers
 type: standard
-docid:
-- id: IANA novell-sap-numbers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Novell Service Advisor Protocol (SAP) Numbers - Novell Object Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/novell-sap-numbers
+docidentifier:
+- content: IANA novell-sap-numbers
   type: IANA
   primary: true
 docnumber: novell-sap-numbers
 date:
 - type: updated
-  value: '2012-02-17'
+  at: '2012-02-17'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

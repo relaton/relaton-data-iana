@@ -1,0 +1,33 @@
+---
+id: IANAsdfsdffeaturenames
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SDF Feature Names
+source:
+- type: self
+  content: https://www.iana.org/assignments/sdf
+docidentifier:
+- content: IANA sdf/sdf-feature-names
+  type: IANA
+  primary: true
+docnumber: sdf/sdf-feature-names
+date:
+- type: created
+  at: '2025-03-27'
+- type: updated
+  at: '2025-04-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

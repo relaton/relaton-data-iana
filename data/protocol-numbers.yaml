@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAprotocol-numbers
-title:
-- content: Protocol Numbers
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/protocol-numbers
-  type: self
+id: IANAprotocolnumbers
 type: standard
-docid:
-- id: IANA protocol-numbers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Protocol Numbers
+source:
+- type: self
+  content: https://www.iana.org/assignments/protocol-numbers
+docidentifier:
+- content: IANA protocol-numbers
   type: IANA
   primary: true
 docnumber: protocol-numbers
 date:
 - type: updated
-  value: '2025-01-08'
+  at: '2025-01-08'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

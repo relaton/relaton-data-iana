@@ -1,26 +1,27 @@
 ---
-schema-version: v1.2.9
-id: IANAlanguage-subtag-registry
-title:
-- content: Language Subtag Registry
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/language-subtag-registry
-  type: self
+id: IANAlanguagesubtagregistry
 type: standard
-docid:
-- id: IANA language-subtag-registry
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Language Subtag Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/language-subtag-registry
+docidentifier:
+- content: IANA language-subtag-registry
   type: IANA
   primary: true
 docnumber: language-subtag-registry
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

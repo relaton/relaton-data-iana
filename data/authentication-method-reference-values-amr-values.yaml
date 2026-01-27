@@ -1,0 +1,33 @@
+---
+id: IANAauthenticationmethodreferencevaluesamrvalues
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Authentication Method Reference Values
+source:
+- type: self
+  content: https://www.iana.org/assignments/authentication-method-reference-values
+docidentifier:
+- content: IANA authentication-method-reference-values/amr-values
+  type: IANA
+  primary: true
+docnumber: authentication-method-reference-values/amr-values
+date:
+- type: created
+  at: '2017-04-13'
+- type: updated
+  at: '2024-10-04'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

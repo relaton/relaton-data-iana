@@ -1,0 +1,33 @@
+---
+id: IANAkinkparameterskinkparameters4
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: KINK Next Payload Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/kink-parameters
+docidentifier:
+- content: IANA kink-parameters/kink-parameters-4
+  type: IANA
+  primary: true
+docnumber: kink-parameters/kink-parameters-4
+date:
+- type: created
+  at: '2006-01-25'
+- type: updated
+  at: '2006-09-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

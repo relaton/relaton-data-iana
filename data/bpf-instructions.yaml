@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAbpf-instructions
-title:
-- content: BPF Instructions
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/bpf-instructions
-  type: self
+id: IANAbpfinstructions
 type: standard
-docid:
-- id: IANA bpf-instructions
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: BPF Instructions
+source:
+- type: self
+  content: https://www.iana.org/assignments/bpf-instructions
+docidentifier:
+- content: IANA bpf-instructions
   type: IANA
   primary: true
 docnumber: bpf-instructions
 date:
 - type: created
-  value: '2024-07-12'
+  at: '2024-07-12'
 - type: updated
-  value: '2024-11-22'
+  at: '2024-11-22'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

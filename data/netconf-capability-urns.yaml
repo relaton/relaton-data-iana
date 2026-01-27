@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAnetconf-capability-urns
-title:
-- content: Network Configuration Protocol (NETCONF) Capability URNs
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/netconf-capability-urns
-  type: self
+id: IANAnetconfcapabilityurns
 type: standard
-docid:
-- id: IANA netconf-capability-urns
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Network Configuration Protocol (NETCONF) Capability URNs
+source:
+- type: self
+  content: https://www.iana.org/assignments/netconf-capability-urns
+docidentifier:
+- content: IANA netconf-capability-urns
   type: IANA
   primary: true
 docnumber: netconf-capability-urns
 date:
 - type: created
-  value: '2006-09-18'
+  at: '2006-09-18'
 - type: updated
-  value: '2019-03-07'
+  at: '2019-03-07'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

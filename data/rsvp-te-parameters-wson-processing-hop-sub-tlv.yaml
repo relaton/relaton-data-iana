@@ -1,0 +1,33 @@
+---
+id: IANArsvpteparameterswsonprocessinghopsubtlv
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Sub-TLV Types for WSON Processing Hop Attribute TLV
+source:
+- type: self
+  content: https://www.iana.org/assignments/rsvp-te-parameters
+docidentifier:
+- content: IANA rsvp-te-parameters/wson-processing-hop-sub-tlv
+  type: IANA
+  primary: true
+docnumber: rsvp-te-parameters/wson-processing-hop-sub-tlv
+date:
+- type: created
+  at: '2006-01-23'
+- type: updated
+  at: '2019-07-17'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

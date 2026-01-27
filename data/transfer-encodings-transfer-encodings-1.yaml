@@ -1,0 +1,31 @@
+---
+id: IANAtransferencodingstransferencodings1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Transfer Encodings
+source:
+- type: self
+  content: https://www.iana.org/assignments/transfer-encodings
+docidentifier:
+- content: IANA transfer-encodings/transfer-encodings-1
+  type: IANA
+  primary: true
+docnumber: transfer-encodings/transfer-encodings-1
+date:
+- type: updated
+  at: '2009-08-17'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

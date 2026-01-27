@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAnfsv4-device-id-notifications
-title:
-- content: NFSv4 Device ID Notifications
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/nfsv4-device-id-notifications
-  type: self
+id: IANAnfsv4deviceidnotifications
 type: standard
-docid:
-- id: IANA nfsv4-device-id-notifications
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NFSv4 Device ID Notifications
+source:
+- type: self
+  content: https://www.iana.org/assignments/nfsv4-device-id-notifications
+docidentifier:
+- content: IANA nfsv4-device-id-notifications
   type: IANA
   primary: true
 docnumber: nfsv4-device-id-notifications
 date:
 - type: created
-  value: '2009-01-16'
+  at: '2009-01-16'
 - type: updated
-  value: '2023-02-21'
+  at: '2023-02-21'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
 id: IANAkeynote
-title:
-- content: KeyNote Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/keynote
-  type: self
 type: standard
-docid:
-- id: IANA keynote
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: KeyNote Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/keynote
+docidentifier:
+- content: IANA keynote
   type: IANA
   primary: true
 docnumber: keynote
 date:
 - type: updated
-  value: '2010-01-25'
+  at: '2010-01-25'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAgnss
-title:
-- content: Global Navigation Satellite System (GNSS)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/gnss
-  type: self
 type: standard
-docid:
-- id: IANA gnss
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Global Navigation Satellite System (GNSS)
+source:
+- type: self
+  content: https://www.iana.org/assignments/gnss
+docidentifier:
+- content: IANA gnss
   type: IANA
   primary: true
 docnumber: gnss
 date:
 - type: created
-  value: '2013-11-07'
+  at: '2013-11-07'
 - type: updated
-  value: '2014-02-04'
+  at: '2014-02-04'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

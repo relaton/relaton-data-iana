@@ -1,0 +1,33 @@
+---
+id: IANAlispparameterslispparameterslispcontrolplaneheaderbitsmapreply
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'LISP Control Plane Header Bits: Map-Reply'
+source:
+- type: self
+  content: https://www.iana.org/assignments/lisp-parameters
+docidentifier:
+- content: IANA lisp-parameters/lisp-parameters-lisp-control-plane-header-bits-map-reply
+  type: IANA
+  primary: true
+docnumber: lisp-parameters/lisp-parameters-lisp-control-plane-header-bits-map-reply
+date:
+- type: created
+  at: '2012-04-25'
+- type: updated
+  at: '2024-12-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

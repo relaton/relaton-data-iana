@@ -1,0 +1,31 @@
+---
+id: IANAxnsprotocoltypesxnsprotocoltypes2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Assigned internet packet types
+source:
+- type: self
+  content: https://www.iana.org/assignments/xns-protocol-types
+docidentifier:
+- content: IANA xns-protocol-types/xns-protocol-types-2
+  type: IANA
+  primary: true
+docnumber: xns-protocol-types/xns-protocol-types-2
+date:
+- type: updated
+  at: '2009-11-04'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

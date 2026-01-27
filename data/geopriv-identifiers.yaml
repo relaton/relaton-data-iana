@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAgeopriv-identifiers
-title:
-- content: Geopriv Identifiers
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/geopriv-identifiers
-  type: self
+id: IANAgeoprividentifiers
 type: standard
-docid:
-- id: IANA geopriv-identifiers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Geopriv Identifiers
+source:
+- type: self
+  content: https://www.iana.org/assignments/geopriv-identifiers
+docidentifier:
+- content: IANA geopriv-identifiers
   type: IANA
   primary: true
 docnumber: geopriv-identifiers
 date:
 - type: created
-  value: '2013-09-04'
+  at: '2013-09-04'
 - type: updated
-  value: '2013-11-12'
+  at: '2013-11-12'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAtelnet-options
-title:
-- content: Telnet Options
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/telnet-options
-  type: self
+id: IANAtelnetoptions
 type: standard
-docid:
-- id: IANA telnet-options
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Telnet Options
+source:
+- type: self
+  content: https://www.iana.org/assignments/telnet-options
+docidentifier:
+- content: IANA telnet-options
   type: IANA
   primary: true
 docnumber: telnet-options
 date:
 - type: updated
-  value: '2022-03-16'
+  at: '2022-03-16'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

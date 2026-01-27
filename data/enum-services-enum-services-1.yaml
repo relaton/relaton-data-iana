@@ -1,0 +1,33 @@
+---
+id: IANAenumservicesenumservices1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Enumservice Registrations
+source:
+- type: self
+  content: https://www.iana.org/assignments/enum-services
+docidentifier:
+- content: IANA enum-services/enum-services-1
+  type: IANA
+  primary: true
+docnumber: enum-services/enum-services-1
+date:
+- type: created
+  at: '2004-03-12'
+- type: updated
+  at: '2022-01-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

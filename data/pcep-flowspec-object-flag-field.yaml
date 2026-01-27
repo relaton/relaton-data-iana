@@ -1,0 +1,33 @@
+---
+id: IANApcepflowspecobjectflagfield
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: FLOWSPEC Object Flag Field
+source:
+- type: self
+  content: https://www.iana.org/assignments/pcep
+docidentifier:
+- content: IANA pcep/flowspec-object-flag-field
+  type: IANA
+  primary: true
+docnumber: pcep/flowspec-object-flag-field
+date:
+- type: created
+  at: '2008-12-19'
+- type: updated
+  at: '2025-04-04'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

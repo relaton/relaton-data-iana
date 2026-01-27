@@ -1,0 +1,33 @@
+---
+id: IANAurlauthauthorizationmechanismregistryurlauthauthorizationmechanismregistry1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IMAP URLAUTH Authorization Mechanism Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/urlauth-authorization-mechanism-registry
+docidentifier:
+- content: IANA urlauth-authorization-mechanism-registry/urlauth-authorization-mechanism-registry-1
+  type: IANA
+  primary: true
+docnumber: urlauth-authorization-mechanism-registry/urlauth-authorization-mechanism-registry-1
+date:
+- type: created
+  at: '2006-04-20'
+- type: updated
+  at: '2006-08-03'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

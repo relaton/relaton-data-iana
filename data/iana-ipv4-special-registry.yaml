@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAiana-ipv4-special-registry
-title:
-- content: IANA IPv4 Special-Purpose Address Registry
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/iana-ipv4-special-registry
-  type: self
+id: IANAianaipv4specialregistry
 type: standard
-docid:
-- id: IANA iana-ipv4-special-registry
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IANA IPv4 Special-Purpose Address Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/iana-ipv4-special-registry
+docidentifier:
+- content: IANA iana-ipv4-special-registry
   type: IANA
   primary: true
 docnumber: iana-ipv4-special-registry
 date:
 - type: created
-  value: '2009-08-19'
+  at: '2009-08-19'
 - type: updated
-  value: '2021-02-04'
+  at: '2021-02-04'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

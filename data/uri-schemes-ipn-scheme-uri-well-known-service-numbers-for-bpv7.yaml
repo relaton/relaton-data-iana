@@ -1,0 +1,31 @@
+---
+id: IANAurischemesipnschemeuriwellknownservicenumbersforbpv7
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: "'ipn' Scheme URI Well-known Service Numbers for BPv7"
+source:
+- type: self
+  content: https://www.iana.org/assignments/uri-schemes
+docidentifier:
+- content: IANA uri-schemes/ipn-scheme-uri-well-known-service-numbers-for-bpv7
+  type: IANA
+  primary: true
+docnumber: uri-schemes/ipn-scheme-uri-well-known-service-numbers-for-bpv7
+date:
+- type: updated
+  at: '2025-03-31'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

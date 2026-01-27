@@ -1,0 +1,31 @@
+---
+id: IANAnovellsapnumbersnovellsapnumbers1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Novell Object Type
+source:
+- type: self
+  content: https://www.iana.org/assignments/novell-sap-numbers
+docidentifier:
+- content: IANA novell-sap-numbers/novell-sap-numbers-1
+  type: IANA
+  primary: true
+docnumber: novell-sap-numbers/novell-sap-numbers-1
+date:
+- type: updated
+  at: '2012-02-17'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

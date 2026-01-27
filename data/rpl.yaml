@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANArpl
-title:
-- content: Routing Protocol for Low Power and Lossy Networks (RPL)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rpl
-  type: self
 type: standard
-docid:
-- id: IANA rpl
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Routing Protocol for Low Power and Lossy Networks (RPL)
+source:
+- type: self
+  content: https://www.iana.org/assignments/rpl
+docidentifier:
+- content: IANA rpl
   type: IANA
   primary: true
 docnumber: rpl
 date:
 - type: created
-  value: '2011-04-08'
+  at: '2011-04-08'
 - type: updated
-  value: '2025-03-20'
+  at: '2025-03-20'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

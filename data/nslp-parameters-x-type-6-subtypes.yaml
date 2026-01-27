@@ -1,0 +1,33 @@
+---
+id: IANAnslpparametersxtype6subtypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: END_TIME (X-Type 6) SubType values
+source:
+- type: self
+  content: https://www.iana.org/assignments/nslp-parameters
+docidentifier:
+- content: IANA nslp-parameters/x-type-6-subtypes
+  type: IANA
+  primary: true
+docnumber: nslp-parameters/x-type-6-subtypes
+date:
+- type: created
+  at: '2010-02-03'
+- type: updated
+  at: '2011-03-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

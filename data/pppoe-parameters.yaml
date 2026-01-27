@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANApppoe-parameters
-title:
-- content: Point-to-Point Over Ethernet (PPPoE) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/pppoe-parameters
-  type: self
+id: IANApppoeparameters
 type: standard
-docid:
-- id: IANA pppoe-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Point-to-Point Over Ethernet (PPPoE) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/pppoe-parameters
+docidentifier:
+- content: IANA pppoe-parameters
   type: IANA
   primary: true
 docnumber: pppoe-parameters
 date:
 - type: created
-  value: '2007-03-26'
+  at: '2007-03-26'
 - type: updated
-  value: '2010-02-04'
+  at: '2010-02-04'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

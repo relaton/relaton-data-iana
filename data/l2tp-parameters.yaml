@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAl2tp-parameters
-title:
-- content: Layer Two Tunneling Protocol "L2TP"
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/l2tp-parameters
-  type: self
+id: IANAl2tpparameters
 type: standard
-docid:
-- id: IANA l2tp-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Layer Two Tunneling Protocol "L2TP"
+source:
+- type: self
+  content: https://www.iana.org/assignments/l2tp-parameters
+docidentifier:
+- content: IANA l2tp-parameters
   type: IANA
   primary: true
 docnumber: l2tp-parameters
 date:
 - type: created
-  value: 2003-03
+  at: 2003-03
 - type: updated
-  value: '2024-09-02'
+  at: '2024-09-02'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAsnoop-datalink-types
-title:
-- content: Snoop Datalink Types
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/snoop-datalink-types
-  type: self
+id: IANAsnoopdatalinktypes
 type: standard
-docid:
-- id: IANA snoop-datalink-types
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Snoop Datalink Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/snoop-datalink-types
+docidentifier:
+- content: IANA snoop-datalink-types
   type: IANA
   primary: true
 docnumber: snoop-datalink-types
 date:
 - type: created
-  value: '2004-05-21'
+  at: '2004-05-21'
 - type: updated
-  value: '2009-03-20'
+  at: '2009-03-20'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

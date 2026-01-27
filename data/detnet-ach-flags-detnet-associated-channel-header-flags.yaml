@@ -1,0 +1,33 @@
+---
+id: IANAdetnetachflagsdetnetassociatedchannelheaderflags
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: DetNet Associated Channel Header (d-ACH) Flags
+source:
+- type: self
+  content: https://www.iana.org/assignments/detnet-ach-flags
+docidentifier:
+- content: IANA detnet-ach-flags/detnet-associated-channel-header-flags
+  type: IANA
+  primary: true
+docnumber: detnet-ach-flags/detnet-associated-channel-header-flags
+date:
+- type: created
+  at: '2024-01-22'
+- type: updated
+  at: '2024-03-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

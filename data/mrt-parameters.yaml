@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAmrt-parameters
-title:
-- content: Maximally Redundant Tree (MRT) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/mrt-parameters
-  type: self
+id: IANAmrtparameters
 type: standard
-docid:
-- id: IANA mrt-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Maximally Redundant Tree (MRT) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/mrt-parameters
+docidentifier:
+- content: IANA mrt-parameters
   type: IANA
   primary: true
 docnumber: mrt-parameters
 date:
 - type: created
-  value: '2016-02-26'
+  at: '2016-02-26'
 - type: updated
-  value: '2016-06-20'
+  at: '2016-06-20'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANArtp-parameters
-title:
-- content: Real-Time Transport Protocol (RTP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rtp-parameters
-  type: self
+id: IANArtpparameters
 type: standard
-docid:
-- id: IANA rtp-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Real-Time Transport Protocol (RTP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/rtp-parameters
+docidentifier:
+- content: IANA rtp-parameters
   type: IANA
   primary: true
 docnumber: rtp-parameters
 date:
 - type: updated
-  value: '2025-03-28'
+  at: '2025-03-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

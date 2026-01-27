@@ -1,0 +1,33 @@
+---
+id: IANAowampparametersowampmodes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWAMP-Modes
+source:
+- type: self
+  content: https://www.iana.org/assignments/owamp-parameters
+docidentifier:
+- content: IANA owamp-parameters/owamp-modes
+  type: IANA
+  primary: true
+docnumber: owamp-parameters/owamp-modes
+date:
+- type: created
+  at: '2015-10-27'
+- type: updated
+  at: '2024-02-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAtzdist-actions
-title:
-- content: Time Zone Data Distribution Service (TZDIST) Service Actions
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/tzdist-actions
-  type: self
+id: IANAtzdistactions
 type: standard
-docid:
-- id: IANA tzdist-actions
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Time Zone Data Distribution Service (TZDIST) Service Actions
+source:
+- type: self
+  content: https://www.iana.org/assignments/tzdist-actions
+docidentifier:
+- content: IANA tzdist-actions
   type: IANA
   primary: true
 docnumber: tzdist-actions
 date:
 - type: created
-  value: '2015-08-03'
+  at: '2015-08-03'
 - type: updated
-  value: '2023-06-30'
+  at: '2023-06-30'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,0 +1,33 @@
+---
+id: IANAospftrafficengtlvssubtlv6
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Types for sub-TLVs of Optical Node Property (Value 6)
+source:
+- type: self
+  content: https://www.iana.org/assignments/ospf-traffic-eng-tlvs
+docidentifier:
+- content: IANA ospf-traffic-eng-tlvs/subtlv6
+  type: IANA
+  primary: true
+docnumber: ospf-traffic-eng-tlvs/subtlv6
+date:
+- type: created
+  at: '2003-08-29'
+- type: updated
+  at: '2025-02-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

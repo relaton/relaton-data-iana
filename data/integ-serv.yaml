@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAinteg-serv
-title:
-- content: Integrated Services Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/integ-serv
-  type: self
+id: IANAintegserv
 type: standard
-docid:
-- id: IANA integ-serv
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Integrated Services Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/integ-serv
+docidentifier:
+- content: IANA integ-serv
   type: IANA
   primary: true
 docnumber: integ-serv
 date:
 - type: created
-  value: '2002-03-05'
+  at: '2002-03-05'
 - type: updated
-  value: '2002-04-09'
+  at: '2002-04-09'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

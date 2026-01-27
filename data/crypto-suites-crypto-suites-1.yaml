@@ -1,0 +1,33 @@
+---
+id: IANAcryptosuitescryptosuites1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Cryptographic Suites for IKEv1, IKEv2, and IPsec
+source:
+- type: self
+  content: https://www.iana.org/assignments/crypto-suites
+docidentifier:
+- content: IANA crypto-suites/crypto-suites-1
+  type: IANA
+  primary: true
+docnumber: crypto-suites/crypto-suites-1
+date:
+- type: created
+  at: '2004-09-30'
+- type: updated
+  at: '2022-03-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

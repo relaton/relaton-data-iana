@@ -1,0 +1,33 @@
+---
+id: IANAospfv3parameterssrv6adjacencysid
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OSPFv3 SRv6 Adjacency SID Sub-TLV Flags
+source:
+- type: self
+  content: https://www.iana.org/assignments/ospfv3-parameters
+docidentifier:
+- content: IANA ospfv3-parameters/srv6-adjacency-sid
+  type: IANA
+  primary: true
+docnumber: ospfv3-parameters/srv6-adjacency-sid
+date:
+- type: created
+  at: '2007-04-25'
+- type: updated
+  at: '2025-03-03'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,0 +1,33 @@
+---
+id: IANAemskparametersemskparameters1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: User Specific Root Keys (USRK) Key Labels
+source:
+- type: self
+  content: https://www.iana.org/assignments/emsk-parameters
+docidentifier:
+- content: IANA emsk-parameters/emsk-parameters-1
+  type: IANA
+  primary: true
+docnumber: emsk-parameters/emsk-parameters-1
+date:
+- type: created
+  at: '2008-06-24'
+- type: updated
+  at: '2024-06-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

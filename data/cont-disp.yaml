@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAcont-disp
-title:
-- content: Content Disposition Values and Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/cont-disp
-  type: self
+id: IANAcontdisp
 type: standard
-docid:
-- id: IANA cont-disp
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Content Disposition Values and Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/cont-disp
+docidentifier:
+- content: IANA cont-disp
   type: IANA
   primary: true
 docnumber: cont-disp
 date:
 - type: updated
-  value: '2021-09-14'
+  at: '2021-09-14'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

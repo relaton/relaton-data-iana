@@ -1,0 +1,33 @@
+---
+id: IANAdccpparametersdccpparameters1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Packet Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/dccp-parameters
+docidentifier:
+- content: IANA dccp-parameters/dccp-parameters-1
+  type: IANA
+  primary: true
+docnumber: dccp-parameters/dccp-parameters-1
+date:
+- type: created
+  at: '2005-08-25'
+- type: updated
+  at: '2025-03-05'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

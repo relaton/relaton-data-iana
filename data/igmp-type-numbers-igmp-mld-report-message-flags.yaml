@@ -1,0 +1,33 @@
+---
+id: IANAigmptypenumbersigmpmldreportmessageflags
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IGMP/MLD Report Message Flags
+source:
+- type: self
+  content: https://www.iana.org/assignments/igmp-type-numbers
+docidentifier:
+- content: IANA igmp-type-numbers/igmp-mld-report-message-flags
+  type: IANA
+  primary: true
+docnumber: igmp-type-numbers/igmp-mld-report-message-flags
+date:
+- type: created
+  at: '2002-02-06'
+- type: updated
+  at: '2025-03-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAsdxf-parameters
-title:
-- content: Structured Data Exchange Format (SDXF)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/sdxf-parameters
-  type: self
+id: IANAsdxfparameters
 type: standard
-docid:
-- id: IANA sdxf-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Structured Data Exchange Format (SDXF)
+source:
+- type: self
+  content: https://www.iana.org/assignments/sdxf-parameters
+docidentifier:
+- content: IANA sdxf-parameters
   type: IANA
   primary: true
 docnumber: sdxf-parameters
 date:
 - type: created
-  value: '2001-02-02'
+  at: '2001-02-02'
 - type: updated
-  value: '2002-03-14'
+  at: '2002-03-14'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

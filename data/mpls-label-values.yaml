@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAmpls-label-values
-title:
-- content: Special-Purpose Multiprotocol Label Switching (MPLS) Label Values
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/mpls-label-values
-  type: self
+id: IANAmplslabelvalues
 type: standard
-docid:
-- id: IANA mpls-label-values
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Special-Purpose Multiprotocol Label Switching (MPLS) Label Values
+source:
+- type: self
+  content: https://www.iana.org/assignments/mpls-label-values
+docidentifier:
+- content: IANA mpls-label-values
   type: IANA
   primary: true
 docnumber: mpls-label-values
 date:
 - type: created
-  value: '2002-11-08'
+  at: '2002-11-08'
 - type: updated
-  value: '2025-02-18'
+  at: '2025-02-18'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,0 +1,33 @@
+---
+id: IANAespaggfragpayloadaggfragpayloadsubtypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: AGGFRAG_PAYLOAD Sub-Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/esp-aggfrag-payload
+docidentifier:
+- content: IANA esp-aggfrag-payload/aggfrag-payload-sub-types
+  type: IANA
+  primary: true
+docnumber: esp-aggfrag-payload/aggfrag-payload-sub-types
+date:
+- type: created
+  at: '2022-09-28'
+- type: updated
+  at: '2024-07-22'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

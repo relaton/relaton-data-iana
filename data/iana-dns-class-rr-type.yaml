@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAiana-dns-class-rr-type
-title:
-- content: iana-dns-class-rr-type YANG Module
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/iana-dns-class-rr-type
-  type: self
+id: IANAianadnsclassrrtype
 type: standard
-docid:
-- id: IANA iana-dns-class-rr-type
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: iana-dns-class-rr-type YANG Module
+source:
+- type: self
+  content: https://www.iana.org/assignments/iana-dns-class-rr-type
+docidentifier:
+- content: IANA iana-dns-class-rr-type
   type: IANA
   primary: true
 docnumber: iana-dns-class-rr-type
 date:
 - type: created
-  value: '2021-06-23'
+  at: '2021-06-23'
 - type: updated
-  value: '2024-12-10'
+  at: '2024-12-10'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

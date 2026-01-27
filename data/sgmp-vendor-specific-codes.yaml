@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAsgmp-vendor-specific-codes
-title:
-- content: Simple Gateway Monitoring Protocol (SGMP) Vendor Specific Codes (Obsolete)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/sgmp-vendor-specific-codes
-  type: self
+id: IANAsgmpvendorspecificcodes
 type: standard
-docid:
-- id: IANA sgmp-vendor-specific-codes
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Simple Gateway Monitoring Protocol (SGMP) Vendor Specific Codes (Obsolete)
+source:
+- type: self
+  content: https://www.iana.org/assignments/sgmp-vendor-specific-codes
+docidentifier:
+- content: IANA sgmp-vendor-specific-codes
   type: IANA
   primary: true
 docnumber: sgmp-vendor-specific-codes
 date:
 - type: updated
-  value: '2001-05-10'
+  at: '2001-05-10'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

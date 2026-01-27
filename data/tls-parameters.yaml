@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAtls-parameters
-title:
-- content: Transport Layer Security (TLS) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/tls-parameters
-  type: self
+id: IANAtlsparameters
 type: standard
-docid:
-- id: IANA tls-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Transport Layer Security (TLS) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/tls-parameters
+docidentifier:
+- content: IANA tls-parameters
   type: IANA
   primary: true
 docnumber: tls-parameters
 date:
 - type: created
-  value: '2005-08-23'
+  at: '2005-08-23'
 - type: updated
-  value: '2025-03-06'
+  at: '2025-03-06'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

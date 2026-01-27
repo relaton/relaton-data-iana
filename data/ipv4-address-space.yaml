@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAipv4-address-space
-title:
-- content: IANA IPv4 Address Space Registry
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ipv4-address-space
-  type: self
+id: IANAipv4addressspace
 type: standard
-docid:
-- id: IANA ipv4-address-space
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IANA IPv4 Address Space Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/ipv4-address-space
+docidentifier:
+- content: IANA ipv4-address-space
   type: IANA
   primary: true
 docnumber: ipv4-address-space
 date:
 - type: updated
-  value: '2023-12-18'
+  at: '2023-12-18'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAgre-parameters
-title:
-- content: Generic Routing Encapsulation (GRE) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/gre-parameters
-  type: self
+id: IANAgreparameters
 type: standard
-docid:
-- id: IANA gre-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Generic Routing Encapsulation (GRE) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/gre-parameters
+docidentifier:
+- content: IANA gre-parameters
   type: IANA
   primary: true
 docnumber: gre-parameters
 date:
 - type: updated
-  value: '2009-05-21'
+  at: '2009-05-21'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,0 +1,33 @@
+---
+id: IANAdnssecalgnumbersprimegeneratorpairs
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: DNS KEY Record Diffie-Hellman Well-Known Prime/Generator Pairs
+source:
+- type: self
+  content: https://www.iana.org/assignments/dns-sec-alg-numbers
+docidentifier:
+- content: IANA dns-sec-alg-numbers/prime-generator-pairs
+  type: IANA
+  primary: true
+docnumber: dns-sec-alg-numbers/prime-generator-pairs
+date:
+- type: created
+  at: '2003-11-03'
+- type: updated
+  at: '2024-12-05'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

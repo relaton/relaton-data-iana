@@ -1,0 +1,33 @@
+---
+id: IANAaaaparametersaaaparameters1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: AVP Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/aaa-parameters
+docidentifier:
+- content: IANA aaa-parameters/aaa-parameters-1
+  type: IANA
+  primary: true
+docnumber: aaa-parameters/aaa-parameters-1
+date:
+- type: created
+  at: '2003-04-08'
+- type: updated
+  at: '2024-08-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

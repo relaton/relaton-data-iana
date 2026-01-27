@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAradius-types
-title:
-- content: RADIUS Types
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/radius-types
-  type: self
+id: IANAradiustypes
 type: standard
-docid:
-- id: IANA radius-types
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: RADIUS Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/radius-types
+docidentifier:
+- content: IANA radius-types
   type: IANA
   primary: true
 docnumber: radius-types
 date:
 - type: updated
-  value: '2023-08-18'
+  at: '2023-08-18'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

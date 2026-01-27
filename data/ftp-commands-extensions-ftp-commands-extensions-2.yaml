@@ -1,0 +1,33 @@
+---
+id: IANAftpcommandsextensionsftpcommandsextensions2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: FTP Commands and Extensions
+source:
+- type: self
+  content: https://www.iana.org/assignments/ftp-commands-extensions
+docidentifier:
+- content: IANA ftp-commands-extensions/ftp-commands-extensions-2
+  type: IANA
+  primary: true
+docnumber: ftp-commands-extensions/ftp-commands-extensions-2
+date:
+- type: created
+  at: '2010-01-07'
+- type: updated
+  at: '2024-04-22'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

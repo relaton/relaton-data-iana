@@ -1,0 +1,33 @@
+---
+id: IANAhipparametershipparameters9
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Notify Message Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/hip-parameters
+docidentifier:
+- content: IANA hip-parameters/hip-parameters-9
+  type: IANA
+  primary: true
+docnumber: hip-parameters/hip-parameters-9
+date:
+- type: created
+  at: '2007-12-07'
+- type: updated
+  at: '2023-03-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

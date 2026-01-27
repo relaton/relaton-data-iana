@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAhttp-cache-status
-title:
-- content: Hypertext Transfer Protocol (HTTP) Cache-Status
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/http-cache-status
-  type: self
+id: IANAhttpcachestatus
 type: standard
-docid:
-- id: IANA http-cache-status
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Hypertext Transfer Protocol (HTTP) Cache-Status
+source:
+- type: self
+  content: https://www.iana.org/assignments/http-cache-status
+docidentifier:
+- content: IANA http-cache-status
   type: IANA
   primary: true
 docnumber: http-cache-status
 date:
 - type: created
-  value: '2021-08-19'
+  at: '2021-08-19'
 - type: updated
-  value: '2022-06-21'
+  at: '2022-06-21'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAiodef2
-title:
-- content: Incident Object Description Exchange Format v2 (IODEF)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/iodef2
-  type: self
 type: standard
-docid:
-- id: IANA iodef2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Incident Object Description Exchange Format v2 (IODEF)
+source:
+- type: self
+  content: https://www.iana.org/assignments/iodef2
+docidentifier:
+- content: IANA iodef2
   type: IANA
   primary: true
 docnumber: iodef2
 date:
 - type: created
-  value: '2016-08-16'
+  at: '2016-08-16'
 - type: updated
-  value: '2016-12-01'
+  at: '2016-12-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

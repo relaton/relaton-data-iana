@@ -1,0 +1,33 @@
+---
+id: IANAprivacypasstokentype
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Privacy Pass Token Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/privacy-pass
+docidentifier:
+- content: IANA privacy-pass/token-type
+  type: IANA
+  primary: true
+docnumber: privacy-pass/token-type
+date:
+- type: created
+  at: '2023-11-17'
+- type: updated
+  at: '2024-07-12'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

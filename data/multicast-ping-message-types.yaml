@@ -1,0 +1,33 @@
+---
+id: IANAmulticastpingmessagetypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Multicast Ping Protocol Message Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/multicast-ping
+docidentifier:
+- content: IANA multicast-ping/message-types
+  type: IANA
+  primary: true
+docnumber: multicast-ping/message-types
+date:
+- type: created
+  at: '2011-10-31'
+- type: updated
+  at: '2011-12-09'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

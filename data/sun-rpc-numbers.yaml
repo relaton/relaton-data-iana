@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAsun-rpc-numbers
-title:
-- content: SUN Remote Procedure Call (RPC) Numbers - Obsolete
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/sun-rpc-numbers
-  type: self
+id: IANAsunrpcnumbers
 type: standard
-docid:
-- id: IANA sun-rpc-numbers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SUN Remote Procedure Call (RPC) Numbers - Obsolete
+source:
+- type: self
+  content: https://www.iana.org/assignments/sun-rpc-numbers
+docidentifier:
+- content: IANA sun-rpc-numbers
   type: IANA
   primary: true
 docnumber: sun-rpc-numbers
 date:
 - type: updated
-  value: '2011-06-13'
+  at: '2011-06-13'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

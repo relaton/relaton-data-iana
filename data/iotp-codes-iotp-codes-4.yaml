@@ -1,0 +1,33 @@
+---
+id: IANAiotpcodesiotpcodes4
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CurrencyAmount/CurrCodeType
+source:
+- type: self
+  content: https://www.iana.org/assignments/iotp-codes
+docidentifier:
+- content: IANA iotp-codes/iotp-codes-4
+  type: IANA
+  primary: true
+docnumber: iotp-codes/iotp-codes-4
+date:
+- type: created
+  at: 2000-04
+- type: updated
+  at: '2012-02-02'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

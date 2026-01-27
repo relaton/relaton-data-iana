@@ -1,0 +1,33 @@
+---
+id: IANAisistlvcodepointsisissubtlvsforfloodingparameterstlv
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IS-IS Sub-TLVs for Flooding Parameters TLV
+source:
+- type: self
+  content: https://www.iana.org/assignments/isis-tlv-codepoints
+docidentifier:
+- content: IANA isis-tlv-codepoints/isis-sub-tlvs-for-flooding-parameters-tlv
+  type: IANA
+  primary: true
+docnumber: isis-tlv-codepoints/isis-sub-tlvs-for-flooding-parameters-tlv
+date:
+- type: created
+  at: '2003-05-06'
+- type: updated
+  at: '2025-03-03'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

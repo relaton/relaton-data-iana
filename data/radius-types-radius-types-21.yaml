@@ -1,0 +1,31 @@
+---
+id: IANAradiustypesradiustypes21
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Entity Types (Attribute 127, Location-Information)
+source:
+- type: self
+  content: https://www.iana.org/assignments/radius-types
+docidentifier:
+- content: IANA radius-types/radius-types-21
+  type: IANA
+  primary: true
+docnumber: radius-types/radius-types-21
+date:
+- type: updated
+  at: '2023-08-18'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAbuilding-blocks
-title:
-- content: Building Blocks
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/building-blocks
-  type: self
+id: IANAbuildingblocks
 type: standard
-docid:
-- id: IANA building-blocks
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Building Blocks
+source:
+- type: self
+  content: https://www.iana.org/assignments/building-blocks
+docidentifier:
+- content: IANA building-blocks
   type: IANA
   primary: true
 docnumber: building-blocks
 date:
 - type: created
-  value: 2001-01
+  at: 2001-01
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

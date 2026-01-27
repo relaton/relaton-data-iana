@@ -1,0 +1,33 @@
+---
+id: IANAakaversionnamespaceakaversionnamespace1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: AKA-Version Namespace
+source:
+- type: self
+  content: https://www.iana.org/assignments/aka-version-namespace
+docidentifier:
+- content: IANA aka-version-namespace/aka-version-namespace-1
+  type: IANA
+  primary: true
+docnumber: aka-version-namespace/aka-version-namespace-1
+date:
+- type: created
+  at: '2002-08-13'
+- type: updated
+  at: '2005-11-03'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

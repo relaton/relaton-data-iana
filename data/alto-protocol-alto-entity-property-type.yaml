@@ -1,0 +1,33 @@
+---
+id: IANAaltoprotocolaltoentitypropertytype
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ALTO Entity Property Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/alto-protocol
+docidentifier:
+- content: IANA alto-protocol/alto-entity-property-type
+  type: IANA
+  primary: true
+docnumber: alto-protocol/alto-entity-property-type
+date:
+- type: created
+  at: '2014-03-18'
+- type: updated
+  at: '2023-08-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

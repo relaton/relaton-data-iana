@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAdns-sshfp-rr-parameters
-title:
-- content: DNS SSHFP Resource Record Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/dns-sshfp-rr-parameters
-  type: self
+id: IANAdnssshfprrparameters
 type: standard
-docid:
-- id: IANA dns-sshfp-rr-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: DNS SSHFP Resource Record Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/dns-sshfp-rr-parameters
+docidentifier:
+- content: IANA dns-sshfp-rr-parameters
   type: IANA
   primary: true
 docnumber: dns-sshfp-rr-parameters
 date:
 - type: created
-  value: '2003-09-19'
+  at: '2003-09-19'
 - type: updated
-  value: '2020-02-25'
+  at: '2020-02-25'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

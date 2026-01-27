@@ -1,0 +1,33 @@
+---
+id: IANAiaxparametersiaxparameters7
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IAX Authentication Methods
+source:
+- type: self
+  content: https://www.iana.org/assignments/iax-parameters
+docidentifier:
+- content: IANA iax-parameters/iax-parameters-7
+  type: IANA
+  primary: true
+docnumber: iax-parameters/iax-parameters-7
+date:
+- type: created
+  at: '2008-12-03'
+- type: updated
+  at: '2011-12-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

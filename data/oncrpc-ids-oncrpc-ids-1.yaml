@@ -1,0 +1,33 @@
+---
+id: IANAoncrpcidsoncrpcids1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Network Identifier (r_netid)
+source:
+- type: self
+  content: https://www.iana.org/assignments/oncrpc-ids
+docidentifier:
+- content: IANA oncrpc-ids/oncrpc-ids-1
+  type: IANA
+  primary: true
+docnumber: oncrpc-ids/oncrpc-ids-1
+date:
+- type: created
+  at: '2003-03-12'
+- type: updated
+  at: '2015-03-30'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

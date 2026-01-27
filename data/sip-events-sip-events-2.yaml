@@ -1,0 +1,33 @@
+---
+id: IANAsipeventssipevents2
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Event packages and Event template-packages
+source:
+- type: self
+  content: https://www.iana.org/assignments/sip-events
+docidentifier:
+- content: IANA sip-events/sip-events-2
+  type: IANA
+  primary: true
+docnumber: sip-events/sip-events-2
+date:
+- type: created
+  at: '2002-05-07'
+- type: updated
+  at: '2014-05-02'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

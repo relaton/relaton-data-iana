@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAabout-uri-tokens
-title:
-- content: '"about" URI Tokens'
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/about-uri-tokens
-  type: self
+id: IANAabouturitokens
 type: standard
-docid:
-- id: IANA about-uri-tokens
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: '"about" URI Tokens'
+source:
+- type: self
+  content: https://www.iana.org/assignments/about-uri-tokens
+docidentifier:
+- content: IANA about-uri-tokens
   type: IANA
   primary: true
 docnumber: about-uri-tokens
 date:
 - type: created
-  value: '2012-06-12'
+  at: '2012-06-12'
 - type: updated
-  value: '2016-09-06'
+  at: '2016-09-06'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,0 +1,33 @@
+---
+id: IANAeappaxeappax1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: MAC ID Namespace
+source:
+- type: self
+  content: https://www.iana.org/assignments/eap-pax
+docidentifier:
+- content: IANA eap-pax/eap-pax-1
+  type: IANA
+  primary: true
+docnumber: eap-pax/eap-pax-1
+date:
+- type: created
+  at: '2006-10-03'
+- type: updated
+  at: '2018-04-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

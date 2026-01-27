@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAsieve-environment-items
-title:
-- content: Sieve Environment Items
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/sieve-environment-items
-  type: self
+id: IANAsieveenvironmentitems
 type: standard
-docid:
-- id: IANA sieve-environment-items
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Sieve Environment Items
+source:
+- type: self
+  content: https://www.iana.org/assignments/sieve-environment-items
+docidentifier:
+- content: IANA sieve-environment-items
   type: IANA
   primary: true
 docnumber: sieve-environment-items
 date:
 - type: created
-  value: '2008-05-01'
+  at: '2008-05-01'
 - type: updated
-  value: '2015-01-22'
+  at: '2015-01-22'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

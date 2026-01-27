@@ -1,0 +1,33 @@
+---
+id: IANAquicquicframetypes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: QUIC Frame Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/quic
+docidentifier:
+- content: IANA quic/quic-frame-types
+  type: IANA
+  primary: true
+docnumber: quic/quic-frame-types
+date:
+- type: created
+  at: '2021-02-11'
+- type: updated
+  at: '2024-03-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

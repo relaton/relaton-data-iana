@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANArsvp-te-parameters
-title:
-- content: Resource Reservation Protocol-Traffic Engineering (RSVP-TE) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rsvp-te-parameters
-  type: self
+id: IANArsvpteparameters
 type: standard
-docid:
-- id: IANA rsvp-te-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Resource Reservation Protocol-Traffic Engineering (RSVP-TE) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/rsvp-te-parameters
+docidentifier:
+- content: IANA rsvp-te-parameters
   type: IANA
   primary: true
 docnumber: rsvp-te-parameters
 date:
 - type: created
-  value: '2006-01-23'
+  at: '2006-01-23'
 - type: updated
-  value: '2019-07-17'
+  at: '2019-07-17'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

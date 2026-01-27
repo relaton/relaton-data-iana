@@ -1,0 +1,31 @@
+---
+id: IANAcharactersetscharactersets1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Character Sets
+source:
+- type: self
+  content: https://www.iana.org/assignments/character-sets
+docidentifier:
+- content: IANA character-sets/character-sets-1
+  type: IANA
+  primary: true
+docnumber: character-sets/character-sets-1
+date:
+- type: updated
+  at: '2024-06-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

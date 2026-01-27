@@ -1,0 +1,31 @@
+---
+id: IANAipxnsmappingipxnsmapping1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: ip-xns-mapping-1
+source:
+- type: self
+  content: https://www.iana.org/assignments/ip-xns-mapping
+docidentifier:
+- content: IANA ip-xns-mapping/ip-xns-mapping-1
+  type: IANA
+  primary: true
+docnumber: ip-xns-mapping/ip-xns-mapping-1
+date:
+- type: updated
+  at: '2001-06-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

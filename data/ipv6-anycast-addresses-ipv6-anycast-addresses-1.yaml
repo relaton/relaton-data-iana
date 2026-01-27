@@ -1,0 +1,31 @@
+---
+id: IANAipv6anycastaddressesipv6anycastaddresses1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IPv6 Anycast Addresses
+source:
+- type: self
+  content: https://www.iana.org/assignments/ipv6-anycast-addresses
+docidentifier:
+- content: IANA ipv6-anycast-addresses/ipv6-anycast-addresses-1
+  type: IANA
+  primary: true
+docnumber: ipv6-anycast-addresses/ipv6-anycast-addresses-1
+date:
+- type: updated
+  at: '2014-05-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

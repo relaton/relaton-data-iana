@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAecmlv2-parameters
-title:
-- content: Electronic Commerce Modeling Language Version 2 (ECMLv2) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ecmlv2-parameters
-  type: self
+id: IANAecmlv2parameters
 type: standard
-docid:
-- id: IANA ecmlv2-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Electronic Commerce Modeling Language Version 2 (ECMLv2) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/ecmlv2-parameters
+docidentifier:
+- content: IANA ecmlv2-parameters
   type: IANA
   primary: true
 docnumber: ecmlv2-parameters
 date:
 - type: created
-  value: '2005-04-08'
+  at: '2005-04-08'
 - type: updated
-  value: '2005-10-18'
+  at: '2005-10-18'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

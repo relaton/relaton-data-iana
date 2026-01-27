@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAccnx
-title:
-- content: Content-Centric Networking (CCNx)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ccnx
-  type: self
 type: standard
-docid:
-- id: IANA ccnx
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Content-Centric Networking (CCNx)
+source:
+- type: self
+  content: https://www.iana.org/assignments/ccnx
+docidentifier:
+- content: IANA ccnx
   type: IANA
   primary: true
 docnumber: ccnx
 date:
 - type: created
-  value: '2019-02-11'
+  at: '2019-02-11'
 - type: updated
-  value: '2024-04-19'
+  at: '2024-04-19'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

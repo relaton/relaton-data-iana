@@ -1,0 +1,33 @@
+---
+id: IANAaddressliteraltagsaddressliteraltags1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Address Literal Tags
+source:
+- type: self
+  content: https://www.iana.org/assignments/address-literal-tags
+docidentifier:
+- content: IANA address-literal-tags/address-literal-tags-1
+  type: IANA
+  primary: true
+docnumber: address-literal-tags/address-literal-tags-1
+date:
+- type: created
+  at: '2007-11-14'
+- type: updated
+  at: '2008-10-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

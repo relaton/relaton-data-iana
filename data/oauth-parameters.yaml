@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAoauth-parameters
-title:
-- content: OAuth Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/oauth-parameters
-  type: self
+id: IANAoauthparameters
 type: standard
-docid:
-- id: IANA oauth-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OAuth Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/oauth-parameters
+docidentifier:
+- content: IANA oauth-parameters
   type: IANA
   primary: true
 docnumber: oauth-parameters
 date:
 - type: created
-  value: '2012-07-27'
+  at: '2012-07-27'
 - type: updated
-  value: '2025-02-04'
+  at: '2025-02-04'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAnfsv4-path-variables
-title:
-- content: NFSv4 Path Variables
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/nfsv4-path-variables
-  type: self
+id: IANAnfsv4pathvariables
 type: standard
-docid:
-- id: IANA nfsv4-path-variables
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: NFSv4 Path Variables
+source:
+- type: self
+  content: https://www.iana.org/assignments/nfsv4-path-variables
+docidentifier:
+- content: IANA nfsv4-path-variables
   type: IANA
   primary: true
 docnumber: nfsv4-path-variables
 date:
 - type: created
-  value: '2009-01-16'
+  at: '2009-01-16'
 - type: updated
-  value: '2023-02-21'
+  at: '2023-02-21'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

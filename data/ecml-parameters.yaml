@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAecml-parameters
-title:
-- content: Electronic Commerce Modeling Language (ECML) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ecml-parameters
-  type: self
+id: IANAecmlparameters
 type: standard
-docid:
-- id: IANA ecml-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Electronic Commerce Modeling Language (ECML) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/ecml-parameters
+docidentifier:
+- content: IANA ecml-parameters
   type: IANA
   primary: true
 docnumber: ecml-parameters
 date:
 - type: created
-  value: '2005-04-08'
+  at: '2005-04-08'
 - type: updated
-  value: '2005-10-18'
+  at: '2005-10-18'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAprecis-parameters
-title:
-- content: Preparation and Comparison of Internationalized Strings (PRECIS) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/precis-parameters
-  type: self
+id: IANAprecisparameters
 type: standard
-docid:
-- id: IANA precis-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Preparation and Comparison of Internationalized Strings (PRECIS) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/precis-parameters
+docidentifier:
+- content: IANA precis-parameters
   type: IANA
   primary: true
 docnumber: precis-parameters
 date:
 - type: created
-  value: '2015-03-06'
+  at: '2015-03-06'
 - type: updated
-  value: '2017-10-09'
+  at: '2017-10-09'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

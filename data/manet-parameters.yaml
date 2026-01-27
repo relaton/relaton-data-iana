@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAmanet-parameters
-title:
-- content: Mobile Ad hoc NETwork (MANET) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/manet-parameters
-  type: self
+id: IANAmanetparameters
 type: standard
-docid:
-- id: IANA manet-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mobile Ad hoc NETwork (MANET) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/manet-parameters
+docidentifier:
+- content: IANA manet-parameters
   type: IANA
   primary: true
 docnumber: manet-parameters
 date:
 - type: created
-  value: '2008-12-23'
+  at: '2008-12-23'
 - type: updated
-  value: '2022-01-28'
+  at: '2022-01-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

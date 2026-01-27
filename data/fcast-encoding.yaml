@@ -1,0 +1,33 @@
+---
+id: IANAfcastencoding
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: FCAST Object Metadata Encoding
+source:
+- type: self
+  content: https://www.iana.org/assignments/fcast
+docidentifier:
+- content: IANA fcast/encoding
+  type: IANA
+  primary: true
+docnumber: fcast/encoding
+date:
+- type: created
+  at: '2013-05-07'
+- type: updated
+  at: '2013-07-09'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

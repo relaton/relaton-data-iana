@@ -1,0 +1,33 @@
+---
+id: IANAgeolocationpolicylocationprofiles
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Geolocation Policy Location Profile Names
+source:
+- type: self
+  content: https://www.iana.org/assignments/geolocation-policy
+docidentifier:
+- content: IANA geolocation-policy/location-profiles
+  type: IANA
+  primary: true
+docnumber: geolocation-policy/location-profiles
+date:
+- type: created
+  at: '2012-09-06'
+- type: updated
+  at: '2013-01-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

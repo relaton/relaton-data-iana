@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAtel-uri-parameters
-title:
-- content: tel URI Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/tel-uri-parameters
-  type: self
+id: IANAteluriparameters
 type: standard
-docid:
-- id: IANA tel-uri-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: tel URI Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/tel-uri-parameters
+docidentifier:
+- content: IANA tel-uri-parameters
   type: IANA
   primary: true
 docnumber: tel-uri-parameters
 date:
 - type: created
-  value: '2008-07-10'
+  at: '2008-07-10'
 - type: updated
-  value: '2023-05-03'
+  at: '2023-05-03'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

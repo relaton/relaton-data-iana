@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAspi-numbers
-title:
-- content: Security Parameters Index (SPI) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/spi-numbers
-  type: self
+id: IANAspinumbers
 type: standard
-docid:
-- id: IANA spi-numbers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Security Parameters Index (SPI) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/spi-numbers
+docidentifier:
+- content: IANA spi-numbers
   type: IANA
   primary: true
 docnumber: spi-numbers
 date:
 - type: updated
-  value: '2010-04-28'
+  at: '2010-04-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

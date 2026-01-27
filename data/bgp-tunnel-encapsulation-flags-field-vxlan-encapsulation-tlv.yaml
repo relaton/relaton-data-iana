@@ -1,0 +1,31 @@
+---
+id: IANAbgptunnelencapsulationflagsfieldvxlanencapsulationtlv
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Flags Field of VXLAN Encapsulation Sub-TLVs
+source:
+- type: self
+  content: https://www.iana.org/assignments/bgp-tunnel-encapsulation
+docidentifier:
+- content: IANA bgp-tunnel-encapsulation/flags-field-vxlan-encapsulation-tlv
+  type: IANA
+  primary: true
+docnumber: bgp-tunnel-encapsulation/flags-field-vxlan-encapsulation-tlv
+date:
+- type: updated
+  at: '2025-02-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

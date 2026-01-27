@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAevpn
-title:
-- content: Ethernet VPN (EVPN)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/evpn
-  type: self
 type: standard
-docid:
-- id: IANA evpn
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Ethernet VPN (EVPN)
+source:
+- type: self
+  content: https://www.iana.org/assignments/evpn
+docidentifier:
+- content: IANA evpn
   type: IANA
   primary: true
 docnumber: evpn
 date:
 - type: created
-  value: '2014-10-21'
+  at: '2014-10-21'
 - type: updated
-  value: '2024-05-28'
+  at: '2024-05-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

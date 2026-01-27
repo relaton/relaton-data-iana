@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANArpc-authentication-numbers
-title:
-- content: Remote Procedure Call (RPC) Authentication Numbers
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rpc-authentication-numbers
-  type: self
+id: IANArpcauthenticationnumbers
 type: standard
-docid:
-- id: IANA rpc-authentication-numbers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Remote Procedure Call (RPC) Authentication Numbers
+source:
+- type: self
+  content: https://www.iana.org/assignments/rpc-authentication-numbers
+docidentifier:
+- content: IANA rpc-authentication-numbers
   type: IANA
   primary: true
 docnumber: rpc-authentication-numbers
 date:
 - type: created
-  value: '2009-04-15'
+  at: '2009-04-15'
 - type: updated
-  value: '2022-09-14'
+  at: '2022-09-14'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

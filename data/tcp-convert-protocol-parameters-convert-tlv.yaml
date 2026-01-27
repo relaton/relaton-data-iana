@@ -1,0 +1,33 @@
+---
+id: IANAtcpconvertprotocolparametersconverttlv
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Convert TLVs
+source:
+- type: self
+  content: https://www.iana.org/assignments/tcp-convert-protocol-parameters
+docidentifier:
+- content: IANA tcp-convert-protocol-parameters/convert-tlv
+  type: IANA
+  primary: true
+docnumber: tcp-convert-protocol-parameters/convert-tlv
+date:
+- type: created
+  at: '2020-03-27'
+- type: updated
+  at: '2020-07-31'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

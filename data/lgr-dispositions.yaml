@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAlgr-dispositions
-title:
-- content: Label Generation Ruleset (LGR) Dispositions
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/lgr-dispositions
-  type: self
+id: IANAlgrdispositions
 type: standard
-docid:
-- id: IANA lgr-dispositions
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Label Generation Ruleset (LGR) Dispositions
+source:
+- type: self
+  content: https://www.iana.org/assignments/lgr-dispositions
+docidentifier:
+- content: IANA lgr-dispositions
   type: IANA
   primary: true
 docnumber: lgr-dispositions
 date:
 - type: created
-  value: '2016-05-27'
+  at: '2016-05-27'
 - type: updated
-  value: '2016-08-12'
+  at: '2016-08-12'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,0 +1,33 @@
+---
+id: IANAeapsimakanumberstrustednon3gppaccess
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Trusted Non-3GPP Access EAP Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/eapsimaka-numbers
+docidentifier:
+- content: IANA eapsimaka-numbers/trusted-non-3gpp-access
+  type: IANA
+  primary: true
+docnumber: eapsimaka-numbers/trusted-non-3gpp-access
+date:
+- type: created
+  at: '2005-05-02'
+- type: updated
+  at: '2025-03-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

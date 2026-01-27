@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAmessage-store-events
-title:
-- content: Internet Message Store Events
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/message-store-events
-  type: self
+id: IANAmessagestoreevents
 type: standard
-docid:
-- id: IANA message-store-events
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Internet Message Store Events
+source:
+- type: self
+  content: https://www.iana.org/assignments/message-store-events
+docidentifier:
+- content: IANA message-store-events
   type: IANA
   primary: true
 docnumber: message-store-events
 date:
 - type: created
-  value: '2008-12-04'
+  at: '2008-12-04'
 - type: updated
-  value: '2009-03-27'
+  at: '2009-03-27'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

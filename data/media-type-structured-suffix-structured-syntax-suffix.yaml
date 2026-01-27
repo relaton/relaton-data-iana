@@ -1,0 +1,33 @@
+---
+id: IANAmediatypestructuredsuffixstructuredsyntaxsuffix
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Structured Syntax Suffixes
+source:
+- type: self
+  content: https://www.iana.org/assignments/media-type-structured-suffix
+docidentifier:
+- content: IANA media-type-structured-suffix/structured-syntax-suffix
+  type: IANA
+  primary: true
+docnumber: media-type-structured-suffix/structured-syntax-suffix
+date:
+- type: created
+  at: '2012-07-20'
+- type: updated
+  at: '2024-11-26'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

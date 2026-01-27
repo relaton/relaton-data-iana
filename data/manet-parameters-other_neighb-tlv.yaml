@@ -1,0 +1,33 @@
+---
+id: IANAmanetparametersother_neighbtlv
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OTHER_NEIGHB TLV Values
+source:
+- type: self
+  content: https://www.iana.org/assignments/manet-parameters
+docidentifier:
+- content: IANA manet-parameters/other_neighb-tlv
+  type: IANA
+  primary: true
+docnumber: manet-parameters/other_neighb-tlv
+date:
+- type: created
+  at: '2008-12-23'
+- type: updated
+  at: '2022-01-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

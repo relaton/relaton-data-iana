@@ -1,0 +1,33 @@
+---
+id: IANAseceventsubjectidentifierformats
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Subject Identifier Formats
+source:
+- type: self
+  content: https://www.iana.org/assignments/secevent
+docidentifier:
+- content: IANA secevent/subject-identifier-formats
+  type: IANA
+  primary: true
+docnumber: secevent/subject-identifier-formats
+date:
+- type: created
+  at: '2020-07-01'
+- type: updated
+  at: '2024-01-18'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

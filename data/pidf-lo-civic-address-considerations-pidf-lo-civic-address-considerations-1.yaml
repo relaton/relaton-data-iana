@@ -1,0 +1,33 @@
+---
+id: IANApidflocivicaddressconsiderationspidflocivicaddressconsiderations1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: PIDF-LO Civic Address Considerations Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/pidf-lo-civic-address-considerations
+docidentifier:
+- content: IANA pidf-lo-civic-address-considerations/pidf-lo-civic-address-considerations-1
+  type: IANA
+  primary: true
+docnumber: pidf-lo-civic-address-considerations/pidf-lo-civic-address-considerations-1
+date:
+- type: created
+  at: '2009-12-08'
+- type: updated
+  at: '2010-03-04'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

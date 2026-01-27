@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAsvrloc-function-ids
-title:
-- content: Service Location Protocol, Version 2 (SLPv2) Function IDs
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/svrloc-function-ids
-  type: self
+id: IANAsvrlocfunctionids
 type: standard
-docid:
-- id: IANA svrloc-function-ids
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Service Location Protocol, Version 2 (SLPv2) Function IDs
+source:
+- type: self
+  content: https://www.iana.org/assignments/svrloc-function-ids
+docidentifier:
+- content: IANA svrloc-function-ids
   type: IANA
   primary: true
 docnumber: svrloc-function-ids
 date:
 - type: created
-  value: '2003-04-01'
+  at: '2003-04-01'
 - type: updated
-  value: '2003-05-06'
+  at: '2003-05-06'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

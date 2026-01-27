@@ -1,0 +1,33 @@
+---
+id: IANAsambaselinealmmessagecodes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SAM ALM Message Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/sam-baseline
+docidentifier:
+- content: IANA sam-baseline/alm-message-codes
+  type: IANA
+  primary: true
+docnumber: sam-baseline/alm-message-codes
+date:
+- type: created
+  at: '2013-08-01'
+- type: updated
+  at: '2013-10-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

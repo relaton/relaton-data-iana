@@ -1,0 +1,33 @@
+---
+id: IANAcborsimplevaluessimple
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CBOR Simple Values
+source:
+- type: self
+  content: https://www.iana.org/assignments/cbor-simple-values
+docidentifier:
+- content: IANA cbor-simple-values/simple
+  type: IANA
+  primary: true
+docnumber: cbor-simple-values/simple
+date:
+- type: created
+  at: '2013-09-19'
+- type: updated
+  at: '2020-12-09'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

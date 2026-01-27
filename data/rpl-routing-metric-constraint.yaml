@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANArpl-routing-metric-constraint
-title:
-- content: Routing Protocol for Low Power and Lossy Networks (RPL) Routing Metric/Constraint
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rpl-routing-metric-constraint
-  type: self
+id: IANArplroutingmetricconstraint
 type: standard
-docid:
-- id: IANA rpl-routing-metric-constraint
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Routing Protocol for Low Power and Lossy Networks (RPL) Routing Metric/Constraint
+source:
+- type: self
+  content: https://www.iana.org/assignments/rpl-routing-metric-constraint
+docidentifier:
+- content: IANA rpl-routing-metric-constraint
   type: IANA
   primary: true
 docnumber: rpl-routing-metric-constraint
 date:
 - type: updated
-  value: '2012-03-28'
+  at: '2012-03-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,0 +1,33 @@
+---
+id: IANAemailauthemailauthmethods
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Email Authentication Methods
+source:
+- type: self
+  content: https://www.iana.org/assignments/email-auth
+docidentifier:
+- content: IANA email-auth/email-auth-methods
+  type: IANA
+  primary: true
+docnumber: email-auth/email-auth-methods
+date:
+- type: created
+  at: '2009-01-30'
+- type: updated
+  at: '2025-04-04'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

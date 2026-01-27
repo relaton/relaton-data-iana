@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAte-link-capabilities
-title:
-- content: Link State Routing TE Capabilities
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/te-link-capabilities
-  type: self
+id: IANAtelinkcapabilities
 type: standard
-docid:
-- id: IANA te-link-capabilities
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Link State Routing TE Capabilities
+source:
+- type: self
+  content: https://www.iana.org/assignments/te-link-capabilities
+docidentifier:
+- content: IANA te-link-capabilities
   type: IANA
   primary: true
 docnumber: te-link-capabilities
 date:
 - type: created
-  value: '2007-10-09'
+  at: '2007-10-09'
 - type: updated
-  value: '2007-12-10'
+  at: '2007-12-10'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAice
-title:
-- content: Interactive Connectivity Establishment (ICE)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ice
-  type: self
 type: standard
-docid:
-- id: IANA ice
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Interactive Connectivity Establishment (ICE)
+source:
+- type: self
+  content: https://www.iana.org/assignments/ice
+docidentifier:
+- content: IANA ice
   type: IANA
   primary: true
 docnumber: ice
 date:
 - type: created
-  value: '2011-06-09'
+  at: '2011-06-09'
 - type: updated
-  value: '2021-01-19'
+  at: '2021-01-19'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

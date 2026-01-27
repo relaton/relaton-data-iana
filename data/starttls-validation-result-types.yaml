@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAstarttls-validation-result-types
-title:
-- content: STARTTLS Validation Result Types
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/starttls-validation-result-types
-  type: self
+id: IANAstarttlsvalidationresulttypes
 type: standard
-docid:
-- id: IANA starttls-validation-result-types
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: STARTTLS Validation Result Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/starttls-validation-result-types
+docidentifier:
+- content: IANA starttls-validation-result-types
   type: IANA
   primary: true
 docnumber: starttls-validation-result-types
 date:
 - type: created
-  value: '2018-06-14'
+  at: '2018-06-14'
 - type: updated
-  value: '2018-09-28'
+  at: '2018-09-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

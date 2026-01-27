@@ -1,0 +1,33 @@
+---
+id: IANAcddlcddlcontroloperators
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CDDL Control Operators
+source:
+- type: self
+  content: https://www.iana.org/assignments/cddl
+docidentifier:
+- content: IANA cddl/cddl-control-operators
+  type: IANA
+  primary: true
+docnumber: cddl/cddl-control-operators
+date:
+- type: created
+  at: '2019-03-28'
+- type: updated
+  at: '2025-03-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

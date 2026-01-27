@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANArsvp-parameters
-title:
-- content: Resource Reservation Protocol (RSVP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rsvp-parameters
-  type: self
+id: IANArsvpparameters
 type: standard
-docid:
-- id: IANA rsvp-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Resource Reservation Protocol (RSVP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/rsvp-parameters
+docidentifier:
+- content: IANA rsvp-parameters
   type: IANA
   primary: true
 docnumber: rsvp-parameters
 date:
 - type: updated
-  value: '2025-03-27'
+  at: '2025-03-27'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

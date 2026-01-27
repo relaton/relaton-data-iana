@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAmpls-lsp-ping-parameters
-title:
-- content: Multiprotocol Label Switching (MPLS) Label Switched Paths (LSPs) Ping Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/mpls-lsp-ping-parameters
-  type: self
+id: IANAmplslsppingparameters
 type: standard
-docid:
-- id: IANA mpls-lsp-ping-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Multiprotocol Label Switching (MPLS) Label Switched Paths (LSPs) Ping Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/mpls-lsp-ping-parameters
+docidentifier:
+- content: IANA mpls-lsp-ping-parameters
   type: IANA
   primary: true
 docnumber: mpls-lsp-ping-parameters
 date:
 - type: created
-  value: '2006-01-12'
+  at: '2006-01-12'
 - type: updated
-  value: '2025-03-10'
+  at: '2025-03-10'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

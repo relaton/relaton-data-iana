@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAmessage-headers
-title:
-- content: Message Headers
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/message-headers
-  type: self
+id: IANAmessageheaders
 type: standard
-docid:
-- id: IANA message-headers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Message Headers
+source:
+- type: self
+  content: https://www.iana.org/assignments/message-headers
+docidentifier:
+- content: IANA message-headers
   type: IANA
   primary: true
 docnumber: message-headers
 date:
 - type: updated
-  value: '2025-03-28'
+  at: '2025-03-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

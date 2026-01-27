@@ -1,0 +1,31 @@
+---
+id: IANAbootpdhcpparameterstype122suboptions
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: DHCP Cablelabs Client Configuration Option Type 122 Sub-Option Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/bootp-dhcp-parameters
+docidentifier:
+- content: IANA bootp-dhcp-parameters/type-122-sub-options
+  type: IANA
+  primary: true
+docnumber: bootp-dhcp-parameters/type-122-sub-options
+date:
+- type: updated
+  at: '2023-11-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

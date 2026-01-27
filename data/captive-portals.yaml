@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAcaptive-portals
-title:
-- content: Captive Portals
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/captive-portals
-  type: self
+id: IANAcaptiveportals
 type: standard
-docid:
-- id: IANA captive-portals
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Captive Portals
+source:
+- type: self
+  content: https://www.iana.org/assignments/captive-portals
+docidentifier:
+- content: IANA captive-portals
   type: IANA
   primary: true
 docnumber: captive-portals
 date:
 - type: created
-  value: '2020-07-07'
+  at: '2020-07-07'
 - type: updated
-  value: '2024-08-28'
+  at: '2024-08-28'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAtcp-convert-protocol-parameters
-title:
-- content: TCP Convert Protocol (Convert) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/tcp-convert-protocol-parameters
-  type: self
+id: IANAtcpconvertprotocolparameters
 type: standard
-docid:
-- id: IANA tcp-convert-protocol-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: TCP Convert Protocol (Convert) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/tcp-convert-protocol-parameters
+docidentifier:
+- content: IANA tcp-convert-protocol-parameters
   type: IANA
   primary: true
 docnumber: tcp-convert-protocol-parameters
 date:
 - type: created
-  value: '2020-03-27'
+  at: '2020-03-27'
 - type: updated
-  value: '2020-07-31'
+  at: '2020-07-31'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

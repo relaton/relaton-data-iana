@@ -1,0 +1,31 @@
+---
+id: IANAxmlnsprovidedbyxmlnsprovidedby1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: XML Namespaces for 'provided-by' elements for use with PIDF-LO objects
+source:
+- type: self
+  content: https://www.iana.org/assignments/xml-ns-provided-by
+docidentifier:
+- content: IANA xml-ns-provided-by/xml-ns-provided-by-1
+  type: IANA
+  primary: true
+docnumber: xml-ns-provided-by/xml-ns-provided-by-1
+date:
+- type: updated
+  at: '2016-09-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAmulticast-acquisition
-title:
-- content: Multicast Acquisition
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/multicast-acquisition
-  type: self
+id: IANAmulticastacquisition
 type: standard
-docid:
-- id: IANA multicast-acquisition
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Multicast Acquisition
+source:
+- type: self
+  content: https://www.iana.org/assignments/multicast-acquisition
+docidentifier:
+- content: IANA multicast-acquisition
   type: IANA
   primary: true
 docnumber: multicast-acquisition
 date:
 - type: created
-  value: '2011-06-17'
+  at: '2011-06-17'
 - type: updated
-  value: '2015-05-01'
+  at: '2015-05-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

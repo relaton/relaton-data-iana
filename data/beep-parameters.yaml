@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAbeep-parameters
-title:
-- content: Blocks Extensible Exchange Protocol (BEEP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/beep-parameters
-  type: self
+id: IANAbeepparameters
 type: standard
-docid:
-- id: IANA beep-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Blocks Extensible Exchange Protocol (BEEP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/beep-parameters
+docidentifier:
+- content: IANA beep-parameters
   type: IANA
   primary: true
 docnumber: beep-parameters
 date:
 - type: created
-  value: '2000-01-30'
+  at: '2000-01-30'
 - type: updated
-  value: '2009-06-10'
+  at: '2009-06-10'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

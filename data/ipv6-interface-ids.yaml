@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAipv6-interface-ids
-title:
-- content: Reserved IPv6 Interface Identifiers
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ipv6-interface-ids
-  type: self
+id: IANAipv6interfaceids
 type: standard
-docid:
-- id: IANA ipv6-interface-ids
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Reserved IPv6 Interface Identifiers
+source:
+- type: self
+  content: https://www.iana.org/assignments/ipv6-interface-ids
+docidentifier:
+- content: IANA ipv6-interface-ids
   type: IANA
   primary: true
 docnumber: ipv6-interface-ids
 date:
 - type: created
-  value: '2008-12-24'
+  at: '2008-12-24'
 - type: updated
-  value: '2014-02-13'
+  at: '2014-02-13'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

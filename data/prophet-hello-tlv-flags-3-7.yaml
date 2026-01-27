@@ -1,0 +1,33 @@
+---
+id: IANAprophethellotlvflags37
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Hello TLV Flags 3-7
+source:
+- type: self
+  content: https://www.iana.org/assignments/prophet
+docidentifier:
+- content: IANA prophet/hello-tlv-flags-3-7
+  type: IANA
+  primary: true
+docnumber: prophet/hello-tlv-flags-3-7
+date:
+- type: created
+  at: '2012-06-04'
+- type: updated
+  at: '2012-09-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,0 +1,33 @@
+---
+id: IANAmplslsppingparametersmeasurementtimestamp
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Measurement Timestamp Type
+source:
+- type: self
+  content: https://www.iana.org/assignments/mpls-lsp-ping-parameters
+docidentifier:
+- content: IANA mpls-lsp-ping-parameters/measurement-timestamp
+  type: IANA
+  primary: true
+docnumber: mpls-lsp-ping-parameters/measurement-timestamp
+date:
+- type: created
+  at: '2006-01-12'
+- type: updated
+  at: '2025-03-10'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAianaprinter-mib
-title:
-- content: IANA-PRINTER-MIB
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/ianaprinter-mib
-  type: self
+id: IANAianaprintermib
 type: standard
-docid:
-- id: IANA ianaprinter-mib
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IANA-PRINTER-MIB
+source:
+- type: self
+  content: https://www.iana.org/assignments/ianaprinter-mib
+docidentifier:
+- content: IANA ianaprinter-mib
   type: IANA
   primary: true
 docnumber: ianaprinter-mib
 date:
 - type: created
-  value: '2004-06-02'
+  at: '2004-06-02'
 - type: updated
-  value: '2024-02-06'
+  at: '2024-02-06'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

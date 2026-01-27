@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAservice-codes
-title:
-- content: Service Codes
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/service-codes
-  type: self
+id: IANAservicecodes
 type: standard
-docid:
-- id: IANA service-codes
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Service Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/service-codes
+docidentifier:
+- content: IANA service-codes
   type: IANA
   primary: true
 docnumber: service-codes
 date:
 - type: created
-  value: '2005-08-31'
+  at: '2005-08-31'
 - type: updated
-  value: '2014-03-14'
+  at: '2014-03-14'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

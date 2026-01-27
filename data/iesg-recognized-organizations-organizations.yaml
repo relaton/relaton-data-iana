@@ -1,0 +1,34 @@
+---
+id: IANAiesgrecognizedorganizationsorganizations
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Standards-related organizations that have registered Media Types in the
+    Standards Tree
+source:
+- type: self
+  content: https://www.iana.org/assignments/iesg-recognized-organizations
+docidentifier:
+- content: IANA iesg-recognized-organizations/organizations
+  type: IANA
+  primary: true
+docnumber: iesg-recognized-organizations/organizations
+date:
+- type: created
+  at: '2012-09-13'
+- type: updated
+  at: '2025-02-18'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAnsh
-title:
-- content: Network Service Header (NSH) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/nsh
-  type: self
 type: standard
-docid:
-- id: IANA nsh
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Network Service Header (NSH) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/nsh
+docidentifier:
+- content: IANA nsh
   type: IANA
   primary: true
 docnumber: nsh
 date:
 - type: created
-  value: '2017-11-08'
+  at: '2017-11-08'
 - type: updated
-  value: '2023-11-21'
+  at: '2023-11-21'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

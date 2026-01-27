@@ -1,0 +1,33 @@
+---
+id: IANAreloaddiagnostickindid
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: RELOAD Diagnostic Kind ID
+source:
+- type: self
+  content: https://www.iana.org/assignments/reload
+docidentifier:
+- content: IANA reload/diagnostic-kind-id
+  type: IANA
+  primary: true
+docnumber: reload/diagnostic-kind-id
+date:
+- type: created
+  at: '2013-03-26'
+- type: updated
+  at: '2017-03-24'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

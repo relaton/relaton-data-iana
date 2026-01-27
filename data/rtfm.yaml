@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANArtfm
-title:
-- content: Realtime Traffic Flow Measurement (RTFM)
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rtfm
-  type: self
 type: standard
-docid:
-- id: IANA rtfm
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Realtime Traffic Flow Measurement (RTFM)
+source:
+- type: self
+  content: https://www.iana.org/assignments/rtfm
+docidentifier:
+- content: IANA rtfm
   type: IANA
   primary: true
 docnumber: rtfm
 date:
 - type: created
-  value: '2009-10-15'
+  at: '2009-10-15'
 - type: updated
-  value: '2009-10-15'
+  at: '2009-10-15'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

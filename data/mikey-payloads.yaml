@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAmikey-payloads
-title:
-- content: Multimedia Internet KEYing (MIKEY) Payload Name Spaces
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/mikey-payloads
-  type: self
+id: IANAmikeypayloads
 type: standard
-docid:
-- id: IANA mikey-payloads
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Multimedia Internet KEYing (MIKEY) Payload Name Spaces
+source:
+- type: self
+  content: https://www.iana.org/assignments/mikey-payloads
+docidentifier:
+- content: IANA mikey-payloads
   type: IANA
   primary: true
 docnumber: mikey-payloads
 date:
 - type: created
-  value: '2004-05-21'
+  at: '2004-05-21'
 - type: updated
-  value: '2019-02-15'
+  at: '2019-02-15'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

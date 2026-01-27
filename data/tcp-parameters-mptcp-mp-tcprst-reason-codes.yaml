@@ -1,0 +1,31 @@
+---
+id: IANAtcpparametersmptcpmptcprstreasoncodes
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: MPTCP MP_TCPRST Reason Codes
+source:
+- type: self
+  content: https://www.iana.org/assignments/tcp-parameters
+docidentifier:
+- content: IANA tcp-parameters/mptcp-mp-tcprst-reason-codes
+  type: IANA
+  primary: true
+docnumber: tcp-parameters/mptcp-mp-tcprst-reason-codes
+date:
+- type: updated
+  at: '2025-03-26'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

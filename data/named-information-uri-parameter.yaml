@@ -1,0 +1,33 @@
+---
+id: IANAnamedinformationuriparameter
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Named Information URI Parameter Definitions
+source:
+- type: self
+  content: https://www.iana.org/assignments/named-information
+docidentifier:
+- content: IANA named-information/uri-parameter
+  type: IANA
+  primary: true
+docnumber: named-information/uri-parameter
+date:
+- type: created
+  at: '2012-08-14'
+- type: updated
+  at: '2022-01-18'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

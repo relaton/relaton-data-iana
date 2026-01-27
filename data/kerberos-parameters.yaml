@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAkerberos-parameters
-title:
-- content: Kerberos Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/kerberos-parameters
-  type: self
+id: IANAkerberosparameters
 type: standard
-docid:
-- id: IANA kerberos-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Kerberos Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/kerberos-parameters
+docidentifier:
+- content: IANA kerberos-parameters
   type: IANA
   primary: true
 docnumber: kerberos-parameters
 date:
 - type: created
-  value: '2004-06-29'
+  at: '2004-06-29'
 - type: updated
-  value: '2024-12-06'
+  at: '2024-12-06'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

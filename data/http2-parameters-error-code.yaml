@@ -1,0 +1,33 @@
+---
+id: IANAhttp2parameterserrorcode
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: HTTP/2 Error Code
+source:
+- type: self
+  content: https://www.iana.org/assignments/http2-parameters
+docidentifier:
+- content: IANA http2-parameters/error-code
+  type: IANA
+  primary: true
+docnumber: http2-parameters/error-code
+date:
+- type: created
+  at: '2015-02-20'
+- type: updated
+  at: '2022-08-17'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAsegment-routing
-title:
-- content: Segment Routing
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/segment-routing
-  type: self
+id: IANAsegmentrouting
 type: standard
-docid:
-- id: IANA segment-routing
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Segment Routing
+source:
+- type: self
+  content: https://www.iana.org/assignments/segment-routing
+docidentifier:
+- content: IANA segment-routing
   type: IANA
   primary: true
 docnumber: segment-routing
 date:
 - type: created
-  value: '2021-01-08'
+  at: '2021-01-08'
 - type: updated
-  value: '2025-03-17'
+  at: '2025-03-17'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

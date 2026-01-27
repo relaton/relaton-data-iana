@@ -1,0 +1,33 @@
+---
+id: IANAmascparametersmascparameters6
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Notification Error Subcodes
+source:
+- type: self
+  content: https://www.iana.org/assignments/masc-parameters
+docidentifier:
+- content: IANA masc-parameters/masc-parameters-6
+  type: IANA
+  primary: true
+docnumber: masc-parameters/masc-parameters-6
+date:
+- type: created
+  at: 2000-09
+- type: updated
+  at: '2001-08-23'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

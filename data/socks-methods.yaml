@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAsocks-methods
-title:
-- content: SOCKS Methods
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/socks-methods
-  type: self
+id: IANAsocksmethods
 type: standard
-docid:
-- id: IANA socks-methods
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SOCKS Methods
+source:
+- type: self
+  content: https://www.iana.org/assignments/socks-methods
+docidentifier:
+- content: IANA socks-methods
   type: IANA
   primary: true
 docnumber: socks-methods
 date:
 - type: updated
-  value: '2017-08-31'
+  at: '2017-08-31'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

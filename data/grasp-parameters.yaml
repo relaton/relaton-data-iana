@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAgrasp-parameters
-title:
-- content: GeneRic Autonomic Signaling Protocol (GRASP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/grasp-parameters
-  type: self
+id: IANAgraspparameters
 type: standard
-docid:
-- id: IANA grasp-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: GeneRic Autonomic Signaling Protocol (GRASP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/grasp-parameters
+docidentifier:
+- content: IANA grasp-parameters
   type: IANA
   primary: true
 docnumber: grasp-parameters
 date:
 - type: created
-  value: '2017-07-20'
+  at: '2017-07-20'
 - type: updated
-  value: '2023-11-30'
+  at: '2023-11-30'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

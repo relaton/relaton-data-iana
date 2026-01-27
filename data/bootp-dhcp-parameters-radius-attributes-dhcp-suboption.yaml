@@ -1,0 +1,31 @@
+---
+id: IANAbootpdhcpparametersradiusattributesdhcpsuboption
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: RADIUS Attributes Permitted in RADIUS Attributes DHCP Suboption
+source:
+- type: self
+  content: https://www.iana.org/assignments/bootp-dhcp-parameters
+docidentifier:
+- content: IANA bootp-dhcp-parameters/radius-attributes-dhcp-suboption
+  type: IANA
+  primary: true
+docnumber: bootp-dhcp-parameters/radius-attributes-dhcp-suboption
+date:
+- type: updated
+  at: '2023-11-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

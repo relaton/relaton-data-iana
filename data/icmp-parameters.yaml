@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAicmp-parameters
-title:
-- content: Internet Control Message Protocol (ICMP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/icmp-parameters
-  type: self
+id: IANAicmpparameters
 type: standard
-docid:
-- id: IANA icmp-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Internet Control Message Protocol (ICMP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/icmp-parameters
+docidentifier:
+- content: IANA icmp-parameters
   type: IANA
   primary: true
 docnumber: icmp-parameters
 date:
 - type: updated
-  value: '2024-12-06'
+  at: '2024-12-06'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

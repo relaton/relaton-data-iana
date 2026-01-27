@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANApt-eap
-title:
-- content: 'PT-EAP: Posture Transport (PT) Protocol For EAP Tunnel Methods'
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/pt-eap
-  type: self
+id: IANApteap
 type: standard
-docid:
-- id: IANA pt-eap
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'PT-EAP: Posture Transport (PT) Protocol For EAP Tunnel Methods'
+source:
+- type: self
+  content: https://www.iana.org/assignments/pt-eap
+docidentifier:
+- content: IANA pt-eap
   type: IANA
   primary: true
 docnumber: pt-eap
 date:
 - type: created
-  value: '2013-04-15'
+  at: '2013-04-15'
 - type: updated
-  value: '2014-05-12'
+  at: '2014-05-12'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

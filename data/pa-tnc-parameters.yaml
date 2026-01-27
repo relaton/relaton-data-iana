@@ -1,32 +1,33 @@
 ---
-schema-version: v1.2.9
-id: IANApa-tnc-parameters
-title:
-- content: Posture Attribute (PA) Protocol Compatible with Trusted Network Connect
-    (TNC) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/pa-tnc-parameters
-  type: self
+id: IANApatncparameters
 type: standard
-docid:
-- id: IANA pa-tnc-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Posture Attribute (PA) Protocol Compatible with Trusted Network Connect
+    (TNC) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/pa-tnc-parameters
+docidentifier:
+- content: IANA pa-tnc-parameters
   type: IANA
   primary: true
 docnumber: pa-tnc-parameters
 date:
 - type: created
-  value: '2009-11-13'
+  at: '2009-11-13'
 - type: updated
-  value: '2023-06-29'
+  at: '2023-06-29'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

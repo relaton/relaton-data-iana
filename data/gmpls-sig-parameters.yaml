@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAgmpls-sig-parameters
-title:
-- content: Generalized Multi-Protocol Label Switching (GMPLS) Signaling Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/gmpls-sig-parameters
-  type: self
+id: IANAgmplssigparameters
 type: standard
-docid:
-- id: IANA gmpls-sig-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Generalized Multi-Protocol Label Switching (GMPLS) Signaling Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/gmpls-sig-parameters
+docidentifier:
+- content: IANA gmpls-sig-parameters
   type: IANA
   primary: true
 docnumber: gmpls-sig-parameters
 date:
 - type: created
-  value: '2002-11-08'
+  at: '2002-11-08'
 - type: updated
-  value: '2020-07-23'
+  at: '2020-07-23'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

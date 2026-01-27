@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAhttp-status-codes
-title:
-- content: Hypertext Transfer Protocol (HTTP) Status Code Registry
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/http-status-codes
-  type: self
+id: IANAhttpstatuscodes
 type: standard
-docid:
-- id: IANA http-status-codes
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Hypertext Transfer Protocol (HTTP) Status Code Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/http-status-codes
+docidentifier:
+- content: IANA http-status-codes
   type: IANA
   primary: true
 docnumber: http-status-codes
 date:
 - type: updated
-  value: '2024-11-13'
+  at: '2024-11-13'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

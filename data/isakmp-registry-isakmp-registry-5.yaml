@@ -1,0 +1,31 @@
+---
+id: IANAisakmpregistryisakmpregistry5
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IPSEC ISAKMP Transform Identifiers
+source:
+- type: self
+  content: https://www.iana.org/assignments/isakmp-registry
+docidentifier:
+- content: IANA isakmp-registry/isakmp-registry-5
+  type: IANA
+  primary: true
+docnumber: isakmp-registry/isakmp-registry-5
+date:
+- type: updated
+  at: '2023-04-25'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAhttp-problem-types
-title:
-- content: Hypertext Transfer Protocol (HTTP) Problem Types
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/http-problem-types
-  type: self
+id: IANAhttpproblemtypes
 type: standard
-docid:
-- id: IANA http-problem-types
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Hypertext Transfer Protocol (HTTP) Problem Types
+source:
+- type: self
+  content: https://www.iana.org/assignments/http-problem-types
+docidentifier:
+- content: IANA http-problem-types
   type: IANA
   primary: true
 docnumber: http-problem-types
 date:
 - type: created
-  value: '2023-05-02'
+  at: '2023-05-02'
 - type: updated
-  value: '2024-02-12'
+  at: '2024-02-12'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

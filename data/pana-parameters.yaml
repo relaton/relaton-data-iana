@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANApana-parameters
-title:
-- content: Protocol for Carrying Authentication for Network Access (PANA) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/pana-parameters
-  type: self
+id: IANApanaparameters
 type: standard
-docid:
-- id: IANA pana-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Protocol for Carrying Authentication for Network Access (PANA) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/pana-parameters
+docidentifier:
+- content: IANA pana-parameters
   type: IANA
   primary: true
 docnumber: pana-parameters
 date:
 - type: created
-  value: '2007-10-08'
+  at: '2007-10-08'
 - type: updated
-  value: '2012-11-15'
+  at: '2012-11-15'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

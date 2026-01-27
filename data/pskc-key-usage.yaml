@@ -1,0 +1,33 @@
+---
+id: IANApskckeyusage
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Key Usage Registry
+source:
+- type: self
+  content: https://www.iana.org/assignments/pskc
+docidentifier:
+- content: IANA pskc/key-usage
+  type: IANA
+  primary: true
+docnumber: pskc/key-usage
+date:
+- type: created
+  at: '2010-08-19'
+- type: updated
+  at: '2012-04-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

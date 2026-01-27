@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAtoken-binding-protocol
-title:
-- content: Token Binding Protocol
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/token-binding-protocol
-  type: self
+id: IANAtokenbindingprotocol
 type: standard
-docid:
-- id: IANA token-binding-protocol
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Token Binding Protocol
+source:
+- type: self
+  content: https://www.iana.org/assignments/token-binding-protocol
+docidentifier:
+- content: IANA token-binding-protocol
   type: IANA
   primary: true
 docnumber: token-binding-protocol
 date:
 - type: created
-  value: '2018-07-24'
+  at: '2018-07-24'
 - type: updated
-  value: '2020-02-06'
+  at: '2020-02-06'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

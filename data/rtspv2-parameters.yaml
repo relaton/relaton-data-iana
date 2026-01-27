@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANArtspv2-parameters
-title:
-- content: Real-Time Streaming Protocol (RTSP) 2.0 Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/rtspv2-parameters
-  type: self
+id: IANArtspv2parameters
 type: standard
-docid:
-- id: IANA rtspv2-parameters
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Real-Time Streaming Protocol (RTSP) 2.0 Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/rtspv2-parameters
+docidentifier:
+- content: IANA rtspv2-parameters
   type: IANA
   primary: true
 docnumber: rtspv2-parameters
 date:
 - type: created
-  value: '2014-02-21'
+  at: '2014-02-21'
 - type: updated
-  value: '2024-05-20'
+  at: '2024-05-20'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

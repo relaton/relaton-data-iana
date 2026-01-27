@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAtunnel-setup-protocol
-title:
-- content: Tunnel Setup Protocol (TSP) Parameters
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/tunnel-setup-protocol
-  type: self
+id: IANAtunnelsetupprotocol
 type: standard
-docid:
-- id: IANA tunnel-setup-protocol
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Tunnel Setup Protocol (TSP) Parameters
+source:
+- type: self
+  content: https://www.iana.org/assignments/tunnel-setup-protocol
+docidentifier:
+- content: IANA tunnel-setup-protocol
   type: IANA
   primary: true
 docnumber: tunnel-setup-protocol
 date:
 - type: created
-  value: '2009-06-09'
+  at: '2009-06-09'
 - type: updated
-  value: '2010-02-22'
+  at: '2010-02-22'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

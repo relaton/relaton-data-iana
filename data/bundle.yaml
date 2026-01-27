@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
 id: IANAbundle
-title:
-- content: Bundle Protocol
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/bundle
-  type: self
 type: standard
-docid:
-- id: IANA bundle
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Bundle Protocol
+source:
+- type: self
+  content: https://www.iana.org/assignments/bundle
+docidentifier:
+- content: IANA bundle
   type: IANA
   primary: true
 docnumber: bundle
 date:
 - type: created
-  value: '2011-03-24'
+  at: '2011-03-24'
 - type: updated
-  value: '2025-01-21'
+  at: '2025-01-21'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

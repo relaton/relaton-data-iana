@@ -1,29 +1,30 @@
 ---
-schema-version: v1.2.9
-id: IANAsasl-mechanisms
-title:
-- content: Simple Authentication and Security Layer (SASL) Mechanisms
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/sasl-mechanisms
-  type: self
+id: IANAsaslmechanisms
 type: standard
-docid:
-- id: IANA sasl-mechanisms
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Simple Authentication and Security Layer (SASL) Mechanisms
+source:
+- type: self
+  content: https://www.iana.org/assignments/sasl-mechanisms
+docidentifier:
+- content: IANA sasl-mechanisms
   type: IANA
   primary: true
 docnumber: sasl-mechanisms
 date:
 - type: updated
-  value: '2024-12-06'
+  at: '2024-12-06'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:

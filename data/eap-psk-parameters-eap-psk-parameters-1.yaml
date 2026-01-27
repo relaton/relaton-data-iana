@@ -1,0 +1,33 @@
+---
+id: IANAeappskparameterseappskparameters1
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: EXT_Type Numbers
+source:
+- type: self
+  content: https://www.iana.org/assignments/eap-psk-parameters
+docidentifier:
+- content: IANA eap-psk-parameters/eap-psk-parameters-1
+  type: IANA
+  primary: true
+docnumber: eap-psk-parameters/eap-psk-parameters-1
+date:
+- type: created
+  at: '2006-10-16'
+- type: updated
+  at: '2013-07-26'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+language:
+- en
+script:
+- Latn

@@ -1,31 +1,32 @@
 ---
-schema-version: v1.2.9
-id: IANAdns-sec-alg-numbers
-title:
-- content: Domain Name System Security (DNSSEC) Algorithm Numbers
-  format: text/plain
-link:
-- content: https://www.iana.org/assignments/dns-sec-alg-numbers
-  type: self
+id: IANAdnssecalgnumbers
 type: standard
-docid:
-- id: IANA dns-sec-alg-numbers
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Domain Name System Security (DNSSEC) Algorithm Numbers
+source:
+- type: self
+  content: https://www.iana.org/assignments/dns-sec-alg-numbers
+docidentifier:
+- content: IANA dns-sec-alg-numbers
   type: IANA
   primary: true
 docnumber: dns-sec-alg-numbers
 date:
 - type: created
-  value: '2003-11-03'
+  at: '2003-11-03'
 - type: updated
-  value: '2024-12-05'
+  at: '2024-12-05'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Internet Assigned Numbers Authority
     abbreviation:
       content: IANA
-  role:
-  - type: publisher
 language:
 - en
 script:
