@@ -7,7 +7,7 @@ title:
   script: Latn
   content: security.txt Fields
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/security-txt-fields
 docidentifier:
 - content: IANA security-txt-fields/security-txt-fields

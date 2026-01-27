@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Logical Functional Block (LFB) Class Names and Class Identifiers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/forces
 docidentifier:
 - content: IANA forces/logical-types

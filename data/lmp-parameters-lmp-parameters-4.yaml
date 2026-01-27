@@ -7,7 +7,7 @@ title:
   script: Latn
   content: LMP Object Class name space and Class type (C-Type)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/lmp-parameters
 docidentifier:
 - content: IANA lmp-parameters/lmp-parameters-4

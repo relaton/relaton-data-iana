@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Additional Information PvD Keys
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pvds
 docidentifier:
 - content: IANA pvds/additional-information-pvd-keys

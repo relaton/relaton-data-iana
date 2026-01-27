@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Geneve Option Class
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/nvo3
 docidentifier:
 - content: IANA nvo3/geneve-option-class

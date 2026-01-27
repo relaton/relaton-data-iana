@@ -8,7 +8,7 @@ title:
   content: Flexible Authentication via Secure Tunneling Extensible Authentication
     Protocol (EAP-FAST) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-fast-parameters
 docidentifier:
 - content: IANA eap-fast-parameters

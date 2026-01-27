@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Signature Cryptographic Function, TESLA-SIG-CRYPTO-FUNC Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/tesla-parameters
 docidentifier:
 - content: IANA tesla-parameters/tesla-parameters-4

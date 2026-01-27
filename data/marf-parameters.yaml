@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Messaging Abuse Reporting Format (MARF) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/marf-parameters
 docidentifier:
 - content: IANA marf-parameters

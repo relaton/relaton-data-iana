@@ -8,7 +8,7 @@ title:
   content: Service Function Chaining (SFC) Active Operations, Administration, and
     Maintenance (OAM)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/sfc-active-oam
 docidentifier:
 - content: IANA sfc-active-oam

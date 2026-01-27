@@ -7,7 +7,7 @@ title:
   script: Latn
   content: audio
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/media-types
 docidentifier:
 - content: IANA media-types/audio

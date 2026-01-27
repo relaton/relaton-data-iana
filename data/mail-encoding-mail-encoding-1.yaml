@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Encoding Header Field Keywords
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mail-encoding
 docidentifier:
 - content: IANA mail-encoding/mail-encoding-1

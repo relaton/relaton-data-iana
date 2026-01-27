@@ -7,7 +7,7 @@ title:
   script: Latn
   content: AD-HOC Block III (233.252.0.0-233.255.255.255 (233.252/14))
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/multicast-addresses
 docidentifier:
 - content: IANA multicast-addresses/multicast-addresses-11

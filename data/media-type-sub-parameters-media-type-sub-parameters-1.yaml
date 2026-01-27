@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Sub-Parameter Registry video/mpeg4-generic, audio/mpeg4-generic and application/mpeg4-generic
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/media-type-sub-parameters
 docidentifier:
 - content: IANA media-type-sub-parameters/media-type-sub-parameters-1

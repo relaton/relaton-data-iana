@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Internet Control Message Protocol (ICMP) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/icmp-parameters
 docidentifier:
 - content: IANA icmp-parameters

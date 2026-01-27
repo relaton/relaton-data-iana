@@ -7,7 +7,7 @@ title:
   script: Latn
   content: application/ISUP symbols
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/version-symbols
 docidentifier:
 - content: IANA version-symbols/version-symbols-1

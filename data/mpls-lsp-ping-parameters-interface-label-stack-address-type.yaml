@@ -8,7 +8,7 @@ title:
   content: Interface and Label Stack and Detailed Interface and Label Stack Address
     Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mpls-lsp-ping-parameters
 docidentifier:
 - content: IANA mpls-lsp-ping-parameters/interface-label-stack-address-type

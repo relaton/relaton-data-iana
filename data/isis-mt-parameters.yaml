@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IS-IS Multi-Topology Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/isis-mt-parameters
 docidentifier:
 - content: IANA isis-mt-parameters

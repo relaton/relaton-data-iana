@@ -7,7 +7,7 @@ title:
   script: Latn
   content: NO-PATH Object NI Field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep/no-path-object-ni-field

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: FLAC Application Metadata Block IDs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/flac
 docidentifier:
 - content: IANA flac/flac-application-metadata-block-ids

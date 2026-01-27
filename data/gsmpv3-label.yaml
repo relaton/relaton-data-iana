@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Global Switch Management Protocol version 3 (GSMPv3) Label Type Name Space
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gsmpv3-label
 docidentifier:
 - content: IANA gsmpv3-label

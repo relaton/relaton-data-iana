@@ -7,7 +7,7 @@ title:
   script: Latn
   content: HPKE AEAD Identifiers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/hpke
 docidentifier:
 - content: IANA hpke/hpke-aead-ids

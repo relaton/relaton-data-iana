@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Attribute/Content
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iotp-codes
 docidentifier:
 - content: IANA iotp-codes/iotp-codes-11

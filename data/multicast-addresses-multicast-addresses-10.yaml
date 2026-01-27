@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Source-Specific Multicast Block (232.0.0.0-232.255.255.255 (232/8))
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/multicast-addresses
 docidentifier:
 - content: IANA multicast-addresses/multicast-addresses-10

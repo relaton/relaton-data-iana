@@ -7,7 +7,7 @@ title:
   script: Latn
   content: DNSKEY FLAGS
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dnskey-flags
 docidentifier:
 - content: IANA dnskey-flags

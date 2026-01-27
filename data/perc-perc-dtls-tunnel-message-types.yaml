@@ -8,7 +8,7 @@ title:
   content: Datagram Transport Layer Security (DTLS) Tunnel Protocol Message Types
     for Privacy Enhanced Conferencing
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/perc
 docidentifier:
 - content: IANA perc/perc-dtls-tunnel-message-types

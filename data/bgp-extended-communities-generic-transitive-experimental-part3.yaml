@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Generic Transitive Extended Community Part 3 Sub-Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bgp-extended-communities
 docidentifier:
 - content: IANA bgp-extended-communities/generic-transitive-experimental-part3

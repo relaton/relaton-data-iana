@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Web Authentication (WebAuthn)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/webauthn
 docidentifier:
 - content: IANA webauthn

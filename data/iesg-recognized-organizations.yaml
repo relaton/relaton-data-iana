@@ -8,7 +8,7 @@ title:
   content: Standards-related organizations that have registered Media Types in the
     Standards Tree
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iesg-recognized-organizations
 docidentifier:
 - content: IANA iesg-recognized-organizations

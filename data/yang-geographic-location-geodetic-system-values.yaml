@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Geodetic System Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/yang-geographic-location
 docidentifier:
 - content: IANA yang-geographic-location/geodetic-system-values

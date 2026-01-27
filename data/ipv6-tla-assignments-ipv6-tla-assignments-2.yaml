@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Sub-TLA Identifier Assignments
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ipv6-tla-assignments
 docidentifier:
 - content: IANA ipv6-tla-assignments/ipv6-tla-assignments-2

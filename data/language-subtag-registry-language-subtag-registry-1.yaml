@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Language Subtag Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/language-subtag-registry
 docidentifier:
 - content: IANA language-subtag-registry/language-subtag-registry-1

@@ -8,7 +8,7 @@ title:
   content: CAST5_40_CFB64 (Type 8) and  CAST128_CFB64 (Type 10) Telnet Encryption
     Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/telnet-options
 docidentifier:
 - content: IANA telnet-options/telnet-options-17

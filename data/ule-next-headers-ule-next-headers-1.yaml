@@ -8,7 +8,7 @@ title:
   content: Mandatory Extension Headers (or link-dependent type fields) for ULE (Range
     0-255 decimal)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ule-next-headers
 docidentifier:
 - content: IANA ule-next-headers/ule-next-headers-1

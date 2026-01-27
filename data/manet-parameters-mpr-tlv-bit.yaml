@@ -7,7 +7,7 @@ title:
   script: Latn
   content: MPR TLV BIT Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/manet-parameters
 docidentifier:
 - content: IANA manet-parameters/mpr-tlv-bit

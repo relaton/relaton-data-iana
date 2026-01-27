@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RTCP XR MOS Metric block - multimedia application Calculation Algorithm
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rtcp-xr-block-types
 docidentifier:
 - content: IANA rtcp-xr-block-types/mos-metric

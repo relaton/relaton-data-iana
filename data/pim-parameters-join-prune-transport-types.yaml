@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PIM Join/Prune Transport Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pim-parameters
 docidentifier:
 - content: IANA pim-parameters/join-prune-transport-types

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Incident Object Description Exchange Format v2 (IODEF)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iodef2
 docidentifier:
 - content: IANA iodef2

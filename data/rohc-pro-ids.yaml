@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RObust Header Compression (ROHC) Profile Identifiers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rohc-pro-ids
 docidentifier:
 - content: IANA rohc-pro-ids

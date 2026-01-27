@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IEEE 802.21 Service Type (MoS DHCPv6 Address and FQDN Sub-Options)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dhcpv6-parameters
 docidentifier:
 - content: IANA dhcpv6-parameters/ieee-80221-service-type

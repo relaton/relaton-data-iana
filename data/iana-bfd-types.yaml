@@ -7,7 +7,7 @@ title:
   script: Latn
   content: iana-bfd-types YANG Module
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iana-bfd-types
 docidentifier:
 - content: IANA iana-bfd-types

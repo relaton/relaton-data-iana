@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Function IDs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/svrloc-function-ids
 docidentifier:
 - content: IANA svrloc-function-ids/svrloc-function-ids-1

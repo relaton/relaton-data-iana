@@ -7,7 +7,7 @@ title:
   script: Latn
   content: ONC RPC Netids (First Come First Served)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rpc-netids
 docidentifier:
 - content: IANA rpc-netids/rpc-netids-1

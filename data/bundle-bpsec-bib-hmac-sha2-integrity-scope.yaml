@@ -7,7 +7,7 @@ title:
   script: Latn
   content: BPSec BIB-HMAC-SHA2 Integrity Scope Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bundle
 docidentifier:
 - content: IANA bundle/bpsec-bib-hmac-sha2-integrity-scope

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: X.25 Type Numbers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/x25-type-numbers
 docidentifier:
 - content: IANA x25-type-numbers/x25-type-numbers-1

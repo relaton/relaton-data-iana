@@ -8,7 +8,7 @@ title:
   content: Internet Message Access Protocol (IMAP) URLAUTH Authorization Mechanism
     Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/urlauth-authorization-mechanism-registry
 docidentifier:
 - content: IANA urlauth-authorization-mechanism-registry

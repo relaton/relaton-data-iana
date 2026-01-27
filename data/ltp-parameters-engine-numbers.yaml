@@ -7,7 +7,7 @@ title:
   script: Latn
   content: LTP Engine Numbers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ltp-parameters
 docidentifier:
 - content: IANA ltp-parameters/engine-numbers

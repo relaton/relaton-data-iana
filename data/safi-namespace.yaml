@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Subsequent Address Family Identifiers (SAFI) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/safi-namespace
 docidentifier:
 - content: IANA safi-namespace

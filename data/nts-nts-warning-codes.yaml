@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Network Time Security Warning Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/nts
 docidentifier:
 - content: IANA nts/nts-warning-codes

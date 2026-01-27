@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Hypertext Transfer Protocol (HTTP) Cache Directive Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/http-cache-directives
 docidentifier:
 - content: IANA http-cache-directives

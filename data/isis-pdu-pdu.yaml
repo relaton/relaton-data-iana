@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IS-IS PDU Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/isis-pdu
 docidentifier:
 - content: IANA isis-pdu/pdu

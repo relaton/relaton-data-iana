@@ -7,7 +7,7 @@ title:
   script: Latn
   content: OpenPGP User Attribute Subpacket Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/openpgp
 docidentifier:
 - content: IANA openpgp/openpgp-user-attribute-subpacket-types

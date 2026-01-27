@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Connectivity Fault Management (CFM) OAM IETF Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/cfm-oam
 docidentifier:
 - content: IANA cfm-oam

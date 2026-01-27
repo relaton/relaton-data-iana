@@ -7,7 +7,7 @@ title:
   script: Latn
   content: MSDP TLV Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/msdp-tlv-values
 docidentifier:
 - content: IANA msdp-tlv-values/msdp-tlv-values-2

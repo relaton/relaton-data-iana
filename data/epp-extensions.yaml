@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Extensions for the Extensible Provisioning Protocol (EPP)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/epp-extensions
 docidentifier:
 - content: IANA epp-extensions

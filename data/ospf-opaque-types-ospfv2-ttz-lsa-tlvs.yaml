@@ -7,7 +7,7 @@ title:
   script: Latn
   content: OSPFv2 TTZ LSA TLVs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ospf-opaque-types
 docidentifier:
 - content: IANA ospf-opaque-types/ospfv2-ttz-lsa-tlvs

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Long-Lived Graceful Restart Flags for Address Family
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bgp-parameters
 docidentifier:
 - content: IANA bgp-parameters/long-lived-graceful-restart-flags-for-address-family

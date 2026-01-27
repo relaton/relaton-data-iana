@@ -7,7 +7,7 @@ title:
   script: Latn
   content: EVPN Route Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/evpn
 docidentifier:
 - content: IANA evpn/route-types

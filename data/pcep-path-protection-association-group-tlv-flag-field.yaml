@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Path Protection Association Group TLV Flag Field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep/path-protection-association-group-tlv-flag-field

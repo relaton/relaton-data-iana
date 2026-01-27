@@ -7,7 +7,7 @@ title:
   script: Latn
   content: AVP Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pana-parameters
 docidentifier:
 - content: IANA pana-parameters/pana-parameters-7

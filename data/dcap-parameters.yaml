@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Data Link Switching Client Access Protocol (DCAP) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dcap-parameters
 docidentifier:
 - content: IANA dcap-parameters

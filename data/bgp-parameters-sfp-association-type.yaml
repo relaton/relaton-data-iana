@@ -7,7 +7,7 @@ title:
   script: Latn
   content: SFP Association Type
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bgp-parameters
 docidentifier:
 - content: IANA bgp-parameters/sfp-association-type

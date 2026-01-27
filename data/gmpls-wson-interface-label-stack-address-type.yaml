@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Types for Subfields of WSON Resource Block Information Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gmpls-wson
 docidentifier:
 - content: IANA gmpls-wson/interface-label-stack-address-type

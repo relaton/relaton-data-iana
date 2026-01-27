@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Uniform Resource Identifier (URI) Schemes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/uri-schemes
 docidentifier:
 - content: IANA uri-schemes/uri-schemes-1

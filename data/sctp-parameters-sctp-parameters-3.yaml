@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Chunk Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/sctp-parameters
 docidentifier:
 - content: IANA sctp-parameters/sctp-parameters-3

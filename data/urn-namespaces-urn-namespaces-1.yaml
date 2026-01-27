@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Formal URN Namespaces
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/urn-namespaces
 docidentifier:
 - content: IANA urn-namespaces/urn-namespaces-1

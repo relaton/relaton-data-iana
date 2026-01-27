@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Enumerated Status Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/smtp-enhanced-status-codes
 docidentifier:
 - content: IANA smtp-enhanced-status-codes/smtp-enhanced-status-codes-3

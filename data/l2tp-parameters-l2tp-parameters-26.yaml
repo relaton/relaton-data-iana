@@ -7,7 +7,7 @@ title:
   script: Latn
   content: VCCV Capability AVP (Attribute Type 96) Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/l2tp-parameters
 docidentifier:
 - content: IANA l2tp-parameters/l2tp-parameters-26

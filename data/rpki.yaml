@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Resource Public Key Infrastructure (RPKI)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rpki
 docidentifier:
 - content: IANA rpki

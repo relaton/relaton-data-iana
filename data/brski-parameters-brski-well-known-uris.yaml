@@ -7,7 +7,7 @@ title:
   script: Latn
   content: BRSKI Well-Known URIs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/brski-parameters
 docidentifier:
 - content: IANA brski-parameters/brski-well-known-uris

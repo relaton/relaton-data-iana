@@ -7,7 +7,7 @@ title:
   script: Latn
   content: TCP Alternate Checksum Numbers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/tcp-parameters
 docidentifier:
 - content: IANA tcp-parameters/tcp-parameters-2

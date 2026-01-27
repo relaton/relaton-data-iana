@@ -7,7 +7,7 @@ title:
   script: Latn
   content: GNAP Grant Response Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gnap
 docidentifier:
 - content: IANA gnap/gnap-grant-response-parameters

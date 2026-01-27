@@ -7,7 +7,7 @@ title:
   script: Latn
   content: EAP Initiate and Finish Attributes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-numbers
 docidentifier:
 - content: IANA eap-numbers/eap-numbers-2

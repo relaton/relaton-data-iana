@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IKEv2 Identification Payload ID Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ikev2-parameters
 docidentifier:
 - content: IANA ikev2-parameters/ikev2-parameters-10

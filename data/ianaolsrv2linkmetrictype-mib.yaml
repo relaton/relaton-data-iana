@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IANAolsrv2LinkMetricType-MIB
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ianaolsrv2linkmetrictype-mib
 docidentifier:
 - content: IANA ianaolsrv2linkmetrictype-mib

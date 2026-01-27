@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Assigned FOOBAR Address Families
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/foobar-af-numbers
 docidentifier:
 - content: IANA foobar-af-numbers/foobar-af-numbers-1

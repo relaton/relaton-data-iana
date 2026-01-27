@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Values for Wavelength Assignment Method field in WavelengthSelection Sub-TLV
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rsvp-te-parameters
 docidentifier:
 - content: IANA rsvp-te-parameters/wavelength-assignment-method

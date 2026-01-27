@@ -7,7 +7,7 @@ title:
   script: Latn
   content: CPIM Headers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/cpim-headers
 docidentifier:
 - content: IANA cpim-headers/cpim-headers-1

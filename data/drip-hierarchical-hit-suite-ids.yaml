@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Hierarchical a HIT (HHIT) Suite IDs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/drip
 docidentifier:
 - content: IANA drip/hierarchical-hit-suite-ids

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Status Messages
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/cnrp-parameters
 docidentifier:
 - content: IANA cnrp-parameters/cnrp-parameters-3

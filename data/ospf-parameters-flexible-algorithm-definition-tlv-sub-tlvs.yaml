@@ -7,7 +7,7 @@ title:
   script: Latn
   content: OSPF Flexible Algorithm Definition TLV Sub-TLVs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ospf-parameters
 docidentifier:
 - content: IANA ospf-parameters/flexible-algorithm-definition-tlv-sub-tlvs

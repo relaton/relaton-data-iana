@@ -7,7 +7,7 @@ title:
   script: Latn
   content: YANG Module Names
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/yang-parameters
 docidentifier:
 - content: IANA yang-parameters/yang-parameters-1

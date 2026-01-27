@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IEC 62351-9 Authentication Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gdoi-payloads
 docidentifier:
 - content: IANA gdoi-payloads/iec62351-9-authentication-values

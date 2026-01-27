@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Hybrid Public Key Encryption (HPKE)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/hpke
 docidentifier:
 - content: IANA hpke

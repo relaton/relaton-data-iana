@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IP TOS Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ip-parameters
 docidentifier:
 - content: IANA ip-parameters/ip-parameters-3

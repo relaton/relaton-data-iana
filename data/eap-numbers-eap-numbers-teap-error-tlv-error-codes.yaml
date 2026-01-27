@@ -7,7 +7,7 @@ title:
   script: Latn
   content: TEAP Error TLV (value 5) Error Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-numbers
 docidentifier:
 - content: IANA eap-numbers/eap-numbers-teap-error-tlv-error-codes

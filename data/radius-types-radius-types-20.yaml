@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Location Profiles (Attribute 127, Location-Information)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/radius-types
 docidentifier:
 - content: IANA radius-types/radius-types-20

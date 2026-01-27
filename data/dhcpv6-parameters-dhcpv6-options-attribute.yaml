@@ -7,7 +7,7 @@ title:
   script: Latn
   content: DHCPv6 Options Permitted in the RADIUS DHCPv6-Options Attribute
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dhcpv6-parameters
 docidentifier:
 - content: IANA dhcpv6-parameters/dhcpv6-options-attribute

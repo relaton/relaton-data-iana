@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Time Zone Data Distribution Service (TZDIST) Service Actions
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/tzdist-actions
 docidentifier:
 - content: IANA tzdist-actions

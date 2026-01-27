@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Radio Admin State
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/capwap-parameters
 docidentifier:
 - content: IANA capwap-parameters/capwap-parameters-14

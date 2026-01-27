@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PPSP Peer Protocol Content Integrity Protection Method Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ppspp
 docidentifier:
 - content: IANA ppspp/content-integrity-protection

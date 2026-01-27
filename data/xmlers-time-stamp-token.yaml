@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Time-Stamp Token Type
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/xmlers
 docidentifier:
 - content: IANA xmlers/time-stamp-token

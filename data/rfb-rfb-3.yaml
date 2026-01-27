@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Remote Framebuffer Server-to-Client Message Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rfb
 docidentifier:
 - content: IANA rfb/rfb-3

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: TRILL Ethertypes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/trill-parameters
 docidentifier:
 - content: IANA trill-parameters/trill-ethertypes

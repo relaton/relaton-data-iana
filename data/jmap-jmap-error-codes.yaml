@@ -7,7 +7,7 @@ title:
   script: Latn
   content: JMAP Error Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/jmap
 docidentifier:
 - content: IANA jmap/jmap-error-codes

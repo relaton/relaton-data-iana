@@ -7,7 +7,7 @@ title:
   script: Latn
   content: LISP Packet Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/lisp-parameters
 docidentifier:
 - content: IANA lisp-parameters/lisp-packet-types

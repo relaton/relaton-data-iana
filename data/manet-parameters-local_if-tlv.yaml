@@ -7,7 +7,7 @@ title:
   script: Latn
   content: LOCAL_IF TLV Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/manet-parameters
 docidentifier:
 - content: IANA manet-parameters/local_if-tlv

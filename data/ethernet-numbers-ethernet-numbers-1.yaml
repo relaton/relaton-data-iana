@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IANA MAC ADDRESS BLOCK
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ethernet-numbers
 docidentifier:
 - content: IANA ethernet-numbers/ethernet-numbers-1

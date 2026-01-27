@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IS-IS Sub-TLVs for the Area Proxy TLV
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/isis-tlv-codepoints
 docidentifier:
 - content: IANA isis-tlv-codepoints/isis-sub-tlvs-for-the-area-proxy-tlv

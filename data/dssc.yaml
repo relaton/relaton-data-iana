@@ -8,7 +8,7 @@ title:
   content: Data Structure for the Security Suitability of Cryptographic Algorithms
     (DSSC)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dssc
 docidentifier:
 - content: IANA dssc

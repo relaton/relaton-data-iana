@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Embedded Label Handling Sub-TLVs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bgp-tunnel-encapsulation
 docidentifier:
 - content: IANA bgp-tunnel-encapsulation/embedded-label-handling-sub-tlv

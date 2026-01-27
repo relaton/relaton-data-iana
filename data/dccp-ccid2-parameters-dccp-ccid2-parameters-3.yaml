@@ -7,7 +7,7 @@ title:
   script: Latn
   content: CCID2-specific Feature Numbers (128-255)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dccp-ccid2-parameters
 docidentifier:
 - content: IANA dccp-ccid2-parameters/dccp-ccid2-parameters-3

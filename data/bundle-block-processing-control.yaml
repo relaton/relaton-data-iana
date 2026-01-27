@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Block Processing Control Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bundle
 docidentifier:
 - content: IANA bundle/block-processing-control

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: OpenPGP Image Attribute Encoding Format
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/openpgp
 docidentifier:
 - content: IANA openpgp/openpgp-image-attribute-encoding-format

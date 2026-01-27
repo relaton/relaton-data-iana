@@ -8,7 +8,7 @@ title:
   content: Generic Security Service Application Program Interface (GSSAPI)/Kerberos/Simple
     Authentication and Security Layer (SASL) Service Names
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gssapi-service-names
 docidentifier:
 - content: IANA gssapi-service-names

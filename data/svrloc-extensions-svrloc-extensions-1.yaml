@@ -7,7 +7,7 @@ title:
   script: Latn
   content: SLPv2 Extension IDs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/svrloc-extensions
 docidentifier:
 - content: IANA svrloc-extensions/svrloc-extensions-1

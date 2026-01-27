@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Flow Spec Component Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/flow-spec
 docidentifier:
 - content: IANA flow-spec/flow-spec-2

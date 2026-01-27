@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Bundle Protocol TCP Convergence-Layer Version 4 SESS_TERM Reason Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bundle
 docidentifier:
 - content: IANA bundle/tcp-convergence-sess-term-reason

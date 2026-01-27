@@ -7,7 +7,7 @@ title:
   script: Latn
   content: In Situ OAM (IOAM)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ioam
 docidentifier:
 - content: IANA ioam

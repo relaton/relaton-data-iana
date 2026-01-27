@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PWD-Exch Messages
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-pwd-parameters
 docidentifier:
 - content: IANA eap-pwd-parameters/eap-pwd-parameters-1

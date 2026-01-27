@@ -7,7 +7,7 @@ title:
   script: Latn
   content: MPTCP MP_TCPRST Reason Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/tcp-parameters
 docidentifier:
 - content: IANA tcp-parameters/mptcp-mp-tcprst-reason-codes

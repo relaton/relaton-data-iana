@@ -7,7 +7,7 @@ title:
   script: Latn
   content: text/directory Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/text-directory-registrations
 docidentifier:
 - content: IANA text-directory-registrations/text-directory-registrations-3

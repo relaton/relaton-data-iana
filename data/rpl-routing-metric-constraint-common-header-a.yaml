@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Routing Metric/Constraint Common Header A field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rpl-routing-metric-constraint
 docidentifier:
 - content: IANA rpl-routing-metric-constraint/common-header-a

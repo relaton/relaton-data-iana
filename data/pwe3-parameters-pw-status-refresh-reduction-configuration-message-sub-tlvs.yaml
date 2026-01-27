@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PW Status Refresh Reduction Configuration Message Sub-TLVs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pwe3-parameters
 docidentifier:
 - content: IANA pwe3-parameters/pw-status-refresh-reduction-configuration-message-sub-tlvs

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Subject Identifier Formats
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/secevent
 docidentifier:
 - content: IANA secevent/subject-identifier-formats

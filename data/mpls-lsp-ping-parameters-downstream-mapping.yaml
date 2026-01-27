@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Downstream Detailed Mapping Address Type Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mpls-lsp-ping-parameters
 docidentifier:
 - content: IANA mpls-lsp-ping-parameters/downstream-mapping

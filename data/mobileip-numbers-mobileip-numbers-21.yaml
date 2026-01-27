@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Security Parameter Index (SPI) Values for the Mobile IP Reserved SPIs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mobileip-numbers
 docidentifier:
 - content: IANA mobileip-numbers/mobileip-numbers-21

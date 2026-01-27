@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Feature-tags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rtspv2-parameters
 docidentifier:
 - content: IANA rtspv2-parameters/feature-tags

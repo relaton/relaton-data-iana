@@ -7,7 +7,7 @@ title:
   script: Latn
   content: OSPF Tunnel Parameter Sub-TLVs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ospf-parameters
 docidentifier:
 - content: IANA ospf-parameters/tunnel-parameter-tlv

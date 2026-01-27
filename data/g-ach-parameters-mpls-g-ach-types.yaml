@@ -8,7 +8,7 @@ title:
   content: MPLS Generalized Associated Channel (G-ACh) Types (including Pseudowire
     Associated Channel Types)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/g-ach-parameters
 docidentifier:
 - content: IANA g-ach-parameters/mpls-g-ach-types

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Interior Gateway Protocol (IGP) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/igp-parameters
 docidentifier:
 - content: IANA igp-parameters

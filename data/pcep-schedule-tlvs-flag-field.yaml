@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Schedule TLVs Flag Field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep/schedule-tlvs-flag-field

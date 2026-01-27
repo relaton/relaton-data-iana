@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Result Type Names
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gsmpv3-result
 docidentifier:
 - content: IANA gsmpv3-result/gsmpv3-result-1

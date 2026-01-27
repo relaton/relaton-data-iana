@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Hash Function Textual Names
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/hash-function-text-names
 docidentifier:
 - content: IANA hash-function-text-names/hash-function-text-names-1

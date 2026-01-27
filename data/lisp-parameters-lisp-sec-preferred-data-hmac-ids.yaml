@@ -7,7 +7,7 @@ title:
   script: Latn
   content: LISP-SEC Preferred Authentication Data HMAC IDs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/lisp-parameters
 docidentifier:
 - content: IANA lisp-parameters/lisp-sec-preferred-data-hmac-ids

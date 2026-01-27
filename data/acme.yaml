@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Automated Certificate Management Environment (ACME) Protocol
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/acme
 docidentifier:
 - content: IANA acme

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Border Gateway Protocol - Link State (BGP-LS) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bgp-ls-parameters
 docidentifier:
 - content: IANA bgp-ls-parameters

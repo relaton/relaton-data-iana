@@ -7,7 +7,7 @@ title:
   script: Latn
   content: BPSec BCB-AES-GCM AAD Scope Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bundle
 docidentifier:
 - content: IANA bundle/bpsec-bcb-aes-gcm-aad-scope

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IANA-SMF-MIB
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ianasmf-mib
 docidentifier:
 - content: IANA ianasmf-mib

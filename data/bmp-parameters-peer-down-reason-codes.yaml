@@ -7,7 +7,7 @@ title:
   script: Latn
   content: BMP Peer Down Reason Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bmp-parameters
 docidentifier:
 - content: IANA bmp-parameters/peer-down-reason-codes

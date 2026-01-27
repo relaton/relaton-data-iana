@@ -7,7 +7,7 @@ title:
   script: Latn
   content: TLSA Selectors
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dane-parameters
 docidentifier:
 - content: IANA dane-parameters/selectors

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IETF URN Sub-namespaces
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/params
 docidentifier:
 - content: IANA params/urn-subnamespaces

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: C-DNS Transports
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/c-dns
 docidentifier:
 - content: IANA c-dns/c-dns-transports

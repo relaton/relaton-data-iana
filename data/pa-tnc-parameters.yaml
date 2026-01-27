@@ -8,7 +8,7 @@ title:
   content: Posture Attribute (PA) Protocol Compatible with Trusted Network Connect
     (TNC) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pa-tnc-parameters
 docidentifier:
 - content: IANA pa-tnc-parameters

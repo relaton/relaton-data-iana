@@ -7,7 +7,7 @@ title:
   script: Latn
   content: BIER Next Protocol Identifiers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bier
 docidentifier:
 - content: IANA bier/bier-next-protocol-identifiers

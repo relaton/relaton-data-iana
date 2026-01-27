@@ -7,7 +7,7 @@ title:
   script: Latn
   content: CCNx Hop-by-Hop Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ccnx
 docidentifier:
 - content: IANA ccnx/ccnx-hop-by-hop-types

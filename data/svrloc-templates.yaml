@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Service Location Protocol, Version 2 (SLPv2) Templates
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/svrloc-templates
 docidentifier:
 - content: IANA svrloc-templates

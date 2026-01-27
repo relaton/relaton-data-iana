@@ -7,7 +7,7 @@ title:
   script: Latn
   content: DomainData-system-status
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iodef2
 docidentifier:
 - content: IANA iodef2/domaindata-system-status

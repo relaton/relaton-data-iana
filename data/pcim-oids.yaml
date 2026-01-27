@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Lightweight Directory Access Protocol (LDAP) - pcimSchema Descriptors
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcim-oids
 docidentifier:
 - content: IANA pcim-oids

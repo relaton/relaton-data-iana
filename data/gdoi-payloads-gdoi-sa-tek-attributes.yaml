@@ -7,7 +7,7 @@ title:
   script: Latn
   content: GDOI SA TEK Attributes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gdoi-payloads
 docidentifier:
 - content: IANA gdoi-payloads/gdoi-sa-tek-attributes

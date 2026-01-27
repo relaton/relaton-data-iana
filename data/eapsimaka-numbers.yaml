@@ -7,7 +7,7 @@ title:
   script: Latn
   content: EAP-AKA and EAP-SIM Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eapsimaka-numbers
 docidentifier:
 - content: IANA eapsimaka-numbers

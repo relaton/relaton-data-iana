@@ -7,7 +7,7 @@ title:
   script: Latn
   content: XMSS Signatures
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/xmss-extended-hash-based-signatures
 docidentifier:
 - content: IANA xmss-extended-hash-based-signatures/xmss-signatures

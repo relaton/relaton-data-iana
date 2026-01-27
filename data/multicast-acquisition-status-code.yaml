@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Multicast Acquisition Status Code Space Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/multicast-acquisition
 docidentifier:
 - content: IANA multicast-acquisition/status-code

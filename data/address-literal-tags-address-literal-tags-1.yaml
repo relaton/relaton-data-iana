@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Address Literal Tags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/address-literal-tags
 docidentifier:
 - content: IANA address-literal-tags/address-literal-tags-1

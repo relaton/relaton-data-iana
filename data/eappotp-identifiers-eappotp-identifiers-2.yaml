@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Hash Algorithms
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eappotp-identifiers
 docidentifier:
 - content: IANA eappotp-identifiers/eappotp-identifiers-2

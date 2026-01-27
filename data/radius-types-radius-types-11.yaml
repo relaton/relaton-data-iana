@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Values for RADIUS Attribute 45, Acct-Authentic
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/radius-types
 docidentifier:
 - content: IANA radius-types/radius-types-11

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Multi-Topology ID Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ospf-mt-routing
 docidentifier:
 - content: IANA ospf-mt-routing/ospf-mt-routing-2

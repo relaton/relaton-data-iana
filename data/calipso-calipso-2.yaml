@@ -7,7 +7,7 @@ title:
   script: Latn
   content: CALIPSO Domain of Interpretation (DOI)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/calipso
 docidentifier:
 - content: IANA calipso/calipso-2

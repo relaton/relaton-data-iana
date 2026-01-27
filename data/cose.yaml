@@ -7,7 +7,7 @@ title:
   script: Latn
   content: CBOR Object Signing and Encryption (COSE)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/cose
 docidentifier:
 - content: IANA cose

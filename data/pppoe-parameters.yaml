@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Point-to-Point Over Ethernet (PPPoE) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pppoe-parameters
 docidentifier:
 - content: IANA pppoe-parameters

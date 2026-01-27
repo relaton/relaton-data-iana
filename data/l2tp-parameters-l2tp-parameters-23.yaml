@@ -7,7 +7,7 @@ title:
   script: Latn
   content: ATM Alarm Status AVP (Attribute Type 88) Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/l2tp-parameters
 docidentifier:
 - content: IANA l2tp-parameters/l2tp-parameters-23

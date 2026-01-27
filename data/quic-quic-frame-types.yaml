@@ -7,7 +7,7 @@ title:
   script: Latn
   content: QUIC Frame Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/quic
 docidentifier:
 - content: IANA quic/quic-frame-types

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Segment Routing Header Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ipv6-parameters
 docidentifier:
 - content: IANA ipv6-parameters/segment-routing-header-flags

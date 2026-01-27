@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Bootstrap Service Registry for IPv6 Address Space
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rdap-ipv6
 docidentifier:
 - content: IANA rdap-ipv6

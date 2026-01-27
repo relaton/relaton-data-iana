@@ -7,7 +7,7 @@ title:
   script: Latn
   content: P-Multicast Service Interface (PMSI) Tunnel Attribute Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bgp-parameters
 docidentifier:
 - content: IANA bgp-parameters/pmsi-tunnel-attributes

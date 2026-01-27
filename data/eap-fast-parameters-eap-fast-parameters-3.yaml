@@ -7,7 +7,7 @@ title:
   script: Latn
   content: EAP-FAST (value 43) Request-Action TLV (value 19) Action Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-fast-parameters
 docidentifier:
 - content: IANA eap-fast-parameters/eap-fast-parameters-3

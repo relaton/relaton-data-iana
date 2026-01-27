@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Service Function Chaining Service Function Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/service-function-chaining-service-function-types
 docidentifier:
 - content: IANA service-function-chaining-service-function-types/service-function-chaining-service-function-types-2

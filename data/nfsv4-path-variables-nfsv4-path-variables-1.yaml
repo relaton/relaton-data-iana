@@ -7,7 +7,7 @@ title:
   script: Latn
   content: NFSv4 Path Variables
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/nfsv4-path-variables
 docidentifier:
 - content: IANA nfsv4-path-variables/nfsv4-path-variables-1

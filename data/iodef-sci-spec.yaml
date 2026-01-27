@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Structured Cybersecurity Information (SCI) Specifications
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iodef
 docidentifier:
 - content: IANA iodef/sci-spec

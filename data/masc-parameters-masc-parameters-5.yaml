@@ -7,7 +7,7 @@ title:
   script: Latn
   content: MASC NOTIFICATION Message Error Codes and Subcodes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/masc-parameters
 docidentifier:
 - content: IANA masc-parameters/masc-parameters-5

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RIFT Security Algorithms
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rift
 docidentifier:
 - content: IANA rift/rift-security-algorithms

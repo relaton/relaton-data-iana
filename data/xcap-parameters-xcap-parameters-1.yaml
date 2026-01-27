@@ -7,7 +7,7 @@ title:
   script: Latn
   content: XCAP Application Unique IDs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/xcap-parameters
 docidentifier:
 - content: IANA xcap-parameters/xcap-parameters-1

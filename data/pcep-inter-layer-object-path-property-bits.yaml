@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Inter-Layer Object Path Property Bits
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep/inter-layer-object-path-property-bits

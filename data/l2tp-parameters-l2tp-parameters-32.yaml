@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Leading Bits of the L2TP Message Header
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/l2tp-parameters
 docidentifier:
 - content: IANA l2tp-parameters/l2tp-parameters-32

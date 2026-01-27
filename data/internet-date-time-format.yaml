@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Internet Date/Time Format
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/internet-date-time-format
 docidentifier:
 - content: IANA internet-date-time-format

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Alert URNs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/alert-urns
 docidentifier:
 - content: IANA alert-urns

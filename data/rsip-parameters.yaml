@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Realm Specific IP (RSIP) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rsip-parameters
 docidentifier:
 - content: IANA rsip-parameters

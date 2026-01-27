@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Telephony Routing over IP (TRIP) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/trip-parameters
 docidentifier:
 - content: IANA trip-parameters

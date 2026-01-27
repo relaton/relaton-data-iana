@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Options Permitted in the Relay-Supplied Options Option
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dhcpv6-parameters
 docidentifier:
 - content: IANA dhcpv6-parameters/options-relay-supplied

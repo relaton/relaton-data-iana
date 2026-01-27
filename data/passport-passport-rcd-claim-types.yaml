@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PASSporT RCD Claim Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/passport
 docidentifier:
 - content: IANA passport/passport-rcd-claim-types

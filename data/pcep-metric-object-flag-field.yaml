@@ -7,7 +7,7 @@ title:
   script: Latn
   content: METRIC Object Flag Field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep/metric-object-flag-field

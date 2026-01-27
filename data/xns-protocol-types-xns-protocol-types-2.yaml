@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Assigned internet packet types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/xns-protocol-types
 docidentifier:
 - content: IANA xns-protocol-types/xns-protocol-types-2

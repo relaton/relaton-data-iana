@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Route Distinguisher Type Field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/route-distinguisher-types
 docidentifier:
 - content: IANA route-distinguisher-types

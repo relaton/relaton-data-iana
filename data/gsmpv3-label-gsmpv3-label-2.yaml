@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Label Type Names
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gsmpv3-label
 docidentifier:
 - content: IANA gsmpv3-label/gsmpv3-label-2

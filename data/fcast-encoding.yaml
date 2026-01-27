@@ -7,7 +7,7 @@ title:
   script: Latn
   content: FCAST Object Metadata Encoding
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/fcast
 docidentifier:
 - content: IANA fcast/encoding

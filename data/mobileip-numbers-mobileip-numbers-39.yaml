@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Mobile Router Route Optimization Capability Extension (Value 153)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mobileip-numbers
 docidentifier:
 - content: IANA mobileip-numbers/mobileip-numbers-39

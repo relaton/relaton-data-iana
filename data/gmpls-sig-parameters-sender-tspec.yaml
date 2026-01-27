@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Ethernet Sender TSpec TLVs/Ethernet Flowspec TLVs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gmpls-sig-parameters
 docidentifier:
 - content: IANA gmpls-sig-parameters/sender-tspec

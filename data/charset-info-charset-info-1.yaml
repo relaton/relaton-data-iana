@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Character Sets Mailing List Information
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/charset-info
 docidentifier:
 - content: IANA charset-info/charset-info-1

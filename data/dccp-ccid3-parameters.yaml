@@ -8,7 +8,7 @@ title:
   content: 'Profile for Datagram Congestion Control Protocol (DCCP) Congestion Control
     ID 3: TFRC Congestion Control Parameters'
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dccp-ccid3-parameters
 docidentifier:
 - content: IANA dccp-ccid3-parameters

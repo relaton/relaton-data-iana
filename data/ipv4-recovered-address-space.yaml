@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IPv4 Recovered Address Space
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ipv4-recovered-address-space
 docidentifier:
 - content: IANA ipv4-recovered-address-space

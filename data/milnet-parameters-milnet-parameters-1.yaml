@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Milnet Link Numbers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/milnet-parameters
 docidentifier:
 - content: IANA milnet-parameters/milnet-parameters-1

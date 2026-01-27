@@ -7,7 +7,7 @@ title:
   script: Latn
   content: TEAP Identity-Type TLV (value 2) Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/teap-parameters
 docidentifier:
 - content: IANA teap-parameters/identity-type

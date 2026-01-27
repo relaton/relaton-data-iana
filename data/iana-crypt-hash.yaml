@@ -7,7 +7,7 @@ title:
   script: Latn
   content: iana-crypt-hash YANG Module
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iana-crypt-hash
 docidentifier:
 - content: IANA iana-crypt-hash

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PRoPHET Protocol Version
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/prophet
 docidentifier:
 - content: IANA prophet/protocol-version

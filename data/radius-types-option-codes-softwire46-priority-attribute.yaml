@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Option Codes Permitted in the Softwire46-Priority Attribute
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/radius-types
 docidentifier:
 - content: IANA radius-types/option-codes-softwire46-priority-attribute

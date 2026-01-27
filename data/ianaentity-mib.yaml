@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IANA-ENTITY-MIB
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ianaentity-mib
 docidentifier:
 - content: IANA ianaentity-mib

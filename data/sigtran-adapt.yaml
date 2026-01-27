@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Signaling User Adaptation Layer Assignments
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/sigtran-adapt
 docidentifier:
 - content: IANA sigtran-adapt

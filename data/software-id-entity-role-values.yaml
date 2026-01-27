@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Software ID Entity Role Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/software-id
 docidentifier:
 - content: IANA software-id/entity-role-values

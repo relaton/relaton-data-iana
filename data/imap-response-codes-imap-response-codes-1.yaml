@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IMAP Response Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/imap-response-codes
 docidentifier:
 - content: IANA imap-response-codes/imap-response-codes-1

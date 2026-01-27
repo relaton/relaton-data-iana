@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Transmission Control Protocol (TCP) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/tcp-parameters
 docidentifier:
 - content: IANA tcp-parameters

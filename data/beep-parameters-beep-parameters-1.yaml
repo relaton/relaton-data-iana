@@ -7,7 +7,7 @@ title:
   script: Latn
   content: BEEP Profiles
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/beep-parameters
 docidentifier:
 - content: IANA beep-parameters/beep-parameters-1

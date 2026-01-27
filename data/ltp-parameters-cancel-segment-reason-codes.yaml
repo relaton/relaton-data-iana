@@ -7,7 +7,7 @@ title:
   script: Latn
   content: LTP Cancel Segment Reason Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ltp-parameters
 docidentifier:
 - content: IANA ltp-parameters/cancel-segment-reason-codes

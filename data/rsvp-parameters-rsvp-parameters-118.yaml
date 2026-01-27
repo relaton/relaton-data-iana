@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Call Attributes TLV
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rsvp-parameters
 docidentifier:
 - content: IANA rsvp-parameters/rsvp-parameters-118

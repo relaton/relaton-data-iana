@@ -7,7 +7,7 @@ title:
   script: Latn
   content: MIME Media Type Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/media-types-parameters
 docidentifier:
 - content: IANA media-types-parameters

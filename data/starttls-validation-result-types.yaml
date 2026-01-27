@@ -7,7 +7,7 @@ title:
   script: Latn
   content: STARTTLS Validation Result Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/starttls-validation-result-types
 docidentifier:
 - content: IANA starttls-validation-result-types

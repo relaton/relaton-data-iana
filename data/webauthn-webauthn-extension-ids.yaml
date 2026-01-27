@@ -7,7 +7,7 @@ title:
   script: Latn
   content: WebAuthn Extension Identifiers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/webauthn
 docidentifier:
 - content: IANA webauthn/webauthn-extension-ids

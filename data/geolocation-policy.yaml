@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Geolocation Policy
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/geolocation-policy
 docidentifier:
 - content: IANA geolocation-policy

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Scoped Multicast Ranges
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/multicast-addresses
 docidentifier:
 - content: IANA multicast-addresses/multicast-addresses-12

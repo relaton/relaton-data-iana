@@ -7,7 +7,7 @@ title:
   script: Latn
   content: HTTP Signature Metadata Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/http-message-signature
 docidentifier:
 - content: IANA http-message-signature/signature-metadata-parameters

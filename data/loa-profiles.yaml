@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Level of Assurance (LoA) Profiles
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/loa-profiles
 docidentifier:
 - content: IANA loa-profiles

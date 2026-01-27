@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Signaling Compression (SigComp) Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/sigcomp-namespace
 docidentifier:
 - content: IANA sigcomp-namespace

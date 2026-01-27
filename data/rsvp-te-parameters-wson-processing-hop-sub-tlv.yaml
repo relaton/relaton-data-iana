@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Sub-TLV Types for WSON Processing Hop Attribute TLV
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rsvp-te-parameters
 docidentifier:
 - content: IANA rsvp-te-parameters/wson-processing-hop-sub-tlv

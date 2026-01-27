@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IPv6 Router Alert Option Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ipv6-routeralert-values
 docidentifier:
 - content: IANA ipv6-routeralert-values/ipv6-routeralert-values-1

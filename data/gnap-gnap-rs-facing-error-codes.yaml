@@ -7,7 +7,7 @@ title:
   script: Latn
   content: GNAP RS-Facing Error Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gnap
 docidentifier:
 - content: IANA gnap/gnap-rs-facing-error-codes

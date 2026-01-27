@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Authentication and Authorization for Constrained Environments (ACE)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ace
 docidentifier:
 - content: IANA ace

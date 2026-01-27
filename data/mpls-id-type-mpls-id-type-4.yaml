@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Q.2957 User-to-user Signaling for the Internet Protocol
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mpls-id-type
 docidentifier:
 - content: IANA mpls-id-type/mpls-id-type-4

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PSN Tunnel Sub-TLV Name Space
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pwe3-parameters
 docidentifier:
 - content: IANA pwe3-parameters/psn-tunnel-sub-tlv

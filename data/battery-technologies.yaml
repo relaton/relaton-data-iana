@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Battery Technologies
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/battery-technologies
 docidentifier:
 - content: IANA battery-technologies

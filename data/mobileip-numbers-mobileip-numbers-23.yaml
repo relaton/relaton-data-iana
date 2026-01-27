@@ -8,7 +8,7 @@ title:
   content: Generalized Link Layer Address Registration Extension Subtypes and Generalized
     Link Layer Address Advertisement Extension Subtypes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mobileip-numbers
 docidentifier:
 - content: IANA mobileip-numbers/mobileip-numbers-23

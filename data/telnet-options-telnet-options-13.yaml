@@ -7,7 +7,7 @@ title:
   script: Latn
   content: DES_CFB64 Telnet Encryption Type (Type 1)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/telnet-options
 docidentifier:
 - content: IANA telnet-options/telnet-options-13

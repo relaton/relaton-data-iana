@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Transfer Encodings
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/transfer-encodings
 docidentifier:
 - content: IANA transfer-encodings

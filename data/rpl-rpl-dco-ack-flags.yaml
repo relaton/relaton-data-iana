@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Destination Cleanup Object Acknowledgment (DCO) Acknowledgment Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rpl
 docidentifier:
 - content: IANA rpl/rpl-dco-ack-flags

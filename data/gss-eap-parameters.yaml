@@ -8,7 +8,7 @@ title:
   content: The Extensible Authentication Protocol Mechanism for the Generic Security
     Service Application Programming Interface (GSS-EAP) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gss-eap-parameters
 docidentifier:
 - content: IANA gss-eap-parameters

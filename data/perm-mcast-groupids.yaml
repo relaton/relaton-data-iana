@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Permanent IPv6 Multicast Group Identifiers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/perm-mcast-groupids
 docidentifier:
 - content: IANA perm-mcast-groupids

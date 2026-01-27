@@ -7,7 +7,7 @@ title:
   script: Latn
   content: EAP-EKE Pseudo Random Function Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-eke
 docidentifier:
 - content: IANA eap-eke/pseudo-random

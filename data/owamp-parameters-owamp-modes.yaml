@@ -7,7 +7,7 @@ title:
   script: Latn
   content: OWAMP-Modes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/owamp-parameters
 docidentifier:
 - content: IANA owamp-parameters/owamp-modes

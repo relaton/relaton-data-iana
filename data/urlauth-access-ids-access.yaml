@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IMAP URLAUTH Access Identifiers and Prefixes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/urlauth-access-ids
 docidentifier:
 - content: IANA urlauth-access-ids/access

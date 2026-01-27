@@ -7,7 +7,7 @@ title:
   script: Latn
   content: JSContact Enum Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/jscontact
 docidentifier:
 - content: IANA jscontact/jscontact-enum-values

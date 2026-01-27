@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Current Recovered IPv4 Pool
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ipv4-recovered-address-space
 docidentifier:
 - content: IANA ipv4-recovered-address-space/ipv4-recovered-address-space-1

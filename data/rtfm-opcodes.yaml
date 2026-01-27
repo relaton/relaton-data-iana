@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Pattern Matching Engine (PME) Opcodes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rtfm
 docidentifier:
 - content: IANA rtfm/opcodes

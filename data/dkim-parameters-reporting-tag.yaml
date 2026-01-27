@@ -7,7 +7,7 @@ title:
   script: Latn
   content: DKIM Reporting Tag Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dkim-parameters
 docidentifier:
 - content: IANA dkim-parameters/reporting-tag

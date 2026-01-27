@@ -7,7 +7,7 @@ title:
   script: Latn
   content: service.arpa Subdomain
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/locally-served-dns-zones
 docidentifier:
 - content: IANA locally-served-dns-zones/service-arpa-subdomain

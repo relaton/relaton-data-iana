@@ -8,7 +8,7 @@ title:
   content: Registry for the Session Initiation Protocol (SIP) NAPTR Resource Record
     Services Field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/sip-table
 docidentifier:
 - content: IANA sip-table

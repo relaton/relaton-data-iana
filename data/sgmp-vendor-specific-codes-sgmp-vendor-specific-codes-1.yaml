@@ -7,7 +7,7 @@ title:
   script: Latn
   content: SGMP Vendor Specific Codes (Obsolete)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/sgmp-vendor-specific-codes
 docidentifier:
 - content: IANA sgmp-vendor-specific-codes/sgmp-vendor-specific-codes-1

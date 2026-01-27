@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Caller-ID Numbering Plans
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/caller-id-plans
 docidentifier:
 - content: IANA caller-id-plans

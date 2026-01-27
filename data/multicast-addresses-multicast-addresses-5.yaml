@@ -7,7 +7,7 @@ title:
   script: Latn
   content: SDP/SAP Block (224.2.0.0-224.2.255.255 (224.2/16))
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/multicast-addresses
 docidentifier:
 - content: IANA multicast-addresses/multicast-addresses-5

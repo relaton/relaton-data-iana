@@ -8,7 +8,7 @@ title:
   content: PPP Link Control Protocol (LCP) and Internet Protocol Control Protocol
     (IPCP) Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ppp-numbers
 docidentifier:
 - content: IANA ppp-numbers/ppp-numbers-3

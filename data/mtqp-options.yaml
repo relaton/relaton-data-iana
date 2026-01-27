@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Message Tracking Query Protocol (MTQP) Options Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mtqp-options
 docidentifier:
 - content: IANA mtqp-options

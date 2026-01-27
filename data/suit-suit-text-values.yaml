@@ -7,7 +7,7 @@ title:
   script: Latn
   content: SUIT Text Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/suit
 docidentifier:
 - content: IANA suit/suit-text-values

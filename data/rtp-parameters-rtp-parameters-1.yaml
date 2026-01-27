@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RTP Payload Types (PT) for standard audio and video encodings - Closed
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rtp-parameters
 docidentifier:
 - content: IANA rtp-parameters/rtp-parameters-1

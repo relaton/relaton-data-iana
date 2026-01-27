@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Link Relation Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/link-relations
 docidentifier:
 - content: IANA link-relations/link-relations-1

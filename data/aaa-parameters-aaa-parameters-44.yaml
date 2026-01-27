@@ -7,7 +7,7 @@ title:
   script: Latn
   content: AVP Flags Value
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/aaa-parameters
 docidentifier:
 - content: IANA aaa-parameters/aaa-parameters-44

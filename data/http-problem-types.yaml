@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Hypertext Transfer Protocol (HTTP) Problem Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/http-problem-types
 docidentifier:
 - content: IANA http-problem-types

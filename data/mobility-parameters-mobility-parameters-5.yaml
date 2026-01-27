@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Mobile Node Identifier Option Subtypes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mobility-parameters
 docidentifier:
 - content: IANA mobility-parameters/mobility-parameters-5

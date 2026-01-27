@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RELOAD Application-ID
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/reload
 docidentifier:
 - content: IANA reload/app-id

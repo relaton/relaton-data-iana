@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Enumservice Registrations
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/enum-services
 docidentifier:
 - content: IANA enum-services

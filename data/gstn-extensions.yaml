@@ -8,7 +8,7 @@ title:
   content: Global Switched Telephone Network (GSTN) Address Element Extensions in
     Email Services
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gstn-extensions
 docidentifier:
 - content: IANA gstn-extensions

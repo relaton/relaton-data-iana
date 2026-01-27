@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Result Code AVP (Attribute Type 1) Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/l2tp-parameters
 docidentifier:
 - content: IANA l2tp-parameters/l2tp-parameters-10

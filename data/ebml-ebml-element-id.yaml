@@ -7,7 +7,7 @@ title:
   script: Latn
   content: EBML Element IDs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ebml
 docidentifier:
 - content: IANA ebml/ebml-element-id

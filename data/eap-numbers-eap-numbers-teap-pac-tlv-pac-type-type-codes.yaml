@@ -7,7 +7,7 @@ title:
   script: Latn
   content: TEAP PAC TLV (value 11) PAC-Type Type Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-numbers
 docidentifier:
 - content: IANA eap-numbers/eap-numbers-teap-pac-tlv-pac-type-type-codes

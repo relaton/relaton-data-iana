@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RTP Control Protocol Extended Reports (RTCP XR) Block Type Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rtcp-xr-block-types
 docidentifier:
 - content: IANA rtcp-xr-block-types

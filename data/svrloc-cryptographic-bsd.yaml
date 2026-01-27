@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Service Location Protocol Version 2 (SLPv2) Cryptographic BSD Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/svrloc-cryptographic-bsd
 docidentifier:
 - content: IANA svrloc-cryptographic-bsd

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Shim6 Verification Methods
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/shim6
 docidentifier:
 - content: IANA shim6/verification

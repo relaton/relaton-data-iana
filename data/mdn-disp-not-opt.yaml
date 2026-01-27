@@ -7,7 +7,7 @@ title:
   script: Latn
   content: MDN-Disposition-notification-option-names
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mdn
 docidentifier:
 - content: IANA mdn/disp-not-opt

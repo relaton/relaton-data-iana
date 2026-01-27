@@ -7,7 +7,7 @@ title:
   script: Latn
   content: 'DSYNC: Location of Synchronization Endpoints'
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dns-parameters
 docidentifier:
 - content: IANA dns-parameters/dsync-location-of-synchronization-endpoints

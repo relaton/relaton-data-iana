@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Certification Authority Restriction Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pkix-parameters
 docidentifier:
 - content: IANA pkix-parameters/caa-flags

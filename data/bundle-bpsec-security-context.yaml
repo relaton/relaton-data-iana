@@ -7,7 +7,7 @@ title:
   script: Latn
   content: BPSec Security Context Identifiers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bundle
 docidentifier:
 - content: IANA bundle/bpsec-security-context

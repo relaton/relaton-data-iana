@@ -7,7 +7,7 @@ title:
   script: Latn
   content: The Binary Floor Control Protocol (BFCP) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bfcp-parameters
 docidentifier:
 - content: IANA bfcp-parameters

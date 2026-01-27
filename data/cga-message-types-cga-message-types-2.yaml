@@ -7,7 +7,7 @@ title:
   script: Latn
   content: CGA Extension Type Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/cga-message-types
 docidentifier:
 - content: IANA cga-message-types/cga-message-types-2

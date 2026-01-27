@@ -7,7 +7,7 @@ title:
   script: Latn
   content: END_TIME (X-Type 6) SubType values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/nslp-parameters
 docidentifier:
 - content: IANA nslp-parameters/x-type-6-subtypes

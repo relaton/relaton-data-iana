@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Timestamp Reference Clock Source Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/sdp-parameters
 docidentifier:
 - content: IANA sdp-parameters/timestamp-ref-clock-source

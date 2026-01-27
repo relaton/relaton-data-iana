@@ -7,7 +7,7 @@ title:
   script: Latn
   content: GRE Version Numbers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gre-parameters
 docidentifier:
 - content: IANA gre-parameters/gre-parameters-2

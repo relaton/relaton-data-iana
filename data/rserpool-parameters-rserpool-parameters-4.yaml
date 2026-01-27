@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RSerPool Parameter Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rserpool-parameters
 docidentifier:
 - content: IANA rserpool-parameters/rserpool-parameters-4

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: HTTP Upgrade Tokens
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/http-upgrade-tokens
 docidentifier:
 - content: IANA http-upgrade-tokens/http-upgrade-tokens-1

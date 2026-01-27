@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IANA-STORAGE-MEDIA-TYPE-MIB
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ianastoragemediatype-mib
 docidentifier:
 - content: IANA ianastoragemediatype-mib

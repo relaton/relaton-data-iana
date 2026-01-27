@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Method Tokens
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/method-tokens
 docidentifier:
 - content: IANA method-tokens/method-tokens-1

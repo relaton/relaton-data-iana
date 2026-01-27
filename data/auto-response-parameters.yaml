@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Automatic Responses to Electronic Mail Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/auto-response-parameters
 docidentifier:
 - content: IANA auto-response-parameters

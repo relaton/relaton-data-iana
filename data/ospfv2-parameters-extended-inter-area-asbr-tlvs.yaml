@@ -7,7 +7,7 @@ title:
   script: Latn
   content: OSPFv2 Extended Inter-Area ASBR TLVs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ospfv2-parameters
 docidentifier:
 - content: IANA ospfv2-parameters/extended-inter-area-asbr-tlvs

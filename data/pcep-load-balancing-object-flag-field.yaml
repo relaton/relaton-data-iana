@@ -7,7 +7,7 @@ title:
   script: Latn
   content: LOAD-BALANCING Object Flag Field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep/load-balancing-object-flag-field

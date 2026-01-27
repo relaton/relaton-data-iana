@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Reserved IPv6 Interface Identifiers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ipv6-interface-ids
 docidentifier:
 - content: IANA ipv6-interface-ids/ipv6-interface-ids-1

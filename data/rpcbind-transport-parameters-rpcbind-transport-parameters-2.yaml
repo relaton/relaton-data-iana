@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Protocol family (r_nc_protofmly)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rpcbind-transport-parameters
 docidentifier:
 - content: IANA rpcbind-transport-parameters/rpcbind-transport-parameters-2

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Group Domain of Interpretation (GDOI) Payloads
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gdoi-payloads
 docidentifier:
 - content: IANA gdoi-payloads

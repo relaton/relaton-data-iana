@@ -7,7 +7,7 @@ title:
   script: Latn
   content: X.400 to MIME Table - Basic Body Parts
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/media-types-parameters
 docidentifier:
 - content: IANA media-types-parameters/media-types-parameters-2

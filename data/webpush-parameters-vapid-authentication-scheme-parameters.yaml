@@ -7,7 +7,7 @@ title:
   script: Latn
   content: VAPID Authentication Scheme Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/webpush-parameters
 docidentifier:
 - content: IANA webpush-parameters/vapid-authentication-scheme-parameters

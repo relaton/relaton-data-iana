@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Tunnel Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/tunnel-setup-protocol
 docidentifier:
 - content: IANA tunnel-setup-protocol/tunnel-types

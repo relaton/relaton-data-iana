@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Schedule Force Send Values Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/icalendar
 docidentifier:
 - content: IANA icalendar/schedule-force-send-values

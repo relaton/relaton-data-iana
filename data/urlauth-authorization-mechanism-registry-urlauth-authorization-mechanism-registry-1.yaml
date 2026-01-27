@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IMAP URLAUTH Authorization Mechanism Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/urlauth-authorization-mechanism-registry
 docidentifier:
 - content: IANA urlauth-authorization-mechanism-registry/urlauth-authorization-mechanism-registry-1

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PKIX SRV Protocol Labels
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pkix-parameters
 docidentifier:
 - content: IANA pkix-parameters/srv-protocol-labels

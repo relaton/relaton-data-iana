@@ -7,7 +7,7 @@ title:
   script: Latn
   content: EAP-AKA' AT_KDF_FS Key Derivation Function Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eapsimaka-numbers
 docidentifier:
 - content: IANA eapsimaka-numbers/eap-aka-at-kdf-fs-key-derivation-function

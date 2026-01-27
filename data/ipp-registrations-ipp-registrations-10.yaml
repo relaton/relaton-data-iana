@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Operations
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ipp-registrations
 docidentifier:
 - content: IANA ipp-registrations/ipp-registrations-10

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Flags Field of NVGRE Encapsulation Sub-TLVs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bgp-tunnel-encapsulation
 docidentifier:
 - content: IANA bgp-tunnel-encapsulation/flags-field-nvgre-encapsulation-tlv

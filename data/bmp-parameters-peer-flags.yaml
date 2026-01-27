@@ -7,7 +7,7 @@ title:
   script: Latn
   content: BMP Peer Flags for Peer Types 0 through 2
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bmp-parameters
 docidentifier:
 - content: IANA bmp-parameters/peer-flags

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Special-Purpose Autonomous System (AS) Numbers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iana-as-numbers-special-registry
 docidentifier:
 - content: IANA iana-as-numbers-special-registry

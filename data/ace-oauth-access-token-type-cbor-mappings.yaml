@@ -7,7 +7,7 @@ title:
   script: Latn
   content: OAuth Access Token Type CBOR Mappings
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ace
 docidentifier:
 - content: IANA ace/oauth-access-token-type-cbor-mappings

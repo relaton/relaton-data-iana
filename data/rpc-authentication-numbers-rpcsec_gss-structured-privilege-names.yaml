@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RPCSEC_GSS Structured Privilege Names Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rpc-authentication-numbers
 docidentifier:
 - content: IANA rpc-authentication-numbers/rpcsec_gss-structured-privilege-names

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: ADE Type Namespace
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-pax
 docidentifier:
 - content: IANA eap-pax/eap-pax-4

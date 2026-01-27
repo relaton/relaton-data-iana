@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IANA-ADDRESS-FAMILY-NUMBERS-MIB
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ianaaddressfamilynumbers-mib
 docidentifier:
 - content: IANA ianaaddressfamilynumbers-mib

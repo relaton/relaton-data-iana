@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Keying and Authentication for Routing Protocols (KARP) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/authentication-cryptographic-protocol-id
 docidentifier:
 - content: IANA authentication-cryptographic-protocol-id

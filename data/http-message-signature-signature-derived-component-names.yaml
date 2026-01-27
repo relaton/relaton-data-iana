@@ -7,7 +7,7 @@ title:
   script: Latn
   content: HTTP Signature Derived Component Names
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/http-message-signature
 docidentifier:
 - content: IANA http-message-signature/signature-derived-component-names

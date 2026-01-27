@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RDAP JSON Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rdap-json-values
 docidentifier:
 - content: IANA rdap-json-values/rdap-json-values-1

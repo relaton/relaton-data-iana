@@ -8,7 +8,7 @@ title:
   content: Datagram Transport Layer Security (DTLS) Extension to Establish Keys for
     Secure Real-time Transport Protocol (SRTP)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/srtp-protection
 docidentifier:
 - content: IANA srtp-protection

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PIM Flooding Mechanism Message Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pim-parameters
 docidentifier:
 - content: IANA pim-parameters/flooding-mechanism-message-types

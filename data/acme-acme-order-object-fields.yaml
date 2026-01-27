@@ -7,7 +7,7 @@ title:
   script: Latn
   content: ACME Order Object Fields
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/acme
 docidentifier:
 - content: IANA acme/acme-order-object-fields

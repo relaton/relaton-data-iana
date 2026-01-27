@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IEEE Std 802.15.4 IETF IE Subtype IDs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ieee-std-802.15.4-ietf-ie-subtype-ids
 docidentifier:
 - content: IANA ieee-std-802.15.4-ietf-ie-subtype-ids

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Dynamic Link Exchange Protocol (DLEP) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dlep-parameters
 docidentifier:
 - content: IANA dlep-parameters

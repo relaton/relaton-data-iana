@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Update Notification Acknowledgement Status Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mobility-parameters
 docidentifier:
 - content: IANA mobility-parameters/upa-status

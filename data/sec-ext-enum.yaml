@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Security External Enumeration Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/sec-ext-enum
 docidentifier:
 - content: IANA sec-ext-enum

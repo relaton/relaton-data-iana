@@ -7,7 +7,7 @@ title:
   script: Latn
   content: E-Tree Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bgp-extended-communities
 docidentifier:
 - content: IANA bgp-extended-communities/e-tree-flags

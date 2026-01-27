@@ -7,7 +7,7 @@ title:
   script: Latn
   content: DetNet Associated Channel Header (d-ACH) Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/detnet-ach-flags
 docidentifier:
 - content: IANA detnet-ach-flags/detnet-associated-channel-header-flags

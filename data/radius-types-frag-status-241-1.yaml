@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Code Values for RADIUS Attribute 241.1, Frag-Status
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/radius-types
 docidentifier:
 - content: IANA radius-types/frag-status-241-1

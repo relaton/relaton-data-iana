@@ -7,7 +7,7 @@ title:
   script: Latn
   content: HIT Suite ID
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/hip-parameters
 docidentifier:
 - content: IANA hip-parameters/hit-suite-id

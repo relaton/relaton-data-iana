@@ -7,7 +7,7 @@ title:
   script: Latn
   content: TLS Application-Layer Protocol Negotiation (ALPN) Protocol IDs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/tls-extensiontype-values
 docidentifier:
 - content: IANA tls-extensiontype-values/alpn-protocol-ids

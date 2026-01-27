@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PRECIS Base Classes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/precis-parameters
 docidentifier:
 - content: IANA precis-parameters/base-classes

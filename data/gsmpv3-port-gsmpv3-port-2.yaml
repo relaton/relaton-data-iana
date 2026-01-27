@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Port Type Names
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gsmpv3-port
 docidentifier:
 - content: IANA gsmpv3-port/gsmpv3-port-2

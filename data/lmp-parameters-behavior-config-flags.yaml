@@ -7,7 +7,7 @@ title:
   script: Latn
   content: LMP Behavior Configuration Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/lmp-parameters
 docidentifier:
 - content: IANA lmp-parameters/behavior-config-flags

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IANA-BFD-TC-STD-MIB
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ianabfdtcstd-mib
 docidentifier:
 - content: IANA ianabfdtcstd-mib

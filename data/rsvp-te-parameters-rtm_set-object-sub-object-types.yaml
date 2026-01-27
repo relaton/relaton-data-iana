@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RTM_SET Object Sub-Object Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rsvp-te-parameters
 docidentifier:
 - content: IANA rsvp-te-parameters/rtm_set-object-sub-object-types

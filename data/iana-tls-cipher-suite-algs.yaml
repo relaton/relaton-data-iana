@@ -7,7 +7,7 @@ title:
   script: Latn
   content: iana-tls-cipher-suite-algs YANG Module
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iana-tls-cipher-suite-algs
 docidentifier:
 - content: IANA iana-tls-cipher-suite-algs

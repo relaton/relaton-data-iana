@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Transport semantics (r_nc_semantics)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rpcbind-transport-parameters
 docidentifier:
 - content: IANA rpcbind-transport-parameters/rpcbind-transport-parameters-1

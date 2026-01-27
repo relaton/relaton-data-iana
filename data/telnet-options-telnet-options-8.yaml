@@ -7,7 +7,7 @@ title:
   script: Latn
   content: KEA_SJ (Type 12) and KEA_SJ_INTEG (Type 13) Authentication Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/telnet-options
 docidentifier:
 - content: IANA telnet-options/telnet-options-8

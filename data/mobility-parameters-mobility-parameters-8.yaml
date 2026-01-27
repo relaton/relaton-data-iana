@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Subtype Field of the MN-HA and MN-AAA Authentication Mobility Options
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mobility-parameters
 docidentifier:
 - content: IANA mobility-parameters/mobility-parameters-8

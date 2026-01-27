@@ -7,7 +7,7 @@ title:
   script: Latn
   content: SMI Network Management MGMT Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/smi-numbers
 docidentifier:
 - content: IANA smi-numbers/smi-numbers-2

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: DHCP Relay Agent Sub-Option Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bootp-dhcp-parameters
 docidentifier:
 - content: IANA bootp-dhcp-parameters/relay-agent-sub-options

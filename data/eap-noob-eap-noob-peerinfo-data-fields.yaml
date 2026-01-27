@@ -7,7 +7,7 @@ title:
   script: Latn
   content: EAP-NOOB PeerInfo Data Fields
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-noob
 docidentifier:
 - content: IANA eap-noob/eap-noob-peerinfo-data-fields

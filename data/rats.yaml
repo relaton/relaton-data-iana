@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Remote Attestation Procedures (RATS)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rats
 docidentifier:
 - content: IANA rats

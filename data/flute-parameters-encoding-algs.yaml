@@ -7,7 +7,7 @@ title:
   script: Latn
   content: FLUTE Content Encoding Algorithms
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/flute-parameters
 docidentifier:
 - content: IANA flute-parameters/encoding-algs

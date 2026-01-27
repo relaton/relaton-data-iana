@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Domain-ID TLV Domain Type
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep/domain-id-tlv-domain-type

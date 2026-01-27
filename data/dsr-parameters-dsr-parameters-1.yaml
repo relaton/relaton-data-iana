@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Dynamic Source Routing (DSR) Protocol Options
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dsr-parameters
 docidentifier:
 - content: IANA dsr-parameters/dsr-parameters-1

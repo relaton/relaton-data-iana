@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RESTCONF Capability URNs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/restconf-capability-urns
 docidentifier:
 - content: IANA restconf-capability-urns

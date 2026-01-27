@@ -7,7 +7,7 @@ title:
   script: Latn
   content: DSS Authentication Type (Type 14)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/telnet-options
 docidentifier:
 - content: IANA telnet-options/telnet-options-9

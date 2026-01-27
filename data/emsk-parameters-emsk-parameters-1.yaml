@@ -7,7 +7,7 @@ title:
   script: Latn
   content: User Specific Root Keys (USRK) Key Labels
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/emsk-parameters
 docidentifier:
 - content: IANA emsk-parameters/emsk-parameters-1

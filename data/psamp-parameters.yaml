@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Packet Sampling (PSAMP) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/psamp-parameters
 docidentifier:
 - content: IANA psamp-parameters

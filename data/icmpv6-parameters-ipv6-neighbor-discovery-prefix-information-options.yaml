@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IPv6 Neighbor Discovery Prefix Information Option Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/icmpv6-parameters
 docidentifier:
 - content: IANA icmpv6-parameters/ipv6-neighbor-discovery-prefix-information-options

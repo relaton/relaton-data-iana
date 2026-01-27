@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Type 9 Address Block TLV Type Extensions
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/manet-parameters
 docidentifier:
 - content: IANA manet-parameters/nbr-addr-type-address-block-tlv-type-extension

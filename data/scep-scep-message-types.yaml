@@ -7,7 +7,7 @@ title:
   script: Latn
   content: SCEP Message Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/scep
 docidentifier:
 - content: IANA scep/scep-message-types

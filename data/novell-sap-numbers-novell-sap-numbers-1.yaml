@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Novell Object Type
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/novell-sap-numbers
 docidentifier:
 - content: IANA novell-sap-numbers/novell-sap-numbers-1

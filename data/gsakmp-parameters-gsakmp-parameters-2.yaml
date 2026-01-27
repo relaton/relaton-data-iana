@@ -7,7 +7,7 @@ title:
   script: Latn
   content: GSAKMP Payload Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gsakmp-parameters
 docidentifier:
 - content: IANA gsakmp-parameters/gsakmp-parameters-2

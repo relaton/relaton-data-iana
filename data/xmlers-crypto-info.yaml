@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Cryptographic Information Type
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/xmlers
 docidentifier:
 - content: IANA xmlers/crypto-info

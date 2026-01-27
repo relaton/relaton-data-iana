@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Label Generation Ruleset (LGR) Dispositions
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/lgr-dispositions
 docidentifier:
 - content: IANA lgr-dispositions

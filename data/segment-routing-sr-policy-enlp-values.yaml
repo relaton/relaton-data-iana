@@ -7,7 +7,7 @@ title:
   script: Latn
   content: SR Policy ENLP Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/segment-routing
 docidentifier:
 - content: IANA segment-routing/sr-policy-enlp-values

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: KeyNote app_domain Identifiers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/keynote
 docidentifier:
 - content: IANA keynote/keynote-1

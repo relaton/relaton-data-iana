@@ -7,7 +7,7 @@ title:
   script: Latn
   content: SUN Remote Procedure Call (RPC) Numbers - Obsolete
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/sun-rpc-numbers
 docidentifier:
 - content: IANA sun-rpc-numbers

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: MCAP (Multicast Channel Allocation Protocol) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ip-over-IEEE1394
 docidentifier:
 - content: IANA ip-over-IEEE1394/ip-over-IEEE1394-2

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: POP3 Response Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pop3-extension-mechanism
 docidentifier:
 - content: IANA pop3-extension-mechanism/pop3-extension-mechanism-2

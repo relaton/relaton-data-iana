@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Auto-Submitted Header Field Keywords
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/auto-submitted-keywords
 docidentifier:
 - content: IANA auto-submitted-keywords

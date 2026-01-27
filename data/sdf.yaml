@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Semantic Definition Format (SDF)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/sdf
 docidentifier:
 - content: IANA sdf

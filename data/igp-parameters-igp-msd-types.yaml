@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IGP MSD-Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/igp-parameters
 docidentifier:
 - content: IANA igp-parameters/igp-msd-types

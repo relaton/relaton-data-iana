@@ -7,7 +7,7 @@ title:
   script: Latn
   content: TEAP Status Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/teap-parameters
 docidentifier:
 - content: IANA teap-parameters/status-codes

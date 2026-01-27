@@ -7,7 +7,7 @@ title:
   script: Latn
   content: BGP CAR NLRI Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bgp-parameters
 docidentifier:
 - content: IANA bgp-parameters/bgp-car-nlri-types

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Service ID Names
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gsmpv3-service
 docidentifier:
 - content: IANA gsmpv3-service/gsmpv3-service-2

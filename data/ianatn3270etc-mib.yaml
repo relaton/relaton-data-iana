@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IANATn3270eTC-MIB
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ianatn3270etc-mib
 docidentifier:
 - content: IANA ianatn3270etc-mib

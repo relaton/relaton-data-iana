@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Kerberos V GSS-API Token Type Identifiers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/kerberos-v-gss-api
 docidentifier:
 - content: IANA kerberos-v-gss-api/token-types

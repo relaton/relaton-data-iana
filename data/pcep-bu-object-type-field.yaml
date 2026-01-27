@@ -7,7 +7,7 @@ title:
   script: Latn
   content: BU Object Type Field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep/bu-object-type-field

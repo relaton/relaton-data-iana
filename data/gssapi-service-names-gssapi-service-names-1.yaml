@@ -7,7 +7,7 @@ title:
   script: Latn
   content: GSSAPI/Kerberos/SASL Service Names
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gssapi-service-names
 docidentifier:
 - content: IANA gssapi-service-names/gssapi-service-names-1

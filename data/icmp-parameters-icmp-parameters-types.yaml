@@ -7,7 +7,7 @@ title:
   script: Latn
   content: ICMP Type Numbers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/icmp-parameters
 docidentifier:
 - content: IANA icmp-parameters/icmp-parameters-types

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: ACME Directory Metadata Auto-Renewal Fields
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/acme
 docidentifier:
 - content: IANA acme/acme-directory-metadata-auto-renewal-fields

@@ -8,7 +8,7 @@ title:
   content: RTP Control Protocol Extended Reports (RTCP XR) Session Description Protocol
     (SDP) Parameters Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rtcp-xr-sdp-parameters
 docidentifier:
 - content: IANA rtcp-xr-sdp-parameters

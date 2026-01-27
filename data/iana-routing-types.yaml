@@ -7,7 +7,7 @@ title:
   script: Latn
   content: iana-routing-types YANG Module
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iana-routing-types
 docidentifier:
 - content: IANA iana-routing-types

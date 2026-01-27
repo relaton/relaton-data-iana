@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PT-TLS Error Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pt-tls-parameters
 docidentifier:
 - content: IANA pt-tls-parameters/error-codes

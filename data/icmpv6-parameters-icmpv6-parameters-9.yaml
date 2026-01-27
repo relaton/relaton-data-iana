@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Option-Code for Mobile Node Identifier Option (Type 30)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/icmpv6-parameters
 docidentifier:
 - content: IANA icmpv6-parameters/icmpv6-parameters-9

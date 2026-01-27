@@ -7,7 +7,7 @@ title:
   script: Latn
   content: HTTP Authentication Control Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/http-authentication-control-parameters
 docidentifier:
 - content: IANA http-authentication-control-parameters/authentication-control-parameters

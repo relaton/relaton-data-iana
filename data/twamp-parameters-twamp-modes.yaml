@@ -7,7 +7,7 @@ title:
   script: Latn
   content: TWAMP-Modes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/twamp-parameters
 docidentifier:
 - content: IANA twamp-parameters/twamp-modes

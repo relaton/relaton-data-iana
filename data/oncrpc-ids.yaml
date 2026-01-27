@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Open Network Computing (ONC) Remote Procedure Call (RPC) Network Identifiers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/oncrpc-ids
 docidentifier:
 - content: IANA oncrpc-ids

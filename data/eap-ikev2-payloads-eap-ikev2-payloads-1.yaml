@@ -7,7 +7,7 @@ title:
   script: Latn
   content: EAP-IKEv2 Payloads
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-ikev2-payloads
 docidentifier:
 - content: IANA eap-ikev2-payloads/eap-ikev2-payloads-1

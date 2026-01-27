@@ -7,7 +7,7 @@ title:
   script: Latn
   content: OAuth Extensions Error Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/oauth-parameters
 docidentifier:
 - content: IANA oauth-parameters/extensions-error

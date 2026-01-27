@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Babel Update Flags Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/babel
 docidentifier:
 - content: IANA babel/flags

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: '"Magic Numbers" for ISAKMP Protocol'
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/isakmp-registry
 docidentifier:
 - content: IANA isakmp-registry

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: ESP AGGFRAG_PAYLOAD
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/esp-aggfrag-payload
 docidentifier:
 - content: IANA esp-aggfrag-payload

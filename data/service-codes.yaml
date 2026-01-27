@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Service Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/service-codes
 docidentifier:
 - content: IANA service-codes

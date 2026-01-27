@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Web Push Identifiers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/webpush-parameters
 docidentifier:
 - content: IANA webpush-parameters/identifiers

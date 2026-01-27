@@ -7,7 +7,7 @@ title:
   script: Latn
   content: CoAP-EAP Information Elements
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/coap-eap
 docidentifier:
 - content: IANA coap-eap/coap-eap-information-elements

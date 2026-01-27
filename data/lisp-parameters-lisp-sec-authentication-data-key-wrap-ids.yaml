@@ -7,7 +7,7 @@ title:
   script: Latn
   content: LISP-SEC Authentication Data Key Wrap IDs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/lisp-parameters
 docidentifier:
 - content: IANA lisp-parameters/lisp-sec-authentication-data-key-wrap-ids

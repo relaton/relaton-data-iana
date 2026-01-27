@@ -7,7 +7,7 @@ title:
   script: Latn
   content: LSP-EXTENDED-FLAG TLV Flag Field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep/lsp-extended-flag-tlv-flags

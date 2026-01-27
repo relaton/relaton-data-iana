@@ -7,7 +7,7 @@ title:
   script: Latn
   content: SUN RPC Numbers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/sun-rpc-numbers
 docidentifier:
 - content: IANA sun-rpc-numbers/sun-rpc-numbers-1

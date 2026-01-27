@@ -7,7 +7,7 @@ title:
   script: Latn
   content: BGP Tunnel Encapsulation Attribute Sub-TLVs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bgp-tunnel-encapsulation
 docidentifier:
 - content: IANA bgp-tunnel-encapsulation/tunnel-sub-tlvs

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Border Gateway Protocol (BGP) Well-known Communities
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bgp-well-known-communities
 docidentifier:
 - content: IANA bgp-well-known-communities

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Straightforward-NAPTR (S-NAPTR) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/s-naptr-parameters
 docidentifier:
 - content: IANA s-naptr-parameters

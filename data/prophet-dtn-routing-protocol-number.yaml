@@ -7,7 +7,7 @@ title:
   script: Latn
   content: DTN Routing Protocol Number
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/prophet
 docidentifier:
 - content: IANA prophet/dtn-routing-protocol-number

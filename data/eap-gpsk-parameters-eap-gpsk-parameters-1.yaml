@@ -7,7 +7,7 @@ title:
   script: Latn
   content: EAP-GPSK Ciphersuites
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-gpsk-parameters
 docidentifier:
 - content: IANA eap-gpsk-parameters/eap-gpsk-parameters-1

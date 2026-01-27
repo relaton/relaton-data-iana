@@ -7,7 +7,7 @@ title:
   script: Latn
   content: XML Namespaces for 'provided-by' elements for use with PIDF-LO objects
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/xml-ns-provided-by
 docidentifier:
 - content: IANA xml-ns-provided-by/xml-ns-provided-by-1

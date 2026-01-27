@@ -7,7 +7,7 @@ title:
   script: Latn
   content: SoftwareReference-spec-id
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iodef2
 docidentifier:
 - content: IANA iodef2/softwarereference-spec-id

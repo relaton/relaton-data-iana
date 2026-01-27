@@ -7,7 +7,7 @@ title:
   script: Latn
   content: association-usage Name Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/sdp-parameters
 docidentifier:
 - content: IANA sdp-parameters/association-usage-name

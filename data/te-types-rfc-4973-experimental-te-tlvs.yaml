@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RFC 4973 Experimental TE TLVs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/te-types
 docidentifier:
 - content: IANA te-types/rfc-4973-experimental-te-tlvs

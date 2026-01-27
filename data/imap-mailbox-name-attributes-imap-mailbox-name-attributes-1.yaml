@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IMAP Mailbox Name Attributes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/imap-mailbox-name-attributes
 docidentifier:
 - content: IANA imap-mailbox-name-attributes/imap-mailbox-name-attributes-1

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Proxy-Feature Feature-Capability Indicator Trees
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/sip-parameters
 docidentifier:
 - content: IANA sip-parameters/sip-parameters-70

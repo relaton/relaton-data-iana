@@ -7,7 +7,7 @@ title:
   script: Latn
   content: DNS KEY Record Diffie-Hellman Prime Lengths
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dns-sec-alg-numbers
 docidentifier:
 - content: IANA dns-sec-alg-numbers/prime-lengths

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Multicast Address-Set Claim (MASC) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/masc-parameters
 docidentifier:
 - content: IANA masc-parameters

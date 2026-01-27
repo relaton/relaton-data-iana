@@ -7,7 +7,7 @@ title:
   script: Latn
   content: " Language Tag Registration Form Archive (OBSOLETE)"
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/lang-tag-apps
 docidentifier:
 - content: IANA lang-tag-apps

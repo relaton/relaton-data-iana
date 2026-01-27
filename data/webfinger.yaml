@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Webfinger Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/webfinger
 docidentifier:
 - content: IANA webfinger

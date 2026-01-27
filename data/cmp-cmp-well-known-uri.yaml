@@ -7,7 +7,7 @@ title:
   script: Latn
   content: CMP Well-Known URI Path Segments
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/cmp
 docidentifier:
 - content: IANA cmp/cmp-well-known-uri

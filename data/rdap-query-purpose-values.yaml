@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Registration Data Access Protocol (RDAP) Query Purpose Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rdap-query-purpose-values
 docidentifier:
 - content: IANA rdap-query-purpose-values

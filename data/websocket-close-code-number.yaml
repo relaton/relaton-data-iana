@@ -7,7 +7,7 @@ title:
   script: Latn
   content: WebSocket Close Code Number Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/websocket
 docidentifier:
 - content: IANA websocket/close-code-number

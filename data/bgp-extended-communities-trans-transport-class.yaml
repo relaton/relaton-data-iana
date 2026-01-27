@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Transitive Transport Class Extended Community Sub-Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bgp-extended-communities
 docidentifier:
 - content: IANA bgp-extended-communities/trans-transport-class

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Certificate option  (Type 16) Cert Type field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/icmpv6-parameters
 docidentifier:
 - content: IANA icmpv6-parameters/icmpv6-parameters-7

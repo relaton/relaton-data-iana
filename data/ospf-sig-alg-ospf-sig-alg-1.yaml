@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Signature Algorithms
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ospf-sig-alg
 docidentifier:
 - content: IANA ospf-sig-alg/ospf-sig-alg-1

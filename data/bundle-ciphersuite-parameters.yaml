@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Ciphersuite Parameters and Results Type Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bundle
 docidentifier:
 - content: IANA bundle/ciphersuite-parameters

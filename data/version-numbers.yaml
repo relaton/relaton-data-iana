@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IP Version Numbers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/version-numbers
 docidentifier:
 - content: IANA version-numbers

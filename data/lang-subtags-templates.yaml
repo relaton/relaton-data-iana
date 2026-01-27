@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Language Subtag Registration Form Archive
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/lang-subtags-templates
 docidentifier:
 - content: IANA lang-subtags-templates

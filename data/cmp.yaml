@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Certificate Management Protocol (CMP)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/cmp
 docidentifier:
 - content: IANA cmp

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Hypertext Transfer Protocol (HTTP) Upgrade Token Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/http-upgrade-tokens
 docidentifier:
 - content: IANA http-upgrade-tokens

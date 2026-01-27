@@ -7,7 +7,7 @@ title:
   script: Latn
   content: DODAG Information Object (DIO) Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rpl
 docidentifier:
 - content: IANA rpl/dio-flags

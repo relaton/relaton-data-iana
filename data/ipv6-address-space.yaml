@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Internet Protocol Version 6 Address Space
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ipv6-address-space
 docidentifier:
 - content: IANA ipv6-address-space

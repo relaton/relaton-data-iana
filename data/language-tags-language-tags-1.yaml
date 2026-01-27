@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Language Tags (OBSOLETE)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/language-tags
 docidentifier:
 - content: IANA language-tags/language-tags-1

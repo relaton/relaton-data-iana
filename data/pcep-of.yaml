@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Objective Function
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep/of

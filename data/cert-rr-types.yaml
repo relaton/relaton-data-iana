@@ -7,7 +7,7 @@ title:
   script: Latn
   content: CERT RR Certificate Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/cert-rr-types
 docidentifier:
 - content: IANA cert-rr-types

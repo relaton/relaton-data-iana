@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IPS Protocol# (Protocol Number) Field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ips-protocols
 docidentifier:
 - content: IANA ips-protocols

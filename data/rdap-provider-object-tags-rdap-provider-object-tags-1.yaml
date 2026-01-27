@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RDAP Provider Object Tags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rdap-provider-object-tags
 docidentifier:
 - content: IANA rdap-provider-object-tags/rdap-provider-object-tags-1

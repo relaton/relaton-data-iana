@@ -7,7 +7,7 @@ title:
   script: Latn
   content: DDP Errors
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rddp
 docidentifier:
 - content: IANA rddp/ddp-errors

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: tcpcrypt AEAD Algorithms
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/tcp-parameters
 docidentifier:
 - content: IANA tcp-parameters/tcpcrypt-aead-algorithms

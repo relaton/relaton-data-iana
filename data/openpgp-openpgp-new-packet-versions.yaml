@@ -7,7 +7,7 @@ title:
   script: Latn
   content: OpenPGP New Packet Versions (OBSOLETE)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/openpgp
 docidentifier:
 - content: IANA openpgp/openpgp-new-packet-versions

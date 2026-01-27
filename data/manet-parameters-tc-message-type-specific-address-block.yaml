@@ -7,7 +7,7 @@ title:
   script: Latn
   content: TC Message-Type-specific Address Block TLV Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/manet-parameters
 docidentifier:
 - content: IANA manet-parameters/tc-message-type-specific-address-block

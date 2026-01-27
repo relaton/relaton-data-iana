@@ -7,7 +7,7 @@ title:
   script: Latn
   content: NTP Kiss-o'-Death Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ntp-parameters
 docidentifier:
 - content: IANA ntp-parameters/ntp-parameters-2

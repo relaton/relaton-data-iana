@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Public Packages (0x0001-0x7fff)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/megaco-h248
 docidentifier:
 - content: IANA megaco-h248/megaco-h248-1

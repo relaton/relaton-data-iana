@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Projected DAO Request (PDR) Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rpl
 docidentifier:
 - content: IANA rpl/projected-dao-request-flags

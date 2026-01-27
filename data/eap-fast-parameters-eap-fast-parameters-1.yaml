@@ -7,7 +7,7 @@ title:
   script: Latn
   content: EAP-FAST TLV Types (Value 43)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-fast-parameters
 docidentifier:
 - content: IANA eap-fast-parameters/eap-fast-parameters-1

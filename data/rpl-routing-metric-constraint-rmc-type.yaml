@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Routing Metric/Constraint Type
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rpl-routing-metric-constraint
 docidentifier:
 - content: IANA rpl-routing-metric-constraint/rmc-type

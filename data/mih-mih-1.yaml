@@ -7,7 +7,7 @@ title:
   script: Latn
   content: MIH Table of Mappings From Service Field Values to Transport Protocols
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mih
 docidentifier:
 - content: IANA mih/mih-1

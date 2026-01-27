@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PT-EAP Versions
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pt-eap
 docidentifier:
 - content: IANA pt-eap/versions

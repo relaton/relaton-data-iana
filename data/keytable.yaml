@@ -7,7 +7,7 @@ title:
   script: Latn
   content: KeyTable
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/keytable
 docidentifier:
 - content: IANA keytable

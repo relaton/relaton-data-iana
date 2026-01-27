@@ -7,7 +7,7 @@ title:
   script: Latn
   content: iana-bgp-l2-encaps YANG Module
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iana-bgp-l2-encaps
 docidentifier:
 - content: IANA iana-bgp-l2-encaps

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Character Sets
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/character-sets
 docidentifier:
 - content: IANA character-sets

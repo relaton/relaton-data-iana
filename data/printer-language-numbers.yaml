@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Printer MIB Interpreters Language Families - OBSOLETE
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/printer-language-numbers
 docidentifier:
 - content: IANA printer-language-numbers

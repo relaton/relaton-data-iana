@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Netnews Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/netnews-parameters
 docidentifier:
 - content: IANA netnews-parameters

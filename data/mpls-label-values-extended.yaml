@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Extended Special-Purpose MPLS Label Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mpls-label-values
 docidentifier:
 - content: IANA mpls-label-values/extended

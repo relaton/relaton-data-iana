@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Generic Routing Encapsulation (GRE) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gre-parameters
 docidentifier:
 - content: IANA gre-parameters

@@ -8,7 +8,7 @@ title:
   content: R-Types, Reason-Codes, Report-Types, Decision Object Command-Codes/Flags,
     and Error-Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/cops-parameters
 docidentifier:
 - content: IANA cops-parameters/cops-parameters-5

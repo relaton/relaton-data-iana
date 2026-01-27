@@ -7,7 +7,7 @@ title:
   script: Latn
   content: CDNI RI Error response code
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/cdni-parameters
 docidentifier:
 - content: IANA cdni-parameters/ri-error-response

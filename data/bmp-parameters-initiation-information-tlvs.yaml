@@ -7,7 +7,7 @@ title:
   script: Latn
   content: BMP Initiation Information TLVs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bmp-parameters
 docidentifier:
 - content: IANA bmp-parameters/initiation-information-tlvs

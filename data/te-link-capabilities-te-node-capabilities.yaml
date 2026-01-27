@@ -7,7 +7,7 @@ title:
   script: Latn
   content: TE Node Capabilities
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/te-link-capabilities
 docidentifier:
 - content: IANA te-link-capabilities/te-node-capabilities

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: LSP Encoding Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gmpls-sig-parameters
 docidentifier:
 - content: IANA gmpls-sig-parameters/gmpls-sig-parameters-2

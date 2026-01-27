@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IMAP Threading Algorithms
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/imap-threading-algorithms
 docidentifier:
 - content: IANA imap-threading-algorithms/imap-threading-algorithms-1

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PATH-SETUP-TYPE-CAPABILITY Sub-TLV Type Indicators
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep/path-setup-type-capability-sub-tlv-type-indicators

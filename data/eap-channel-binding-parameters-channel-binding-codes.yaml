@@ -7,7 +7,7 @@ title:
   script: Latn
   content: EAP Channel-Binding Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-channel-binding-parameters
 docidentifier:
 - content: IANA eap-channel-binding-parameters/channel-binding-codes

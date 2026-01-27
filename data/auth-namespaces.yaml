@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Dynamic Host Configuration Protocol (DHCP) Authentication Option Name Spaces
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/auth-namespaces
 docidentifier:
 - content: IANA auth-namespaces

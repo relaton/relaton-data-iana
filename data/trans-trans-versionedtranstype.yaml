@@ -7,7 +7,7 @@ title:
   script: Latn
   content: VersionedTransTypes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/trans
 docidentifier:
 - content: IANA trans/trans-versionedtranstype

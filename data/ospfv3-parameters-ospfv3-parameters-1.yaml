@@ -7,7 +7,7 @@ title:
   script: Latn
   content: OSPFv3 Options (24 bits)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ospfv3-parameters
 docidentifier:
 - content: IANA ospfv3-parameters/ospfv3-parameters-1

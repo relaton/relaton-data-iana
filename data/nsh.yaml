@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Network Service Header (NSH) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/nsh
 docidentifier:
 - content: IANA nsh

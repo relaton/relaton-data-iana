@@ -7,7 +7,7 @@ title:
   script: Latn
   content: OSI NSAPA Internet Code Points for AFI 35
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/osi-nsapa-numbers
 docidentifier:
 - content: IANA osi-nsapa-numbers/osi-nsapa-numbers-1

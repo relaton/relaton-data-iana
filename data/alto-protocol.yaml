@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Application-Layer Traffic Optimization (ALTO) Protocol
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/alto-protocol
 docidentifier:
 - content: IANA alto-protocol

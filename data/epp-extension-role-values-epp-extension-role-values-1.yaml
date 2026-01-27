@@ -7,7 +7,7 @@ title:
   script: Latn
   content: EPP Organization Role Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/epp-extension-role-values
 docidentifier:
 - content: IANA epp-extension-role-values/epp-extension-role-values-1

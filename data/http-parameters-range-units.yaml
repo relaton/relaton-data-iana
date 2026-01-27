@@ -7,7 +7,7 @@ title:
   script: Latn
   content: HTTP Range Unit Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/http-parameters
 docidentifier:
 - content: IANA http-parameters/range-units

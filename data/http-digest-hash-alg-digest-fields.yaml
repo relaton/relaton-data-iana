@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Hash Algorithms for HTTP Digest Fields
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/http-digest-hash-alg
 docidentifier:
 - content: IANA http-digest-hash-alg/digest-fields

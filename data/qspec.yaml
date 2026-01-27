@@ -7,7 +7,7 @@ title:
   script: Latn
   content: QoS NSIS Signal Layering Protocol (NSLP) QSPEC Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/qspec
 docidentifier:
 - content: IANA qspec

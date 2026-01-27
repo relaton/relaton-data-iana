@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Hop-Count Object Flag field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rpl-routing-metric-constraint
 docidentifier:
 - content: IANA rpl-routing-metric-constraint/hop-count-object-flag

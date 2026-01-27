@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Relative Location Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/civic-address-types-registry
 docidentifier:
 - content: IANA civic-address-types-registry/rltypes

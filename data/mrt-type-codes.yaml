@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Type Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mrt
 docidentifier:
 - content: IANA mrt/type-codes

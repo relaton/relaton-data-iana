@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Transport Protocol Identifier
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rtspv2-parameters
 docidentifier:
 - content: IANA rtspv2-parameters/transport-protocol-id

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PPP Bridging Configuration Option Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ppp-numbers
 docidentifier:
 - content: IANA ppp-numbers/ppp-numbers-16

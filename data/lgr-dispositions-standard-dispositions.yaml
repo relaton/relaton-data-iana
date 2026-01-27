@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Standard Dispositions
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/lgr-dispositions
 docidentifier:
 - content: IANA lgr-dispositions/standard-dispositions

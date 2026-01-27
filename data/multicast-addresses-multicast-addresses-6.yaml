@@ -7,7 +7,7 @@ title:
   script: Latn
   content: AD-HOC Block II (224.3.0.0-224.4.255.255 (224.3/16, 224.4/16))
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/multicast-addresses
 docidentifier:
 - content: IANA multicast-addresses/multicast-addresses-6

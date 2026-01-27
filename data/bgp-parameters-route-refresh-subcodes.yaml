@@ -7,7 +7,7 @@ title:
   script: Latn
   content: BGP Route Refresh Subcodes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bgp-parameters
 docidentifier:
 - content: IANA bgp-parameters/route-refresh-subcodes

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Namespaces for IP over IEEE 1394
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ip-over-IEEE1394
 docidentifier:
 - content: IANA ip-over-IEEE1394

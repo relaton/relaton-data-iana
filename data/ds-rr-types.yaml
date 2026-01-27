@@ -7,7 +7,7 @@ title:
   script: Latn
   content: DNSSEC Delegation Signer (DS) Resource Record (RR) Type Digest Algorithms
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ds-rr-types
 docidentifier:
 - content: IANA ds-rr-types

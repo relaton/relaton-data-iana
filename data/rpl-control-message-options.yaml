@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RPL Control Message Options
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rpl
 docidentifier:
 - content: IANA rpl/control-message-options

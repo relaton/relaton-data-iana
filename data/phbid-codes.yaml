@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Per Hop Behavior Identification Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/phbid-codes
 docidentifier:
 - content: IANA phbid-codes

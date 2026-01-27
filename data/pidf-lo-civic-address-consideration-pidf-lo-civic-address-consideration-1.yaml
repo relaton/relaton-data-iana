@@ -7,7 +7,7 @@ title:
   script: Latn
   content: pidf-lo-civic-address-consideration-1
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pidf-lo-civic-address-consideration
 docidentifier:
 - content: IANA pidf-lo-civic-address-consideration/pidf-lo-civic-address-consideration-1

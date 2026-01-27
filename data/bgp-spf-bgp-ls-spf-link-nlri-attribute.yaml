@@ -7,7 +7,7 @@ title:
   script: Latn
   content: BGP-LS-SPF Link NLRI Attribute SPF Status TLV Status
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bgp-spf
 docidentifier:
 - content: IANA bgp-spf/bgp-ls-spf-link-nlri-attribute

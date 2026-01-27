@@ -7,7 +7,7 @@ title:
   script: Latn
   content: TEAP Request-Action TLV (value 8) Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-numbers
 docidentifier:
 - content: IANA eap-numbers/eap-numbers-teap-request-action-tlv

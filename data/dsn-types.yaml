@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Delivery Status Notification (DSN) Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dsn-types
 docidentifier:
 - content: IANA dsn-types

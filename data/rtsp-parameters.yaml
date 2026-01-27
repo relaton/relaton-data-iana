@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Real Time Streaming Protocol (RTSP)/1.0 Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rtsp-parameters
 docidentifier:
 - content: IANA rtsp-parameters

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RDAP Reverse Search Mapping
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rdap-reverse-search-mapping
 docidentifier:
 - content: IANA rdap-reverse-search-mapping/rdap-reverse-search-mapping

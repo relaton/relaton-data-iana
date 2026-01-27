@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Unicast-based (Including SSM) Multicast Group IDs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ipv6-multicast-addresses
 docidentifier:
 - content: IANA ipv6-multicast-addresses/unicast-multicast-group-ids

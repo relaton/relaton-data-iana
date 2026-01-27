@@ -7,7 +7,7 @@ title:
   script: Latn
   content: HTTP Origin-Bound Authentication (HOBA) Signature Algorithms
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/hoba-signature-algorithms
 docidentifier:
 - content: IANA hoba-signature-algorithms

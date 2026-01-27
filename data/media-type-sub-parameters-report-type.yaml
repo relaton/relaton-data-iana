@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Report Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/media-type-sub-parameters
 docidentifier:
 - content: IANA media-type-sub-parameters/report-type

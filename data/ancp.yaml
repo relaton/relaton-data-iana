@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Access Node Control Protocol (ANCP)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ancp
 docidentifier:
 - content: IANA ancp

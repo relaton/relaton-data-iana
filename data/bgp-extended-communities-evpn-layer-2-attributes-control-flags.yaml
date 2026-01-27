@@ -7,7 +7,7 @@ title:
   script: Latn
   content: EVPN Layer 2 Attributes Control Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bgp-extended-communities
 docidentifier:
 - content: IANA bgp-extended-communities/evpn-layer-2-attributes-control-flags

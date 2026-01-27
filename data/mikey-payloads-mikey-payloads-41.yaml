@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RAND Role
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mikey-payloads
 docidentifier:
 - content: IANA mikey-payloads/mikey-payloads-41

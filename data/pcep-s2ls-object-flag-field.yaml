@@ -7,7 +7,7 @@ title:
   script: Latn
   content: S2LS Object Flag Field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep/s2ls-object-flag-field

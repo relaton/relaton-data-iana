@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RTSP/1.0 Option Tags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rtsp-parameters
 docidentifier:
 - content: IANA rtsp-parameters/rtsp-parameters-4

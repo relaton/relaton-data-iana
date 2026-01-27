@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RTCP XR SDP Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rtcp-xr-sdp-parameters
 docidentifier:
 - content: IANA rtcp-xr-sdp-parameters/rtcp-xr-sdp-parameters-1

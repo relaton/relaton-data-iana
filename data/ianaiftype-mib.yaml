@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IANAifType-MIB
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ianaiftype-mib
 docidentifier:
 - content: IANA ianaiftype-mib

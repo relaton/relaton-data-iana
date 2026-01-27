@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Protocol in the Segment ID Sub-TLV
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mpls-lsp-ping-parameters
 docidentifier:
 - content: IANA mpls-lsp-ping-parameters/protocol-segment-id-sub-tlv

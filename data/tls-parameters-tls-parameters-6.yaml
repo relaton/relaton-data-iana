@@ -7,7 +7,7 @@ title:
   script: Latn
   content: TLS Alerts
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/tls-parameters
 docidentifier:
 - content: IANA tls-parameters/tls-parameters-6

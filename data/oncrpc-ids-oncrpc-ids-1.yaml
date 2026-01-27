@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Network Identifier (r_netid)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/oncrpc-ids
 docidentifier:
 - content: IANA oncrpc-ids/oncrpc-ids-1

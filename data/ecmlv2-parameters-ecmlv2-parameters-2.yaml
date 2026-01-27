@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Ecom_Payment_Card_Protocol Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ecmlv2-parameters
 docidentifier:
 - content: IANA ecmlv2-parameters/ecmlv2-parameters-2

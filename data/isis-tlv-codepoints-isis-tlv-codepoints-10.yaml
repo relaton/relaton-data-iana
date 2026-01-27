@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IS-IS Authentication Type Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/isis-tlv-codepoints
 docidentifier:
 - content: IANA isis-tlv-codepoints/isis-tlv-codepoints-10

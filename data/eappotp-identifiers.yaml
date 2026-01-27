@@ -8,7 +8,7 @@ title:
   content: Extensible Authentication Protocol Protected One-Time Password (EAP-POTP)
     Cryptographic Algorithm Identifiers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eappotp-identifiers
 docidentifier:
 - content: IANA eappotp-identifiers

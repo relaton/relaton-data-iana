@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PB-TNC Error Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pb-tnc-parameters
 docidentifier:
 - content: IANA pb-tnc-parameters/pb-tnc-parameters-4

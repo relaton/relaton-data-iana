@@ -7,7 +7,7 @@ title:
   script: Latn
   content: General Internet Signalling Transport (GIST) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gist-parameters
 docidentifier:
 - content: IANA gist-parameters

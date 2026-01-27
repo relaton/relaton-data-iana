@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IPv6 Locally-Served DNS Zone Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/locally-served-dns-zones
 docidentifier:
 - content: IANA locally-served-dns-zones/ipv6

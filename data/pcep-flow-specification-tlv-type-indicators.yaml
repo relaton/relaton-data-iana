@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PCEP Flow Specification TLV Type Indicators
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep/flow-specification-tlv-type-indicators

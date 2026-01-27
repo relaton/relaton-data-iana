@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IANA-MALLOC-MIB
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ianamalloc-mib
 docidentifier:
 - content: IANA ianamalloc-mib

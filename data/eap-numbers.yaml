@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Extensible Authentication Protocol (EAP) Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-numbers
 docidentifier:
 - content: IANA eap-numbers

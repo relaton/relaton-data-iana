@@ -7,7 +7,7 @@ title:
   script: Latn
   content: SMTP Service Extensions
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mail-parameters
 docidentifier:
 - content: IANA mail-parameters/mail-parameters-2

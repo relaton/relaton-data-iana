@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Secret Key Transaction Authentication for DNS (TSIG) Algorithm Names
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/tsig-algorithm-names
 docidentifier:
 - content: IANA tsig-algorithm-names

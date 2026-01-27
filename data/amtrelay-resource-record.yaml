@@ -7,7 +7,7 @@ title:
   script: Latn
   content: AMTRELAY Resource Record Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/amtrelay-resource-record
 docidentifier:
 - content: IANA amtrelay-resource-record

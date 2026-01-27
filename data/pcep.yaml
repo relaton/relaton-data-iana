@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Path Computation Element Protocol (PCEP) Numbers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep

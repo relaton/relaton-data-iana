@@ -7,7 +7,7 @@ title:
   script: Latn
   content: VNC URI ID Hash Algorithms
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/vnc-uri
 docidentifier:
 - content: IANA vnc-uri/id-hash-algorithms

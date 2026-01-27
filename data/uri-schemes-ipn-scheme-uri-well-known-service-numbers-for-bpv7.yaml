@@ -7,7 +7,7 @@ title:
   script: Latn
   content: "'ipn' Scheme URI Well-known Service Numbers for BPv7"
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/uri-schemes
 docidentifier:
 - content: IANA uri-schemes/ipn-scheme-uri-well-known-service-numbers-for-bpv7

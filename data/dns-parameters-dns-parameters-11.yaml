@@ -7,7 +7,7 @@ title:
   script: Latn
   content: DNS EDNS0 Option Codes (OPT)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dns-parameters
 docidentifier:
 - content: IANA dns-parameters/dns-parameters-11

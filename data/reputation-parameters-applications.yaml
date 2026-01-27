@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Reputation Applications
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/reputation-parameters
 docidentifier:
 - content: IANA reputation-parameters/applications

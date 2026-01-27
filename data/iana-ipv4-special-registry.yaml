@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IANA IPv4 Special-Purpose Address Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iana-ipv4-special-registry
 docidentifier:
 - content: IANA iana-ipv4-special-registry

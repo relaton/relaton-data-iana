@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Precondition Types Used with Session Initiation Protocol (SIP)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/sip-precond-types
 docidentifier:
 - content: IANA sip-precond-types

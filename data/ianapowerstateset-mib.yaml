@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IANA-POWER-STATE-SET-MIB
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ianapowerstateset-mib
 docidentifier:
 - content: IANA ianapowerstateset-mib

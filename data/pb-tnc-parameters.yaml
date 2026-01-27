@@ -8,7 +8,7 @@ title:
   content: Posture Broker (PB) Protocol Compatible with Trusted Network Connect (TNC)
     Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pb-tnc-parameters
 docidentifier:
 - content: IANA pb-tnc-parameters

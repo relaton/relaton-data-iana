@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Distinguished Names
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/directory-system-names
 docidentifier:
 - content: IANA directory-system-names/directory-system-names-1

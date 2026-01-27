@@ -7,7 +7,7 @@ title:
   script: Latn
   content: NBR_ADDR_TYPE Address Block TLV Bit Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/manet-parameters
 docidentifier:
 - content: IANA manet-parameters/nbr_addr_type-address-block-tlv-bit

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Service Names
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/integ-serv
 docidentifier:
 - content: IANA integ-serv/integ-serv-2

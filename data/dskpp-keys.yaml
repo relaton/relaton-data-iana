@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Key Container Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dskpp
 docidentifier:
 - content: IANA dskpp/keys

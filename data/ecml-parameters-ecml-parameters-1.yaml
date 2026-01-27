@@ -7,7 +7,7 @@ title:
   script: Latn
   content: 'URN Prefix: urn:ietf:params:ecml'
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ecml-parameters
 docidentifier:
 - content: IANA ecml-parameters/ecml-parameters-1

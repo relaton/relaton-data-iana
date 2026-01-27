@@ -7,7 +7,7 @@ title:
   script: Latn
   content: DKIM Service Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dkim-parameters
 docidentifier:
 - content: IANA dkim-parameters/dkim-parameters-8

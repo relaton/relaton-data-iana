@@ -7,7 +7,7 @@ title:
   script: Latn
   content: TEAP Trusted-Server-Root TLV (value 17) Credential-Format Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/teap-parameters
 docidentifier:
 - content: IANA teap-parameters/trusted-server-root

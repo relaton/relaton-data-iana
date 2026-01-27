@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Kerberos Encryption Type Numbers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/kerberos-parameters
 docidentifier:
 - content: IANA kerberos-parameters/kerberos-parameters-1

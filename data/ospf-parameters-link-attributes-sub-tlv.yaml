@@ -7,7 +7,7 @@ title:
   script: Latn
   content: OSPF Link Attributes Sub-TLV Bit Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ospf-parameters
 docidentifier:
 - content: IANA ospf-parameters/link-attributes-sub-tlv

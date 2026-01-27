@@ -8,7 +8,7 @@ title:
   content: Dynamic Host Configuration Protocol (DHCP) and Bootstrap Protocol (BOOTP)
     Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bootp-dhcp-parameters
 docidentifier:
 - content: IANA bootp-dhcp-parameters

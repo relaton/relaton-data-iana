@@ -7,7 +7,7 @@ title:
   script: Latn
   content: H-PCE-CAPABILITY TLV Flag Field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep/h-pce-capability-tlv-flag-field

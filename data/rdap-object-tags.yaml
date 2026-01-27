@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Bootstrap Service Registry for Provider Object Tags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rdap-object-tags
 docidentifier:
 - content: IANA rdap-object-tags

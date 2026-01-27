@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IANA-PRINTER-MIB
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ianaprinter-mib
 docidentifier:
 - content: IANA ianaprinter-mib

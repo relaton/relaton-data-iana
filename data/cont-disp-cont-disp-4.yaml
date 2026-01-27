@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Handling Parameter Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/cont-disp
 docidentifier:
 - content: IANA cont-disp/cont-disp-4

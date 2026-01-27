@@ -7,7 +7,7 @@ title:
   script: Latn
   content: GNAP Resource Set Registration Response Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gnap
 docidentifier:
 - content: IANA gnap/gnap-resource-set-registration-response-parameters

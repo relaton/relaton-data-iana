@@ -7,7 +7,7 @@ title:
   script: Latn
   content: FedFS Annotation Keys
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/fedfs-parameters
 docidentifier:
 - content: IANA fedfs-parameters/keys

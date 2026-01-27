@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Authentication Method Reference Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/authentication-method-reference-values
 docidentifier:
 - content: IANA authentication-method-reference-values

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: iana-dots-signal-channel YANG Module
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iana-dots-signal-channel
 docidentifier:
 - content: IANA iana-dots-signal-channel

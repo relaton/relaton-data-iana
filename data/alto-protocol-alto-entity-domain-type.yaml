@@ -7,7 +7,7 @@ title:
   script: Latn
   content: ALTO Entity Domain Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/alto-protocol
 docidentifier:
 - content: IANA alto-protocol/alto-entity-domain-type

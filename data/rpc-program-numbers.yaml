@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Remote Procedure Call (RPC) Program Numbers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rpc-program-numbers
 docidentifier:
 - content: IANA rpc-program-numbers

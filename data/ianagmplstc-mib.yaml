@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IANA-GMPLS-TC-MIB
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ianagmplstc-mib
 docidentifier:
 - content: IANA ianagmplstc-mib

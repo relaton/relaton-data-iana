@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Transitive Two-Octet AS-Specific Extended Community Sub-Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bgp-extended-communities
 docidentifier:
 - content: IANA bgp-extended-communities/trans-two-octet-as

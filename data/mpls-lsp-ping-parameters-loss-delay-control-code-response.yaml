@@ -7,7 +7,7 @@ title:
   script: Latn
   content: 'Loss/Delay Measurement Control Code: Response Codes'
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mpls-lsp-ping-parameters
 docidentifier:
 - content: IANA mpls-lsp-ping-parameters/loss-delay-control-code-response

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Hypertext Transfer Protocol (HTTP) Method Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/http-methods
 docidentifier:
 - content: IANA http-methods

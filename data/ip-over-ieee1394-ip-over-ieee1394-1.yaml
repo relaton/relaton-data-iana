@@ -7,7 +7,7 @@ title:
   script: Latn
   content: CSR Protocol Identifiers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ip-over-IEEE1394
 docidentifier:
 - content: IANA ip-over-IEEE1394/ip-over-IEEE1394-1

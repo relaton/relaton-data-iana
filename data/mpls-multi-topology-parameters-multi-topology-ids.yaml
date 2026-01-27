@@ -7,7 +7,7 @@ title:
   script: Latn
   content: MPLS Multi-Topology Identifiers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mpls-multi-topology-parameters
 docidentifier:
 - content: IANA mpls-multi-topology-parameters/multi-topology-ids

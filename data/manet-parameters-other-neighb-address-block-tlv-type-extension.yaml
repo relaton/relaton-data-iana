@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Type 4 Address Block TLV Type Extensions
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/manet-parameters
 docidentifier:
 - content: IANA manet-parameters/other-neighb-address-block-tlv-type-extension

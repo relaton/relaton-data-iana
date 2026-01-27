@@ -7,7 +7,7 @@ title:
   script: Latn
   content: KERBEROS_V4 Telnet Authentication Type (Type 1)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/telnet-options
 docidentifier:
 - content: IANA telnet-options/telnet-options-5

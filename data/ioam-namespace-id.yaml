@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IOAM Namespace-ID
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ioam
 docidentifier:
 - content: IANA ioam/namespace-id

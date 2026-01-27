@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Point-to-Point (PPP) Protocol Field Assignments
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ppp-numbers
 docidentifier:
 - content: IANA ppp-numbers

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Protocol in Label Stack Sub-TLV of Downstream Detailed Mapping TLV
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mpls-lsp-ping-parameters
 docidentifier:
 - content: IANA mpls-lsp-ping-parameters/protocol-label-stack-sub-tlv-downstream-detailed-mapping-tlv

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Post Office Protocol version 3 (POP3) Extension Mechanism
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pop3-extension-mechanism
 docidentifier:
 - content: IANA pop3-extension-mechanism

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IS-IS Sub-TLVs for TLVs Advertising Neighbor Information
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/isis-tlv-codepoints
 docidentifier:
 - content: IANA isis-tlv-codepoints/isis-tlv-codepoints-advertising-neighbor-information

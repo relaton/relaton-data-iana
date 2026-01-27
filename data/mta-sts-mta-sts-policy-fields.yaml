@@ -7,7 +7,7 @@ title:
   script: Latn
   content: MTA-STS Policy Fields
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mta-sts
 docidentifier:
 - content: IANA mta-sts/mta-sts-policy-fields

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Event Code Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/audio-telephone-event-registry
 docidentifier:
 - content: IANA audio-telephone-event-registry/audio-telephone-event-registry-1

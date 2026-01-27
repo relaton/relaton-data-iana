@@ -7,7 +7,7 @@ title:
   script: Latn
   content: ID Scheme
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mikey-payloads
 docidentifier:
 - content: IANA mikey-payloads/id-scheme

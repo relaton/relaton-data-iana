@@ -8,7 +8,7 @@ title:
   content: Open Shortest Path First (OSPF) Link Local Signalling (LLS) - Type/Length/Value
     Identifiers (TLV)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ospf-lls-tlvs
 docidentifier:
 - content: IANA ospf-lls-tlvs

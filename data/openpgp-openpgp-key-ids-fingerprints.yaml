@@ -7,7 +7,7 @@ title:
   script: Latn
   content: OpenPGP Key IDs and Fingerprints
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/openpgp
 docidentifier:
 - content: IANA openpgp/openpgp-key-ids-fingerprints

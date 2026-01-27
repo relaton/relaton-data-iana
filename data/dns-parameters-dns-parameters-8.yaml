@@ -7,7 +7,7 @@ title:
   script: Latn
   content: AFSDB RR Subtype
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dns-parameters
 docidentifier:
 - content: IANA dns-parameters/dns-parameters-8

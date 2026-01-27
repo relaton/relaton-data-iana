@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Message String Extension (Value 145)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mobileip-numbers
 docidentifier:
 - content: IANA mobileip-numbers/mobileip-numbers-25

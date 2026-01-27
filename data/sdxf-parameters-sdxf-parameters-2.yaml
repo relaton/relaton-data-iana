@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Encryption Methods for SDXF
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/sdxf-parameters
 docidentifier:
 - content: IANA sdxf-parameters/sdxf-parameters-2

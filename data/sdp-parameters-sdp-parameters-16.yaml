@@ -7,7 +7,7 @@ title:
   script: Latn
   content: '"depend" SDP Attribute Values'
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/sdp-parameters
 docidentifier:
 - content: IANA sdp-parameters/sdp-parameters-16

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: ROHC Configuration Option Suboption Identifier Values
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ppp-numbers
 docidentifier:
 - content: IANA ppp-numbers/ppp-numbers-32

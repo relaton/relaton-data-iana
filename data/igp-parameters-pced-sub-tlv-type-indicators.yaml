@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PCE Discovery (PCED) Sub-TLV Type Indicators
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/igp-parameters
 docidentifier:
 - content: IANA igp-parameters/pced-sub-tlv-type-indicators

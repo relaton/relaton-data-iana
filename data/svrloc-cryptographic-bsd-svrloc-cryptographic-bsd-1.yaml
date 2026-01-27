@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Cryptographic BSD Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/svrloc-cryptographic-bsd
 docidentifier:
 - content: IANA svrloc-cryptographic-bsd/svrloc-cryptographic-bsd-1

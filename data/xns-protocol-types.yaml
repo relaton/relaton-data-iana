@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Xerox Network System (XNS) Protocol Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/xns-protocol-types
 docidentifier:
 - content: IANA xns-protocol-types

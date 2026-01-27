@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PROC-TIME Object Flag Field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep/proc-time-object

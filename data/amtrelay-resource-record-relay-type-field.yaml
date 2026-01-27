@@ -7,7 +7,7 @@ title:
   script: Latn
   content: AMTRELAY Relay Type Field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/amtrelay-resource-record
 docidentifier:
 - content: IANA amtrelay-resource-record/relay-type-field

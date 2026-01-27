@@ -7,7 +7,7 @@ title:
   script: Latn
   content: SPPF OrgIdType Namespaces
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/sppf-orgidtype-namespace
 docidentifier:
 - content: IANA sppf-orgidtype-namespace/sppf-orgidtype-namespace-1

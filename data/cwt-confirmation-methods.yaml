@@ -7,7 +7,7 @@ title:
   script: Latn
   content: CWT Confirmation Methods
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/cwt
 docidentifier:
 - content: IANA cwt/confirmation-methods

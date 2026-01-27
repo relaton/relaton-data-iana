@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Token Binding Key Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/token-binding-protocol
 docidentifier:
 - content: IANA token-binding-protocol/token-binding-key-parameters

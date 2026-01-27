@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Applicable Exchange Core (APEX) Services
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/apex
 docidentifier:
 - content: IANA apex/apex-3

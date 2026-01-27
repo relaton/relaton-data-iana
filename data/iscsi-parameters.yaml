@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Internet Small Computer System Interface (iSCSI) Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iscsi-parameters
 docidentifier:
 - content: IANA iscsi-parameters

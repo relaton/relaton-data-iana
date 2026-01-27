@@ -7,7 +7,7 @@ title:
   script: Latn
   content: iana-dns-class-rr-type YANG Module
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iana-dns-class-rr-type
 docidentifier:
 - content: IANA iana-dns-class-rr-type

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Error Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/trans
 docidentifier:
 - content: IANA trans/trans-error-types

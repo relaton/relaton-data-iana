@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Measurement Timestamp Type
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mpls-lsp-ping-parameters
 docidentifier:
 - content: IANA mpls-lsp-ping-parameters/measurement-timestamp

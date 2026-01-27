@@ -7,7 +7,7 @@ title:
   script: Latn
   content: JSON Web Key Set Parameters
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/jose
 docidentifier:
 - content: IANA jose/web-key-set-parameters

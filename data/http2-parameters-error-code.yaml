@@ -7,7 +7,7 @@ title:
   script: Latn
   content: HTTP/2 Error Code
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/http2-parameters
 docidentifier:
 - content: IANA http2-parameters/error-code

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Cryptographic Algorithms
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dssc
 docidentifier:
 - content: IANA dssc/cryptographic

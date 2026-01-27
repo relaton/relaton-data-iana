@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Bandwidth Constraints Model Identifiers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bandwidth-constraints-model-ids
 docidentifier:
 - content: IANA bandwidth-constraints-model-ids/bandwidth-constraints-model-ids-2

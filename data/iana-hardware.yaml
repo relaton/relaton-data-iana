@@ -7,7 +7,7 @@ title:
   script: Latn
   content: iana-hardware YANG Module
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iana-hardware
 docidentifier:
 - content: IANA iana-hardware

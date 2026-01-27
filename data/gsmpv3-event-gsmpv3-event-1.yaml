@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Event Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gsmpv3-event
 docidentifier:
 - content: IANA gsmpv3-event/gsmpv3-event-1

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: EAP-NOOB Error Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-noob
 docidentifier:
 - content: IANA eap-noob/eap-noob-error-codes

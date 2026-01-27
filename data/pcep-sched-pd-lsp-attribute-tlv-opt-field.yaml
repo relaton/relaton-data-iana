@@ -7,7 +7,7 @@ title:
   script: Latn
   content: SCHED-PD-LSP-ATTRIBUTE TLV Opt Field
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep/sched-pd-lsp-attribute-tlv-opt-field

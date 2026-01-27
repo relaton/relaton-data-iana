@@ -7,7 +7,7 @@ title:
   script: Latn
   content: CCI Object Flag Field for MPLS Label
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/pcep
 docidentifier:
 - content: IANA pcep/cci-object-flag-field-mpls-label

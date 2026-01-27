@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IANA-GBOND-TC-MIB
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ianagbondtc-mib
 docidentifier:
 - content: IANA ianagbondtc-mib

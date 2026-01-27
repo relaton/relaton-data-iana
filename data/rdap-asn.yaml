@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Bootstrap Service Registry for AS Number Space
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rdap-asn
 docidentifier:
 - content: IANA rdap-asn

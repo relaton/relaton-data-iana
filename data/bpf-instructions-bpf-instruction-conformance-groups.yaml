@@ -7,7 +7,7 @@ title:
   script: Latn
   content: BPF Instruction Conformance Groups
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bpf-instructions
 docidentifier:
 - content: IANA bpf-instructions/bpf-instruction-conformance-groups

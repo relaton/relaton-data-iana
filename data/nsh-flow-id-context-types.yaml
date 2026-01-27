@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Flow ID Context Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/nsh
 docidentifier:
 - content: IANA nsh/flow-id-context-types

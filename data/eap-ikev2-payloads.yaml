@@ -8,7 +8,7 @@ title:
   content: Extensible Authentication Protocol-Internet Key Exchange Version 2 (EAP-IKEv2)
     Payloads
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-ikev2-payloads
 docidentifier:
 - content: IANA eap-ikev2-payloads

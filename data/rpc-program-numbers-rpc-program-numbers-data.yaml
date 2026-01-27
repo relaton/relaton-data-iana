@@ -7,7 +7,7 @@ title:
   script: Latn
   content: RPC Program Numbers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/rpc-program-numbers
 docidentifier:
 - content: IANA rpc-program-numbers/rpc-program-numbers-data

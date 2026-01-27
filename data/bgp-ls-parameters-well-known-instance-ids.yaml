@@ -7,7 +7,7 @@ title:
   script: Latn
   content: BGP-LS Well-Known Instance-IDs (OBSOLETE)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bgp-ls-parameters
 docidentifier:
 - content: IANA bgp-ls-parameters/well-known-instance-ids

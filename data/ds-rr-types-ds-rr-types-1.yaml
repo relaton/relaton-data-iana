@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Digest Algorithms
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ds-rr-types
 docidentifier:
 - content: IANA ds-rr-types/ds-rr-types-1

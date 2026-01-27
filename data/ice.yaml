@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Interactive Connectivity Establishment (ICE)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ice
 docidentifier:
 - content: IANA ice

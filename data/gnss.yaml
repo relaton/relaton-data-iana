@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Global Navigation Satellite System (GNSS)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/gnss
 docidentifier:
 - content: IANA gnss

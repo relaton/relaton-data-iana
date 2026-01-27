@@ -7,7 +7,7 @@ title:
   script: Latn
   content: iana-ssh-mac-algs YANG Module
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/iana-ssh-mac-algs
 docidentifier:
 - content: IANA iana-ssh-mac-algs

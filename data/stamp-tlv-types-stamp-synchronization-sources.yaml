@@ -7,7 +7,7 @@ title:
   script: Latn
   content: STAMP Synchronization Sources
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/stamp-tlv-types
 docidentifier:
 - content: IANA stamp-tlv-types/stamp-synchronization-sources

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: US National Emergency Number Administration (NENA) Provided-By Schema
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/xml-ns-provided-by
 docidentifier:
 - content: IANA xml-ns-provided-by

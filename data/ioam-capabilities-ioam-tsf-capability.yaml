@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IOAM TSF Capability
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ioam-capabilities
 docidentifier:
 - content: IANA ioam-capabilities/ioam-tsf-capability

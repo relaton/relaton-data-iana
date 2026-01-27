@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Modifier Names
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/spf-parameters
 docidentifier:
 - content: IANA spf-parameters/spf-parameters-modifier-names

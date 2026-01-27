@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Collation Registry for Internet Application Protocols
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/collation
 docidentifier:
 - content: IANA collation

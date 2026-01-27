@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Open Shortest Path First v3 (OSPFv3) Authentication Trailer Options
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ospfv3-authentication-trailer-options
 docidentifier:
 - content: IANA ospfv3-authentication-trailer-options

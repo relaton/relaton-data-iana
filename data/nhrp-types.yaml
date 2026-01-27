@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Next Hop Resolution Protocol (NHRP) Types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/nhrp-types
 docidentifier:
 - content: IANA nhrp-types

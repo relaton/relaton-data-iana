@@ -8,7 +8,7 @@ title:
   content: Extensible Authentication Protocol Method for Shared-secret Authentication
     and Key Establishment (EAP-SAKE)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/eap-sake-parameters
 docidentifier:
 - content: IANA eap-sake-parameters

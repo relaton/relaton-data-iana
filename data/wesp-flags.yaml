@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Wrapped Encapsulating Security Payload (WESP) Flags
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/wesp-flags
 docidentifier:
 - content: IANA wesp-flags

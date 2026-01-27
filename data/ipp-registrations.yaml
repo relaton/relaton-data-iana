@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Internet Printing Protocol (IPP) Registrations
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ipp-registrations
 docidentifier:
 - content: IANA ipp-registrations

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Hash Algorithms for HTTP Digest Authentication
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/http-dig-alg
 docidentifier:
 - content: IANA http-dig-alg/hash-alg

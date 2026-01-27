@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Message Processing Models
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/snmp-number-spaces
 docidentifier:
 - content: IANA snmp-number-spaces/snmp-number-spaces-2

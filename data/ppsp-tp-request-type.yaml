@@ -7,7 +7,7 @@ title:
   script: Latn
   content: PPSTP Request Type Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ppsp-tp
 docidentifier:
 - content: IANA ppsp-tp/request-type

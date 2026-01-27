@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Security Label Format Selection Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/security-label-format-selection
 docidentifier:
 - content: IANA security-label-format-selection/security-label-format-selection-registry

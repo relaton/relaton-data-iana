@@ -7,7 +7,7 @@ title:
   script: Latn
   content: XML Security URIs
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/xml-security-uris
 docidentifier:
 - content: IANA xml-security-uris/security-uris

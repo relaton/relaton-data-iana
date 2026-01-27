@@ -7,7 +7,7 @@ title:
   script: Latn
   content: SSHFP RR types for fingerprint types
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/dns-sshfp-rr-parameters
 docidentifier:
 - content: IANA dns-sshfp-rr-parameters/dns-sshfp-rr-parameters-2

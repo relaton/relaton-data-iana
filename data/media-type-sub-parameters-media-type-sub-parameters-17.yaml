@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Sub-parameter Registry for application/mbox
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/media-type-sub-parameters
 docidentifier:
 - content: IANA media-type-sub-parameters/media-type-sub-parameters-17

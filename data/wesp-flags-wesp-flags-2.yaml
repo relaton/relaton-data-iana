@@ -7,7 +7,7 @@ title:
   script: Latn
   content: WESP Version Numbers
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/wesp-flags
 docidentifier:
 - content: IANA wesp-flags/wesp-flags-2

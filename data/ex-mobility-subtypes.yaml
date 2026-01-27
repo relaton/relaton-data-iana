@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Experimental Mobility Protocol Subtype Registry
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ex-mobility-subtypes
 docidentifier:
 - content: IANA ex-mobility-subtypes

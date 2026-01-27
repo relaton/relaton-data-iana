@@ -7,7 +7,7 @@ title:
   script: Latn
   content: MRCPv2 Header Fields
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/mrcpv2-parameters
 docidentifier:
 - content: IANA mrcpv2-parameters/header-fields

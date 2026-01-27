@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Internet Protocol Version 6 (IPv6) Anycast Addresses
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ipv6-anycast-addresses
 docidentifier:
 - content: IANA ipv6-anycast-addresses

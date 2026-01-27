@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Protocol to Access White-Space (PAWS)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/paws
 docidentifier:
 - content: IANA paws

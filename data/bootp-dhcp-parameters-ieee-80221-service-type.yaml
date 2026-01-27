@@ -7,7 +7,7 @@ title:
   script: Latn
   content: IEEE 802.21 Service Type (MoS DHCPv4 Address and FQDN Sub-Options)
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/bootp-dhcp-parameters
 docidentifier:
 - content: IANA bootp-dhcp-parameters/ieee-80221-service-type

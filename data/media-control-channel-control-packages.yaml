@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Control Packages
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/media-control-channel
 docidentifier:
 - content: IANA media-control-channel/control-packages

@@ -7,7 +7,7 @@ title:
   script: Latn
   content: Status Codes
 source:
-- type: self
+- type: src
   content: https://www.iana.org/assignments/ipp-registrations
 docidentifier:
 - content: IANA ipp-registrations/ipp-registrations-11
