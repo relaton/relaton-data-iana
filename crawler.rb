@@ -5,7 +5,7 @@ require 'relaton/iana/data_fetcher'
 
 FileUtils.rm(Dir.glob("index*"))
 
-# system("git clone https://github.com/ietf-tools/iana-registries.git iana-registries")
+system("git clone https://github.com/ietf-tools/iana-registries.git iana-registries")
 
 FileUtils.rm_rf("data")
 Relaton::Iana::DataFetcher.fetch
