@@ -5,3 +5,18 @@ This repository is used by Relaton-IANA to represent known publications.
 Data is stored in Relaton YAML format.
 
 This repository uses https://github.com/relaton/relaton-iana#fetch-data[relaton-iana] gem to fetch the documents and runs daly.
+
+== Browsable index
+
+The dataset is published as a searchable index site at
+https://relaton.github.io/relaton-data-iana/.
+
+It is built by `.github/workflows/deploy.yml`, which calls the shared
+https://github.com/relaton/support/blob/main/.github/workflows/data-deploy.yml[`relaton/support` deploy workflow]
+to run `relaton index` over `data/` and deploy the result to GitHub Pages.
+
+The page's title, favicon and description are *not* configured here -- they live
+in the `repo: iana` entry of
+https://github.com/relaton/support/blob/main/data-index/configs.yml[`relaton/support`'s `data-index/configs.yml`].
+Cimas syncs `deploy.yml` into this repo as a whole-file copy, so branding kept
+here would be silently reverted on the next sync.

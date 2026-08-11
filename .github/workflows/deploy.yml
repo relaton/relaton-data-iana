@@ -1,0 +1,75 @@
+name: Deploy
+
+on:
+  push:
+    # Include v2: many relaton-data-* repos moved their default branch to v2.
+    # The reusable data-deploy.yml still gates publication on the repo's actual
+    # default branch, so listing all three here is safe for main/master repos.
+    #
+    # NOTE: this trigger does NOT fire on crawler commits. crawler.yml pushes
+    # its data with the default actions/checkout GITHUB_TOKEN, and GitHub
+    # deliberately raises no workflow events for GITHUB_TOKEN pushes (it would
+    # recurse). Fresh data reaches Pages via `workflow_run` below; this trigger
+    # only ever covers human pushes.
+    branches: [ master, main, v2 ]
+    tags: [ v* ]
+  pull_request:
+  # Publish because the crawl finished, not an hour after it was meant to.
+  # Scheduled dispatch drifts badly under load: 11 of this repo's last 12
+  # Crawler runs *started* at or after 14:58 UTC despite a 14:00 cron, several
+  # past 16:00 — so a 15:00 deploy would usually index the previous day's data,
+  # and on a bad day be a full cycle behind.
+  #
+  # `workflows:` matches crawler.yml's `name:`; Cimas syncs both templates, so
+  # they stay in step (pinned by relaton/support's
+  # spec/data_deploy_caller_template_spec.rb). `branches:` filters the
+  # *triggering* run's branch, so the same repo-agnostic set as `push` above
+  # needs no per-repo edit. The run itself is against the repo's default branch,
+  # which keeps data-deploy.yml's publish gate and the raw-YAML --base-url links
+  # correct.
+  workflow_run:
+    workflows: [ Crawler ]
+    types: [ completed ]
+    branches: [ master, main, v2 ]
+  # Fallback only, and it is NOT about days the crawler commits nothing —
+  # `types: [completed]` fires on every crawler run regardless of whether the
+  # "Push data" step committed. What this covers is a crawler that never ran or
+  # was disabled, and picking up upstream relaton/relaton changes that alter the
+  # generated index. Cost: a second full build per day (~10 min under
+  # `source: git`, which compiles the frontend); drop to weekly if that bites.
+  #
+  # Set clear of the crawler's observed run window rather than one hour after
+  # its nominal cron — see the note on workflow_run above.
+  schedule:
+  - cron: '0 18 * * *'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    # No `if:` and no `concurrency:` here on purpose. data-deploy.yml declares
+    # both centrally — it skips a `workflow_run` whose crawler failed, and
+    # serializes Pages deployments per repo — so every caller gets them without
+    # a copy of its own to drift.
+    #
+    # No branding here either. This repo's title/favicon/description live in
+    # relaton/support's `data-index/configs.yml` (the `repo: iana` entry), which
+    # data-deploy.yml reads at build time — a `with:` block would be silently
+    # reverted by the next `cimas sync`, leaving the page with no favicon and
+    # nothing red in CI. See relaton/support#61.
+    uses: relaton/support/.github/workflows/data-deploy.yml@main
+    with:
+      # TEMPORARY PIN — remove this line once relaton-cli ships `index`.
+      #
+      # The one input deliberately left to callers. The shared workflow defaults
+      # to `source: gem` (`gem install relaton-cli`), and no published
+      # relaton-cli has the `index` command yet: the latest stable is 2.1.2, and
+      # even the 3.0.0.pre.alpha.1 prerelease predates it. `source: git` builds
+      # relaton + relaton-cli from a GitHub checkout instead, compiling the Vue
+      # frontend with Node.
+      #
+      # Unlike branding, this pin is safe to keep in the caller: if a `cimas
+      # sync` ever drops it, the build fails loudly with `Could not find command
+      # "index"` rather than quietly degrading. We pass no `relaton-repo`/
+      # `relaton-ref`, so it tracks the shared workflow's default,
+      # relaton/relaton@main.
+      source: git
