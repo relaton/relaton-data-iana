@@ -5,20 +5,15 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: RPKI Signed Objects
+  content: rpki-signed-objects
 source:
 - type: src
-  content: https://www.iana.org/assignments/rpki
+  content: https://www.iana.org/assignments/rpki-signed-objects
 docidentifier:
-- content: IANA rpki/signed-objects
+- content: IANA rpki-signed-objects
   type: IANA
   primary: true
-docnumber: rpki/signed-objects
-date:
-- type: created
-  at: '2011-09-08'
-- type: updated
-  at: '2024-12-19'
+docnumber: rpki-signed-objects
 contributor:
 - role:
   - type: publisher
