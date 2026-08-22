@@ -2,3 +2,4 @@
 iana-registries
 Gemfile.lock
 .claude/settings.local.json
+.bundle/

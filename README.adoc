@@ -4,7 +4,29 @@ This repository is used by Relaton-IANA to represent known publications.
 
 Data is stored in Relaton YAML format.
 
-This repository uses https://github.com/relaton/relaton-iana#fetch-data[relaton-iana] gem to fetch the documents and runs daly.
+This repository uses the IANA flavor of the
+https://github.com/relaton/relaton[relaton] gem to fetch the documents, and runs
+daily. `relaton-iana` no longer exists as a gem of its own -- the flavor lives in
+the combined `relaton` gem.
+
+== Indexes
+
+Two indexes are published, both zipped and committed by `relaton/support`'s
+shared `crawler.yml`:
+
+`index-v2`:: The current, pubid-keyed index. Written by
+`Relaton::Iana::DataFetcher` itself, with each row's `:id` a
+`Pubid::Iana::Identifier` serialised to its `_type: pubid:iana:registry` hash.
+
+`index-v1`:: The legacy string-keyed index, kept alive for every released
+`relaton` line that still reads `index-v1.zip` from this branch. The gem no
+longer writes it, so `crawler.rb` rebuilds it here through `index_builder.rb`,
+reading each `data/*.yaml` document's `docnumber`.
+
+`index_builder.rb` cross-checks its rows against the index the fetch just wrote
+and fails the crawl if any id has no data file of its own. That means two
+docnumbers collided on one filename in the gem's `output_file`, and the index
+would otherwise be published short.
 
 == Browsable index
 
