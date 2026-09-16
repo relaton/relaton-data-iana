@@ -1,12 +1,10 @@
----
 id: IANAprophet
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Probabilistic Routing Protocol using History of Encounters and Transitivity
-    (PRoPHET)
+  content: Probabilistic Routing Protocol using History of Encounters and Transitivity (PRoPHET)
 source:
 - type: src
   content: https://www.iana.org/assignments/prophet

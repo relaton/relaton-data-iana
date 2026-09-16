@@ -1,13 +1,10 @@
----
 id: IANAipv4recoveredaddressspaceipv4recoveredaddressspace2
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: |2
-
-    Allocations made from the Current Recovered IPv4 Pool
+  content: "\nAllocations made from the Current Recovered IPv4 Pool\n"
 source:
 - type: src
   content: https://www.iana.org/assignments/ipv4-recovered-address-space

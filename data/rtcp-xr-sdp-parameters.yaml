@@ -1,12 +1,10 @@
----
 id: IANArtcpxrsdpparameters
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: RTP Control Protocol Extended Reports (RTCP XR) Session Description Protocol
-    (SDP) Parameters Registry
+  content: RTP Control Protocol Extended Reports (RTCP XR) Session Description Protocol (SDP) Parameters Registry
 source:
 - type: src
   content: https://www.iana.org/assignments/rtcp-xr-sdp-parameters

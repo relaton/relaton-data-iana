@@ -1,12 +1,10 @@
----
 id: IANAiesgrecognizedorganizationsorganizations
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Standards-related organizations that have registered Media Types in the
-    Standards Tree
+  content: Standards-related organizations that have registered Media Types in the Standards Tree
 source:
 - type: src
   content: https://www.iana.org/assignments/iesg-recognized-organizations

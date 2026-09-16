@@ -1,12 +1,10 @@
----
 id: IANAsiptable
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Registry for the Session Initiation Protocol (SIP) NAPTR Resource Record
-    Services Field
+  content: Registry for the Session Initiation Protocol (SIP) NAPTR Resource Record Services Field
 source:
 - type: src
   content: https://www.iana.org/assignments/sip-table

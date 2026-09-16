@@ -1,12 +1,10 @@
----
 id: IANAgsseapparameters
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: The Extensible Authentication Protocol Mechanism for the Generic Security
-    Service Application Programming Interface (GSS-EAP) Parameters
+  content: The Extensible Authentication Protocol Mechanism for the Generic Security Service Application Programming Interface (GSS-EAP) Parameters
 source:
 - type: src
   content: https://www.iana.org/assignments/gss-eap-parameters

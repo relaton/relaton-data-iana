@@ -1,12 +1,10 @@
----
 id: IANAgstnextensions
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Global Switched Telephone Network (GSTN) Address Element Extensions in
-    Email Services
+  content: Global Switched Telephone Network (GSTN) Address Element Extensions in Email Services
 source:
 - type: src
   content: https://www.iana.org/assignments/gstn-extensions
