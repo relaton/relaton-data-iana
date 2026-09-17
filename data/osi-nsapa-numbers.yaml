@@ -1,10 +1,12 @@
+---
 id: IANAosinsapanumbers
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Open Systems Interconnection (OSI) Network Service Access Point Addresses (NSAPA) Internet Code Point Registry
+  content: Open Systems Interconnection (OSI) Network Service Access Point Addresses
+    (NSAPA) Internet Code Point Registry
 source:
 - type: src
   content: https://www.iana.org/assignments/osi-nsapa-numbers

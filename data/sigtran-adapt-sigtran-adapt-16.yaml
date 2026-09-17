@@ -1,10 +1,12 @@
+---
 id: IANAsigtranadaptsigtranadapt16
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Message Types - V5 Boundary Primitives Transport (V5PTM) Messages (Value 14)
+  content: Message Types - V5 Boundary Primitives Transport (V5PTM) Messages (Value
+    14)
 source:
 - type: src
   content: https://www.iana.org/assignments/sigtran-adapt

@@ -1,10 +1,12 @@
+---
 id: IANApppnumberspppnumbers3
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: PPP Link Control Protocol (LCP) and Internet Protocol Control Protocol (IPCP) Codes
+  content: PPP Link Control Protocol (LCP) and Internet Protocol Control Protocol
+    (IPCP) Codes
 source:
 - type: src
   content: https://www.iana.org/assignments/ppp-numbers

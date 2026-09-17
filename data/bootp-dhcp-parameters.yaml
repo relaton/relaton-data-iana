@@ -1,10 +1,12 @@
+---
 id: IANAbootpdhcpparameters
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Dynamic Host Configuration Protocol (DHCP) and Bootstrap Protocol (BOOTP) Parameters
+  content: Dynamic Host Configuration Protocol (DHCP) and Bootstrap Protocol (BOOTP)
+    Parameters
 source:
 - type: src
   content: https://www.iana.org/assignments/bootp-dhcp-parameters

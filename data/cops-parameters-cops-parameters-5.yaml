@@ -1,10 +1,12 @@
+---
 id: IANAcopsparameterscopsparameters5
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: R-Types, Reason-Codes, Report-Types, Decision Object Command-Codes/Flags, and Error-Codes
+  content: R-Types, Reason-Codes, Report-Types, Decision Object Command-Codes/Flags,
+    and Error-Codes
 source:
 - type: src
   content: https://www.iana.org/assignments/cops-parameters

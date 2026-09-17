@@ -1,10 +1,12 @@
+---
 id: IANAeappotpidentifiers
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Extensible Authentication Protocol Protected One-Time Password (EAP-POTP) Cryptographic Algorithm Identifiers
+  content: Extensible Authentication Protocol Protected One-Time Password (EAP-POTP)
+    Cryptographic Algorithm Identifiers
 source:
 - type: src
   content: https://www.iana.org/assignments/eappotp-identifiers

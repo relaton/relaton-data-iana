@@ -1,10 +1,12 @@
+---
 id: IANAgssapiservicenames
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Generic Security Service Application Program Interface (GSSAPI)/Kerberos/Simple Authentication and Security Layer (SASL) Service Names
+  content: Generic Security Service Application Program Interface (GSSAPI)/Kerberos/Simple
+    Authentication and Security Layer (SASL) Service Names
 source:
 - type: src
   content: https://www.iana.org/assignments/gssapi-service-names

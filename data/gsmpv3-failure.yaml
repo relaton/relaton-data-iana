@@ -1,10 +1,12 @@
+---
 id: IANAgsmpv3failure
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Global Switch Management Protocol version 3 (GSMPv3) Failure Response Message Name Space
+  content: Global Switch Management Protocol version 3 (GSMPv3) Failure Response Message
+    Name Space
 source:
 - type: src
   content: https://www.iana.org/assignments/gsmpv3-failure

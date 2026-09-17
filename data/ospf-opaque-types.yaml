@@ -1,10 +1,12 @@
+---
 id: IANAospfopaquetypes
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Open Shortest Path First (OSPF) Opaque Link-State Advertisements (LSA) Option Types
+  content: Open Shortest Path First (OSPF) Opaque Link-State Advertisements (LSA)
+    Option Types
 source:
 - type: src
   content: https://www.iana.org/assignments/ospf-opaque-types
