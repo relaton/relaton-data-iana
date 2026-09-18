@@ -1,12 +1,10 @@
----
 id: IANAmobileipnumbersmobileipnumbers23
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Generalized Link Layer Address Registration Extension Subtypes and Generalized
-    Link Layer Address Advertisement Extension Subtypes
+  content: Generalized Link Layer Address Registration Extension Subtypes and Generalized Link Layer Address Advertisement Extension Subtypes
 source:
 - type: src
   content: https://www.iana.org/assignments/mobileip-numbers
