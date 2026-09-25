@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: ipv4-recovered-address-space/ipv4-recovered-address-space-1
-date:
-- type: updated
-  at: '2019-03-01'
 contributor:
 - role:
   - type: publisher

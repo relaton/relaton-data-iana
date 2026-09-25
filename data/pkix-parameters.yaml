@@ -17,8 +17,6 @@ docnumber: pkix-parameters
 date:
 - type: created
   at: '2003-12-23'
-- type: updated
-  at: '2023-10-16'
 contributor:
 - role:
   - type: publisher

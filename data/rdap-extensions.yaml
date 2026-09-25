@@ -17,8 +17,6 @@ docnumber: rdap-extensions
 date:
 - type: created
   at: '2015-01-12'
-- type: updated
-  at: '2025-02-04'
 contributor:
 - role:
   - type: publisher

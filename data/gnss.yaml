@@ -17,8 +17,6 @@ docnumber: gnss
 date:
 - type: created
   at: '2013-11-07'
-- type: updated
-  at: '2014-02-04'
 contributor:
 - role:
   - type: publisher

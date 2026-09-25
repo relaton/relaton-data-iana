@@ -17,8 +17,6 @@ docnumber: cert-rr-types
 date:
 - type: created
   at: '2005-12-20'
-- type: updated
-  at: '2006-09-27'
 contributor:
 - role:
   - type: publisher

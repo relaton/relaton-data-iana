@@ -17,8 +17,6 @@ docnumber: tls-extensiontype-values
 date:
 - type: created
   at: '2005-11-15'
-- type: updated
-  at: '2024-12-06'
 contributor:
 - role:
   - type: publisher

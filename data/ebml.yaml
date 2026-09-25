@@ -17,8 +17,6 @@ docnumber: ebml
 date:
 - type: created
   at: '2020-02-10'
-- type: updated
-  at: '2024-07-15'
 contributor:
 - role:
   - type: publisher

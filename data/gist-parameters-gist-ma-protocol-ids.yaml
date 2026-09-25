@@ -17,8 +17,6 @@ docnumber: gist-parameters/gist-ma-protocol-ids
 date:
 - type: created
   at: '2009-07-30'
-- type: updated
-  at: '2011-01-20'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: xmlers/time-stamp-token
 date:
 - type: created
   at: '2011-04-13'
-- type: updated
-  at: '2011-07-20'
 contributor:
 - role:
   - type: publisher

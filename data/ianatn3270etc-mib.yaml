@@ -17,8 +17,6 @@ docnumber: ianatn3270etc-mib
 date:
 - type: created
   at: '1999-09-01'
-- type: updated
-  at: '2014-05-22'
 contributor:
 - role:
   - type: publisher

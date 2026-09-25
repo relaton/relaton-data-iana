@@ -17,8 +17,6 @@ docnumber: http-priority
 date:
 - type: created
   at: '2022-01-25'
-- type: updated
-  at: '2022-06-09'
 contributor:
 - role:
   - type: publisher

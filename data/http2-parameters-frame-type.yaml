@@ -17,8 +17,6 @@ docnumber: http2-parameters/frame-type
 date:
 - type: created
   at: '2015-02-20'
-- type: updated
-  at: '2022-08-17'
 contributor:
 - role:
   - type: publisher

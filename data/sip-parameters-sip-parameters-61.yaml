@@ -17,8 +17,6 @@ docnumber: sip-parameters/sip-parameters-61
 date:
 - type: created
   at: 2002-01
-- type: updated
-  at: '2024-03-28'
 contributor:
 - role:
   - type: publisher

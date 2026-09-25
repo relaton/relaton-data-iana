@@ -17,8 +17,6 @@ docnumber: smtp-enhanced-status-codes/smtp-enhanced-status-codes-2
 date:
 - type: created
   at: '2008-05-29'
-- type: updated
-  at: '2024-12-06'
 contributor:
 - role:
   - type: publisher

@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: mail-parameters/mail-parameters-9
-date:
-- type: updated
-  at: '2025-01-13'
 contributor:
 - role:
   - type: publisher

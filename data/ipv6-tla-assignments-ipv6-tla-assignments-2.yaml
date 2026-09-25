@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: ipv6-tla-assignments/ipv6-tla-assignments-2
-date:
-- type: updated
-  at: '2010-07-06'
 contributor:
 - role:
   - type: publisher

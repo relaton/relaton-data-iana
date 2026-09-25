@@ -17,8 +17,6 @@ docnumber: multicast-acquisition/report-block-tlv
 date:
 - type: created
   at: '2011-06-17'
-- type: updated
-  at: '2015-05-01'
 contributor:
 - role:
   - type: publisher

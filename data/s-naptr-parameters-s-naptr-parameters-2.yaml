@@ -17,8 +17,6 @@ docnumber: s-naptr-parameters/s-naptr-parameters-2
 date:
 - type: created
   at: '2004-10-10'
-- type: updated
-  at: '2021-01-15'
 contributor:
 - role:
   - type: publisher

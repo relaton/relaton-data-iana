@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: operating-system-names/operating-system-names-1
-date:
-- type: updated
-  at: '2010-10-19'
 contributor:
 - role:
   - type: publisher

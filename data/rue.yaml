@@ -17,8 +17,6 @@ docnumber: rue
 date:
 - type: created
   at: '2022-03-01'
-- type: updated
-  at: '2022-07-19'
 contributor:
 - role:
   - type: publisher

@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: phbid-codes
-date:
-- type: updated
-  at: '2001-06-21'
 contributor:
 - role:
   - type: publisher

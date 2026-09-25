@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: gssapi-service-names
-date:
-- type: updated
-  at: '2021-08-26'
 contributor:
 - role:
   - type: publisher

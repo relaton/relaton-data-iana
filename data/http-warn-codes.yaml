@@ -17,8 +17,6 @@ docnumber: http-warn-codes
 date:
 - type: created
   at: '2014-02-17'
-- type: updated
-  at: '2022-06-08'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: psamp-parameters/psamp-parameters-1
 date:
 - type: created
   at: '2008-09-04'
-- type: updated
-  at: '2023-02-21'
 contributor:
 - role:
   - type: publisher

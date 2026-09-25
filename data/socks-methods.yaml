@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: socks-methods
-date:
-- type: updated
-  at: '2017-08-31'
 contributor:
 - role:
   - type: publisher

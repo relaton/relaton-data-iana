@@ -17,8 +17,6 @@ docnumber: gsmpv3-failure
 date:
 - type: created
   at: '2002-03-28'
-- type: updated
-  at: '2011-08-11'
 contributor:
 - role:
   - type: publisher

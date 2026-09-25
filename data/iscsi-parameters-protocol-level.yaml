@@ -17,8 +17,6 @@ docnumber: iscsi-parameters/protocol-level
 date:
 - type: created
   at: '2003-04-16'
-- type: updated
-  at: '2014-04-08'
 contributor:
 - role:
   - type: publisher

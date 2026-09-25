@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: ipv6-anycast-addresses/ipv6-anycast-addresses-1
-date:
-- type: updated
-  at: '2014-05-16'
 contributor:
 - role:
   - type: publisher

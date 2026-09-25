@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: foobar-af-numbers/foobar-af-numbers-1
-date:
-- type: updated
-  at: '2001-05-01'
 contributor:
 - role:
   - type: publisher

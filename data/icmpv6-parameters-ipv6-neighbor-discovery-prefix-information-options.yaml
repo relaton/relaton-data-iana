@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: icmpv6-parameters/ipv6-neighbor-discovery-prefix-information-options
-date:
-- type: updated
-  at: '2025-03-28'
 contributor:
 - role:
   - type: publisher

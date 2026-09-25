@@ -17,8 +17,6 @@ docnumber: flute-parameters/encoding-algs
 date:
 - type: created
   at: '2012-07-25'
-- type: updated
-  at: '2012-11-09'
 contributor:
 - role:
   - type: publisher

@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: ipv6-address-space/ipv6-address-space-1
-date:
-- type: updated
-  at: '2024-09-10'
 contributor:
 - role:
   - type: publisher

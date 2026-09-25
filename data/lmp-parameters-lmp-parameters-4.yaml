@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: lmp-parameters/lmp-parameters-4
-date:
-- type: updated
-  at: '2019-03-25'
 contributor:
 - role:
   - type: publisher

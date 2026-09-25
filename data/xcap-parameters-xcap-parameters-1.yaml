@@ -17,8 +17,6 @@ docnumber: xcap-parameters/xcap-parameters-1
 date:
 - type: created
   at: '2005-07-27'
-- type: updated
-  at: '2013-01-11'
 contributor:
 - role:
   - type: publisher

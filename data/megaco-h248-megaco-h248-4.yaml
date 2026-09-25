@@ -17,8 +17,6 @@ docnumber: megaco-h248/megaco-h248-4
 date:
 - type: created
   at: 2000-10
-- type: updated
-  at: '2017-12-11'
 contributor:
 - role:
   - type: publisher

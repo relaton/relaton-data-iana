@@ -17,8 +17,6 @@ docnumber: coswid
 date:
 - type: created
   at: '2022-08-01'
-- type: updated
-  at: '2023-09-22'
 contributor:
 - role:
   - type: publisher

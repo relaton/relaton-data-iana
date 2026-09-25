@@ -17,8 +17,6 @@ docnumber: http-fields/field-names
 date:
 - type: created
   at: '2021-10-01'
-- type: updated
-  at: '2025-04-01'
 contributor:
 - role:
   - type: publisher

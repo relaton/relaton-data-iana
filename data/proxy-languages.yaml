@@ -17,8 +17,6 @@ docnumber: proxy-languages
 date:
 - type: created
   at: '2004-05-05'
-- type: updated
-  at: '2004-07-22'
 contributor:
 - role:
   - type: publisher

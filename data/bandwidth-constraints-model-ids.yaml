@@ -17,8 +17,6 @@ docnumber: bandwidth-constraints-model-ids
 date:
 - type: created
   at: '2005-01-28'
-- type: updated
-  at: '2005-09-19'
 contributor:
 - role:
   - type: publisher

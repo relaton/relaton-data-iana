@@ -17,8 +17,6 @@ docnumber: epp-repository-ids
 date:
 - type: created
   at: '2004-10-26'
-- type: updated
-  at: '2025-02-18'
 contributor:
 - role:
   - type: publisher

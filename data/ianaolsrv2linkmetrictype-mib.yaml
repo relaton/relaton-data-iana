@@ -17,8 +17,6 @@ docnumber: ianaolsrv2linkmetrictype-mib
 date:
 - type: created
   at: '2013-07-02'
-- type: updated
-  at: '2022-01-28'
 contributor:
 - role:
   - type: publisher

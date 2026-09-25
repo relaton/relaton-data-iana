@@ -17,8 +17,6 @@ docnumber: mrt/subtype-codes
 date:
 - type: created
   at: '2011-09-02'
-- type: updated
-  at: '2020-01-08'
 contributor:
 - role:
   - type: publisher

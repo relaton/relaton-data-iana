@@ -17,8 +17,6 @@ docnumber: mpls-label-values/extended
 date:
 - type: created
   at: '2002-11-08'
-- type: updated
-  at: '2025-02-18'
 contributor:
 - role:
   - type: publisher

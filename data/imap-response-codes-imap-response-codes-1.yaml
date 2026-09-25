@@ -17,8 +17,6 @@ docnumber: imap-response-codes/imap-response-codes-1
 date:
 - type: created
   at: '2009-03-24'
-- type: updated
-  at: '2024-11-26'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: sam-baseline/alm-error-codes
 date:
 - type: created
   at: '2013-08-01'
-- type: updated
-  at: '2013-10-01'
 contributor:
 - role:
   - type: publisher

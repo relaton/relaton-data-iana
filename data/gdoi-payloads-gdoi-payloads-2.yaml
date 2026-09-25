@@ -17,8 +17,6 @@ docnumber: gdoi-payloads/gdoi-payloads-2
 date:
 - type: created
   at: '2003-03-28'
-- type: updated
-  at: '2017-12-26'
 contributor:
 - role:
   - type: publisher

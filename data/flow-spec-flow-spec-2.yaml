@@ -17,8 +17,6 @@ docnumber: flow-spec/flow-spec-2
 date:
 - type: created
   at: '2009-06-02'
-- type: updated
-  at: '2021-01-04'
 contributor:
 - role:
   - type: publisher

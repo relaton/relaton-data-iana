@@ -17,8 +17,6 @@ docnumber: ianamalloc-mib
 date:
 - type: created
   at: '2003-01-27'
-- type: updated
-  at: '2014-05-22'
 contributor:
 - role:
   - type: publisher

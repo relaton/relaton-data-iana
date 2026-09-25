@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: dns-parameters/zoneversion-type-values
-date:
-- type: updated
-  at: '2025-04-04'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: c-dns/c-dns-storage-flags
 date:
 - type: created
   at: '2019-01-07'
-- type: updated
-  at: '2020-12-09'
 contributor:
 - role:
   - type: publisher

@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: bgp-parameters/bgp-srv6-service-sid-flags
-date:
-- type: updated
-  at: '2025-03-20'
 contributor:
 - role:
   - type: publisher

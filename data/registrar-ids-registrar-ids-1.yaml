@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: registrar-ids/registrar-ids-1
-date:
-- type: updated
-  at: '2025-04-02'
 contributor:
 - role:
   - type: publisher

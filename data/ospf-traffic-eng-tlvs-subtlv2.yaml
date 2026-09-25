@@ -17,8 +17,6 @@ docnumber: ospf-traffic-eng-tlvs/subtlv2
 date:
 - type: created
   at: '2003-08-29'
-- type: updated
-  at: '2025-02-28'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: g-ach-parameters/psc-tlv
 date:
 - type: created
   at: '2014-02-07'
-- type: updated
-  at: '2024-10-28'
 contributor:
 - role:
   - type: publisher

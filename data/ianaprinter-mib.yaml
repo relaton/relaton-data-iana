@@ -17,8 +17,6 @@ docnumber: ianaprinter-mib
 date:
 - type: created
   at: '2004-06-02'
-- type: updated
-  at: '2024-02-06'
 contributor:
 - role:
   - type: publisher

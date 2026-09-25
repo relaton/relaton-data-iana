@@ -17,8 +17,6 @@ docnumber: bmp-parameters/peer-flags-loc-rib
 date:
 - type: created
   at: '2016-04-14'
-- type: updated
-  at: '2025-03-13'
 contributor:
 - role:
   - type: publisher

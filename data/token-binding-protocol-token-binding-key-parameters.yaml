@@ -17,8 +17,6 @@ docnumber: token-binding-protocol/token-binding-key-parameters
 date:
 - type: created
   at: '2018-07-24'
-- type: updated
-  at: '2020-02-06'
 contributor:
 - role:
   - type: publisher

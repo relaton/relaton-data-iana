@@ -17,8 +17,6 @@ docnumber: iana-ipv4-special-registry/iana-ipv4-special-registry-1
 date:
 - type: created
   at: '2009-08-19'
-- type: updated
-  at: '2021-02-04'
 contributor:
 - role:
   - type: publisher

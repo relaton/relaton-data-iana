@@ -17,8 +17,6 @@ docnumber: adsp-parameters/adsp-parameters-1
 date:
 - type: created
   at: '2009-07-01'
-- type: updated
-  at: '2019-04-16'
 contributor:
 - role:
   - type: publisher

@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: scsp-numbers
-date:
-- type: updated
-  at: '2001-05-10'
 contributor:
 - role:
   - type: publisher

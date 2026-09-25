@@ -17,8 +17,6 @@ docnumber: held-parameters
 date:
 - type: created
   at: '2009-09-29'
-- type: updated
-  at: '2011-03-14'
 contributor:
 - role:
   - type: publisher

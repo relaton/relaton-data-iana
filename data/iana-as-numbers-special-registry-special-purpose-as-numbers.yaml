@@ -17,8 +17,6 @@ docnumber: iana-as-numbers-special-registry/special-purpose-as-numbers
 date:
 - type: created
   at: '2014-03-11'
-- type: updated
-  at: '2015-08-07'
 contributor:
 - role:
   - type: publisher

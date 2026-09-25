@@ -17,8 +17,6 @@ docnumber: sfc-active-oam/sfc-active-oam
 date:
 - type: created
   at: '2023-07-14'
-- type: updated
-  at: '2023-11-21'
 contributor:
 - role:
   - type: publisher

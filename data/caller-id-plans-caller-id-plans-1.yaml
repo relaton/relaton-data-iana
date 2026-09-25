@@ -17,8 +17,6 @@ docnumber: caller-id-plans/caller-id-plans-1
 date:
 - type: created
   at: '2004-10-05'
-- type: updated
-  at: '2005-01-21'
 contributor:
 - role:
   - type: publisher

@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: dscp-registry/dscp-registry-1
-date:
-- type: updated
-  at: '2024-11-15'
 contributor:
 - role:
   - type: publisher

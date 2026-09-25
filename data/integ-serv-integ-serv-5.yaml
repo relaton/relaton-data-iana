@@ -17,8 +17,6 @@ docnumber: integ-serv/integ-serv-5
 date:
 - type: created
   at: '2002-03-05'
-- type: updated
-  at: '2002-04-09'
 contributor:
 - role:
   - type: publisher

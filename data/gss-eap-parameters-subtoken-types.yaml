@@ -17,8 +17,6 @@ docnumber: gss-eap-parameters/subtoken-types
 date:
 - type: created
   at: '2012-09-05'
-- type: updated
-  at: '2014-01-08'
 contributor:
 - role:
   - type: publisher

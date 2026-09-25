@@ -17,8 +17,6 @@ docnumber: stringprep-profiles/stringprep-profiles-1
 date:
 - type: created
   at: '2003-01-02'
-- type: updated
-  at: '2017-10-09'
 contributor:
 - role:
   - type: publisher

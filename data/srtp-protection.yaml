@@ -17,8 +17,6 @@ docnumber: srtp-protection
 date:
 - type: created
   at: '2009-03-18'
-- type: updated
-  at: '2023-02-03'
 contributor:
 - role:
   - type: publisher

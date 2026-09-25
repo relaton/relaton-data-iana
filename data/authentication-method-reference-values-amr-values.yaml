@@ -17,8 +17,6 @@ docnumber: authentication-method-reference-values/amr-values
 date:
 - type: created
   at: '2017-04-13'
-- type: updated
-  at: '2024-10-04'
 contributor:
 - role:
   - type: publisher

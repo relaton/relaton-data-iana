@@ -17,8 +17,6 @@ docnumber: ianasmf-mib
 date:
 - type: created
   at: '2014-08-14'
-- type: updated
-  at: '2014-10-14'
 contributor:
 - role:
   - type: publisher

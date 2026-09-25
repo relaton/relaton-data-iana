@@ -17,8 +17,6 @@ docnumber: perc/perc-dtls-tunnel-message-types
 date:
 - type: created
   at: '2021-11-22'
-- type: updated
-  at: '2022-04-27'
 contributor:
 - role:
   - type: publisher

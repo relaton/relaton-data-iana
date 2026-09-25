@@ -17,8 +17,6 @@ docnumber: eap-pwd-parameters
 date:
 - type: created
   at: '2010-01-06'
-- type: updated
-  at: '2017-04-24'
 contributor:
 - role:
   - type: publisher

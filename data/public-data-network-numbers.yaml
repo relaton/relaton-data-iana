@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: public-data-network-numbers
-date:
-- type: updated
-  at: '2010-06-24'
 contributor:
 - role:
   - type: publisher

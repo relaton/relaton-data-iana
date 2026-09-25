@@ -17,8 +17,6 @@ docnumber: emsk-parameters/emsk-parameters-3
 date:
 - type: created
   at: '2008-06-24'
-- type: updated
-  at: '2024-06-21'
 contributor:
 - role:
   - type: publisher

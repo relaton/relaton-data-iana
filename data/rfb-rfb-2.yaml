@@ -17,8 +17,6 @@ docnumber: rfb/rfb-2
 date:
 - type: created
   at: '2010-12-08'
-- type: updated
-  at: '2024-08-14'
 contributor:
 - role:
   - type: publisher

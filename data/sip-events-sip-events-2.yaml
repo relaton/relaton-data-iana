@@ -17,8 +17,6 @@ docnumber: sip-events/sip-events-2
 date:
 - type: created
   at: '2002-05-07'
-- type: updated
-  at: '2014-05-02'
 contributor:
 - role:
   - type: publisher

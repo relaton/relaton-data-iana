@@ -17,8 +17,6 @@ docnumber: rift/rift-common-tietypetype
 date:
 - type: created
   at: '2024-06-07'
-- type: updated
-  at: '2025-04-07'
 contributor:
 - role:
   - type: publisher

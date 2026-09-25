@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: radius-types/radius-types-6
-date:
-- type: updated
-  at: '2023-08-18'
 contributor:
 - role:
   - type: publisher

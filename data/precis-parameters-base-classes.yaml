@@ -17,8 +17,6 @@ docnumber: precis-parameters/base-classes
 date:
 - type: created
   at: '2015-03-06'
-- type: updated
-  at: '2017-10-09'
 contributor:
 - role:
   - type: publisher

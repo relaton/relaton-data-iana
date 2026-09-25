@@ -17,8 +17,6 @@ docnumber: mikey-payloads/mikey-payloads-44
 date:
 - type: created
   at: '2004-05-21'
-- type: updated
-  at: '2019-02-15'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: pana-parameters/pana-parameters-3
 date:
 - type: created
   at: '2007-10-08'
-- type: updated
-  at: '2012-11-15'
 contributor:
 - role:
   - type: publisher

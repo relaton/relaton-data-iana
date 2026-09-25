@@ -17,8 +17,6 @@ docnumber: pa-tnc-parameters/pa-tnc-parameters-1
 date:
 - type: created
   at: '2009-11-13'
-- type: updated
-  at: '2023-06-29'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: isis-tlv-codepoints/tlv-144
 date:
 - type: created
   at: '2003-05-06'
-- type: updated
-  at: '2025-03-03'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: prophet/codes-for-failure
 date:
 - type: created
   at: '2012-06-04'
-- type: updated
-  at: '2012-09-11'
 contributor:
 - role:
   - type: publisher

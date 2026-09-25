@@ -17,8 +17,6 @@ docnumber: igp-parameters/pce-capability-flags
 date:
 - type: created
   at: '2017-12-18'
-- type: updated
-  at: '2025-02-28'
 contributor:
 - role:
   - type: publisher

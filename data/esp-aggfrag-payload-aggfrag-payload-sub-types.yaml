@@ -17,8 +17,6 @@ docnumber: esp-aggfrag-payload/aggfrag-payload-sub-types
 date:
 - type: created
   at: '2022-09-28'
-- type: updated
-  at: '2024-07-22'
 contributor:
 - role:
   - type: publisher

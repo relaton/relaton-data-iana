@@ -17,8 +17,6 @@ docnumber: grasp-parameters
 date:
 - type: created
   at: '2017-07-20'
-- type: updated
-  at: '2023-11-30'
 contributor:
 - role:
   - type: publisher

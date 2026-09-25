@@ -17,8 +17,6 @@ docnumber: imap-mailbox-name-attributes
 date:
 - type: created
   at: '2018-06-14'
-- type: updated
-  at: '2021-08-26'
 contributor:
 - role:
   - type: publisher

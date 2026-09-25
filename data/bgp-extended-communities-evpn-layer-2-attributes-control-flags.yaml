@@ -17,8 +17,6 @@ docnumber: bgp-extended-communities/evpn-layer-2-attributes-control-flags
 date:
 - type: created
   at: '2005-08-15'
-- type: updated
-  at: '2025-03-19'
 contributor:
 - role:
   - type: publisher

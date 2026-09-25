@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: ospf-opaque-types/ospf-opaque-types-2
-date:
-- type: updated
-  at: '2024-04-17'
 contributor:
 - role:
   - type: publisher

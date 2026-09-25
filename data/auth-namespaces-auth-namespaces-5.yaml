@@ -17,8 +17,6 @@ docnumber: auth-namespaces/auth-namespaces-5
 date:
 - type: created
   at: '2001-05-15'
-- type: updated
-  at: '2025-01-31'
 contributor:
 - role:
   - type: publisher

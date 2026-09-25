@@ -17,8 +17,6 @@ docnumber: pvds/pvd-split-dns-claims
 date:
 - type: created
   at: '2020-02-18'
-- type: updated
-  at: '2025-02-21'
 contributor:
 - role:
   - type: publisher

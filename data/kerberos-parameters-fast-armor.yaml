@@ -17,8 +17,6 @@ docnumber: kerberos-parameters/fast-armor
 date:
 - type: created
   at: '2004-06-29'
-- type: updated
-  at: '2024-12-06'
 contributor:
 - role:
   - type: publisher

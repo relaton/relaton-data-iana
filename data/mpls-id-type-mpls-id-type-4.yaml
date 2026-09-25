@@ -17,8 +17,6 @@ docnumber: mpls-id-type/mpls-id-type-4
 date:
 - type: created
   at: 2000-11
-- type: updated
-  at: '2011-05-05'
 contributor:
 - role:
   - type: publisher

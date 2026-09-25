@@ -17,8 +17,6 @@ docnumber: eap-ikev2-payloads
 date:
 - type: created
   at: '2007-11-02'
-- type: updated
-  at: '2013-07-26'
 contributor:
 - role:
   - type: publisher

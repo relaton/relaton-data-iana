@@ -17,8 +17,6 @@ docnumber: oncrpc-ids/oncrpc-ids-1
 date:
 - type: created
   at: '2003-03-12'
-- type: updated
-  at: '2015-03-30'
 contributor:
 - role:
   - type: publisher

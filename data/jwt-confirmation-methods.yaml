@@ -17,8 +17,6 @@ docnumber: jwt/confirmation-methods
 date:
 - type: created
   at: '2015-01-23'
-- type: updated
-  at: '2025-02-04'
 contributor:
 - role:
   - type: publisher

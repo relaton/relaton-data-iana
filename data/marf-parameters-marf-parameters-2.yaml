@@ -17,8 +17,6 @@ docnumber: marf-parameters/marf-parameters-2
 date:
 - type: created
   at: '2010-05-26'
-- type: updated
-  at: '2015-03-24'
 contributor:
 - role:
   - type: publisher

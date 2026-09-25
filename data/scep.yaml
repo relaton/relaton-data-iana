@@ -17,8 +17,6 @@ docnumber: scep
 date:
 - type: created
   at: '2020-03-25'
-- type: updated
-  at: '2020-11-06'
 contributor:
 - role:
   - type: publisher

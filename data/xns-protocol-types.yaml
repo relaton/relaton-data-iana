@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: xns-protocol-types
-date:
-- type: updated
-  at: '2009-11-04'
 contributor:
 - role:
   - type: publisher

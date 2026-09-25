@@ -17,8 +17,6 @@ docnumber: crypto-suites/crypto-suites-1
 date:
 - type: created
   at: '2004-09-30'
-- type: updated
-  at: '2022-03-01'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: card-parameters
 date:
 - type: created
   at: '2005-01-19'
-- type: updated
-  at: '2023-02-21'
 contributor:
 - role:
   - type: publisher

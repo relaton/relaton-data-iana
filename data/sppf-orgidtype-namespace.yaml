@@ -17,8 +17,6 @@ docnumber: sppf-orgidtype-namespace
 date:
 - type: created
   at: '2012-09-10'
-- type: updated
-  at: '2016-09-06'
 contributor:
 - role:
   - type: publisher

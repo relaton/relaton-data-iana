@@ -17,8 +17,6 @@ docnumber: ecmlv2-parameters
 date:
 - type: created
   at: '2005-04-08'
-- type: updated
-  at: '2005-10-18'
 contributor:
 - role:
   - type: publisher

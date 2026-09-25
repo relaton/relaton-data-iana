@@ -17,8 +17,6 @@ docnumber: passport/passport-rph-types
 date:
 - type: created
   at: '2017-06-12'
-- type: updated
-  at: '2023-12-20'
 contributor:
 - role:
   - type: publisher

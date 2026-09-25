@@ -17,8 +17,6 @@ docnumber: ospf-parameters
 date:
 - type: created
   at: '2015-11-03'
-- type: updated
-  at: '2025-03-03'
 contributor:
 - role:
   - type: publisher

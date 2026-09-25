@@ -17,8 +17,6 @@ docnumber: ppsp-tp
 date:
 - type: created
   at: '2016-01-14'
-- type: updated
-  at: '2016-06-01'
 contributor:
 - role:
   - type: publisher

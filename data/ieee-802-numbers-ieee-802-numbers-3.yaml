@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: ieee-802-numbers/ieee-802-numbers-3
-date:
-- type: updated
-  at: '2024-04-16'
 contributor:
 - role:
   - type: publisher

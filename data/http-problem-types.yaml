@@ -17,8 +17,6 @@ docnumber: http-problem-types
 date:
 - type: created
   at: '2023-05-02'
-- type: updated
-  at: '2024-02-12'
 contributor:
 - role:
   - type: publisher

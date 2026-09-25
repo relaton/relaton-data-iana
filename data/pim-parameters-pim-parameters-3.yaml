@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: pim-parameters/pim-parameters-3
-date:
-- type: updated
-  at: '2023-10-16'
 contributor:
 - role:
   - type: publisher

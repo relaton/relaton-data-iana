@@ -17,8 +17,6 @@ docnumber: urn-serviceid-labels/urn-serviceid-labels-1
 date:
 - type: created
   at: '2007-08-22'
-- type: updated
-  at: '2017-05-15'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: pwe3-parameters/gach-tlv
 date:
 - type: created
   at: '2005-12-12'
-- type: updated
-  at: '2022-12-01'
 contributor:
 - role:
   - type: publisher

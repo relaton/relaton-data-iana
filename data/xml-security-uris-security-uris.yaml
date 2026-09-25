@@ -17,8 +17,6 @@ docnumber: xml-security-uris/security-uris
 date:
 - type: created
   at: '2013-04-04'
-- type: updated
-  at: '2022-07-08'
 contributor:
 - role:
   - type: publisher

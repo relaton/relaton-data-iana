@@ -17,8 +17,6 @@ docnumber: rpcbind-transport-parameters/rpcbind-transport-parameters-1
 date:
 - type: created
   at: '2006-11-08'
-- type: updated
-  at: '2011-10-06'
 contributor:
 - role:
   - type: publisher

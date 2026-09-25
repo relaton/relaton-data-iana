@@ -17,8 +17,6 @@ docnumber: dots/dots-signal-channel-status-codes
 date:
 - type: created
   at: '2020-01-16'
-- type: updated
-  at: '2023-03-03'
 contributor:
 - role:
   - type: publisher

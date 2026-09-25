@@ -17,8 +17,6 @@ docnumber: reload/overlay-link-types
 date:
 - type: created
   at: '2013-03-26'
-- type: updated
-  at: '2017-03-24'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: bundle/bpsec-bcb-aes-gcm-aad-scope
 date:
 - type: created
   at: '2011-03-24'
-- type: updated
-  at: '2025-01-21'
 contributor:
 - role:
   - type: publisher

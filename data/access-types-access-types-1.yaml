@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: access-types/access-types-1
-date:
-- type: updated
-  at: '2010-04-29'
 contributor:
 - role:
   - type: publisher

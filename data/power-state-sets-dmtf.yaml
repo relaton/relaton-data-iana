@@ -17,8 +17,6 @@ docnumber: power-state-sets/dmtf
 date:
 - type: created
   at: '2014-05-28'
-- type: updated
-  at: '2014-09-05'
 contributor:
 - role:
   - type: publisher

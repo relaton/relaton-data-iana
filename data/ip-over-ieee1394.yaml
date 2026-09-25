@@ -17,8 +17,6 @@ docnumber: ip-over-IEEE1394
 date:
 - type: created
   at: 2000-12
-- type: updated
-  at: '2009-06-08'
 contributor:
 - role:
   - type: publisher

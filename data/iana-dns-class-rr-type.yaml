@@ -17,8 +17,6 @@ docnumber: iana-dns-class-rr-type
 date:
 - type: created
   at: '2021-06-23'
-- type: updated
-  at: '2024-12-10'
 contributor:
 - role:
   - type: publisher

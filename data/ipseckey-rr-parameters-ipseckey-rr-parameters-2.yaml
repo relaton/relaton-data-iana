@@ -17,8 +17,6 @@ docnumber: ipseckey-rr-parameters/ipseckey-rr-parameters-2
 date:
 - type: created
   at: '2004-12-20'
-- type: updated
-  at: '2023-03-15'
 contributor:
 - role:
   - type: publisher

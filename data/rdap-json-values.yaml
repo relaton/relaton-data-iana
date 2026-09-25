@@ -17,8 +17,6 @@ docnumber: rdap-json-values
 date:
 - type: created
   at: '2015-01-12'
-- type: updated
-  at: '2024-12-06'
 contributor:
 - role:
   - type: publisher

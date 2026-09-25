@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: machine-names/machine-names-1
-date:
-- type: updated
-  at: '2001-08-23'
 contributor:
 - role:
   - type: publisher

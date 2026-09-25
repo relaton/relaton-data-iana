@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: pop3-extension-mechanism
-date:
-- type: updated
-  at: '2013-03-13'
 contributor:
 - role:
   - type: publisher

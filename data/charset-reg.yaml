@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: charset-reg
-date:
-- type: updated
-  at: '2023-01-16'
 contributor:
 - role:
   - type: publisher

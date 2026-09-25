@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: acap-registrations/acap-registrations-1
-date:
-- type: updated
-  at: '2024-04-19'
 contributor:
 - role:
   - type: publisher

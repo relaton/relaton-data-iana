@@ -17,8 +17,6 @@ docnumber: special-registry
 date:
 - type: created
   at: '2003-06-25'
-- type: updated
-  at: '2021-04-30'
 contributor:
 - role:
   - type: publisher

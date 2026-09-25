@@ -17,8 +17,6 @@ docnumber: amtrelay-resource-record/relay-type-field
 date:
 - type: created
   at: '2019-12-23'
-- type: updated
-  at: '2021-10-08'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: _6lowpan-parameters/_6lowpan-parameters-2
 date:
 - type: created
   at: '2007-05-02'
-- type: updated
-  at: '2025-03-19'
 contributor:
 - role:
   - type: publisher

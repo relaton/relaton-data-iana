@@ -17,8 +17,6 @@ docnumber: nvo3/geneve-option-class
 date:
 - type: created
   at: '2020-05-04'
-- type: updated
-  at: '2024-12-20'
 contributor:
 - role:
   - type: publisher

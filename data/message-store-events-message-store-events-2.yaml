@@ -17,8 +17,6 @@ docnumber: message-store-events/message-store-events-2
 date:
 - type: created
   at: '2008-12-04'
-- type: updated
-  at: '2009-03-27'
 contributor:
 - role:
   - type: publisher

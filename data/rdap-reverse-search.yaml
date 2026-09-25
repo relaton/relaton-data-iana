@@ -17,8 +17,6 @@ docnumber: rdap-reverse-search
 date:
 - type: created
   at: '2023-10-02'
-- type: updated
-  at: '2024-10-28'
 contributor:
 - role:
   - type: publisher

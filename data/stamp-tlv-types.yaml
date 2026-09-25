@@ -17,8 +17,6 @@ docnumber: stamp-tlv-types
 date:
 - type: created
   at: '2020-11-19'
-- type: updated
-  at: '2024-02-01'
 contributor:
 - role:
   - type: publisher

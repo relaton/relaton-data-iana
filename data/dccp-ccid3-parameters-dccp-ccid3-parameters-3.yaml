@@ -17,8 +17,6 @@ docnumber: dccp-ccid3-parameters/dccp-ccid3-parameters-3
 date:
 - type: created
   at: '2005-08-26'
-- type: updated
-  at: '2011-08-01'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: urlauth-authorization-mechanism-registry/urlauth-authorization-mechan
 date:
 - type: created
   at: '2006-04-20'
-- type: updated
-  at: '2006-08-03'
 contributor:
 - role:
   - type: publisher

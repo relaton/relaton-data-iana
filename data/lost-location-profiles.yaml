@@ -17,8 +17,6 @@ docnumber: lost-location-profiles
 date:
 - type: created
   at: '2008-06-10'
-- type: updated
-  at: '2021-08-16'
 contributor:
 - role:
   - type: publisher

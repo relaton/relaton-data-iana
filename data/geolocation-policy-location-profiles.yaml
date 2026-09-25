@@ -17,8 +17,6 @@ docnumber: geolocation-policy/location-profiles
 date:
 - type: created
   at: '2012-09-06'
-- type: updated
-  at: '2013-01-11'
 contributor:
 - role:
   - type: publisher

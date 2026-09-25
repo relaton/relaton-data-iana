@@ -17,8 +17,6 @@ docnumber: dccp-ccid2-parameters
 date:
 - type: created
   at: '2005-08-26'
-- type: updated
-  at: '2006-05-11'
 contributor:
 - role:
   - type: publisher

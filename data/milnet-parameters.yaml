@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: milnet-parameters
-date:
-- type: updated
-  at: '2001-08-23'
 contributor:
 - role:
   - type: publisher

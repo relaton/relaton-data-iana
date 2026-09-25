@@ -17,8 +17,6 @@ docnumber: bgp-data-collection-communities-std
 date:
 - type: created
   at: '2005-11-22'
-- type: updated
-  at: '2006-02-23'
 contributor:
 - role:
   - type: publisher

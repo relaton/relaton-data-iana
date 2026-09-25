@@ -17,8 +17,6 @@ docnumber: bgp-spf/bgp-ls-spf-link-nlri-attribute
 date:
 - type: created
   at: '2025-01-28'
-- type: updated
-  at: '2025-01-28'
 contributor:
 - role:
   - type: publisher

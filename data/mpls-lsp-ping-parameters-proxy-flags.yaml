@@ -17,8 +17,6 @@ docnumber: mpls-lsp-ping-parameters/proxy-flags
 date:
 - type: created
   at: '2006-01-12'
-- type: updated
-  at: '2025-03-10'
 contributor:
 - role:
   - type: publisher

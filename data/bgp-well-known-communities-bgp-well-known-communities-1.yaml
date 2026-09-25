@@ -17,8 +17,6 @@ docnumber: bgp-well-known-communities/bgp-well-known-communities-1
 date:
 - type: created
   at: '2004-01-16'
-- type: updated
-  at: '2024-12-13'
 contributor:
 - role:
   - type: publisher

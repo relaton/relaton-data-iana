@@ -17,8 +17,6 @@ docnumber: te-types/rfc-4973-experimental-te-lsa-types
 date:
 - type: created
   at: '2005-07-27'
-- type: updated
-  at: '2007-08-01'
 contributor:
 - role:
   - type: publisher

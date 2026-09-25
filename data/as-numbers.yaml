@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: as-numbers
-date:
-- type: updated
-  at: '2025-01-17'
 contributor:
 - role:
   - type: publisher

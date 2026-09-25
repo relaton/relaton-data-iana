@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: smi-numbers/smi-numbers-21
-date:
-- type: updated
-  at: '2025-02-12'
 contributor:
 - role:
   - type: publisher

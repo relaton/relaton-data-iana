@@ -17,8 +17,6 @@ docnumber: eap-gpsk-parameters/eap-gpsk-parameters-2
 date:
 - type: created
   at: '2008-12-18'
-- type: updated
-  at: '2009-02-25'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: pcim-oids/pcim-oids-1
 date:
 - type: created
   at: '2003-03-11'
-- type: updated
-  at: '2006-09-25'
 contributor:
 - role:
   - type: publisher

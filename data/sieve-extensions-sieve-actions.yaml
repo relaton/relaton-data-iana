@@ -17,8 +17,6 @@ docnumber: sieve-extensions/sieve-actions
 date:
 - type: created
   at: 2000-11
-- type: updated
-  at: '2024-10-15'
 contributor:
 - role:
   - type: publisher

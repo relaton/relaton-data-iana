@@ -17,8 +17,6 @@ docnumber: detnet-ach-flags/detnet-associated-channel-header-flags
 date:
 - type: created
   at: '2024-01-22'
-- type: updated
-  at: '2024-03-01'
 contributor:
 - role:
   - type: publisher

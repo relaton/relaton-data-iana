@@ -17,8 +17,6 @@ docnumber: clue/personType
 date:
 - type: created
   at: '2016-09-06'
-- type: updated
-  at: '2021-02-05'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: cdni-parameters/metadata-footprint-types
 date:
 - type: created
   at: '2015-10-22'
-- type: updated
-  at: '2025-01-23'
 contributor:
 - role:
   - type: publisher

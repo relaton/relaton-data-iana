@@ -17,8 +17,6 @@ docnumber: dns-svcb/dns-svcparamkeys
 date:
 - type: created
   at: '2022-05-26'
-- type: updated
-  at: '2025-03-20'
 contributor:
 - role:
   - type: publisher

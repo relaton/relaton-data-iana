@@ -17,8 +17,6 @@ docnumber: geo-uri-parameters/geo-uri-parameters-1
 date:
 - type: created
   at: '2010-04-20'
-- type: updated
-  at: '2010-06-07'
 contributor:
 - role:
   - type: publisher

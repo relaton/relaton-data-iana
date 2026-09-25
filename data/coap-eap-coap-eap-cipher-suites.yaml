@@ -17,8 +17,6 @@ docnumber: coap-eap/coap-eap-cipher-suites
 date:
 - type: created
   at: '2025-02-14'
-- type: updated
-  at: '2025-02-14'
 contributor:
 - role:
   - type: publisher

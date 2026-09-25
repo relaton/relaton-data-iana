@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: directory-system-names/directory-system-names-1
-date:
-- type: updated
-  at: '2006-08-10'
 contributor:
 - role:
   - type: publisher

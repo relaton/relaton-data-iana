@@ -17,8 +17,6 @@ docnumber: location-type-registry/location-type-registry-1
 date:
 - type: created
   at: '2006-06-19'
-- type: updated
-  at: '2024-07-08'
 contributor:
 - role:
   - type: publisher

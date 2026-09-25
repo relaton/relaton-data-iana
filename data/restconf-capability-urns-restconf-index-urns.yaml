@@ -17,8 +17,6 @@ docnumber: restconf-capability-urns/restconf-index-urns
 date:
 - type: created
   at: '2016-11-03'
-- type: updated
-  at: '2019-03-07'
 contributor:
 - role:
   - type: publisher

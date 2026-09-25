@@ -17,8 +17,6 @@ docnumber: emergency-call-metadata-control-data
 date:
 - type: created
   at: '2017-02-24'
-- type: updated
-  at: '2017-05-18'
 contributor:
 - role:
   - type: publisher

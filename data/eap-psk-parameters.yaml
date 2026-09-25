@@ -17,8 +17,6 @@ docnumber: eap-psk-parameters
 date:
 - type: created
   at: '2006-10-16'
-- type: updated
-  at: '2013-07-26'
 contributor:
 - role:
   - type: publisher

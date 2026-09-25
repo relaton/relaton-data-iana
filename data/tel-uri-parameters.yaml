@@ -17,8 +17,6 @@ docnumber: tel-uri-parameters
 date:
 - type: created
   at: '2008-07-10'
-- type: updated
-  at: '2023-05-03'
 contributor:
 - role:
   - type: publisher

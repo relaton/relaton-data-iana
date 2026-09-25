@@ -17,8 +17,6 @@ docnumber: secevent/subject-identifier-formats
 date:
 - type: created
   at: '2020-07-01'
-- type: updated
-  at: '2024-01-18'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: well-known-uris/well-known-uris-1
 date:
 - type: created
   at: '2010-01-20'
-- type: updated
-  at: '2025-04-04'
 contributor:
 - role:
   - type: publisher

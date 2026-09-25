@@ -17,8 +17,6 @@ docnumber: bpf-instructions
 date:
 - type: created
   at: '2024-07-12'
-- type: updated
-  at: '2024-11-22'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: route-distinguisher-types
 date:
 - type: created
   at: '2005-02-15'
-- type: updated
-  at: '2015-05-15'
 contributor:
 - role:
   - type: publisher

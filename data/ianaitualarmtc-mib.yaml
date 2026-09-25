@@ -17,8 +17,6 @@ docnumber: ianaitualarmtc-mib
 date:
 - type: created
   at: '2004-09-09'
-- type: updated
-  at: '2014-05-22'
 contributor:
 - role:
   - type: publisher

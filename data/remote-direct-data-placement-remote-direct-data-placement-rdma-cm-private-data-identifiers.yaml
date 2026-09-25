@@ -17,8 +17,6 @@ docnumber: remote-direct-data-placement/remote-direct-data-placement-rdma-cm-pri
 date:
 - type: created
   at: '2020-03-02'
-- type: updated
-  at: '2023-04-25'
 contributor:
 - role:
   - type: publisher

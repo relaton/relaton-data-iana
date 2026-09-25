@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: apex
-date:
-- type: updated
-  at: '2009-06-03'
 contributor:
 - role:
   - type: publisher

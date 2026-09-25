@@ -17,8 +17,6 @@ docnumber: dns-sshfp-rr-parameters/dns-sshfp-rr-parameters-1
 date:
 - type: created
   at: '2003-09-19'
-- type: updated
-  at: '2020-02-25'
 contributor:
 - role:
   - type: publisher

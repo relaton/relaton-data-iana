@@ -17,8 +17,6 @@ docnumber: leighton-micali-signatures/lm-ots-signatures
 date:
 - type: created
   at: '2019-02-01'
-- type: updated
-  at: '2025-02-27'
 contributor:
 - role:
   - type: publisher

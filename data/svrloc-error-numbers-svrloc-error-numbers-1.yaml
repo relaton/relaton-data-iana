@@ -17,8 +17,6 @@ docnumber: svrloc-error-numbers/svrloc-error-numbers-1
 date:
 - type: created
   at: '2003-04-01'
-- type: updated
-  at: '2003-04-02'
 contributor:
 - role:
   - type: publisher

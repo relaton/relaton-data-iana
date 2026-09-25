@@ -17,8 +17,6 @@ docnumber: shim6/options
 date:
 - type: created
   at: '2009-03-18'
-- type: updated
-  at: '2009-06-18'
 contributor:
 - role:
   - type: publisher

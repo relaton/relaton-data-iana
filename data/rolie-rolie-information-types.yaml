@@ -17,8 +17,6 @@ docnumber: rolie/rolie-information-types
 date:
 - type: created
   at: '2017-12-21'
-- type: updated
-  at: '2024-10-02'
 contributor:
 - role:
   - type: publisher

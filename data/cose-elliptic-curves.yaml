@@ -17,8 +17,6 @@ docnumber: cose/elliptic-curves
 date:
 - type: created
   at: '2017-01-11'
-- type: updated
-  at: '2025-03-05'
 contributor:
 - role:
   - type: publisher

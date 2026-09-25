@@ -17,8 +17,6 @@ docnumber: tzdist-identifiers/identifiers
 date:
 - type: created
   at: '2015-08-05'
-- type: updated
-  at: '2016-04-04'
 contributor:
 - role:
   - type: publisher

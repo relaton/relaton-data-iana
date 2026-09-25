@@ -17,8 +17,6 @@ docnumber: ppspp/content-integrity-protection
 date:
 - type: created
   at: '2015-04-05'
-- type: updated
-  at: '2015-07-13'
 contributor:
 - role:
   - type: publisher

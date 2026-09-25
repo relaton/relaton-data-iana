@@ -17,8 +17,6 @@ docnumber: email-auth/email-auth-result-names
 date:
 - type: created
   at: '2009-01-30'
-- type: updated
-  at: '2025-04-04'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: starttls-validation-result-types
 date:
 - type: created
   at: '2018-06-14'
-- type: updated
-  at: '2018-09-28'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: about-uri-tokens/about-uri-tokens
 date:
 - type: created
   at: '2012-06-12'
-- type: updated
-  at: '2016-09-06'
 contributor:
 - role:
   - type: publisher

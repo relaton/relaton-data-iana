@@ -17,8 +17,6 @@ docnumber: media-type-structured-suffix
 date:
 - type: created
   at: '2012-07-20'
-- type: updated
-  at: '2024-11-26'
 contributor:
 - role:
   - type: publisher

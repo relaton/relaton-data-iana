@@ -17,8 +17,6 @@ docnumber: enum-services/enum-services-1
 date:
 - type: created
   at: '2004-03-12'
-- type: updated
-  at: '2022-01-28'
 contributor:
 - role:
   - type: publisher

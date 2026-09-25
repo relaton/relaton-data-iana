@@ -17,8 +17,6 @@ docnumber: whip/whip-urns
 date:
 - type: created
   at: '2024-08-27'
-- type: updated
-  at: '2025-03-27'
 contributor:
 - role:
   - type: publisher

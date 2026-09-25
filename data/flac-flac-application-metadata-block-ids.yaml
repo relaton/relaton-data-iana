@@ -17,8 +17,6 @@ docnumber: flac/flac-application-metadata-block-ids
 date:
 - type: created
   at: '2024-03-01'
-- type: updated
-  at: '2024-12-19'
 contributor:
 - role:
   - type: publisher

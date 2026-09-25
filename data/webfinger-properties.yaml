@@ -17,8 +17,6 @@ docnumber: webfinger/properties
 date:
 - type: created
   at: '2013-09-06'
-- type: updated
-  at: '2013-10-01'
 contributor:
 - role:
   - type: publisher

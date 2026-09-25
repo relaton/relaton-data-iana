@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: rip-types/rip-types-2
-date:
-- type: updated
-  at: '2018-06-12'
 contributor:
 - role:
   - type: publisher

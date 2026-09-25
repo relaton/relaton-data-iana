@@ -17,8 +17,6 @@ docnumber: tcp-convert-protocol-parameters/convert-errors
 date:
 - type: created
   at: '2020-03-27'
-- type: updated
-  at: '2020-07-31'
 contributor:
 - role:
   - type: publisher

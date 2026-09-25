@@ -17,8 +17,6 @@ docnumber: rpl/transit-info-option-flags
 date:
 - type: created
   at: '2011-04-08'
-- type: updated
-  at: '2025-03-20'
 contributor:
 - role:
   - type: publisher

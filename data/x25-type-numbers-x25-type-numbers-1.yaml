@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: x25-type-numbers/x25-type-numbers-1
-date:
-- type: updated
-  at: '2007-08-30'
 contributor:
 - role:
   - type: publisher

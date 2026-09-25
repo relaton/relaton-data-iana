@@ -17,8 +17,6 @@ docnumber: capwap-parameters/capwap-parameters-24
 date:
 - type: created
   at: '2008-12-04'
-- type: updated
-  at: '2023-06-06'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: ipv6-interface-ids
 date:
 - type: created
   at: '2008-12-24'
-- type: updated
-  at: '2014-02-13'
 contributor:
 - role:
   - type: publisher

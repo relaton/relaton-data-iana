@@ -17,8 +17,6 @@ docnumber: dns-key-rr/dns-key-rr-1
 date:
 - type: created
   at: '2002-11-07'
-- type: updated
-  at: '2009-04-03'
 contributor:
 - role:
   - type: publisher

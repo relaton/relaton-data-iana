@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: ethernet-numbers/iana-lldp-tlv-subtypes
-date:
-- type: updated
-  at: '2024-05-02'
 contributor:
 - role:
   - type: publisher

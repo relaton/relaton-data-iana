@@ -17,8 +17,6 @@ docnumber: mrt-parameters
 date:
 - type: created
   at: '2016-02-26'
-- type: updated
-  at: '2016-06-20'
 contributor:
 - role:
   - type: publisher

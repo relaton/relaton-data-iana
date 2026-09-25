@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: media-feature-tags/media-feature-tags-3
-date:
-- type: updated
-  at: '2023-03-13'
 contributor:
 - role:
   - type: publisher

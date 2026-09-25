@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: cont-disp/cont-disp-3
-date:
-- type: updated
-  at: '2021-09-14'
 contributor:
 - role:
   - type: publisher

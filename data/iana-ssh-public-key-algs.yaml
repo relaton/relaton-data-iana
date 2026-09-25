@@ -17,8 +17,6 @@ docnumber: iana-ssh-public-key-algs
 date:
 - type: created
   at: '2024-03-26'
-- type: updated
-  at: '2024-11-07'
 contributor:
 - role:
   - type: publisher

@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: gstn-extensions
-date:
-- type: updated
-  at: '2009-07-27'
 contributor:
 - role:
   - type: publisher

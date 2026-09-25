@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: mdn
-date:
-- type: updated
-  at: '2017-03-03'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: senml/secondary-units
 date:
 - type: created
   at: '2018-06-01'
-- type: updated
-  at: '2025-03-27'
 contributor:
 - role:
   - type: publisher

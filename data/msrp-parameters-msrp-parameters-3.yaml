@@ -17,8 +17,6 @@ docnumber: msrp-parameters/msrp-parameters-3
 date:
 - type: created
   at: '2007-04-27'
-- type: updated
-  at: '2015-12-18'
 contributor:
 - role:
   - type: publisher

@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: ppp-numbers/ppp-numbers-8
-date:
-- type: updated
-  at: '2021-04-22'
 contributor:
 - role:
   - type: publisher

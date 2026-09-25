@@ -17,8 +17,6 @@ docnumber: evpn
 date:
 - type: created
   at: '2014-10-21'
-- type: updated
-  at: '2024-05-28'
 contributor:
 - role:
   - type: publisher

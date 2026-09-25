@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: arp-parameters
-date:
-- type: updated
-  at: '2023-05-19'
 contributor:
 - role:
   - type: publisher

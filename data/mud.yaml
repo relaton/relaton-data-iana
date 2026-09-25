@@ -17,8 +17,6 @@ docnumber: mud
 date:
 - type: created
   at: '2018-06-27'
-- type: updated
-  at: '2024-09-12'
 contributor:
 - role:
   - type: publisher

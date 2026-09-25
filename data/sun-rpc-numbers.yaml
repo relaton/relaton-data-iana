@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: sun-rpc-numbers
-date:
-- type: updated
-  at: '2011-06-13'
 contributor:
 - role:
   - type: publisher

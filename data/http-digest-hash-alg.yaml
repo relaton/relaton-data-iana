@@ -17,8 +17,6 @@ docnumber: http-digest-hash-alg
 date:
 - type: created
   at: '2023-07-27'
-- type: updated
-  at: '2024-05-22'
 contributor:
 - role:
   - type: publisher

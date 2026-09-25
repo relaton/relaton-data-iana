@@ -17,8 +17,6 @@ docnumber: isis-tlv-codepoints/isis-srv6-locator-tlv-flags
 date:
 - type: created
   at: '2003-05-06'
-- type: updated
-  at: '2025-03-03'
 contributor:
 - role:
   - type: publisher

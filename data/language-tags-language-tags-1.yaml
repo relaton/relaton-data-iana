@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: language-tags/language-tags-1
-date:
-- type: updated
-  at: '2024-12-20'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: precis-tables-6.3.0
 date:
 - type: created
   at: '2015-03-23'
-- type: updated
-  at: '2017-10-06'
 contributor:
 - role:
   - type: publisher

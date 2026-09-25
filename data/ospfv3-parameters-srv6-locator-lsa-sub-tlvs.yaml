@@ -17,8 +17,6 @@ docnumber: ospfv3-parameters/srv6-locator-lsa-sub-tlvs
 date:
 - type: created
   at: '2007-04-25'
-- type: updated
-  at: '2025-03-03'
 contributor:
 - role:
   - type: publisher

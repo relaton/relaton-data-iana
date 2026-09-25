@@ -17,8 +17,6 @@ docnumber: fedfs-parameters/oids
 date:
 - type: created
   at: '2012-12-23'
-- type: updated
-  at: '2015-03-30'
 contributor:
 - role:
   - type: publisher

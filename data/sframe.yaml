@@ -17,8 +17,6 @@ docnumber: sframe
 date:
 - type: created
   at: '2024-04-12'
-- type: updated
-  at: '2024-09-20'
 contributor:
 - role:
   - type: publisher

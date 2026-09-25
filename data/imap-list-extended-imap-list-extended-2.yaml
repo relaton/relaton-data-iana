@@ -17,8 +17,6 @@ docnumber: imap-list-extended/imap-list-extended-2
 date:
 - type: created
   at: '2006-10-19'
-- type: updated
-  at: '2024-06-05'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: rmt-fec-parameters/fecframe-fec-encoding-ids
 date:
 - type: created
   at: '2002-11-07'
-- type: updated
-  at: '2020-01-16'
 contributor:
 - role:
   - type: publisher

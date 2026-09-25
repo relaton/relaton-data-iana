@@ -17,8 +17,6 @@ docnumber: sdxf-parameters/sdxf-parameters-1
 date:
 - type: created
   at: '2001-02-02'
-- type: updated
-  at: '2002-03-14'
 contributor:
 - role:
   - type: publisher

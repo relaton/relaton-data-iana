@@ -17,8 +17,6 @@ docnumber: jms-uri-variants
 date:
 - type: created
   at: '2011-02-04'
-- type: updated
-  at: '2011-04-28'
 contributor:
 - role:
   - type: publisher

@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: tcp-parameters/mptcp-handshake
-date:
-- type: updated
-  at: '2025-03-26'
 contributor:
 - role:
   - type: publisher

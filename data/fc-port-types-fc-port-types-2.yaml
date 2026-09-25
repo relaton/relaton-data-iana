@@ -17,8 +17,6 @@ docnumber: fc-port-types/fc-port-types-2
 date:
 - type: created
   at: '2005-04-07'
-- type: updated
-  at: '2005-10-05'
 contributor:
 - role:
   - type: publisher

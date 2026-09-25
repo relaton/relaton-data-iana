@@ -17,8 +17,6 @@ docnumber: mobility-parameters/dsmip6-tls-packet-types
 date:
 - type: created
   at: '2004-02-23'
-- type: updated
-  at: '2024-11-06'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: kink-parameters/kink-parameters-6
 date:
 - type: created
   at: '2006-01-25'
-- type: updated
-  at: '2006-09-28'
 contributor:
 - role:
   - type: publisher

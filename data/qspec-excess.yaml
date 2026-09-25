@@ -17,8 +17,6 @@ docnumber: qspec/excess
 date:
 - type: created
   at: '2010-02-24'
-- type: updated
-  at: '2010-10-06'
 contributor:
 - role:
   - type: publisher

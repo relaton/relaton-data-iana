@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: character-sets
-date:
-- type: updated
-  at: '2024-06-06'
 contributor:
 - role:
   - type: publisher

@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: uri-schemes/ipn-scheme-uri-allocator-identifiers
-date:
-- type: updated
-  at: '2025-03-31'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: sctp-parameters/sctp-parameters-26
 date:
 - type: created
   at: 2000-10
-- type: updated
-  at: '2025-03-05'
 contributor:
 - role:
   - type: publisher

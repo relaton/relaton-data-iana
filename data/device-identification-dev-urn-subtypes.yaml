@@ -17,8 +17,6 @@ docnumber: device-identification/dev-urn-subtypes
 date:
 - type: created
   at: '2021-03-26'
-- type: updated
-  at: '2024-08-02'
 contributor:
 - role:
   - type: publisher

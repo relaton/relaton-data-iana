@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: icmp-parameters/icmp-parameters-codes
-date:
-- type: updated
-  at: '2024-12-06'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: cwt
 date:
 - type: created
   at: '2018-03-22'
-- type: updated
-  at: '2024-12-20'
 contributor:
 - role:
   - type: publisher

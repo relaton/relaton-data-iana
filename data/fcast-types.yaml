@@ -17,8 +17,6 @@ docnumber: fcast/types
 date:
 - type: created
   at: '2013-05-07'
-- type: updated
-  at: '2013-07-09'
 contributor:
 - role:
   - type: publisher

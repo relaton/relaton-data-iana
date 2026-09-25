@@ -17,8 +17,6 @@ docnumber: http-proxy-status
 date:
 - type: created
   at: '2021-10-22'
-- type: updated
-  at: '2024-03-25'
 contributor:
 - role:
   - type: publisher

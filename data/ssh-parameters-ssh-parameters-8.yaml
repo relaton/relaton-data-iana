@@ -17,8 +17,6 @@ docnumber: ssh-parameters/ssh-parameters-8
 date:
 - type: created
   at: '2005-06-02'
-- type: updated
-  at: '2025-02-18'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: rdap-query-purpose-values/rdap-query-purpose-values
 date:
 - type: created
   at: '2023-11-09'
-- type: updated
-  at: '2024-05-22'
 contributor:
 - role:
   - type: publisher

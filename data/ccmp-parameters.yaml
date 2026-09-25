@@ -17,8 +17,6 @@ docnumber: ccmp-parameters
 date:
 - type: created
   at: '2011-09-30'
-- type: updated
-  at: '2012-03-26'
 contributor:
 - role:
   - type: publisher

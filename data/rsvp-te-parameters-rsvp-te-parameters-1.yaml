@@ -17,8 +17,6 @@ docnumber: rsvp-te-parameters/rsvp-te-parameters-1
 date:
 - type: created
   at: '2006-01-23'
-- type: updated
-  at: '2019-07-17'
 contributor:
 - role:
   - type: publisher

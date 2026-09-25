@@ -17,8 +17,6 @@ docnumber: ianaippmmetricsregistry-mib
 date:
 - type: created
   at: '2005-04-12'
-- type: updated
-  at: '2015-08-14'
 contributor:
 - role:
   - type: publisher

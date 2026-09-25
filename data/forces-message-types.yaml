@@ -17,8 +17,6 @@ docnumber: forces/message-types
 date:
 - type: created
   at: '2009-03-12'
-- type: updated
-  at: '2017-02-23'
 contributor:
 - role:
   - type: publisher

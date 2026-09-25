@@ -17,8 +17,6 @@ docnumber: openpgp/openpgp-ecc-curve-oids-usage
 date:
 - type: created
   at: '2024-01-19'
-- type: updated
-  at: '2024-09-20'
 contributor:
 - role:
   - type: publisher

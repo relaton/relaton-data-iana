@@ -17,8 +17,6 @@ docnumber: ccnx/ccnx-name-segment-types
 date:
 - type: created
   at: '2019-02-11'
-- type: updated
-  at: '2024-04-19'
 contributor:
 - role:
   - type: publisher

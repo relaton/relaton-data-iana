@@ -17,8 +17,6 @@ docnumber: tls-parameters/heartbeat-message-types
 date:
 - type: created
   at: '2005-08-23'
-- type: updated
-  at: '2025-03-06'
 contributor:
 - role:
   - type: publisher

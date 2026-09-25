@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: http-parameters/range-units
-date:
-- type: updated
-  at: '2024-09-27'
 contributor:
 - role:
   - type: publisher

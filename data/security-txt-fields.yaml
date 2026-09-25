@@ -17,8 +17,6 @@ docnumber: security-txt-fields
 date:
 - type: created
   at: '2021-07-13'
-- type: updated
-  at: '2023-02-15'
 contributor:
 - role:
   - type: publisher

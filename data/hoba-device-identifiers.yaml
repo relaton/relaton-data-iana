@@ -17,8 +17,6 @@ docnumber: hoba-device-identifiers
 date:
 - type: created
   at: '2015-01-20'
-- type: updated
-  at: '2015-03-11'
 contributor:
 - role:
   - type: publisher

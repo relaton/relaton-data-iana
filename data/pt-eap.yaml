@@ -17,8 +17,6 @@ docnumber: pt-eap
 date:
 - type: created
   at: '2013-04-15'
-- type: updated
-  at: '2014-05-12'
 contributor:
 - role:
   - type: publisher

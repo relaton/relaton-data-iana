@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: sgmp-vendor-specific-codes
-date:
-- type: updated
-  at: '2001-05-10'
 contributor:
 - role:
   - type: publisher

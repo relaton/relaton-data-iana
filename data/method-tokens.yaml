@@ -17,8 +17,6 @@ docnumber: method-tokens
 date:
 - type: created
   at: '2004-11-03'
-- type: updated
-  at: '2022-09-15'
 contributor:
 - role:
   - type: publisher

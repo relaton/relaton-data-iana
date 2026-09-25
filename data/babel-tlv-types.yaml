@@ -17,8 +17,6 @@ docnumber: babel/tlv-types
 date:
 - type: created
   at: '2015-04-14'
-- type: updated
-  at: '2024-11-25'
 contributor:
 - role:
   - type: publisher

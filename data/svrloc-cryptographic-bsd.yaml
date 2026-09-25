@@ -17,8 +17,6 @@ docnumber: svrloc-cryptographic-bsd
 date:
 - type: created
   at: '2003-04-01'
-- type: updated
-  at: '2005-10-25'
 contributor:
 - role:
   - type: publisher

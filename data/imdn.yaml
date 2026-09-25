@@ -17,8 +17,6 @@ docnumber: imdn
 date:
 - type: created
   at: '2008-12-19'
-- type: updated
-  at: '2009-02-18'
 contributor:
 - role:
   - type: publisher

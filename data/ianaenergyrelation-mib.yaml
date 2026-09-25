@@ -17,8 +17,6 @@ docnumber: ianaenergyrelation-mib
 date:
 - type: created
   at: '2014-12-29'
-- type: updated
-  at: '2015-03-26'
 contributor:
 - role:
   - type: publisher

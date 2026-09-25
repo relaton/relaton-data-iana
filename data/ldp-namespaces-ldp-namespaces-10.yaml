@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: ldp-namespaces/ldp-namespaces-10
-date:
-- type: updated
-  at: '2024-11-01'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: ftp-commands-extensions/ftp-commands-extensions-2
 date:
 - type: created
   at: '2010-01-07'
-- type: updated
-  at: '2024-04-22'
 contributor:
 - role:
   - type: publisher

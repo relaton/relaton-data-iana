@@ -17,8 +17,6 @@ docnumber: sip-table
 date:
 - type: created
   at: '2002-05-07'
-- type: updated
-  at: '2014-01-31'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: locally-served-dns-zones/ipv6
 date:
 - type: created
   at: '2011-06-10'
-- type: updated
-  at: '2024-09-05'
 contributor:
 - role:
   - type: publisher

@@ -17,8 +17,6 @@ docnumber: aaa-parameters/qos-profile
 date:
 - type: created
   at: '2003-04-08'
-- type: updated
-  at: '2024-08-06'
 contributor:
 - role:
   - type: publisher

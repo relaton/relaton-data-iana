@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: address-family-numbers/address-family-numbers-2
-date:
-- type: updated
-  at: '2023-12-22'
 contributor:
 - role:
   - type: publisher

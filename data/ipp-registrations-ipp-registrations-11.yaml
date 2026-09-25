@@ -17,8 +17,6 @@ docnumber: ipp-registrations/ipp-registrations-11
 date:
 - type: created
   at: '2002-07-15'
-- type: updated
-  at: '2024-10-09'
 contributor:
 - role:
   - type: publisher

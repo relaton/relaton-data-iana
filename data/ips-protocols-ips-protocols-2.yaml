@@ -17,8 +17,6 @@ docnumber: ips-protocols/ips-protocols-2
 date:
 - type: created
   at: '2003-03-13'
-- type: updated
-  at: '2011-06-06'
 contributor:
 - role:
   - type: publisher

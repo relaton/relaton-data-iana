@@ -17,8 +17,6 @@ docnumber: os-specific-parameters/fact-names
 date:
 - type: created
   at: '2003-10-31'
-- type: updated
-  at: '2024-06-11'
 contributor:
 - role:
   - type: publisher

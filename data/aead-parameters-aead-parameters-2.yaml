@@ -17,8 +17,6 @@ docnumber: aead-parameters/aead-parameters-2
 date:
 - type: created
   at: '2007-11-14'
-- type: updated
-  at: '2023-12-01'
 contributor:
 - role:
   - type: publisher

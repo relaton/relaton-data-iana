@@ -17,8 +17,6 @@ docnumber: gmpls-sig-parameters/grid
 date:
 - type: created
   at: '2002-11-08'
-- type: updated
-  at: '2020-07-23'
 contributor:
 - role:
   - type: publisher

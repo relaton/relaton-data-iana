@@ -17,8 +17,6 @@ docnumber: nfsv4-recallable-object-types
 date:
 - type: created
   at: '2009-01-16'
-- type: updated
-  at: '2023-02-21'
 contributor:
 - role:
   - type: publisher

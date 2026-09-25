@@ -17,8 +17,6 @@ docnumber: rtcp-xr-block-types
 date:
 - type: created
   at: '2003-08-29'
-- type: updated
-  at: '2022-01-31'
 contributor:
 - role:
   - type: publisher

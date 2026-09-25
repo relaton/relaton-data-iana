@@ -17,8 +17,6 @@ docnumber: post-stack-first-nibble
 date:
 - type: created
   at: '2024-12-16'
-- type: updated
-  at: '2024-12-16'
 contributor:
 - role:
   - type: publisher

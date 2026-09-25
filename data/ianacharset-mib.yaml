@@ -17,8 +17,6 @@ docnumber: ianacharset-mib
 date:
 - type: created
   at: '2004-06-08'
-- type: updated
-  at: '2021-01-04'
 contributor:
 - role:
   - type: publisher

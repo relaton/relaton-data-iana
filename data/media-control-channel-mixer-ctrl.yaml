@@ -17,8 +17,6 @@ docnumber: media-control-channel/Mixer-ctrl
 date:
 - type: created
   at: '2011-03-08'
-- type: updated
-  at: '2013-04-15'
 contributor:
 - role:
   - type: publisher

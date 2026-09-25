@@ -17,8 +17,6 @@ docnumber: sdf/sdf-feature-names
 date:
 - type: created
   at: '2025-03-27'
-- type: updated
-  at: '2025-04-07'
 contributor:
 - role:
   - type: publisher

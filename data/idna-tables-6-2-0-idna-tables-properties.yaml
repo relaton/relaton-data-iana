@@ -17,8 +17,6 @@ docnumber: idna-tables-6.2.0/idna-tables-properties
 date:
 - type: created
   at: '2010-03-31'
-- type: updated
-  at: '2022-02-17'
 contributor:
 - role:
   - type: publisher

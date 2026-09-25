@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: mail-encoding
-date:
-- type: updated
-  at: '2009-03-24'
 contributor:
 - role:
   - type: publisher

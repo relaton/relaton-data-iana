@@ -17,8 +17,6 @@ docnumber: lisp-parameters/lisp-algorithm-id-numbers
 date:
 - type: created
   at: '2012-04-25'
-- type: updated
-  at: '2024-12-06'
 contributor:
 - role:
   - type: publisher

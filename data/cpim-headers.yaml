@@ -17,8 +17,6 @@ docnumber: cpim-headers
 date:
 - type: created
   at: '2003-12-15'
-- type: updated
-  at: '2004-09-24'
 contributor:
 - role:
   - type: publisher

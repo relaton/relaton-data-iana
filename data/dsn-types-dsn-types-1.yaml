@@ -17,8 +17,6 @@ docnumber: dsn-types/dsn-types-1
 date:
 - type: created
   at: '2002-11-07'
-- type: updated
-  at: '2016-05-20'
 contributor:
 - role:
   - type: publisher

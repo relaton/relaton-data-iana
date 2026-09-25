@@ -17,8 +17,6 @@ docnumber: version-symbols
 date:
 - type: created
   at: '2001-09-06'
-- type: updated
-  at: '2023-02-21'
 contributor:
 - role:
   - type: publisher

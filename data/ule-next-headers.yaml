@@ -17,8 +17,6 @@ docnumber: ule-next-headers
 date:
 - type: created
   at: '2005-09-13'
-- type: updated
-  at: '2014-08-07'
 contributor:
 - role:
   - type: publisher

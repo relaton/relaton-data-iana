@@ -17,8 +17,6 @@ docnumber: safi-namespace
 date:
 - type: created
   at: 2000-07
-- type: updated
-  at: '2025-03-19'
 contributor:
 - role:
   - type: publisher

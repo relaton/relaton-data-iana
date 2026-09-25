@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: rpl-routing-metric-constraint/hop-count-object-flag
-date:
-- type: updated
-  at: '2012-03-28'
 contributor:
 - role:
   - type: publisher

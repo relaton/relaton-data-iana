@@ -17,8 +17,6 @@ docnumber: iana-dots-signal-channel
 date:
 - type: created
   at: '2020-01-16'
-- type: updated
-  at: '2022-01-28'
 contributor:
 - role:
   - type: publisher

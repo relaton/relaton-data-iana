@@ -17,8 +17,6 @@ docnumber: ace/oauth-access-token-type-cbor-mappings
 date:
 - type: created
   at: '2021-07-27'
-- type: updated
-  at: '2024-10-25'
 contributor:
 - role:
   - type: publisher

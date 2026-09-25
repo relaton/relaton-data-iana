@@ -17,8 +17,6 @@ docnumber: uuid/uuid-subtypes
 date:
 - type: created
   at: '2023-11-17'
-- type: updated
-  at: '2024-05-22'
 contributor:
 - role:
   - type: publisher

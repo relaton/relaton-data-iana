@@ -17,8 +17,6 @@ docnumber: teap-parameters/status-codes
 date:
 - type: created
   at: '2014-01-24'
-- type: updated
-  at: '2024-06-21'
 contributor:
 - role:
   - type: publisher

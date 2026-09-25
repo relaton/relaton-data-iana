@@ -17,8 +17,6 @@ docnumber: tsig-algorithm-names
 date:
 - type: created
   at: 2000-09
-- type: updated
-  at: '2020-12-02'
 contributor:
 - role:
   - type: publisher

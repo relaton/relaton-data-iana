@@ -17,8 +17,6 @@ docnumber: mrcpv2-parameters/header-fields
 date:
 - type: created
   at: '2012-09-10'
-- type: updated
-  at: '2012-11-13'
 contributor:
 - role:
   - type: publisher

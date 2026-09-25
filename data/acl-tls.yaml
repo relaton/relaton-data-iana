@@ -17,8 +17,6 @@ docnumber: acl-tls
 date:
 - type: created
   at: '2024-09-12'
-- type: updated
-  at: '2024-09-12'
 contributor:
 - role:
   - type: publisher

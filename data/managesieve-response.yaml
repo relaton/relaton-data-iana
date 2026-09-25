@@ -17,8 +17,6 @@ docnumber: managesieve/response
 date:
 - type: created
   at: '2009-01-29'
-- type: updated
-  at: '2015-05-27'
 contributor:
 - role:
   - type: publisher

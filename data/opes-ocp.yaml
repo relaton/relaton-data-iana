@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: opes/ocp
-date:
-- type: updated
-  at: '2006-10-20'
 contributor:
 - role:
   - type: publisher

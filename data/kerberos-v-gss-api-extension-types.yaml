@@ -17,8 +17,6 @@ docnumber: kerberos-v-gss-api/extension-types
 date:
 - type: created
   at: '2012-01-06'
-- type: updated
-  at: '2014-03-03'
 contributor:
 - role:
   - type: publisher

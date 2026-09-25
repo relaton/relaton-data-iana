@@ -17,8 +17,6 @@ docnumber: webpush-parameters
 date:
 - type: created
   at: '2016-11-02'
-- type: updated
-  at: '2017-12-26'
 contributor:
 - role:
   - type: publisher

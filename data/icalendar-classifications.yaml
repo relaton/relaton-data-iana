@@ -17,8 +17,6 @@ docnumber: icalendar/classifications
 date:
 - type: created
   at: '2009-04-29'
-- type: updated
-  at: '2023-12-06'
 contributor:
 - role:
   - type: publisher

@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: ipv4-address-space
-date:
-- type: updated
-  at: '2023-12-18'
 contributor:
 - role:
   - type: publisher

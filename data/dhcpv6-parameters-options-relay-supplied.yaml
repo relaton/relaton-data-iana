@@ -17,8 +17,6 @@ docnumber: dhcpv6-parameters/options-relay-supplied
 date:
 - type: created
   at: '2003-11-03'
-- type: updated
-  at: '2024-12-05'
 contributor:
 - role:
   - type: publisher

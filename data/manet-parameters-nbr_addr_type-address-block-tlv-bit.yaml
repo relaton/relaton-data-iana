@@ -17,8 +17,6 @@ docnumber: manet-parameters/nbr_addr_type-address-block-tlv-bit
 date:
 - type: created
   at: '2008-12-23'
-- type: updated
-  at: '2022-01-28'
 contributor:
 - role:
   - type: publisher

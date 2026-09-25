@@ -17,8 +17,6 @@ docnumber: emergency-call-additional-data/service-environment
 date:
 - type: created
   at: '2015-12-10'
-- type: updated
-  at: '2022-09-20'
 contributor:
 - role:
   - type: publisher

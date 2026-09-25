@@ -17,8 +17,6 @@ docnumber: pcep/close-object-reason-field
 date:
 - type: created
   at: '2008-12-19'
-- type: updated
-  at: '2025-04-04'
 contributor:
 - role:
   - type: publisher

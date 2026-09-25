@@ -17,8 +17,6 @@ docnumber: multicast-ping
 date:
 - type: created
   at: '2011-10-31'
-- type: updated
-  at: '2011-12-09'
 contributor:
 - role:
   - type: publisher

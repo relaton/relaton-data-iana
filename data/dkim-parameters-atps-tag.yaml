@@ -17,8 +17,6 @@ docnumber: dkim-parameters/atps-tag
 date:
 - type: created
   at: '2007-03-08'
-- type: updated
-  at: '2018-07-06'
 contributor:
 - role:
   - type: publisher

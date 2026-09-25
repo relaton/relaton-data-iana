@@ -17,8 +17,6 @@ docnumber: ianabfdtcstd-mib
 date:
 - type: created
   at: '2014-06-06'
-- type: updated
-  at: '2015-01-08'
 contributor:
 - role:
   - type: publisher

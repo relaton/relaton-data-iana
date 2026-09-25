@@ -14,9 +14,6 @@ docidentifier:
   type: IANA
   primary: true
 docnumber: sig-alg-numbers/sig-alg-numbers-1
-date:
-- type: updated
-  at: '2003-11-03'
 contributor:
 - role:
   - type: publisher

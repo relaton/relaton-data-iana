@@ -17,8 +17,6 @@ docnumber: battery-technologies/technologies
 date:
 - type: created
   at: '2015-05-10'
-- type: updated
-  at: '2015-07-27'
 contributor:
 - role:
   - type: publisher

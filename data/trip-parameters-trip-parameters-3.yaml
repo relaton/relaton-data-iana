@@ -17,8 +17,6 @@ docnumber: trip-parameters/trip-parameters-3
 date:
 - type: created
   at: '2001-12-18'
-- type: updated
-  at: '2024-10-02'
 contributor:
 - role:
   - type: publisher
