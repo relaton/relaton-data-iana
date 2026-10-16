@@ -5,7 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'CLUE Schema '
+  content: CLUE Schema <presentation>
 source:
 - type: src
   content: https://www.iana.org/assignments/clue

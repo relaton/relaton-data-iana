@@ -5,7 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Region Identifiers ()
+  content: Region Identifiers (<R>)
 source:
 - type: src
   content: https://www.iana.org/assignments/bgp-data-collection-communities-std
