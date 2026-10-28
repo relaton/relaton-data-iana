@@ -65,33 +65,49 @@ module IanaIndexBuilder
     reference_rows(files: files).map { |row| row[:id] }
   end
 
-  # Reference ids that no data file carries -- ids lost to a filename collision.
+  # Reference rows whose file the crawl did not produce. Since the gem's
+  # `unique_output_file` a filename collision is disambiguated, and since
+  # relaton-iana#8/#9 a record-less registry's id deliberately ALIASES the
+  # record-bearing document's file, so a shared file is the design. A file
+  # the crawl never wrote is the only real loss.
   #
-  # @param [Array<Hash>] rows .rows output, `{ id:, file: }` hashes
-  # @param [Array<String>] ids .reference_ids output, plain id strings
-  def shadowed_ids(rows, ids)
-    ids - rows.map { |row| row[:id] }
+  # @param [Array<Hash>] data_rows .rows output, `{ id:, file: }` hashes
+  # @param [Array<Hash>] reference .reference_rows output
+  def lost_rows(data_rows, reference)
+    data_files = data_rows.map { |row| row[:file] }
+    reference.reject { |row| data_files.include?(row[:file]) }
+  end
+
+  # Reference ids the data tree carries only through another document's file:
+  # the fetcher's aliases for record-less registries (relaton-iana#8, #9).
+  # index-v1 carries them too, so a released-v2 consumer resolves either
+  # spelling to the same document.
+  #
+  # @param [Array<Hash>] data_rows .rows output
+  # @param [Array<Hash>] reference .reference_rows output
+  # @return [Array<Hash>] rows to append to the rebuilt index
+  def alias_rows(data_rows, reference)
+    data_ids = data_rows.map { |row| row[:id] }
+    data_files = data_rows.map { |row| row[:file] }
+    reference.reject { |row| data_ids.include?(row[:id]) }
+             .select { |row| data_files.include?(row[:file]) }
   end
 
   # Rebuild INDEX_V1 from the data/ tree.
   #
-  # Raises when a reference id has no data file of its own.
-  # `Relaton::Core::DataFetcher#output_file` collapses `/` and `-` to the same
-  # character, so `rpki/signed-objects` and `rpki-signed-objects` both map to
-  # `data/rpki-signed-objects.yaml`; `Relaton::Iana::DataFetcher#save_doc`
-  # detects the clash, warns, and then overwrites instead of disambiguating, so
-  # the first document is gone and its id is unbuildable from data/. That is a
-  # relaton bug, not something to route around here -- see the hand-off
-  # relaton__relaton__iana-output-file-collision.md.
+  # Raises when a reference id names a data file the crawl did not produce
+  # (an id lost to the crawl, not an alias); alias ids -- shared files by
+  # design -- are carried into the rebuilt index.
   def build_index_v1(file: INDEX_V1, glob: DATA_GLOB, reference_files: REFERENCE_FILES)
     # Read the reference before writing: it may BE `file` (pre-migration gem).
     reference = reference_rows(files: reference_files)
     data_rows = rows(glob: glob)
-    check_shadowed! data_rows, reference
+    check_lost! data_rows, reference
 
-    File.write file, data_rows.to_yaml
-    puts "index-v1: wrote #{data_rows.size} entries to #{file}"
-    data_rows
+    rows = data_rows + alias_rows(data_rows, reference)
+    File.write file, rows.to_yaml
+    puts "index-v1: wrote #{rows.size} entries to #{file}"
+    rows
   end
 
   # -- internals ------------------------------------------------------------
@@ -127,16 +143,13 @@ module IanaIndexBuilder
     id["sub_registry"] ? "#{number}/#{id['sub_registry']}" : number
   end
 
-  def check_shadowed!(data_rows, reference)
-    by_id = reference.to_h { |row| [row[:id], row[:file]] }
-    shadowed = shadowed_ids(data_rows, by_id.keys)
-    return if shadowed.empty?
+  def check_lost!(data_rows, reference)
+    lost = lost_rows(data_rows, reference)
+    return if lost.empty?
 
-    detail = shadowed.map { |id| "  #{id} -> #{by_id[id]}" }.join("\n")
-    raise Error, "index-v1: #{shadowed.size} id(s) have no data file of their " \
-                 "own -- distinct docnumbers collided on one filename and " \
-                 "Relaton::Iana::DataFetcher#save_doc overwrote instead of " \
-                 "disambiguating:\n#{detail}\nFix the collision in the relaton " \
-                 "gem, then re-run the crawl."
+    detail = lost.map { |row| "  #{row[:id]} -> #{row[:file]}" }.join("\n")
+    raise Error, "index-v1: #{lost.size} reference id(s) name data files the " \
+                 "crawl did not produce:\n#{detail}\nThe ids are lost, not " \
+                 "aliases -- diagnose the crawl, then re-run it."
   end
 end
