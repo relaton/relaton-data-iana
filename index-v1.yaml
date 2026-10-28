@@ -11,8 +11,6 @@
   :file: data/_6lowpan-parameters-esc-extension-types.yaml
 - :id: _6lowpan-parameters/lowpan_nhc
   :file: data/_6lowpan-parameters-lowpan_nhc.yaml
-- :id: _6lowpan-parameters
-  :file: data/_6lowpan-parameters.yaml
 - :id: _6tisch/_6tisch-6p-celloptions-bitmap
   :file: data/_6tisch-_6tisch-6p-celloptions-bitmap.yaml
 - :id: _6tisch/_6tisch-6p-command-identifiers
@@ -31,12 +29,8 @@
   :file: data/_6tisch-_6tisch-cojp-parameters.yaml
 - :id: _6tisch/_6tisch-cojp-unsupported-configuration-codes
   :file: data/_6tisch-_6tisch-cojp-unsupported-configuration-codes.yaml
-- :id: _6tisch
-  :file: data/_6tisch.yaml
 - :id: aaa-parameters/aaa-parameters-1
   :file: data/aaa-parameters-aaa-parameters-1.yaml
-- :id: aaa-parameters/aaa-parameters-2
-  :file: data/aaa-parameters-aaa-parameters-2.yaml
 - :id: aaa-parameters/aaa-parameters-44
   :file: data/aaa-parameters-aaa-parameters-44.yaml
 - :id: aaa-parameters/aaa-parameters-46
@@ -51,30 +45,18 @@
   :file: data/aaa-parameters-mip6-authentication-mode.yaml
 - :id: aaa-parameters/qos-profile
   :file: data/aaa-parameters-qos-profile.yaml
-- :id: aaa-parameters
-  :file: data/aaa-parameters.yaml
 - :id: abfab-parameters/urn-parameters
   :file: data/abfab-parameters-urn-parameters.yaml
-- :id: abfab-parameters
-  :file: data/abfab-parameters.yaml
 - :id: about-uri-tokens/about-uri-tokens
   :file: data/about-uri-tokens-about-uri-tokens.yaml
-- :id: about-uri-tokens
-  :file: data/about-uri-tokens.yaml
 - :id: acap-registrations/acap-registrations-1
   :file: data/acap-registrations-acap-registrations-1.yaml
 - :id: acap-registrations/acap-registrations-2
   :file: data/acap-registrations-acap-registrations-2.yaml
-- :id: acap-registrations/acap-registrations-3
-  :file: data/acap-registrations-acap-registrations-3.yaml
 - :id: acap-registrations/acap-registrations-4
   :file: data/acap-registrations-acap-registrations-4.yaml
-- :id: acap-registrations
-  :file: data/acap-registrations.yaml
 - :id: access-types/access-types-1
   :file: data/access-types-access-types-1.yaml
-- :id: access-types
-  :file: data/access-types.yaml
 - :id: ace/ace-authorization-server-request-creation-hints
   :file: data/ace-ace-authorization-server-request-creation-hints.yaml
 - :id: ace/ace-groupcomm-errors
@@ -109,16 +91,12 @@
   :file: data/ace-oscore-security-context-parameters.yaml
 - :id: ace/sequence-number-synchronization-methods
   :file: data/ace-sequence-number-synchronization-methods.yaml
-- :id: ace
-  :file: data/ace.yaml
 - :id: acl-tls/acl-dtls-parameters
   :file: data/acl-tls-acl-dtls-parameters.yaml
 - :id: acl-tls/acl-dtls-version-codes
   :file: data/acl-tls-acl-dtls-version-codes.yaml
 - :id: acl-tls/acl-tls-version-codes
   :file: data/acl-tls-acl-tls-version-codes.yaml
-- :id: acl-tls
-  :file: data/acl-tls.yaml
 - :id: acme/acme-account-object-fields
   :file: data/acme-acme-account-object-fields.yaml
 - :id: acme/acme-authority-token-challenge-types
@@ -145,40 +123,24 @@
   :file: data/acme-acme-star-delegation-csr-template-extensions.yaml
 - :id: acme/acme-validation-methods
   :file: data/acme-acme-validation-methods.yaml
-- :id: acme
-  :file: data/acme.yaml
 - :id: acp/acp-address-type
   :file: data/acp-acp-address-type.yaml
-- :id: acp
-  :file: data/acp.yaml
 - :id: address-family-numbers/address-family-numbers-2
   :file: data/address-family-numbers-address-family-numbers-2.yaml
-- :id: address-family-numbers
-  :file: data/address-family-numbers.yaml
 - :id: address-literal-tags/address-literal-tags-1
   :file: data/address-literal-tags-address-literal-tags-1.yaml
-- :id: address-literal-tags
-  :file: data/address-literal-tags.yaml
 - :id: adsp-parameters/adsp-parameters-1
   :file: data/adsp-parameters-adsp-parameters-1.yaml
 - :id: adsp-parameters/adsp-parameters-2
   :file: data/adsp-parameters-adsp-parameters-2.yaml
-- :id: adsp-parameters
-  :file: data/adsp-parameters.yaml
 - :id: aead-parameters/aead-parameters-2
   :file: data/aead-parameters-aead-parameters-2.yaml
-- :id: aead-parameters
-  :file: data/aead-parameters.yaml
 - :id: aka-version-namespace/aka-version-namespace-1
   :file: data/aka-version-namespace-aka-version-namespace-1.yaml
-- :id: aka-version-namespace
-  :file: data/aka-version-namespace.yaml
 - :id: alert-urns/identifiers
   :file: data/alert-urns-identifiers.yaml
 - :id: alert-urns/providers
   :file: data/alert-urns-providers.yaml
-- :id: alert-urns
-  :file: data/alert-urns.yaml
 - :id: alto-protocol/address-types
   :file: data/alto-protocol-address-types.yaml
 - :id: alto-protocol/alto-entity-domain-type
@@ -195,12 +157,8 @@
   :file: data/alto-protocol-endpoint-property-types.yaml
 - :id: alto-protocol/error-codes
   :file: data/alto-protocol-error-codes.yaml
-- :id: alto-protocol
-  :file: data/alto-protocol.yaml
 - :id: amtrelay-resource-record/relay-type-field
   :file: data/amtrelay-resource-record-relay-type-field.yaml
-- :id: amtrelay-resource-record
-  :file: data/amtrelay-resource-record.yaml
 - :id: ancp/capability-types
   :file: data/ancp-capability-types.yaml
 - :id: ancp/command-codes
@@ -217,66 +175,34 @@
   :file: data/ancp-technology-types.yaml
 - :id: ancp/tlv-types
   :file: data/ancp-tlv-types.yaml
-- :id: ancp
-  :file: data/ancp.yaml
 - :id: aodv-parameters/extension-types
   :file: data/aodv-parameters-extension-types.yaml
 - :id: aodv-parameters/message-types
   :file: data/aodv-parameters-message-types.yaml
-- :id: aodv-parameters
-  :file: data/aodv-parameters.yaml
-- :id: apex/apex-1
-  :file: data/apex-apex-1.yaml
 - :id: apex/apex-2
   :file: data/apex-apex-2.yaml
 - :id: apex/apex-3
   :file: data/apex-apex-3.yaml
-- :id: apex
-  :file: data/apex.yaml
 - :id: arp-parameters/arp-parameters-1
   :file: data/arp-parameters-arp-parameters-1.yaml
 - :id: arp-parameters/arp-parameters-2
   :file: data/arp-parameters-arp-parameters-2.yaml
-- :id: arp-parameters/arp-parameters-3
-  :file: data/arp-parameters-arp-parameters-3.yaml
-- :id: arp-parameters
-  :file: data/arp-parameters.yaml
 - :id: as-numbers/as-numbers-1
   :file: data/as-numbers-as-numbers-1.yaml
 - :id: as-numbers/as-numbers-2
   :file: data/as-numbers-as-numbers-2.yaml
-- :id: as-numbers
-  :file: data/as-numbers.yaml
 - :id: audio-telephone-event-registry/audio-telephone-event-registry-1
   :file: data/audio-telephone-event-registry-audio-telephone-event-registry-1.yaml
-- :id: audio-telephone-event-registry
-  :file: data/audio-telephone-event-registry.yaml
 - :id: auth-namespaces/auth-namespaces-1
   :file: data/auth-namespaces-auth-namespaces-1.yaml
-- :id: auth-namespaces/auth-namespaces-2
-  :file: data/auth-namespaces-auth-namespaces-2.yaml
 - :id: auth-namespaces/auth-namespaces-5
   :file: data/auth-namespaces-auth-namespaces-5.yaml
-- :id: auth-namespaces
-  :file: data/auth-namespaces.yaml
 - :id: authentication-cryptographic-protocol-id/cryptographic-protocol-id
   :file: data/authentication-cryptographic-protocol-id-cryptographic-protocol-id.yaml
-- :id: authentication-cryptographic-protocol-id
-  :file: data/authentication-cryptographic-protocol-id.yaml
 - :id: authentication-method-reference-values/amr-values
   :file: data/authentication-method-reference-values-amr-values.yaml
-- :id: authentication-method-reference-values
-  :file: data/authentication-method-reference-values.yaml
-- :id: auto-response-parameters/auto-response-parameters-1
-  :file: data/auto-response-parameters-auto-response-parameters-1.yaml
-- :id: auto-response-parameters/auto-response-parameters-2
-  :file: data/auto-response-parameters-auto-response-parameters-2.yaml
-- :id: auto-response-parameters
-  :file: data/auto-response-parameters.yaml
 - :id: auto-submitted-keywords/auto-submitted-keywords-1
   :file: data/auto-submitted-keywords-auto-submitted-keywords-1.yaml
-- :id: auto-submitted-keywords
-  :file: data/auto-submitted-keywords.yaml
 - :id: babel/ae
   :file: data/babel-ae.yaml
 - :id: babel/flags
@@ -287,22 +213,14 @@
   :file: data/babel-sub-tlv-types.yaml
 - :id: babel/tlv-types
   :file: data/babel-tlv-types.yaml
-- :id: babel
-  :file: data/babel.yaml
 - :id: bandwidth-constraints-model-ids/bandwidth-constraints-model-ids-2
   :file: data/bandwidth-constraints-model-ids-bandwidth-constraints-model-ids-2.yaml
-- :id: bandwidth-constraints-model-ids
-  :file: data/bandwidth-constraints-model-ids.yaml
 - :id: battery-technologies/technologies
   :file: data/battery-technologies-technologies.yaml
-- :id: battery-technologies
-  :file: data/battery-technologies.yaml
 - :id: beep-parameters/beep-parameters-1
   :file: data/beep-parameters-beep-parameters-1.yaml
 - :id: beep-parameters/beep-parameters-2
   :file: data/beep-parameters-beep-parameters-2.yaml
-- :id: beep-parameters
-  :file: data/beep-parameters.yaml
 - :id: bfcp-parameters/bfcp-parameters-1
   :file: data/bfcp-parameters-bfcp-parameters-1.yaml
 - :id: bfcp-parameters/bfcp-parameters-2
@@ -311,20 +229,14 @@
   :file: data/bfcp-parameters-bfcp-parameters-3.yaml
 - :id: bfcp-parameters/bfcp-parameters-4
   :file: data/bfcp-parameters-bfcp-parameters-4.yaml
-- :id: bfcp-parameters
-  :file: data/bfcp-parameters.yaml
 - :id: bfd-parameters/bfd-parameters-1
   :file: data/bfd-parameters-bfd-parameters-1.yaml
 - :id: bfd-parameters/bfd-parameters-2
   :file: data/bfd-parameters-bfd-parameters-2.yaml
-- :id: bfd-parameters
-  :file: data/bfd-parameters.yaml
 - :id: bgp-data-collection-communities-std/bgp-data-collection-communities-std-1
   :file: data/bgp-data-collection-communities-std-bgp-data-collection-communities-std-1.yaml
 - :id: bgp-data-collection-communities-std/bgp-data-collection-communities-std-2
   :file: data/bgp-data-collection-communities-std-bgp-data-collection-communities-std-2.yaml
-- :id: bgp-data-collection-communities-std
-  :file: data/bgp-data-collection-communities-std.yaml
 - :id: bgp-extended-communities/additional-pmsi-tunnel-attribute-flags
   :file: data/bgp-extended-communities-additional-pmsi-tunnel-attribute-flags.yaml
 - :id: bgp-extended-communities/arp-nd-extended-community-flags
@@ -389,8 +301,6 @@
   :file: data/bgp-extended-communities-trans-two-octet-as.yaml
 - :id: bgp-extended-communities/transitive
   :file: data/bgp-extended-communities-transitive.yaml
-- :id: bgp-extended-communities
-  :file: data/bgp-extended-communities.yaml
 - :id: bgp-ls-parameters/bgp-ls-igp-prefix-flags
   :file: data/bgp-ls-parameters-bgp-ls-igp-prefix-flags.yaml
 - :id: bgp-ls-parameters/bgp-ls-mpls-protocol-mask
@@ -411,8 +321,6 @@
   :file: data/bgp-ls-parameters-srv6-bgp-epe-sid.yaml
 - :id: bgp-ls-parameters/well-known-instance-ids
   :file: data/bgp-ls-parameters-well-known-instance-ids.yaml
-- :id: bgp-ls-parameters
-  :file: data/bgp-ls-parameters.yaml
 - :id: bgp-parameters/bfd-discriminator-optional-tlv-type
   :file: data/bgp-parameters-bfd-discriminator-optional-tlv-type.yaml
 - :id: bgp-parameters/bfd-mode
@@ -443,8 +351,6 @@
   :file: data/bgp-parameters-bgp-parameters-2.yaml
 - :id: bgp-parameters/bgp-parameters-3
   :file: data/bgp-parameters-bgp-parameters-3.yaml
-- :id: bgp-parameters/bgp-parameters-4
-  :file: data/bgp-parameters-bgp-parameters-4.yaml
 - :id: bgp-parameters/bgp-prefix-sid-label-index-tlv-flags
   :file: data/bgp-parameters-bgp-prefix-sid-label-index-tlv-flags.yaml
 - :id: bgp-parameters/bgp-prefix-sid-originator-srgb-tlv-flags
@@ -473,20 +379,12 @@
   :file: data/bgp-parameters-srv6-service-data-sub-sub-tlv-types.yaml
 - :id: bgp-parameters/srv6-service-sub-tlv-types
   :file: data/bgp-parameters-srv6-service-sub-tlv-types.yaml
-- :id: bgp-parameters/tunnel-sub-tlvs
-  :file: data/bgp-parameters-tunnel-sub-tlvs.yaml
-- :id: bgp-parameters/tunnel-types
-  :file: data/bgp-parameters-tunnel-types.yaml
-- :id: bgp-parameters
-  :file: data/bgp-parameters.yaml
 - :id: bgp-spf/bgp-ls-spf-link-nlri-attribute
   :file: data/bgp-spf-bgp-ls-spf-link-nlri-attribute.yaml
 - :id: bgp-spf/bgp-ls-spf-node-nlri-attribute
   :file: data/bgp-spf-bgp-ls-spf-node-nlri-attribute.yaml
 - :id: bgp-spf/bgp-ls-spf-prefix-nlri-attribute
   :file: data/bgp-spf-bgp-ls-spf-prefix-nlri-attribute.yaml
-- :id: bgp-spf
-  :file: data/bgp-spf.yaml
 - :id: bgp-tunnel-encapsulation/color-extended-community-color-only-types
   :file: data/bgp-tunnel-encapsulation-color-extended-community-color-only-types.yaml
 - :id: bgp-tunnel-encapsulation/color-extended-community-flags
@@ -509,18 +407,12 @@
   :file: data/bgp-tunnel-encapsulation-tunnel-sub-tlvs.yaml
 - :id: bgp-tunnel-encapsulation/tunnel-types
   :file: data/bgp-tunnel-encapsulation-tunnel-types.yaml
-- :id: bgp-tunnel-encapsulation
-  :file: data/bgp-tunnel-encapsulation.yaml
 - :id: bgp-well-known-communities/bgp-well-known-communities-1
   :file: data/bgp-well-known-communities-bgp-well-known-communities-1.yaml
-- :id: bgp-well-known-communities
-  :file: data/bgp-well-known-communities.yaml
 - :id: bier/bier-algorithm
   :file: data/bier-bier-algorithm.yaml
 - :id: bier/bier-next-protocol-identifiers
   :file: data/bier-bier-next-protocol-identifiers.yaml
-- :id: bier
-  :file: data/bier.yaml
 - :id: bmp-parameters/initiation-information-tlvs
   :file: data/bmp-parameters-initiation-information-tlvs.yaml
 - :id: bmp-parameters/message-types
@@ -545,8 +437,6 @@
   :file: data/bmp-parameters-termination-message-reason-codes.yaml
 - :id: bmp-parameters/termination-message-tlvs
   :file: data/bmp-parameters-termination-message-tlvs.yaml
-- :id: bmp-parameters
-  :file: data/bmp-parameters.yaml
 - :id: bootp-dhcp-parameters/altitude
   :file: data/bootp-dhcp-parameters-altitude.yaml
 - :id: bootp-dhcp-parameters/authentication-algorithm-id
@@ -567,8 +457,6 @@
   :file: data/bootp-dhcp-parameters-ieee-80221-service-type.yaml
 - :id: bootp-dhcp-parameters/message-type-53
   :file: data/bootp-dhcp-parameters-message-type-53.yaml
-- :id: bootp-dhcp-parameters/ntp-time-source
-  :file: data/bootp-dhcp-parameters-ntp-time-source.yaml
 - :id: bootp-dhcp-parameters/options
   :file: data/bootp-dhcp-parameters-options.yaml
 - :id: bootp-dhcp-parameters/radius-attributes-dhcp-suboption
@@ -585,24 +473,14 @@
   :file: data/bootp-dhcp-parameters-type-63-sub-options.yaml
 - :id: bootp-dhcp-parameters/vss-type
   :file: data/bootp-dhcp-parameters-vss-type.yaml
-- :id: bootp-dhcp-parameters
-  :file: data/bootp-dhcp-parameters.yaml
 - :id: bpf-instructions/bpf-instruction-conformance-groups
   :file: data/bpf-instructions-bpf-instruction-conformance-groups.yaml
 - :id: bpf-instructions/bpf-instruction-set
   :file: data/bpf-instructions-bpf-instruction-set.yaml
-- :id: bpf-instructions
-  :file: data/bpf-instructions.yaml
 - :id: brski-parameters/brski-well-known-uris
   :file: data/brski-parameters-brski-well-known-uris.yaml
 - :id: brski-parameters/pledge-brski-status-telemetry-attributes
   :file: data/brski-parameters-pledge-brski-status-telemetry-attributes.yaml
-- :id: brski-parameters
-  :file: data/brski-parameters.yaml
-- :id: building-blocks/building-blocks-1
-  :file: data/building-blocks-building-blocks-1.yaml
-- :id: building-blocks
-  :file: data/building-blocks.yaml
 - :id: bundle/admin-record-types
   :file: data/bundle-admin-record-types.yaml
 - :id: bundle/block-processing-control
@@ -617,8 +495,6 @@
   :file: data/bundle-bpsec-security-context.yaml
 - :id: bundle/bundle-uri-scheme
   :file: data/bundle-bundle-uri-scheme.yaml
-- :id: bundle/cbhe-node-numbers
-  :file: data/bundle-cbhe-node-numbers.yaml
 - :id: bundle/cbhe-service-numbers
   :file: data/bundle-cbhe-service-numbers.yaml
 - :id: bundle/ciphersuite-flags
@@ -659,8 +535,6 @@
   :file: data/bundle-tcpcl-shutdown-reason.yaml
 - :id: bundle/tcpcl-version
   :file: data/bundle-tcpcl-version.yaml
-- :id: bundle
-  :file: data/bundle.yaml
 - :id: c-dns/c-dns-address-event-types
   :file: data/c-dns-c-dns-address-event-types.yaml
 - :id: c-dns/c-dns-response-flags
@@ -669,26 +543,16 @@
   :file: data/c-dns-c-dns-storage-flags.yaml
 - :id: c-dns/c-dns-transports
   :file: data/c-dns-c-dns-transports.yaml
-- :id: c-dns
-  :file: data/c-dns.yaml
 - :id: calipso/calipso-2
   :file: data/calipso-calipso-2.yaml
-- :id: calipso
-  :file: data/calipso.yaml
 - :id: caller-id-plans/caller-id-plans-1
   :file: data/caller-id-plans-caller-id-plans-1.yaml
-- :id: caller-id-plans
-  :file: data/caller-id-plans.yaml
 - :id: capability-codes/bgp-role-value
   :file: data/capability-codes-bgp-role-value.yaml
 - :id: capability-codes/capability-codes-2
   :file: data/capability-codes-capability-codes-2.yaml
-- :id: capability-codes
-  :file: data/capability-codes.yaml
 - :id: captive-portals/api-keys
   :file: data/captive-portals-api-keys.yaml
-- :id: captive-portals
-  :file: data/captive-portals.yaml
 - :id: capwap-parameters/alternate-tunnel-sub-elements
   :file: data/capwap-parameters-alternate-tunnel-sub-elements.yaml
 - :id: capwap-parameters/alternate-tunnel-types
@@ -737,8 +601,6 @@
   :file: data/capwap-parameters-capwap-parameters-28.yaml
 - :id: capwap-parameters/capwap-parameters-29
   :file: data/capwap-parameters-capwap-parameters-29.yaml
-- :id: capwap-parameters/capwap-parameters-3
-  :file: data/capwap-parameters-capwap-parameters-3.yaml
 - :id: capwap-parameters/capwap-parameters-30
   :file: data/capwap-parameters-capwap-parameters-30.yaml
 - :id: capwap-parameters/capwap-parameters-31
@@ -767,32 +629,22 @@
   :file: data/capwap-parameters-capwap-parameters-9.yaml
 - :id: capwap-parameters/ieee-80211-split-mac-profile
   :file: data/capwap-parameters-ieee-80211-split-mac-profile.yaml
-- :id: capwap-parameters
-  :file: data/capwap-parameters.yaml
 - :id: card-parameters/card-parameters-1
   :file: data/card-parameters-card-parameters-1.yaml
 - :id: card-parameters/card-parameters-2
   :file: data/card-parameters-card-parameters-2.yaml
-- :id: card-parameters
-  :file: data/card-parameters.yaml
 - :id: cbor-simple-values/simple
   :file: data/cbor-simple-values-simple.yaml
-- :id: cbor-simple-values
-  :file: data/cbor-simple-values.yaml
 - :id: cbor-tags/tags
   :file: data/cbor-tags-tags.yaml
 - :id: cbor-tags/time-tag-map-keys
   :file: data/cbor-tags-time-tag-map-keys.yaml
 - :id: cbor-tags/timescales
   :file: data/cbor-tags-timescales.yaml
-- :id: cbor-tags
-  :file: data/cbor-tags.yaml
 - :id: ccmp-parameters/message-types
   :file: data/ccmp-parameters-message-types.yaml
 - :id: ccmp-parameters/response-codes
   :file: data/ccmp-parameters-response-codes.yaml
-- :id: ccmp-parameters
-  :file: data/ccmp-parameters.yaml
 - :id: ccnx/ccnx-echo-reply-codes
   :file: data/ccnx-ccnx-echo-reply-codes.yaml
 - :id: ccnx/ccnx-hash-function-types
@@ -817,12 +669,8 @@
   :file: data/ccnx-ccnx-validation-algorithm-types.yaml
 - :id: ccnx/ccnx-validation-dependent-data-types
   :file: data/ccnx-ccnx-validation-dependent-data-types.yaml
-- :id: ccnx
-  :file: data/ccnx.yaml
 - :id: cddl/cddl-control-operators
   :file: data/cddl-cddl-control-operators.yaml
-- :id: cddl
-  :file: data/cddl.yaml
 - :id: cdni-parameters/capabilities-redirection-modes
   :file: data/cdni-parameters-capabilities-redirection-modes.yaml
 - :id: cdni-parameters/capacity-limit-types
@@ -853,36 +701,22 @@
   :file: data/cdni-parameters-telemetry-source-types.yaml
 - :id: cdni-parameters/trigger-types
   :file: data/cdni-parameters-trigger-types.yaml
-- :id: cdni-parameters
-  :file: data/cdni-parameters.yaml
 - :id: cert-rr-types/cert-rr-types-2
   :file: data/cert-rr-types-cert-rr-types-2.yaml
-- :id: cert-rr-types
-  :file: data/cert-rr-types.yaml
 - :id: cfm-oam/opcodes
   :file: data/cfm-oam-opcodes.yaml
 - :id: cfm-oam/tlv-types
   :file: data/cfm-oam-tlv-types.yaml
-- :id: cfm-oam
-  :file: data/cfm-oam.yaml
 - :id: cga-message-types/cga-message-types-1
   :file: data/cga-message-types-cga-message-types-1.yaml
 - :id: cga-message-types/cga-message-types-2
   :file: data/cga-message-types-cga-message-types-2.yaml
 - :id: cga-message-types/cga-message-types-3
   :file: data/cga-message-types-cga-message-types-3.yaml
-- :id: cga-message-types
-  :file: data/cga-message-types.yaml
 - :id: channel-binding-types
   :file: data/channel-binding-types.yaml
 - :id: character-sets/character-sets-1
   :file: data/character-sets-character-sets-1.yaml
-- :id: character-sets
-  :file: data/character-sets.yaml
-- :id: charset-info/charset-info-1
-  :file: data/charset-info-charset-info-1.yaml
-- :id: charset-info
-  :file: data/charset-info.yaml
 - :id: charset-reg
   :file: data/charset-reg.yaml
 - :id: cisco-sla-protocol/address-family
@@ -899,14 +733,10 @@
   :file: data/cisco-sla-protocol-status.yaml
 - :id: cisco-sla-protocol/version-numbers
   :file: data/cisco-sla-protocol-version-numbers.yaml
-- :id: cisco-sla-protocol
-  :file: data/cisco-sla-protocol.yaml
 - :id: civic-address-types-registry/catypes
   :file: data/civic-address-types-registry-catypes.yaml
 - :id: civic-address-types-registry/rltypes
   :file: data/civic-address-types-registry-rltypes.yaml
-- :id: civic-address-types-registry
-  :file: data/civic-address-types-registry.yaml
 - :id: clue/clue-message-types
   :file: data/clue-clue-message-types.yaml
 - :id: clue/clue-response-codes
@@ -919,32 +749,20 @@
   :file: data/clue-sensitivitypattern.yaml
 - :id: clue/view
   :file: data/clue-view.yaml
-- :id: clue
-  :file: data/clue.yaml
 - :id: cmp/cmp-well-known-uri
   :file: data/cmp-cmp-well-known-uri.yaml
-- :id: cmp
-  :file: data/cmp.yaml
 - :id: cnrp-parameters/cnrp-parameters-1
   :file: data/cnrp-parameters-cnrp-parameters-1.yaml
 - :id: cnrp-parameters/cnrp-parameters-2
   :file: data/cnrp-parameters-cnrp-parameters-2.yaml
-- :id: cnrp-parameters/cnrp-parameters-3
-  :file: data/cnrp-parameters-cnrp-parameters-3.yaml
-- :id: cnrp-parameters
-  :file: data/cnrp-parameters.yaml
 - :id: coap-eap/coap-eap-cipher-suites
   :file: data/coap-eap-coap-eap-cipher-suites.yaml
 - :id: coap-eap/coap-eap-information-elements
   :file: data/coap-eap-coap-eap-information-elements.yaml
-- :id: coap-eap
-  :file: data/coap-eap.yaml
 - :id: collation
   :file: data/collation.yaml
 - :id: comp-meth-ids/comp-meth-ids-2
   :file: data/comp-meth-ids-comp-meth-ids-2.yaml
-- :id: comp-meth-ids
-  :file: data/comp-meth-ids.yaml
 - :id: cont-disp/cont-disp-1
   :file: data/cont-disp-cont-disp-1.yaml
 - :id: cont-disp/cont-disp-2
@@ -953,16 +771,10 @@
   :file: data/cont-disp-cont-disp-3.yaml
 - :id: cont-disp/cont-disp-4
   :file: data/cont-disp-cont-disp-4.yaml
-- :id: cont-disp
-  :file: data/cont-disp.yaml
 - :id: content-security-policy-directives/directives
   :file: data/content-security-policy-directives-directives.yaml
-- :id: content-security-policy-directives
-  :file: data/content-security-policy-directives.yaml
 - :id: cops-parameters/cops-parameters-1
   :file: data/cops-parameters-cops-parameters-1.yaml
-- :id: cops-parameters/cops-parameters-12
-  :file: data/cops-parameters-cops-parameters-12.yaml
 - :id: cops-parameters/cops-parameters-13
   :file: data/cops-parameters-cops-parameters-13.yaml
 - :id: cops-parameters/cops-parameters-15
@@ -979,10 +791,6 @@
   :file: data/cops-parameters-cops-parameters-45.yaml
 - :id: cops-parameters/cops-parameters-47
   :file: data/cops-parameters-cops-parameters-47.yaml
-- :id: cops-parameters/cops-parameters-5
-  :file: data/cops-parameters-cops-parameters-5.yaml
-- :id: cops-parameters
-  :file: data/cops-parameters.yaml
 - :id: core-parameters/codes
   :file: data/core-parameters-codes.yaml
 - :id: core-parameters/content-formats
@@ -1009,8 +817,6 @@
   :file: data/core-parameters-signaling-option-numbers.yaml
 - :id: core-parameters/target-attributes
   :file: data/core-parameters-target-attributes.yaml
-- :id: core-parameters
-  :file: data/core-parameters.yaml
 - :id: cose/algorithms
   :file: data/cose-algorithms.yaml
 - :id: cose/elliptic-curves
@@ -1025,78 +831,54 @@
   :file: data/cose-key-type-parameters.yaml
 - :id: cose/key-type
   :file: data/cose-key-type.yaml
-- :id: cose
-  :file: data/cose.yaml
 - :id: coswid/coswid-items
   :file: data/coswid-coswid-items.yaml
-- :id: coswid
-  :file: data/coswid.yaml
 - :id: cpim-headers/cpim-headers-1
   :file: data/cpim-headers-cpim-headers-1.yaml
-- :id: cpim-headers
-  :file: data/cpim-headers.yaml
 - :id: crypto-suites/crypto-suites-1
   :file: data/crypto-suites-crypto-suites-1.yaml
-- :id: crypto-suites
-  :file: data/crypto-suites.yaml
 - :id: cwt/claims-registry
   :file: data/cwt-claims-registry.yaml
 - :id: cwt/confirmation-methods
   :file: data/cwt-confirmation-methods.yaml
-- :id: cwt
-  :file: data/cwt.yaml
 - :id: cxtp-parameters/cxtp-parameters-1
   :file: data/cxtp-parameters-cxtp-parameters-1.yaml
 - :id: cxtp-parameters/cxtp-parameters-2
   :file: data/cxtp-parameters-cxtp-parameters-2.yaml
-- :id: cxtp-parameters
-  :file: data/cxtp-parameters.yaml
 - :id: dane-parameters/certificate-usages
   :file: data/dane-parameters-certificate-usages.yaml
 - :id: dane-parameters/matching-types
   :file: data/dane-parameters-matching-types.yaml
 - :id: dane-parameters/selectors
   :file: data/dane-parameters-selectors.yaml
-- :id: dane-parameters
-  :file: data/dane-parameters.yaml
 - :id: dcap-parameters/capability-codes
   :file: data/dcap-parameters-capability-codes.yaml
 - :id: dcap-parameters/frame-codes
   :file: data/dcap-parameters-frame-codes.yaml
-- :id: dcap-parameters
-  :file: data/dcap-parameters.yaml
 - :id: dccp-ccid2-parameters/dccp-ccid2-parameters-1
   :file: data/dccp-ccid2-parameters-dccp-ccid2-parameters-1.yaml
 - :id: dccp-ccid2-parameters/dccp-ccid2-parameters-2
   :file: data/dccp-ccid2-parameters-dccp-ccid2-parameters-2.yaml
 - :id: dccp-ccid2-parameters/dccp-ccid2-parameters-3
   :file: data/dccp-ccid2-parameters-dccp-ccid2-parameters-3.yaml
-- :id: dccp-ccid2-parameters
-  :file: data/dccp-ccid2-parameters.yaml
 - :id: dccp-ccid3-parameters/dccp-ccid3-parameters-1
   :file: data/dccp-ccid3-parameters-dccp-ccid3-parameters-1.yaml
 - :id: dccp-ccid3-parameters/dccp-ccid3-parameters-2
   :file: data/dccp-ccid3-parameters-dccp-ccid3-parameters-2.yaml
 - :id: dccp-ccid3-parameters/dccp-ccid3-parameters-3
   :file: data/dccp-ccid3-parameters-dccp-ccid3-parameters-3.yaml
-- :id: dccp-ccid3-parameters
-  :file: data/dccp-ccid3-parameters.yaml
 - :id: dccp-ccid4-parameters/dccp-ccid4-parameters-1
   :file: data/dccp-ccid4-parameters-dccp-ccid4-parameters-1.yaml
 - :id: dccp-ccid4-parameters/dccp-ccid4-parameters-2
   :file: data/dccp-ccid4-parameters-dccp-ccid4-parameters-2.yaml
 - :id: dccp-ccid4-parameters/dccp-ccid4-parameters-3
   :file: data/dccp-ccid4-parameters-dccp-ccid4-parameters-3.yaml
-- :id: dccp-ccid4-parameters
-  :file: data/dccp-ccid4-parameters.yaml
 - :id: dccp-parameters/dccp-parameters-1
   :file: data/dccp-parameters-dccp-parameters-1.yaml
 - :id: dccp-parameters/dccp-parameters-10
   :file: data/dccp-parameters-dccp-parameters-10.yaml
 - :id: dccp-parameters/dccp-parameters-11
   :file: data/dccp-parameters-dccp-parameters-11.yaml
-- :id: dccp-parameters/dccp-parameters-12
-  :file: data/dccp-parameters-dccp-parameters-12.yaml
 - :id: dccp-parameters/dccp-parameters-3
   :file: data/dccp-parameters-dccp-parameters-3.yaml
 - :id: dccp-parameters/dccp-parameters-5
@@ -1105,22 +887,14 @@
   :file: data/dccp-parameters-dccp-parameters-7.yaml
 - :id: dccp-parameters/dccp-parameters-9
   :file: data/dccp-parameters-dccp-parameters-9.yaml
-- :id: dccp-parameters
-  :file: data/dccp-parameters.yaml
 - :id: dcep-parameters/channel-type
   :file: data/dcep-parameters-channel-type.yaml
 - :id: dcep-parameters/message-type
   :file: data/dcep-parameters-message-type.yaml
-- :id: dcep-parameters
-  :file: data/dcep-parameters.yaml
 - :id: detnet-ach-flags/detnet-associated-channel-header-flags
   :file: data/detnet-ach-flags-detnet-associated-channel-header-flags.yaml
-- :id: detnet-ach-flags
-  :file: data/detnet-ach-flags.yaml
 - :id: device-identification/dev-urn-subtypes
   :file: data/device-identification-dev-urn-subtypes.yaml
-- :id: device-identification
-  :file: data/device-identification.yaml
 - :id: dhcpv6-parameters/dhcpv6-options-attribute
   :file: data/dhcpv6-parameters-dhcpv6-options-attribute.yaml
 - :id: dhcpv6-parameters/dhcpv6-parameters-1
@@ -1147,14 +921,8 @@
   :file: data/dhcpv6-parameters-radius-option-attributes.yaml
 - :id: dhcpv6-parameters/supported-transport
   :file: data/dhcpv6-parameters-supported-transport.yaml
-- :id: dhcpv6-parameters/vss-type
-  :file: data/dhcpv6-parameters-vss-type.yaml
-- :id: dhcpv6-parameters
-  :file: data/dhcpv6-parameters.yaml
 - :id: directory-system-names/directory-system-names-1
   :file: data/directory-system-names-directory-system-names-1.yaml
-- :id: directory-system-names
-  :file: data/directory-system-names.yaml
 - :id: dkim-parameters/atps-tag
   :file: data/dkim-parameters-atps-tag.yaml
 - :id: dkim-parameters/dkim-parameters-1
@@ -1177,8 +945,6 @@
   :file: data/dkim-parameters-dkim-parameters-9.yaml
 - :id: dkim-parameters/reporting-tag
   :file: data/dkim-parameters-reporting-tag.yaml
-- :id: dkim-parameters
-  :file: data/dkim-parameters.yaml
 - :id: dlep-parameters/data-item-type-values
   :file: data/dlep-parameters-data-item-type-values.yaml
 - :id: dlep-parameters/extension-type-values
@@ -1209,24 +975,16 @@
   :file: data/dlep-parameters-status-code-values.yaml
 - :id: dlep-parameters/traffic-classification-sub-data-item-type-values
   :file: data/dlep-parameters-traffic-classification-sub-data-item-type-values.yaml
-- :id: dlep-parameters
-  :file: data/dlep-parameters.yaml
 - :id: dmarc-parameters/report-format
   :file: data/dmarc-parameters-report-format.yaml
 - :id: dmarc-parameters/tag
   :file: data/dmarc-parameters-tag.yaml
-- :id: dmarc-parameters
-  :file: data/dmarc-parameters.yaml
 - :id: dncp-registry/hncp-tlv-types
   :file: data/dncp-registry-hncp-tlv-types.yaml
 - :id: dncp-registry/tlv-types
   :file: data/dncp-registry-tlv-types.yaml
-- :id: dncp-registry
-  :file: data/dncp-registry.yaml
 - :id: dns-key-rr/dns-key-rr-1
   :file: data/dns-key-rr-dns-key-rr-1.yaml
-- :id: dns-key-rr
-  :file: data/dns-key-rr.yaml
 - :id: dns-parameters/csync-flags
   :file: data/dns-parameters-csync-flags.yaml
 - :id: dns-parameters/dhcid-rr-digest-type-codes
@@ -1275,38 +1033,26 @@
   :file: data/dns-parameters-zonemd-schemes.yaml
 - :id: dns-parameters/zoneversion-type-values
   :file: data/dns-parameters-zoneversion-type-values.yaml
-- :id: dns-parameters
-  :file: data/dns-parameters.yaml
 - :id: dns-sec-alg-numbers/dns-sec-alg-numbers-1
   :file: data/dns-sec-alg-numbers-dns-sec-alg-numbers-1.yaml
 - :id: dns-sec-alg-numbers/prime-generator-pairs
   :file: data/dns-sec-alg-numbers-prime-generator-pairs.yaml
 - :id: dns-sec-alg-numbers/prime-lengths
   :file: data/dns-sec-alg-numbers-prime-lengths.yaml
-- :id: dns-sec-alg-numbers
-  :file: data/dns-sec-alg-numbers.yaml
 - :id: dns-sshfp-rr-parameters/dns-sshfp-rr-parameters-1
   :file: data/dns-sshfp-rr-parameters-dns-sshfp-rr-parameters-1.yaml
 - :id: dns-sshfp-rr-parameters/dns-sshfp-rr-parameters-2
   :file: data/dns-sshfp-rr-parameters-dns-sshfp-rr-parameters-2.yaml
-- :id: dns-sshfp-rr-parameters
-  :file: data/dns-sshfp-rr-parameters.yaml
 - :id: dns-svcb/dns-svcparamkeys
   :file: data/dns-svcb-dns-svcparamkeys.yaml
-- :id: dns-svcb
-  :file: data/dns-svcb.yaml
 - :id: dnskey-flags/dnskey-flags-1
   :file: data/dnskey-flags-dnskey-flags-1.yaml
-- :id: dnskey-flags
-  :file: data/dnskey-flags.yaml
 - :id: dnssec-nsec3-parameters/dnssec-nsec3-parameters-1
   :file: data/dnssec-nsec3-parameters-dnssec-nsec3-parameters-1.yaml
 - :id: dnssec-nsec3-parameters/dnssec-nsec3-parameters-2
   :file: data/dnssec-nsec3-parameters-dnssec-nsec3-parameters-2.yaml
 - :id: dnssec-nsec3-parameters/dnssec-nsec3-parameters-3
   :file: data/dnssec-nsec3-parameters-dnssec-nsec3-parameters-3.yaml
-- :id: dnssec-nsec3-parameters
-  :file: data/dnssec-nsec3-parameters.yaml
 - :id: dots/dots-signal-channel-attack-status-codes
   :file: data/dots-dots-signal-channel-attack-status-codes.yaml
 - :id: dots/dots-signal-channel-cbor-key-values
@@ -1317,16 +1063,6 @@
   :file: data/dots-dots-signal-channel-conflict-status-codes.yaml
 - :id: dots/dots-signal-channel-status-codes
   :file: data/dots-dots-signal-channel-status-codes.yaml
-- :id: dots
-  :file: data/dots.yaml
-- :id: draft-tags-subtags/language-subtags
-  :file: data/draft-tags-subtags-language-subtags.yaml
-- :id: draft-tags-subtags/language-tag-extensions
-  :file: data/draft-tags-subtags-language-tag-extensions.yaml
-- :id: draft-tags-subtags/language-tags
-  :file: data/draft-tags-subtags-language-tags.yaml
-- :id: draft-tags-subtags
-  :file: data/draft-tags-subtags.yaml
 - :id: drip/drip-frame-types
   :file: data/drip-drip-frame-types.yaml
 - :id: drip/drip-sam-types
@@ -1335,18 +1071,12 @@
   :file: data/drip-hierarchical-hit-prefixes.yaml
 - :id: drip/hierarchical-hit-suite-ids
   :file: data/drip-hierarchical-hit-suite-ids.yaml
-- :id: drip
-  :file: data/drip.yaml
 - :id: ds-rr-types/ds-rr-types-1
   :file: data/ds-rr-types-ds-rr-types-1.yaml
-- :id: ds-rr-types
-  :file: data/ds-rr-types.yaml
 - :id: dscp-registry/dscp-registry-1
   :file: data/dscp-registry-dscp-registry-1.yaml
 - :id: dscp-registry/ecn-field
   :file: data/dscp-registry-ecn-field.yaml
-- :id: dscp-registry
-  :file: data/dscp-registry.yaml
 - :id: dskpp/keys
   :file: data/dskpp-keys.yaml
 - :id: dskpp/prf-alg-id
@@ -1355,34 +1085,24 @@
   :file: data/dskpp-status-codes.yaml
 - :id: dskpp/versions
   :file: data/dskpp-versions.yaml
-- :id: dskpp
-  :file: data/dskpp.yaml
 - :id: dsn-types/dsn-types-1
   :file: data/dsn-types-dsn-types-1.yaml
 - :id: dsn-types/dsn-types-2
   :file: data/dsn-types-dsn-types-2.yaml
 - :id: dsn-types/dsn-types-3
   :file: data/dsn-types-dsn-types-3.yaml
-- :id: dsn-types
-  :file: data/dsn-types.yaml
 - :id: dsr-parameters/dsr-parameters-1
   :file: data/dsr-parameters-dsr-parameters-1.yaml
 - :id: dsr-parameters/dsr-parameters-2
   :file: data/dsr-parameters-dsr-parameters-2.yaml
-- :id: dsr-parameters
-  :file: data/dsr-parameters.yaml
 - :id: dssc/cryptographic
   :file: data/dssc-cryptographic.yaml
 - :id: dssc/parameters
   :file: data/dssc-parameters.yaml
-- :id: dssc
-  :file: data/dssc.yaml
 - :id: eap-channel-binding-parameters/channel-binding-codes
   :file: data/eap-channel-binding-parameters-channel-binding-codes.yaml
 - :id: eap-channel-binding-parameters/channel-binding-namespaces
   :file: data/eap-channel-binding-parameters-channel-binding-namespaces.yaml
-- :id: eap-channel-binding-parameters
-  :file: data/eap-channel-binding-parameters.yaml
 - :id: eap-eke/diffie-hellman
   :file: data/eap-eke-diffie-hellman.yaml
 - :id: eap-eke/eap-eke-channel
@@ -1399,8 +1119,6 @@
   :file: data/eap-eke-keyed-message.yaml
 - :id: eap-eke/pseudo-random
   :file: data/eap-eke-pseudo-random.yaml
-- :id: eap-eke
-  :file: data/eap-eke.yaml
 - :id: eap-fast-parameters/eap-fast-parameters-1
   :file: data/eap-fast-parameters-eap-fast-parameters-1.yaml
 - :id: eap-fast-parameters/eap-fast-parameters-2
@@ -1415,8 +1133,6 @@
   :file: data/eap-fast-parameters-eap-fast-parameters-6.yaml
 - :id: eap-fast-parameters/eap-fast-parameters-7
   :file: data/eap-fast-parameters-eap-fast-parameters-7.yaml
-- :id: eap-fast-parameters
-  :file: data/eap-fast-parameters.yaml
 - :id: eap-gpsk-parameters/eap-gpsk-parameters-1
   :file: data/eap-gpsk-parameters-eap-gpsk-parameters-1.yaml
 - :id: eap-gpsk-parameters/eap-gpsk-parameters-2
@@ -1425,12 +1141,8 @@
   :file: data/eap-gpsk-parameters-eap-gpsk-parameters-3.yaml
 - :id: eap-gpsk-parameters/eap-gpsk-parameters-4
   :file: data/eap-gpsk-parameters-eap-gpsk-parameters-4.yaml
-- :id: eap-gpsk-parameters
-  :file: data/eap-gpsk-parameters.yaml
 - :id: eap-ikev2-payloads/eap-ikev2-payloads-1
   :file: data/eap-ikev2-payloads-eap-ikev2-payloads-1.yaml
-- :id: eap-ikev2-payloads
-  :file: data/eap-ikev2-payloads.yaml
 - :id: eap-noob/eap-noob-cryptosuites
   :file: data/eap-noob-eap-noob-cryptosuites.yaml
 - :id: eap-noob/eap-noob-error-codes
@@ -1441,8 +1153,6 @@
   :file: data/eap-noob-eap-noob-peerinfo-data-fields.yaml
 - :id: eap-noob/eap-noob-serverinfo-data-fields
   :file: data/eap-noob-eap-noob-serverinfo-data-fields.yaml
-- :id: eap-noob
-  :file: data/eap-noob.yaml
 - :id: eap-numbers/eap-finish-re-auth-flags
   :file: data/eap-numbers-eap-finish-re-auth-flags.yaml
 - :id: eap-numbers/eap-initiate-re-auth-flags
@@ -1459,44 +1169,10 @@
   :file: data/eap-numbers-eap-numbers-2.yaml
 - :id: eap-numbers/eap-numbers-4
   :file: data/eap-numbers-eap-numbers-4.yaml
-- :id: eap-numbers/eap-numbers-5
-  :file: data/eap-numbers-eap-numbers-5.yaml
-- :id: eap-numbers/eap-numbers-6
-  :file: data/eap-numbers-eap-numbers-6.yaml
-- :id: eap-numbers/eap-numbers-7
-  :file: data/eap-numbers-eap-numbers-7.yaml
 - :id: eap-numbers/eap-numbers-8
   :file: data/eap-numbers-eap-numbers-8.yaml
 - :id: eap-numbers/eap-numbers-9
   :file: data/eap-numbers-eap-numbers-9.yaml
-- :id: eap-numbers/eap-numbers-noob-cryptosuites
-  :file: data/eap-numbers-eap-numbers-noob-cryptosuites.yaml
-- :id: eap-numbers/eap-numbers-noob-error-codes
-  :file: data/eap-numbers-eap-numbers-noob-error-codes.yaml
-- :id: eap-numbers/eap-numbers-noob-message-types
-  :file: data/eap-numbers-eap-numbers-noob-message-types.yaml
-- :id: eap-numbers/eap-numbers-noob-peerinfo-data-fields
-  :file: data/eap-numbers-eap-numbers-noob-peerinfo-data-fields.yaml
-- :id: eap-numbers/eap-numbers-noob-serverinfo-data-fields
-  :file: data/eap-numbers-eap-numbers-noob-serverinfo-data-fields.yaml
-- :id: eap-numbers/eap-numbers-teap-error-tlv-error-codes
-  :file: data/eap-numbers-eap-numbers-teap-error-tlv-error-codes.yaml
-- :id: eap-numbers/eap-numbers-teap-identity-type-tlv
-  :file: data/eap-numbers-eap-numbers-teap-identity-type-tlv.yaml
-- :id: eap-numbers/eap-numbers-teap-pac-tlv-attribute-type-codes
-  :file: data/eap-numbers-eap-numbers-teap-pac-tlv-attribute-type-codes.yaml
-- :id: eap-numbers/eap-numbers-teap-pac-tlv-pac-type-type-codes
-  :file: data/eap-numbers-eap-numbers-teap-pac-tlv-pac-type-type-codes.yaml
-- :id: eap-numbers/eap-numbers-teap-request-action-tlv
-  :file: data/eap-numbers-eap-numbers-teap-request-action-tlv.yaml
-- :id: eap-numbers/eap-numbers-teap-status-codes
-  :file: data/eap-numbers-eap-numbers-teap-status-codes.yaml
-- :id: eap-numbers/eap-numbers-teap-tlv-types
-  :file: data/eap-numbers-eap-numbers-teap-tlv-types.yaml
-- :id: eap-numbers/eap-numbers-teap-trusted-root-server-tlv-credential-format-codes
-  :file: data/eap-numbers-eap-numbers-teap-trusted-root-server-tlv-credential-format-codes.yaml
-- :id: eap-numbers
-  :file: data/eap-numbers.yaml
 - :id: eap-pax/eap-pax-1
   :file: data/eap-pax-eap-pax-1.yaml
 - :id: eap-pax/eap-pax-2
@@ -1505,12 +1181,8 @@
   :file: data/eap-pax-eap-pax-3.yaml
 - :id: eap-pax/eap-pax-4
   :file: data/eap-pax-eap-pax-4.yaml
-- :id: eap-pax
-  :file: data/eap-pax.yaml
 - :id: eap-psk-parameters/eap-psk-parameters-1
   :file: data/eap-psk-parameters-eap-psk-parameters-1.yaml
-- :id: eap-psk-parameters
-  :file: data/eap-psk-parameters.yaml
 - :id: eap-pwd-parameters/eap-pwd-parameters-1
   :file: data/eap-pwd-parameters-eap-pwd-parameters-1.yaml
 - :id: eap-pwd-parameters/eap-pwd-parameters-2
@@ -1519,24 +1191,18 @@
   :file: data/eap-pwd-parameters-eap-pwd-parameters-3.yaml
 - :id: eap-pwd-parameters/eap-pwd-parameters-4
   :file: data/eap-pwd-parameters-eap-pwd-parameters-4.yaml
-- :id: eap-pwd-parameters
-  :file: data/eap-pwd-parameters.yaml
 - :id: eap-sake-parameters/eap-sake-parameters-1
   :file: data/eap-sake-parameters-eap-sake-parameters-1.yaml
 - :id: eap-sake-parameters/eap-sake-parameters-2
   :file: data/eap-sake-parameters-eap-sake-parameters-2.yaml
 - :id: eap-sake-parameters/eap-sake-parameters-3
   :file: data/eap-sake-parameters-eap-sake-parameters-3.yaml
-- :id: eap-sake-parameters
-  :file: data/eap-sake-parameters.yaml
 - :id: eappotp-identifiers/eappotp-identifiers-2
   :file: data/eappotp-identifiers-eappotp-identifiers-2.yaml
 - :id: eappotp-identifiers/eappotp-identifiers-4
   :file: data/eappotp-identifiers-eappotp-identifiers-4.yaml
 - :id: eappotp-identifiers/eappotp-identifiers-6
   :file: data/eappotp-identifiers-eappotp-identifiers-6.yaml
-- :id: eappotp-identifiers
-  :file: data/eappotp-identifiers.yaml
 - :id: eapsimaka-numbers/eap-aka-at-kdf-fs-key-derivation-function
   :file: data/eapsimaka-numbers-eap-aka-at-kdf-fs-key-derivation-function.yaml
 - :id: eapsimaka-numbers/eapsimaka-numbers-1
@@ -1549,26 +1215,16 @@
   :file: data/eapsimaka-numbers-eapsimaka-numbers-7.yaml
 - :id: eapsimaka-numbers/trusted-non-3gpp-access
   :file: data/eapsimaka-numbers-trusted-non-3gpp-access.yaml
-- :id: eapsimaka-numbers
-  :file: data/eapsimaka-numbers.yaml
-- :id: ebml/ebml-doctype
-  :file: data/ebml-ebml-doctype.yaml
 - :id: ebml/ebml-element-id
   :file: data/ebml-ebml-element-id.yaml
-- :id: ebml
-  :file: data/ebml.yaml
 - :id: ecml-parameters/ecml-parameters-1
   :file: data/ecml-parameters-ecml-parameters-1.yaml
-- :id: ecml-parameters
-  :file: data/ecml-parameters.yaml
 - :id: ecmlv2-parameters/ecmlv2-parameters-1
   :file: data/ecmlv2-parameters-ecmlv2-parameters-1.yaml
 - :id: ecmlv2-parameters/ecmlv2-parameters-2
   :file: data/ecmlv2-parameters-ecmlv2-parameters-2.yaml
 - :id: ecmlv2-parameters/ecmlv2-parameters-3
   :file: data/ecmlv2-parameters-ecmlv2-parameters-3.yaml
-- :id: ecmlv2-parameters
-  :file: data/ecmlv2-parameters.yaml
 - :id: edhoc/edhoc-authentication-credential-types
   :file: data/edhoc-edhoc-authentication-credential-types.yaml
 - :id: edhoc/edhoc-cipher-suites
@@ -1581,16 +1237,12 @@
   :file: data/edhoc-edhoc-exporter-labels.yaml
 - :id: edhoc/edhoc-method-types
   :file: data/edhoc-edhoc-method-types.yaml
-- :id: edhoc
-  :file: data/edhoc.yaml
 - :id: email-auth/email-auth-methods
   :file: data/email-auth-email-auth-methods.yaml
 - :id: email-auth/email-auth-result-names
   :file: data/email-auth-email-auth-result-names.yaml
 - :id: email-auth/property-types
   :file: data/email-auth-property-types.yaml
-- :id: email-auth
-  :file: data/email-auth.yaml
 - :id: emergency-call-additional-data/device-classification
   :file: data/emergency-call-additional-data-device-classification.yaml
 - :id: emergency-call-additional-data/device-id-type
@@ -1609,8 +1261,6 @@
   :file: data/emergency-call-additional-data-service-provider-type.yaml
 - :id: emergency-call-additional-data/service-type
   :file: data/emergency-call-additional-data-service-type.yaml
-- :id: emergency-call-additional-data
-  :file: data/emergency-call-additional-data.yaml
 - :id: emergency-call-metadata-control-data/emergency-call-action-failure-reason
   :file: data/emergency-call-metadata-control-data-emergency-call-action-failure-reason.yaml
 - :id: emergency-call-metadata-control-data/emergency-call-action
@@ -1621,92 +1271,50 @@
   :file: data/emergency-call-metadata-control-data-emergency-call-vehicle-camera-id.yaml
 - :id: emergency-call-metadata-control-data/emergency-call-vehicle-lamp-id
   :file: data/emergency-call-metadata-control-data-emergency-call-vehicle-lamp-id.yaml
-- :id: emergency-call-metadata-control-data
-  :file: data/emergency-call-metadata-control-data.yaml
 - :id: emsk-parameters/emsk-parameters-1
   :file: data/emsk-parameters-emsk-parameters-1.yaml
 - :id: emsk-parameters/emsk-parameters-3
   :file: data/emsk-parameters-emsk-parameters-3.yaml
-- :id: emsk-parameters
-  :file: data/emsk-parameters.yaml
 - :id: enum-services/enum-services-1
   :file: data/enum-services-enum-services-1.yaml
-- :id: enum-services
-  :file: data/enum-services.yaml
 - :id: epp-extension-role-values/epp-extension-role-values-1
   :file: data/epp-extension-role-values-epp-extension-role-values-1.yaml
-- :id: epp-extension-role-values
-  :file: data/epp-extension-role-values.yaml
 - :id: epp-extensions/epp-extensions-1
   :file: data/epp-extensions-epp-extensions-1.yaml
-- :id: epp-extensions
-  :file: data/epp-extensions.yaml
 - :id: epp-repository-ids/epp-repository-ids-1
   :file: data/epp-repository-ids-epp-repository-ids-1.yaml
-- :id: epp-repository-ids
-  :file: data/epp-repository-ids.yaml
 - :id: esp-aggfrag-payload/aggfrag-payload-sub-types
   :file: data/esp-aggfrag-payload-aggfrag-payload-sub-types.yaml
-- :id: esp-aggfrag-payload
-  :file: data/esp-aggfrag-payload.yaml
-- :id: ethernet-numbers/ethernet-numbers-1
-  :file: data/ethernet-numbers-ethernet-numbers-1.yaml
-- :id: ethernet-numbers/ethernet-numbers-5
-  :file: data/ethernet-numbers-ethernet-numbers-5.yaml
 - :id: ethernet-numbers/ethernet-numbers-6
   :file: data/ethernet-numbers-ethernet-numbers-6.yaml
 - :id: ethernet-numbers/iana-lldp-tlv-subtypes
   :file: data/ethernet-numbers-iana-lldp-tlv-subtypes.yaml
-- :id: ethernet-numbers
-  :file: data/ethernet-numbers.yaml
 - :id: evpn/route-types
   :file: data/evpn-route-types.yaml
-- :id: evpn
-  :file: data/evpn.yaml
 - :id: ex-mobility-subtypes/ex-mobility-subtypes-1
   :file: data/ex-mobility-subtypes-ex-mobility-subtypes-1.yaml
-- :id: ex-mobility-subtypes
-  :file: data/ex-mobility-subtypes.yaml
 - :id: fc-port-types/fc-port-types-2
   :file: data/fc-port-types-fc-port-types-2.yaml
-- :id: fc-port-types
-  :file: data/fc-port-types.yaml
 - :id: fcast/encoding
   :file: data/fcast-encoding.yaml
 - :id: fcast/format
   :file: data/fcast-format.yaml
 - :id: fcast/types
   :file: data/fcast-types.yaml
-- :id: fcast
-  :file: data/fcast.yaml
-- :id: fedfs-parameters/keys
-  :file: data/fedfs-parameters-keys.yaml
 - :id: fedfs-parameters/oids
   :file: data/fedfs-parameters-oids.yaml
-- :id: fedfs-parameters
-  :file: data/fedfs-parameters.yaml
 - :id: flac/flac-application-metadata-block-ids
   :file: data/flac-flac-application-metadata-block-ids.yaml
-- :id: flac
-  :file: data/flac.yaml
 - :id: flow-spec/flow-spec-2
   :file: data/flow-spec-flow-spec-2.yaml
-- :id: flow-spec
-  :file: data/flow-spec.yaml
 - :id: flute-parameters/encoding-algs
   :file: data/flute-parameters-encoding-algs.yaml
-- :id: flute-parameters
-  :file: data/flute-parameters.yaml
 - :id: foobar-af-numbers/foobar-af-numbers-1
   :file: data/foobar-af-numbers-foobar-af-numbers-1.yaml
-- :id: foobar-af-numbers
-  :file: data/foobar-af-numbers.yaml
 - :id: forces/exception-id
   :file: data/forces-exception-id.yaml
 - :id: forces/extendedresult-tlv
   :file: data/forces-extendedresult-tlv.yaml
-- :id: forces/header-flags
-  :file: data/forces-header-flags.yaml
 - :id: forces/logical-types
   :file: data/forces-logical-types.yaml
 - :id: forces/message-types
@@ -1725,12 +1333,8 @@
   :file: data/forces-tlv-types.yaml
 - :id: forces/validate-error-id
   :file: data/forces-validate-error-id.yaml
-- :id: forces
-  :file: data/forces.yaml
 - :id: ftp-commands-extensions/ftp-commands-extensions-2
   :file: data/ftp-commands-extensions-ftp-commands-extensions-2.yaml
-- :id: ftp-commands-extensions
-  :file: data/ftp-commands-extensions.yaml
 - :id: g-ach-parameters/cc-cv-mep-id
   :file: data/g-ach-parameters-cc-cv-mep-id.yaml
 - :id: g-ach-parameters/fault-flag
@@ -1769,18 +1373,12 @@
   :file: data/g-ach-parameters-psc-tlv.yaml
 - :id: g-ach-parameters/return-path-sub-tlv-type
   :file: data/g-ach-parameters-return-path-sub-tlv-type.yaml
-- :id: g-ach-parameters
-  :file: data/g-ach-parameters.yaml
 - :id: gdoi-payloads/gdoi-doi-exchange-types
   :file: data/gdoi-payloads-gdoi-doi-exchange-types.yaml
 - :id: gdoi-payloads/gdoi-payloads-1
   :file: data/gdoi-payloads-gdoi-payloads-1.yaml
-- :id: gdoi-payloads/gdoi-payloads-13
-  :file: data/gdoi-payloads-gdoi-payloads-13.yaml
 - :id: gdoi-payloads/gdoi-payloads-15
   :file: data/gdoi-payloads-gdoi-payloads-15.yaml
-- :id: gdoi-payloads/gdoi-payloads-2
-  :file: data/gdoi-payloads-gdoi-payloads-2.yaml
 - :id: gdoi-payloads/gdoi-payloads-20
   :file: data/gdoi-payloads-gdoi-payloads-20.yaml
 - :id: gdoi-payloads/gdoi-sa-tek-attributes
@@ -1791,22 +1389,14 @@
   :file: data/gdoi-payloads-iec62351-9-authentication-values.yaml
 - :id: gdoi-payloads/iec62351-9-confidentiality-values
   :file: data/gdoi-payloads-iec62351-9-confidentiality-values.yaml
-- :id: gdoi-payloads
-  :file: data/gdoi-payloads.yaml
 - :id: geo-uri-parameters/geo-uri-parameters-1
   :file: data/geo-uri-parameters-geo-uri-parameters-1.yaml
 - :id: geo-uri-parameters/geo-uri-parameters-2
   :file: data/geo-uri-parameters-geo-uri-parameters-2.yaml
-- :id: geo-uri-parameters
-  :file: data/geo-uri-parameters.yaml
 - :id: geolocation-policy/location-profiles
   :file: data/geolocation-policy-location-profiles.yaml
-- :id: geolocation-policy
-  :file: data/geolocation-policy.yaml
 - :id: geopriv-identifiers/ids
   :file: data/geopriv-identifiers-ids.yaml
-- :id: geopriv-identifiers
-  :file: data/geopriv-identifiers.yaml
 - :id: gist-parameters/additional-info
   :file: data/gist-parameters-additional-info.yaml
 - :id: gist-parameters/error-codes
@@ -1829,8 +1419,6 @@
   :file: data/gist-parameters-gist-routing-methods.yaml
 - :id: gist-parameters/nslpids
   :file: data/gist-parameters-nslpids.yaml
-- :id: gist-parameters
-  :file: data/gist-parameters.yaml
 - :id: gmpls-sig-parameters/bandwidth-profiles
   :file: data/gmpls-sig-parameters-bandwidth-profiles.yaml
 - :id: gmpls-sig-parameters/cwdm-channel-spacing
@@ -1865,12 +1453,8 @@
   :file: data/gmpls-sig-parameters-sender-tspec.yaml
 - :id: gmpls-sig-parameters/special-purpose
   :file: data/gmpls-sig-parameters-special-purpose.yaml
-- :id: gmpls-sig-parameters
-  :file: data/gmpls-sig-parameters.yaml
 - :id: gmpls-wson/interface-label-stack-address-type
   :file: data/gmpls-wson-interface-label-stack-address-type.yaml
-- :id: gmpls-wson
-  :file: data/gmpls-wson.yaml
 - :id: gnap/gnap-access-token-flags
   :file: data/gnap-gnap-access-token-flags.yaml
 - :id: gnap/gnap-assertion-formats
@@ -1917,24 +1501,14 @@
   :file: data/gnap-gnap-token-introspection-request.yaml
 - :id: gnap/gnap-token-introspection-response
   :file: data/gnap-gnap-token-introspection-response.yaml
-- :id: gnap
-  :file: data/gnap.yaml
 - :id: gnss/types
   :file: data/gnss-types.yaml
-- :id: gnss
-  :file: data/gnss.yaml
 - :id: grasp-parameters/messages-and-options
   :file: data/grasp-parameters-messages-and-options.yaml
 - :id: grasp-parameters/objective-names
   :file: data/grasp-parameters-objective-names.yaml
-- :id: grasp-parameters
-  :file: data/grasp-parameters.yaml
-- :id: gre-parameters/gre-parameters-1
-  :file: data/gre-parameters-gre-parameters-1.yaml
 - :id: gre-parameters/gre-parameters-2
   :file: data/gre-parameters-gre-parameters-2.yaml
-- :id: gre-parameters
-  :file: data/gre-parameters.yaml
 - :id: gsakmp-parameters/gsakmp-parameters-1
   :file: data/gsakmp-parameters-gsakmp-parameters-1.yaml
 - :id: gsakmp-parameters/gsakmp-parameters-10
@@ -1969,80 +1543,46 @@
   :file: data/gsakmp-parameters-gsakmp-parameters-8.yaml
 - :id: gsakmp-parameters/gsakmp-parameters-9
   :file: data/gsakmp-parameters-gsakmp-parameters-9.yaml
-- :id: gsakmp-parameters
-  :file: data/gsakmp-parameters.yaml
 - :id: gsmpv3-adapt/gsmpv3-adapt-2
   :file: data/gsmpv3-adapt-gsmpv3-adapt-2.yaml
-- :id: gsmpv3-adapt
-  :file: data/gsmpv3-adapt.yaml
 - :id: gsmpv3-event/gsmpv3-event-1
   :file: data/gsmpv3-event-gsmpv3-event-1.yaml
-- :id: gsmpv3-event
-  :file: data/gsmpv3-event.yaml
 - :id: gsmpv3-failure/gsmpv3-failure-2
   :file: data/gsmpv3-failure-gsmpv3-failure-2.yaml
-- :id: gsmpv3-failure
-  :file: data/gsmpv3-failure.yaml
 - :id: gsmpv3-label/gsmpv3-label-2
   :file: data/gsmpv3-label-gsmpv3-label-2.yaml
-- :id: gsmpv3-label
-  :file: data/gsmpv3-label.yaml
 - :id: gsmpv3-message/gsmpv3-message-2
   :file: data/gsmpv3-message-gsmpv3-message-2.yaml
-- :id: gsmpv3-message
-  :file: data/gsmpv3-message.yaml
 - :id: gsmpv3-model/gsmpv3-model-2
   :file: data/gsmpv3-model-gsmpv3-model-2.yaml
-- :id: gsmpv3-model
-  :file: data/gsmpv3-model.yaml
 - :id: gsmpv3-port/gsmpv3-port-2
   :file: data/gsmpv3-port-gsmpv3-port-2.yaml
-- :id: gsmpv3-port
-  :file: data/gsmpv3-port.yaml
 - :id: gsmpv3-result/gsmpv3-result-1
   :file: data/gsmpv3-result-gsmpv3-result-1.yaml
-- :id: gsmpv3-result
-  :file: data/gsmpv3-result.yaml
 - :id: gsmpv3-service/gsmpv3-service-2
   :file: data/gsmpv3-service-gsmpv3-service-2.yaml
-- :id: gsmpv3-service
-  :file: data/gsmpv3-service.yaml
 - :id: gsmpv3-traffic/gsmpv3-traffic-1
   :file: data/gsmpv3-traffic-gsmpv3-traffic-1.yaml
-- :id: gsmpv3-traffic
-  :file: data/gsmpv3-traffic.yaml
 - :id: gss-api-parameters/urn
   :file: data/gss-api-parameters-urn.yaml
-- :id: gss-api-parameters
-  :file: data/gss-api-parameters.yaml
 - :id: gss-eap-parameters/context-flags
   :file: data/gss-eap-parameters-context-flags.yaml
 - :id: gss-eap-parameters/error-codes
   :file: data/gss-eap-parameters-error-codes.yaml
 - :id: gss-eap-parameters/subtoken-types
   :file: data/gss-eap-parameters-subtoken-types.yaml
-- :id: gss-eap-parameters
-  :file: data/gss-eap-parameters.yaml
 - :id: gssapi-service-names/gssapi-service-names-1
   :file: data/gssapi-service-names-gssapi-service-names-1.yaml
-- :id: gssapi-service-names
-  :file: data/gssapi-service-names.yaml
 - :id: gstn-extensions/gstn-extensions-1
   :file: data/gstn-extensions-gstn-extensions-1.yaml
 - :id: gstn-extensions/gstn-extensions-2
   :file: data/gstn-extensions-gstn-extensions-2.yaml
 - :id: gstn-extensions/gstn-extensions-3
   :file: data/gstn-extensions-gstn-extensions-3.yaml
-- :id: gstn-extensions
-  :file: data/gstn-extensions.yaml
 - :id: hash-function-text-names/hash-function-text-names-1
   :file: data/hash-function-text-names-hash-function-text-names-1.yaml
-- :id: hash-function-text-names
-  :file: data/hash-function-text-names.yaml
 - :id: held-parameters/error-codes
   :file: data/held-parameters-error-codes.yaml
-- :id: held-parameters
-  :file: data/held-parameters.yaml
 - :id: hip-parameters/certificate-types
   :file: data/hip-parameters-certificate-types.yaml
 - :id: hip-parameters/esp-transform-suite-ids
@@ -2077,70 +1617,40 @@
   :file: data/hip-parameters-transport-modes.yaml
 - :id: hip-parameters/via-flags
   :file: data/hip-parameters-via-flags.yaml
-- :id: hip-parameters
-  :file: data/hip-parameters.yaml
 - :id: hoba-device-identifiers/device-identifier-types
   :file: data/hoba-device-identifiers-device-identifier-types.yaml
-- :id: hoba-device-identifiers
-  :file: data/hoba-device-identifiers.yaml
 - :id: hoba-key-identifiers/key-identifier-types
   :file: data/hoba-key-identifiers-key-identifier-types.yaml
-- :id: hoba-key-identifiers
-  :file: data/hoba-key-identifiers.yaml
 - :id: hoba-signature-algorithms/algorithm-names
   :file: data/hoba-signature-algorithms-algorithm-names.yaml
-- :id: hoba-signature-algorithms
-  :file: data/hoba-signature-algorithms.yaml
 - :id: hpke/hpke-aead-ids
   :file: data/hpke-hpke-aead-ids.yaml
 - :id: hpke/hpke-kdf-ids
   :file: data/hpke-hpke-kdf-ids.yaml
 - :id: hpke/hpke-kem-ids
   :file: data/hpke-hpke-kem-ids.yaml
-- :id: hpke
-  :file: data/hpke.yaml
 - :id: http-alt-svc-parameters/alt-svc-parameters
   :file: data/http-alt-svc-parameters-alt-svc-parameters.yaml
-- :id: http-alt-svc-parameters
-  :file: data/http-alt-svc-parameters.yaml
 - :id: http-authentication-control-parameters/authentication-control-parameters
   :file: data/http-authentication-control-parameters-authentication-control-parameters.yaml
 - :id: http-authentication-control-parameters/mutual-authentication-host-validation-methods
   :file: data/http-authentication-control-parameters-mutual-authentication-host-validation-methods.yaml
-- :id: http-authentication-control-parameters
-  :file: data/http-authentication-control-parameters.yaml
 - :id: http-authschemes/authschemes
   :file: data/http-authschemes-authschemes.yaml
 - :id: http-authschemes/mutual-authentication-algorithms
   :file: data/http-authschemes-mutual-authentication-algorithms.yaml
-- :id: http-authschemes
-  :file: data/http-authschemes.yaml
 - :id: http-cache-directives/cache-directives
   :file: data/http-cache-directives-cache-directives.yaml
-- :id: http-cache-directives
-  :file: data/http-cache-directives.yaml
 - :id: http-cache-status/http-cache-status
   :file: data/http-cache-status-http-cache-status.yaml
-- :id: http-cache-status
-  :file: data/http-cache-status.yaml
-- :id: http-capsule-protocol/http-capsule-types
-  :file: data/http-capsule-protocol-http-capsule-types.yaml
-- :id: http-capsule-protocol
-  :file: data/http-capsule-protocol.yaml
 - :id: http-dig-alg/hash-alg
   :file: data/http-dig-alg-hash-alg.yaml
 - :id: http-dig-alg/http-dig-alg-1
   :file: data/http-dig-alg-http-dig-alg-1.yaml
-- :id: http-dig-alg
-  :file: data/http-dig-alg.yaml
 - :id: http-digest-hash-alg/digest-fields
   :file: data/http-digest-hash-alg-digest-fields.yaml
-- :id: http-digest-hash-alg
-  :file: data/http-digest-hash-alg.yaml
 - :id: http-fields/field-names
   :file: data/http-fields-field-names.yaml
-- :id: http-fields
-  :file: data/http-fields.yaml
 - :id: http-message-signature/component-parameters
   :file: data/http-message-signature-component-parameters.yaml
 - :id: http-message-signature/signature-algorithms
@@ -2149,12 +1659,8 @@
   :file: data/http-message-signature-signature-derived-component-names.yaml
 - :id: http-message-signature/signature-metadata-parameters
   :file: data/http-message-signature-signature-metadata-parameters.yaml
-- :id: http-message-signature
-  :file: data/http-message-signature.yaml
 - :id: http-methods/methods
   :file: data/http-methods-methods.yaml
-- :id: http-methods
-  :file: data/http-methods.yaml
 - :id: http-parameters/content-coding
   :file: data/http-parameters-content-coding.yaml
 - :id: http-parameters/forwarded
@@ -2165,42 +1671,26 @@
   :file: data/http-parameters-range-units.yaml
 - :id: http-parameters/transfer-coding
   :file: data/http-parameters-transfer-coding.yaml
-- :id: http-parameters
-  :file: data/http-parameters.yaml
 - :id: http-priority/http-priority
   :file: data/http-priority-http-priority.yaml
-- :id: http-priority
-  :file: data/http-priority.yaml
 - :id: http-problem-types/http-problem-types
   :file: data/http-problem-types-http-problem-types.yaml
-- :id: http-problem-types
-  :file: data/http-problem-types.yaml
 - :id: http-proxy-status/http-proxy-error-types
   :file: data/http-proxy-status-http-proxy-error-types.yaml
 - :id: http-proxy-status/http-proxy-status-parameters
   :file: data/http-proxy-status-http-proxy-status-parameters.yaml
-- :id: http-proxy-status
-  :file: data/http-proxy-status.yaml
 - :id: http-status-codes/http-status-codes-1
   :file: data/http-status-codes-http-status-codes-1.yaml
-- :id: http-status-codes
-  :file: data/http-status-codes.yaml
 - :id: http-upgrade-tokens/http-upgrade-tokens-1
   :file: data/http-upgrade-tokens-http-upgrade-tokens-1.yaml
-- :id: http-upgrade-tokens
-  :file: data/http-upgrade-tokens.yaml
 - :id: http-warn-codes/warn-codes
   :file: data/http-warn-codes-warn-codes.yaml
-- :id: http-warn-codes
-  :file: data/http-warn-codes.yaml
 - :id: http2-parameters/error-code
   :file: data/http2-parameters-error-code.yaml
 - :id: http2-parameters/frame-type
   :file: data/http2-parameters-frame-type.yaml
 - :id: http2-parameters/settings
   :file: data/http2-parameters-settings.yaml
-- :id: http2-parameters
-  :file: data/http2-parameters.yaml
 - :id: http3-parameters/http3-parameters-error-codes
   :file: data/http3-parameters-http3-parameters-error-codes.yaml
 - :id: http3-parameters/http3-parameters-frame-types
@@ -2209,94 +1699,12 @@
   :file: data/http3-parameters-http3-parameters-settings.yaml
 - :id: http3-parameters/http3-parameters-stream-types
   :file: data/http3-parameters-http3-parameters-stream-types.yaml
-- :id: http3-parameters
-  :file: data/http3-parameters.yaml
 - :id: iana-as-numbers-special-registry/special-purpose-as-numbers
   :file: data/iana-as-numbers-special-registry-special-purpose-as-numbers.yaml
-- :id: iana-as-numbers-special-registry
-  :file: data/iana-as-numbers-special-registry.yaml
-- :id: iana-bfd-types
-  :file: data/iana-bfd-types.yaml
-- :id: iana-bgp-l2-encaps
-  :file: data/iana-bgp-l2-encaps.yaml
-- :id: iana-crypt-hash
-  :file: data/iana-crypt-hash.yaml
-- :id: iana-dns-class-rr-type
-  :file: data/iana-dns-class-rr-type.yaml
-- :id: iana-dots-signal-channel
-  :file: data/iana-dots-signal-channel.yaml
-- :id: iana-hardware
-  :file: data/iana-hardware.yaml
-- :id: iana-if-type
-  :file: data/iana-if-type.yaml
 - :id: iana-ipv4-special-registry/iana-ipv4-special-registry-1
   :file: data/iana-ipv4-special-registry-iana-ipv4-special-registry-1.yaml
-- :id: iana-ipv4-special-registry
-  :file: data/iana-ipv4-special-registry.yaml
 - :id: iana-ipv6-special-registry/iana-ipv6-special-registry-1
   :file: data/iana-ipv6-special-registry-iana-ipv6-special-registry-1.yaml
-- :id: iana-ipv6-special-registry
-  :file: data/iana-ipv6-special-registry.yaml
-- :id: iana-msd-types
-  :file: data/iana-msd-types.yaml
-- :id: iana-pseudowire-types
-  :file: data/iana-pseudowire-types.yaml
-- :id: iana-routing-types
-  :file: data/iana-routing-types.yaml
-- :id: iana-ssh-encryption-algs
-  :file: data/iana-ssh-encryption-algs.yaml
-- :id: iana-ssh-key-exchange-algs
-  :file: data/iana-ssh-key-exchange-algs.yaml
-- :id: iana-ssh-mac-algs
-  :file: data/iana-ssh-mac-algs.yaml
-- :id: iana-ssh-public-key-algs
-  :file: data/iana-ssh-public-key-algs.yaml
-- :id: iana-tls-cipher-suite-algs
-  :file: data/iana-tls-cipher-suite-algs.yaml
-- :id: iana-tunnel-type
-  :file: data/iana-tunnel-type.yaml
-- :id: ianaaddressfamilynumbers-mib
-  :file: data/ianaaddressfamilynumbers-mib.yaml
-- :id: ianabfdtcstd-mib
-  :file: data/ianabfdtcstd-mib.yaml
-- :id: ianacharset-mib
-  :file: data/ianacharset-mib.yaml
-- :id: ianaenergyrelation-mib
-  :file: data/ianaenergyrelation-mib.yaml
-- :id: ianaentity-mib
-  :file: data/ianaentity-mib.yaml
-- :id: ianafinisher-mib
-  :file: data/ianafinisher-mib.yaml
-- :id: ianagbondtc-mib
-  :file: data/ianagbondtc-mib.yaml
-- :id: ianagmplstc-mib
-  :file: data/ianagmplstc-mib.yaml
-- :id: ianaiftype-mib
-  :file: data/ianaiftype-mib.yaml
-- :id: ianaippmmetricsregistry-mib
-  :file: data/ianaippmmetricsregistry-mib.yaml
-- :id: ianaiprouteprotocol-mib
-  :file: data/ianaiprouteprotocol-mib.yaml
-- :id: ianaitualarmtc-mib
-  :file: data/ianaitualarmtc-mib.yaml
-- :id: ianalanguage-mib
-  :file: data/ianalanguage-mib.yaml
-- :id: ianamalloc-mib
-  :file: data/ianamalloc-mib.yaml
-- :id: ianamau-mib
-  :file: data/ianamau-mib.yaml
-- :id: ianaolsrv2linkmetrictype-mib
-  :file: data/ianaolsrv2linkmetrictype-mib.yaml
-- :id: ianapowerstateset-mib
-  :file: data/ianapowerstateset-mib.yaml
-- :id: ianaprinter-mib
-  :file: data/ianaprinter-mib.yaml
-- :id: ianasmf-mib
-  :file: data/ianasmf-mib.yaml
-- :id: ianastoragemediatype-mib
-  :file: data/ianastoragemediatype-mib.yaml
-- :id: ianatn3270etc-mib
-  :file: data/ianatn3270etc-mib.yaml
 - :id: iax-parameters/iax-parameters-1
   :file: data/iax-parameters-iax-parameters-1.yaml
 - :id: iax-parameters/iax-parameters-10
@@ -2327,8 +1735,6 @@
   :file: data/iax-parameters-iax-parameters-8.yaml
 - :id: iax-parameters/iax-parameters-9
   :file: data/iax-parameters-iax-parameters-9.yaml
-- :id: iax-parameters
-  :file: data/iax-parameters.yaml
 - :id: icalendar/actions
   :file: data/icalendar-actions.yaml
 - :id: icalendar/calendar-user-types
@@ -2369,22 +1775,14 @@
   :file: data/icalendar-schedule-force-send-values.yaml
 - :id: icalendar/value-data-types
   :file: data/icalendar-value-data-types.yaml
-- :id: icalendar
-  :file: data/icalendar.yaml
 - :id: ice/options
   :file: data/ice-options.yaml
 - :id: ice/transport-extensions
   :file: data/ice-transport-extensions.yaml
-- :id: ice
-  :file: data/ice.yaml
-- :id: icmp-parameters/icmp-parameters-codes
-  :file: data/icmp-parameters-icmp-parameters-codes.yaml
 - :id: icmp-parameters/icmp-parameters-ext-classes
   :file: data/icmp-parameters-icmp-parameters-ext-classes.yaml
 - :id: icmp-parameters/icmp-parameters-types
   :file: data/icmp-parameters-icmp-parameters-types.yaml
-- :id: icmp-parameters
-  :file: data/icmp-parameters.yaml
 - :id: icmpv6-parameters/address-registration
   :file: data/icmpv6-parameters-address-registration.yaml
 - :id: icmpv6-parameters/edar-message-flags
@@ -2401,8 +1799,6 @@
   :file: data/icmpv6-parameters-icmpv6-parameters-11.yaml
 - :id: icmpv6-parameters/icmpv6-parameters-2
   :file: data/icmpv6-parameters-icmpv6-parameters-2.yaml
-- :id: icmpv6-parameters/icmpv6-parameters-3
-  :file: data/icmpv6-parameters-icmpv6-parameters-3.yaml
 - :id: icmpv6-parameters/icmpv6-parameters-4
   :file: data/icmpv6-parameters-icmpv6-parameters-4.yaml
 - :id: icmpv6-parameters/icmpv6-parameters-5
@@ -2423,102 +1819,66 @@
   :file: data/icmpv6-parameters-pvd-option-flags.yaml
 - :id: icmpv6-parameters/sixlowpan-capability-bits
   :file: data/icmpv6-parameters-sixlowpan-capability-bits.yaml
-- :id: icmpv6-parameters
-  :file: data/icmpv6-parameters.yaml
 - :id: idmef-parameters/idmef-parameters-names
   :file: data/idmef-parameters-idmef-parameters-names.yaml
 - :id: idmef-parameters/idmef-parameters-values
   :file: data/idmef-parameters-idmef-parameters-values.yaml
-- :id: idmef-parameters
-  :file: data/idmef-parameters.yaml
 - :id: idna-tables-10.0.0/idna-tables-context
   :file: data/idna-tables-10-0-0-idna-tables-context.yaml
 - :id: idna-tables-10.0.0/idna-tables-properties
   :file: data/idna-tables-10-0-0-idna-tables-properties.yaml
-- :id: idna-tables-10.0.0
-  :file: data/idna-tables-10-0-0.yaml
 - :id: idna-tables-11.0.0/idna-tables-context
   :file: data/idna-tables-11-0-0-idna-tables-context.yaml
 - :id: idna-tables-11.0.0/idna-tables-properties
   :file: data/idna-tables-11-0-0-idna-tables-properties.yaml
-- :id: idna-tables-11.0.0
-  :file: data/idna-tables-11-0-0.yaml
 - :id: idna-tables-12.0.0/idna-tables-context
   :file: data/idna-tables-12-0-0-idna-tables-context.yaml
 - :id: idna-tables-12.0.0/idna-tables-properties
   :file: data/idna-tables-12-0-0-idna-tables-properties.yaml
-- :id: idna-tables-12.0.0
-  :file: data/idna-tables-12-0-0.yaml
 - :id: idna-tables-5.2.0/idna-tables-5.2.0-context
   :file: data/idna-tables-5-2-0-idna-tables-5-2-0-context.yaml
 - :id: idna-tables-5.2.0/idna-tables-5.2.0-properties
   :file: data/idna-tables-5-2-0-idna-tables-5-2-0-properties.yaml
-- :id: idna-tables-5.2.0
-  :file: data/idna-tables-5-2-0.yaml
 - :id: idna-tables-6.0.0/idna-tables-6.0.0-context
   :file: data/idna-tables-6-0-0-idna-tables-6-0-0-context.yaml
 - :id: idna-tables-6.0.0/idna-tables-6.0.0-properties
   :file: data/idna-tables-6-0-0-idna-tables-6-0-0-properties.yaml
-- :id: idna-tables-6.0.0
-  :file: data/idna-tables-6-0-0.yaml
 - :id: idna-tables-6.1.0/idna-tables-context
   :file: data/idna-tables-6-1-0-idna-tables-context.yaml
 - :id: idna-tables-6.1.0/idna-tables-properties
   :file: data/idna-tables-6-1-0-idna-tables-properties.yaml
-- :id: idna-tables-6.1.0
-  :file: data/idna-tables-6-1-0.yaml
 - :id: idna-tables-6.2.0/idna-tables-context
   :file: data/idna-tables-6-2-0-idna-tables-context.yaml
 - :id: idna-tables-6.2.0/idna-tables-properties
   :file: data/idna-tables-6-2-0-idna-tables-properties.yaml
-- :id: idna-tables-6.2.0
-  :file: data/idna-tables-6-2-0.yaml
 - :id: idna-tables-6.3.0/idna-tables-context
   :file: data/idna-tables-6-3-0-idna-tables-context.yaml
 - :id: idna-tables-6.3.0/idna-tables-properties
   :file: data/idna-tables-6-3-0-idna-tables-properties.yaml
-- :id: idna-tables-6.3.0
-  :file: data/idna-tables-6-3-0.yaml
 - :id: idna-tables-7.0.0/idna-tables-context
   :file: data/idna-tables-7-0-0-idna-tables-context.yaml
 - :id: idna-tables-7.0.0/idna-tables-properties
   :file: data/idna-tables-7-0-0-idna-tables-properties.yaml
-- :id: idna-tables-7.0.0
-  :file: data/idna-tables-7-0-0.yaml
 - :id: idna-tables-8.0.0/idna-tables-context
   :file: data/idna-tables-8-0-0-idna-tables-context.yaml
 - :id: idna-tables-8.0.0/idna-tables-properties
   :file: data/idna-tables-8-0-0-idna-tables-properties.yaml
-- :id: idna-tables-8.0.0
-  :file: data/idna-tables-8-0-0.yaml
 - :id: idna-tables-9.0.0/idna-tables-context
   :file: data/idna-tables-9-0-0-idna-tables-context.yaml
 - :id: idna-tables-9.0.0/idna-tables-properties
   :file: data/idna-tables-9-0-0-idna-tables-properties.yaml
-- :id: idna-tables-9.0.0
-  :file: data/idna-tables-9-0-0.yaml
 - :id: idxp-options/idxp-options-1
   :file: data/idxp-options-idxp-options-1.yaml
-- :id: idxp-options
-  :file: data/idxp-options.yaml
-- :id: ieee-802-numbers/iana-lldp-tlv-subtypes
-  :file: data/ieee-802-numbers-iana-lldp-tlv-subtypes.yaml
 - :id: ieee-802-numbers/ieee-802-numbers-1
   :file: data/ieee-802-numbers-ieee-802-numbers-1.yaml
 - :id: ieee-802-numbers/ieee-802-numbers-2
   :file: data/ieee-802-numbers-ieee-802-numbers-2.yaml
 - :id: ieee-802-numbers/ieee-802-numbers-3
   :file: data/ieee-802-numbers-ieee-802-numbers-3.yaml
-- :id: ieee-802-numbers
-  :file: data/ieee-802-numbers.yaml
 - :id: ieee-std-802.15.4-ietf-ie-subtype-ids/ieee-std-802.15.4-ietf-ie-subtype-ids-1
   :file: data/ieee-std-802-15-4-ietf-ie-subtype-ids-ieee-std-802-15-4-ietf-ie-subtype-ids-1.yaml
-- :id: ieee-std-802.15.4-ietf-ie-subtype-ids
-  :file: data/ieee-std-802-15-4-ietf-ie-subtype-ids.yaml
 - :id: iesg-recognized-organizations/organizations
   :file: data/iesg-recognized-organizations-organizations.yaml
-- :id: iesg-recognized-organizations
-  :file: data/iesg-recognized-organizations.yaml
 - :id: igmp-type-numbers/igmp-mld-extension-types
   :file: data/igmp-type-numbers-igmp-mld-extension-types.yaml
 - :id: igmp-type-numbers/igmp-mld-query-message-flags
@@ -2527,10 +1887,6 @@
   :file: data/igmp-type-numbers-igmp-mld-report-message-flags.yaml
 - :id: igmp-type-numbers/igmp-type-numbers-1
   :file: data/igmp-type-numbers-igmp-type-numbers-1.yaml
-- :id: igmp-type-numbers/igmp-type-numbers-2
-  :file: data/igmp-type-numbers-igmp-type-numbers-2.yaml
-- :id: igmp-type-numbers
-  :file: data/igmp-type-numbers.yaml
 - :id: igp-parameters/algorithm-type-computing-flooding-topology
   :file: data/igp-parameters-algorithm-type-computing-flooding-topology.yaml
 - :id: igp-parameters/igp-algorithm-types
@@ -2547,8 +1903,6 @@
   :file: data/igp-parameters-pce-capability-flags.yaml
 - :id: igp-parameters/pced-sub-tlv-type-indicators
   :file: data/igp-parameters-pced-sub-tlv-type-indicators.yaml
-- :id: igp-parameters
-  :file: data/igp-parameters.yaml
 - :id: ikev2-parameters/group-key-bag-attributes
   :file: data/ikev2-parameters-group-key-bag-attributes.yaml
 - :id: ikev2-parameters/group-wide-policy-attributes
@@ -2593,78 +1947,48 @@
   :file: data/ikev2-parameters-member-key-bag-attributes.yaml
 - :id: ikev2-parameters/secure-password-methods
   :file: data/ikev2-parameters-secure-password-methods.yaml
-- :id: ikev2-parameters
-  :file: data/ikev2-parameters.yaml
 - :id: im-srv-labels/im-srv-labels-1
   :file: data/im-srv-labels-im-srv-labels-1.yaml
-- :id: im-srv-labels
-  :file: data/im-srv-labels.yaml
 - :id: imap-annotate-extension/imap-annotate-extension-attributes
   :file: data/imap-annotate-extension-imap-annotate-extension-attributes.yaml
 - :id: imap-annotate-extension/imap-annotate-extension-entries
   :file: data/imap-annotate-extension-imap-annotate-extension-entries.yaml
-- :id: imap-annotate-extension
-  :file: data/imap-annotate-extension.yaml
 - :id: imap-capabilities/imap-capabilities-1
   :file: data/imap-capabilities-imap-capabilities-1.yaml
 - :id: imap-capabilities/imap-capabilities-2
   :file: data/imap-capabilities-imap-capabilities-2.yaml
-- :id: imap-capabilities
-  :file: data/imap-capabilities.yaml
 - :id: imap-jmap-keywords/imap-keywords-1
   :file: data/imap-jmap-keywords-imap-keywords-1.yaml
-- :id: imap-jmap-keywords
-  :file: data/imap-jmap-keywords.yaml
 - :id: imap-list-extended/imap-list-extended-1
   :file: data/imap-list-extended-imap-list-extended-1.yaml
 - :id: imap-list-extended/imap-list-extended-2
   :file: data/imap-list-extended-imap-list-extended-2.yaml
-- :id: imap-list-extended
-  :file: data/imap-list-extended.yaml
 - :id: imap-mailbox-name-attributes/imap-mailbox-name-attributes-1
   :file: data/imap-mailbox-name-attributes-imap-mailbox-name-attributes-1.yaml
-- :id: imap-mailbox-name-attributes
-  :file: data/imap-mailbox-name-attributes.yaml
 - :id: imap-metadata/imap-metadata-1
   :file: data/imap-metadata-imap-metadata-1.yaml
 - :id: imap-metadata/imap-metadata-2
   :file: data/imap-metadata-imap-metadata-2.yaml
-- :id: imap-metadata
-  :file: data/imap-metadata.yaml
 - :id: imap-response-codes/imap-response-codes-1
   :file: data/imap-response-codes-imap-response-codes-1.yaml
-- :id: imap-response-codes
-  :file: data/imap-response-codes.yaml
 - :id: imap-threading-algorithms/imap-threading-algorithms-1
   :file: data/imap-threading-algorithms-imap-threading-algorithms-1.yaml
-- :id: imap-threading-algorithms
-  :file: data/imap-threading-algorithms.yaml
 - :id: imdn/imdn-1
   :file: data/imdn-imdn-1.yaml
-- :id: imdn
-  :file: data/imdn.yaml
 - :id: inst-man-values/inst-man-values-1
   :file: data/inst-man-values-inst-man-values-1.yaml
-- :id: inst-man-values
-  :file: data/inst-man-values.yaml
 - :id: integ-serv/integ-serv-2
   :file: data/integ-serv-integ-serv-2.yaml
 - :id: integ-serv/integ-serv-4
   :file: data/integ-serv-integ-serv-4.yaml
 - :id: integ-serv/integ-serv-5
   :file: data/integ-serv-integ-serv-5.yaml
-- :id: integ-serv
-  :file: data/integ-serv.yaml
 - :id: internet-date-time-format/timestamp-suffix-tag-keys
   :file: data/internet-date-time-format-timestamp-suffix-tag-keys.yaml
-- :id: internet-date-time-format
-  :file: data/internet-date-time-format.yaml
 - :id: ioam-capabilities/ioam-sop-capability
   :file: data/ioam-capabilities-ioam-sop-capability.yaml
 - :id: ioam-capabilities/ioam-tsf-capability
   :file: data/ioam-capabilities-ioam-tsf-capability.yaml
-- :id: ioam-capabilities
-  :file: data/ioam-capabilities.yaml
 - :id: ioam/dex-extension-flags
   :file: data/ioam-dex-extension-flags.yaml
 - :id: ioam/dex-flags
@@ -2683,12 +2007,8 @@
   :file: data/ioam-trace-flags.yaml
 - :id: ioam/trace-type
   :file: data/ioam-trace-type.yaml
-- :id: ioam
-  :file: data/ioam.yaml
 - :id: iodef/sci-spec
   :file: data/iodef-sci-spec.yaml
-- :id: iodef
-  :file: data/iodef.yaml
 - :id: iodef2/address-category
   :file: data/iodef2-address-category.yaml
 - :id: iodef2/bulkobservable-type
@@ -2757,8 +2077,6 @@
   :file: data/iodef2-timeimpact-duration.yaml
 - :id: iodef2/timeimpact-metric
   :file: data/iodef2-timeimpact-metric.yaml
-- :id: iodef2
-  :file: data/iodef2.yaml
 - :id: iotp-codes/iotp-codes-1
   :file: data/iotp-codes-iotp-codes-1.yaml
 - :id: iotp-codes/iotp-codes-10
@@ -2767,8 +2085,6 @@
   :file: data/iotp-codes-iotp-codes-11.yaml
 - :id: iotp-codes/iotp-codes-2
   :file: data/iotp-codes-iotp-codes-2.yaml
-- :id: iotp-codes/iotp-codes-3
-  :file: data/iotp-codes-iotp-codes-3.yaml
 - :id: iotp-codes/iotp-codes-4
   :file: data/iotp-codes-iotp-codes-4.yaml
 - :id: iotp-codes/iotp-codes-5
@@ -2781,32 +2097,18 @@
   :file: data/iotp-codes-iotp-codes-8.yaml
 - :id: iotp-codes/iotp-codes-9
   :file: data/iotp-codes-iotp-codes-9.yaml
-- :id: iotp-codes
-  :file: data/iotp-codes.yaml
 - :id: ip-over-IEEE1394/ip-over-IEEE1394-1
   :file: data/ip-over-ieee1394-ip-over-ieee1394-1.yaml
 - :id: ip-over-IEEE1394/ip-over-IEEE1394-2
   :file: data/ip-over-ieee1394-ip-over-ieee1394-2.yaml
-- :id: ip-over-IEEE1394
-  :file: data/ip-over-ieee1394.yaml
 - :id: ip-parameters/ip-parameters-1
   :file: data/ip-parameters-ip-parameters-1.yaml
-- :id: ip-parameters/ip-parameters-2
-  :file: data/ip-parameters-ip-parameters-2.yaml
-- :id: ip-parameters/ip-parameters-3
-  :file: data/ip-parameters-ip-parameters-3.yaml
-- :id: ip-parameters/ip-parameters-4
-  :file: data/ip-parameters-ip-parameters-4.yaml
 - :id: ip-parameters/ipv4-router-alert-option-values
   :file: data/ip-parameters-ipv4-router-alert-option-values.yaml
-- :id: ip-parameters
-  :file: data/ip-parameters.yaml
 - :id: ip-xns-mapping/ip-xns-mapping-1
   :file: data/ip-xns-mapping-ip-xns-mapping-1.yaml
 - :id: ip-xns-mapping/ip-xns-mapping-2
   :file: data/ip-xns-mapping-ip-xns-mapping-2.yaml
-- :id: ip-xns-mapping
-  :file: data/ip-xns-mapping.yaml
 - :id: ipfix/ipfix-information-element-data-types
   :file: data/ipfix-ipfix-information-element-data-types.yaml
 - :id: ipfix/ipfix-information-element-semantics
@@ -2823,8 +2125,6 @@
   :file: data/ipfix-ipfix-structured-data-types-semantics.yaml
 - :id: ipfix/ipfix-version-numbers
   :file: data/ipfix-ipfix-version-numbers.yaml
-- :id: ipfix
-  :file: data/ipfix.yaml
 - :id: ipp-registrations/ipp-registrations-1
   :file: data/ipp-registrations-ipp-registrations-1.yaml
 - :id: ipp-registrations/ipp-registrations-10
@@ -2843,20 +2143,14 @@
   :file: data/ipp-registrations-ipp-registrations-8.yaml
 - :id: ipp-registrations/ipp-registrations-9
   :file: data/ipp-registrations-ipp-registrations-9.yaml
-- :id: ipp-registrations
-  :file: data/ipp-registrations.yaml
 - :id: ips-protocols/ips-protocols-2
   :file: data/ips-protocols-ips-protocols-2.yaml
-- :id: ips-protocols
-  :file: data/ips-protocols.yaml
 - :id: ipsec-registry/ipsec-registry-10
   :file: data/ipsec-registry-ipsec-registry-10.yaml
 - :id: ipsec-registry/ipsec-registry-12
   :file: data/ipsec-registry-ipsec-registry-12.yaml
 - :id: ipsec-registry/ipsec-registry-14
   :file: data/ipsec-registry-ipsec-registry-14.yaml
-- :id: ipsec-registry/ipsec-registry-16
-  :file: data/ipsec-registry-ipsec-registry-16.yaml
 - :id: ipsec-registry/ipsec-registry-17
   :file: data/ipsec-registry-ipsec-registry-17.yaml
 - :id: ipsec-registry/ipsec-registry-18
@@ -2869,44 +2163,30 @@
   :file: data/ipsec-registry-ipsec-registry-21.yaml
 - :id: ipsec-registry/ipsec-registry-22
   :file: data/ipsec-registry-ipsec-registry-22.yaml
-- :id: ipsec-registry/ipsec-registry-23
-  :file: data/ipsec-registry-ipsec-registry-23.yaml
 - :id: ipsec-registry/ipsec-registry-4
   :file: data/ipsec-registry-ipsec-registry-4.yaml
 - :id: ipsec-registry/ipsec-registry-6
   :file: data/ipsec-registry-ipsec-registry-6.yaml
 - :id: ipsec-registry/ipsec-registry-8
   :file: data/ipsec-registry-ipsec-registry-8.yaml
-- :id: ipsec-registry
-  :file: data/ipsec-registry.yaml
 - :id: ipseckey-rr-parameters/ipseckey-rr-parameters-1
   :file: data/ipseckey-rr-parameters-ipseckey-rr-parameters-1.yaml
 - :id: ipseckey-rr-parameters/ipseckey-rr-parameters-2
   :file: data/ipseckey-rr-parameters-ipseckey-rr-parameters-2.yaml
-- :id: ipseckey-rr-parameters
-  :file: data/ipseckey-rr-parameters.yaml
 - :id: ipv4-address-space
   :file: data/ipv4-address-space.yaml
 - :id: ipv4-recovered-address-space/ipv4-recovered-address-space-1
   :file: data/ipv4-recovered-address-space-ipv4-recovered-address-space-1.yaml
 - :id: ipv4-recovered-address-space/ipv4-recovered-address-space-2
   :file: data/ipv4-recovered-address-space-ipv4-recovered-address-space-2.yaml
-- :id: ipv4-recovered-address-space
-  :file: data/ipv4-recovered-address-space.yaml
 - :id: ipv6-address-space/ipv6-address-space-1
   :file: data/ipv6-address-space-ipv6-address-space-1.yaml
-- :id: ipv6-address-space
-  :file: data/ipv6-address-space.yaml
 - :id: ipv6-anycast-addresses/ipv6-anycast-addresses-1
   :file: data/ipv6-anycast-addresses-ipv6-anycast-addresses-1.yaml
 - :id: ipv6-anycast-addresses/ipv6-anycast-addresses-2
   :file: data/ipv6-anycast-addresses-ipv6-anycast-addresses-2.yaml
-- :id: ipv6-anycast-addresses
-  :file: data/ipv6-anycast-addresses.yaml
 - :id: ipv6-interface-ids/ipv6-interface-ids-1
   :file: data/ipv6-interface-ids-ipv6-interface-ids-1.yaml
-- :id: ipv6-interface-ids
-  :file: data/ipv6-interface-ids.yaml
 - :id: ipv6-multicast-addresses/ipv6-scope
   :file: data/ipv6-multicast-addresses-ipv6-scope.yaml
 - :id: ipv6-multicast-addresses/link-local
@@ -2919,12 +2199,8 @@
   :file: data/ipv6-multicast-addresses-unicast-multicast-group-ids.yaml
 - :id: ipv6-multicast-addresses/variable
   :file: data/ipv6-multicast-addresses-variable.yaml
-- :id: ipv6-multicast-addresses
-  :file: data/ipv6-multicast-addresses.yaml
 - :id: ipv6-parameters/extension-header
   :file: data/ipv6-parameters-extension-header.yaml
-- :id: ipv6-parameters/ipv6-parameters-1
-  :file: data/ipv6-parameters-ipv6-parameters-1.yaml
 - :id: ipv6-parameters/ipv6-parameters-2
   :file: data/ipv6-parameters-ipv6-parameters-2.yaml
 - :id: ipv6-parameters/ipv6-parameters-3
@@ -2937,18 +2213,8 @@
   :file: data/ipv6-parameters-segment-routing-header-tlvs.yaml
 - :id: ipv6-parameters/taggerId-types
   :file: data/ipv6-parameters-taggerid-types.yaml
-- :id: ipv6-parameters
-  :file: data/ipv6-parameters.yaml
 - :id: ipv6-routeralert-values/ipv6-routeralert-values-1
   :file: data/ipv6-routeralert-values-ipv6-routeralert-values-1.yaml
-- :id: ipv6-routeralert-values
-  :file: data/ipv6-routeralert-values.yaml
-- :id: ipv6-tla-assignments/ipv6-tla-assignments-1
-  :file: data/ipv6-tla-assignments-ipv6-tla-assignments-1.yaml
-- :id: ipv6-tla-assignments/ipv6-tla-assignments-2
-  :file: data/ipv6-tla-assignments-ipv6-tla-assignments-2.yaml
-- :id: ipv6-tla-assignments
-  :file: data/ipv6-tla-assignments.yaml
 - :id: ipv6-unicast-address-assignments
   :file: data/ipv6-unicast-address-assignments.yaml
 - :id: isakmp-registry/isakmp-registry-1
@@ -2963,16 +2229,12 @@
   :file: data/isakmp-registry-isakmp-registry-3.yaml
 - :id: isakmp-registry/isakmp-registry-31
   :file: data/isakmp-registry-isakmp-registry-31.yaml
-- :id: isakmp-registry/isakmp-registry-32
-  :file: data/isakmp-registry-isakmp-registry-32.yaml
 - :id: isakmp-registry/isakmp-registry-5
   :file: data/isakmp-registry-isakmp-registry-5.yaml
 - :id: isakmp-registry/isakmp-registry-7
   :file: data/isakmp-registry-isakmp-registry-7.yaml
 - :id: isakmp-registry/isakmp-registry-9
   :file: data/isakmp-registry-isakmp-registry-9.yaml
-- :id: isakmp-registry
-  :file: data/isakmp-registry.yaml
 - :id: iscsi-parameters/iscsi-parameters-1
   :file: data/iscsi-parameters-iscsi-parameters-1.yaml
 - :id: iscsi-parameters/iscsi-parameters-14
@@ -2997,18 +2259,12 @@
   :file: data/iscsi-parameters-management-function-response.yaml
 - :id: iscsi-parameters/protocol-level
   :file: data/iscsi-parameters-protocol-level.yaml
-- :id: iscsi-parameters
-  :file: data/iscsi-parameters.yaml
 - :id: isis-mt-parameters/isis-mt-parameters-2
   :file: data/isis-mt-parameters-isis-mt-parameters-2.yaml
-- :id: isis-mt-parameters
-  :file: data/isis-mt-parameters.yaml
 - :id: isis-pdu/lsp-flooding-scoped-id
   :file: data/isis-pdu-lsp-flooding-scoped-id.yaml
 - :id: isis-pdu/pdu
   :file: data/isis-pdu-pdu.yaml
-- :id: isis-pdu
-  :file: data/isis-pdu.yaml
 - :id: isis-tlv-codepoints/app-ids-251
   :file: data/isis-tlv-codepoints-app-ids-251.yaml
 - :id: isis-tlv-codepoints/application-specific-link-attributes
@@ -3063,26 +2319,18 @@
   :file: data/isis-tlv-codepoints-tlv-238.yaml
 - :id: isis-tlv-codepoints/tlv-codepoints
   :file: data/isis-tlv-codepoints-tlv-codepoints.yaml
-- :id: isis-tlv-codepoints
-  :file: data/isis-tlv-codepoints.yaml
 - :id: isns-parameters/isns-parameters-1
   :file: data/isns-parameters-isns-parameters-1.yaml
 - :id: isns-parameters/isns-parameters-2
   :file: data/isns-parameters-isns-parameters-2.yaml
-- :id: isns-parameters
-  :file: data/isns-parameters.yaml
 - :id: jmap/jmap-capabilities
   :file: data/jmap-jmap-capabilities.yaml
 - :id: jmap/jmap-data-types
   :file: data/jmap-jmap-data-types.yaml
 - :id: jmap/jmap-error-codes
   :file: data/jmap-jmap-error-codes.yaml
-- :id: jmap
-  :file: data/jmap.yaml
 - :id: jms-uri-variants/jms-uri-variants-1
   :file: data/jms-uri-variants-jms-uri-variants-1.yaml
-- :id: jms-uri-variants
-  :file: data/jms-uri-variants.yaml
 - :id: jose/web-encryption-compression-algorithms
   :file: data/jose-web-encryption-compression-algorithms.yaml
 - :id: jose/web-key-elliptic-curve
@@ -3101,16 +2349,12 @@
   :file: data/jose-web-signature-encryption-algorithms.yaml
 - :id: jose/web-signature-encryption-header-parameters
   :file: data/jose-web-signature-encryption-header-parameters.yaml
-- :id: jose
-  :file: data/jose.yaml
 - :id: jscalendar/jscalendar-enum-values
   :file: data/jscalendar-jscalendar-enum-values.yaml
 - :id: jscalendar/jscalendar-properties
   :file: data/jscalendar-jscalendar-properties.yaml
 - :id: jscalendar/jscalendar-types
   :file: data/jscalendar-jscalendar-types.yaml
-- :id: jscalendar
-  :file: data/jscalendar.yaml
 - :id: jscontact/jscontact-enum-values
   :file: data/jscontact-jscontact-enum-values.yaml
 - :id: jscontact/jscontact-properties
@@ -3119,18 +2363,12 @@
   :file: data/jscontact-jscontact-types.yaml
 - :id: jscontact/jscontact-version
   :file: data/jscontact-jscontact-version.yaml
-- :id: jscontact
-  :file: data/jscontact.yaml
 - :id: jsonpath/function-extensions
   :file: data/jsonpath-function-extensions.yaml
-- :id: jsonpath
-  :file: data/jsonpath.yaml
 - :id: jwt/claims
   :file: data/jwt-claims.yaml
 - :id: jwt/confirmation-methods
   :file: data/jwt-confirmation-methods.yaml
-- :id: jwt
-  :file: data/jwt.yaml
 - :id: kerberos-parameters/fast-armor
   :file: data/kerberos-parameters-fast-armor.yaml
 - :id: kerberos-parameters/fast-options
@@ -3153,54 +2391,32 @@
   :file: data/kerberos-parameters-spake-groups.yaml
 - :id: kerberos-parameters/transport-type
   :file: data/kerberos-parameters-transport-type.yaml
-- :id: kerberos-parameters
-  :file: data/kerberos-parameters.yaml
 - :id: kerberos-v-gss-api/extension-types
   :file: data/kerberos-v-gss-api-extension-types.yaml
 - :id: kerberos-v-gss-api/token-types
   :file: data/kerberos-v-gss-api-token-types.yaml
-- :id: kerberos-v-gss-api
-  :file: data/kerberos-v-gss-api.yaml
-- :id: keynote/keynote-1
-  :file: data/keynote-keynote-1.yaml
 - :id: keynote/keynote-2
   :file: data/keynote-keynote-2.yaml
 - :id: keynote/keynote-3
   :file: data/keynote-keynote-3.yaml
-- :id: keynote
-  :file: data/keynote.yaml
 - :id: keytable/algid
   :file: data/keytable-algid.yaml
 - :id: keytable/kdf
   :file: data/keytable-kdf.yaml
-- :id: keytable/protocol
-  :file: data/keytable-protocol.yaml
-- :id: keytable
-  :file: data/keytable.yaml
 - :id: kink-parameters/kink-parameters-2
   :file: data/kink-parameters-kink-parameters-2.yaml
 - :id: kink-parameters/kink-parameters-4
   :file: data/kink-parameters-kink-parameters-4.yaml
 - :id: kink-parameters/kink-parameters-6
   :file: data/kink-parameters-kink-parameters-6.yaml
-- :id: kink-parameters
-  :file: data/kink-parameters.yaml
 - :id: l2tp-parameters/l2tp-parameters-1
   :file: data/l2tp-parameters-l2tp-parameters-1.yaml
-- :id: l2tp-parameters/l2tp-parameters-10
-  :file: data/l2tp-parameters-l2tp-parameters-10.yaml
 - :id: l2tp-parameters/l2tp-parameters-16
   :file: data/l2tp-parameters-l2tp-parameters-16.yaml
 - :id: l2tp-parameters/l2tp-parameters-17
   :file: data/l2tp-parameters-l2tp-parameters-17.yaml
 - :id: l2tp-parameters/l2tp-parameters-18
   :file: data/l2tp-parameters-l2tp-parameters-18.yaml
-- :id: l2tp-parameters/l2tp-parameters-2
-  :file: data/l2tp-parameters-l2tp-parameters-2.yaml
-- :id: l2tp-parameters/l2tp-parameters-23
-  :file: data/l2tp-parameters-l2tp-parameters-23.yaml
-- :id: l2tp-parameters/l2tp-parameters-26
-  :file: data/l2tp-parameters-l2tp-parameters-26.yaml
 - :id: l2tp-parameters/l2tp-parameters-29
   :file: data/l2tp-parameters-l2tp-parameters-29.yaml
 - :id: l2tp-parameters/l2tp-parameters-30
@@ -3221,32 +2437,14 @@
   :file: data/l2tp-parameters-l2tp-parameters-38.yaml
 - :id: l2tp-parameters/l2tp-parameters-39
   :file: data/l2tp-parameters-l2tp-parameters-39.yaml
-- :id: l2tp-parameters
-  :file: data/l2tp-parameters.yaml
 - :id: lang-subtags-templates/lang-subtags-templates-1
   :file: data/lang-subtags-templates-lang-subtags-templates-1.yaml
-- :id: lang-subtags-templates
-  :file: data/lang-subtags-templates.yaml
 - :id: lang-tag-apps/lang-tag-registration-forms
   :file: data/lang-tag-apps-lang-tag-registration-forms.yaml
-- :id: lang-tag-apps
-  :file: data/lang-tag-apps.yaml
-- :id: language-subtag-registry/language-subtag-registry-1
-  :file: data/language-subtag-registry-language-subtag-registry-1.yaml
-- :id: language-subtag-registry
-  :file: data/language-subtag-registry.yaml
-- :id: language-tag-extensions-registry/language-tag-extensions-registry-1
-  :file: data/language-tag-extensions-registry-language-tag-extensions-registry-1.yaml
-- :id: language-tag-extensions-registry
-  :file: data/language-tag-extensions-registry.yaml
 - :id: language-tags/language-tags-1
   :file: data/language-tags-language-tags-1.yaml
-- :id: language-tags
-  :file: data/language-tags.yaml
 - :id: lct-header-extensions/lct-header-extensions-2
   :file: data/lct-header-extensions-lct-header-extensions-2.yaml
-- :id: lct-header-extensions
-  :file: data/lct-header-extensions.yaml
 - :id: ldap-parameters/ldap-parameters-1
   :file: data/ldap-parameters-ldap-parameters-1.yaml
 - :id: ldap-parameters/ldap-parameters-10
@@ -3271,12 +2469,8 @@
   :file: data/ldap-parameters-ldap-parameters-8.yaml
 - :id: ldap-parameters/ldap-parameters-9
   :file: data/ldap-parameters-ldap-parameters-9.yaml
-- :id: ldap-parameters
-  :file: data/ldap-parameters.yaml
 - :id: ldp-namespaces/fec-type
   :file: data/ldp-namespaces-fec-type.yaml
-- :id: ldp-namespaces/ldp-namespaces-10
-  :file: data/ldp-namespaces-ldp-namespaces-10.yaml
 - :id: ldp-namespaces/ldp-namespaces-11
   :file: data/ldp-namespaces-ldp-namespaces-11.yaml
 - :id: ldp-namespaces/ldp-namespaces-13
@@ -3293,28 +2487,16 @@
   :file: data/ldp-namespaces-mac-flush-flags.yaml
 - :id: ldp-namespaces/status-codes
   :file: data/ldp-namespaces-status-codes.yaml
-- :id: ldp-namespaces
-  :file: data/ldp-namespaces.yaml
 - :id: leighton-micali-signatures/leighton-micali-signatures-1
   :file: data/leighton-micali-signatures-leighton-micali-signatures-1.yaml
 - :id: leighton-micali-signatures/lm-ots-signatures
   :file: data/leighton-micali-signatures-lm-ots-signatures.yaml
-- :id: leighton-micali-signatures
-  :file: data/leighton-micali-signatures.yaml
-- :id: lgr-dispositions/private-dispositions
-  :file: data/lgr-dispositions-private-dispositions.yaml
 - :id: lgr-dispositions/standard-dispositions
   :file: data/lgr-dispositions-standard-dispositions.yaml
-- :id: lgr-dispositions
-  :file: data/lgr-dispositions.yaml
 - :id: link-relations/link-relations-1
   :file: data/link-relations-link-relations-1.yaml
-- :id: link-relations
-  :file: data/link-relations.yaml
 - :id: lisp-parameters/lisp-act-value
   :file: data/lisp-parameters-lisp-act-value.yaml
-- :id: lisp-parameters/lisp-address-type-codes-registry
-  :file: data/lisp-parameters-lisp-address-type-codes-registry.yaml
 - :id: lisp-parameters/lisp-algorithm-id-numbers
   :file: data/lisp-parameters-lisp-algorithm-id-numbers.yaml
 - :id: lisp-parameters/lisp-crypto-cipher-suite
@@ -3351,20 +2533,14 @@
   :file: data/lisp-parameters-lisp-shared-extension-message-type-sub-types.yaml
 - :id: lisp-parameters/map-reply-authentication-data-types
   :file: data/lisp-parameters-map-reply-authentication-data-types.yaml
-- :id: lisp-parameters
-  :file: data/lisp-parameters.yaml
 - :id: lmp-parameters/behavior-config-flags
   :file: data/lmp-parameters-behavior-config-flags.yaml
 - :id: lmp-parameters/lmp-parameters-2
   :file: data/lmp-parameters-lmp-parameters-2.yaml
 - :id: lmp-parameters/lmp-parameters-4
   :file: data/lmp-parameters-lmp-parameters-4.yaml
-- :id: lmp-parameters
-  :file: data/lmp-parameters.yaml
 - :id: loa-profiles/loa-profiles-1
   :file: data/loa-profiles-loa-profiles-1.yaml
-- :id: loa-profiles
-  :file: data/loa-profiles.yaml
 - :id: locally-served-dns-zones/ipv4
   :file: data/locally-served-dns-zones-ipv4.yaml
 - :id: locally-served-dns-zones/ipv6
@@ -3373,16 +2549,10 @@
   :file: data/locally-served-dns-zones-service-arpa-subdomain.yaml
 - :id: locally-served-dns-zones/transport-independent
   :file: data/locally-served-dns-zones-transport-independent.yaml
-- :id: locally-served-dns-zones
-  :file: data/locally-served-dns-zones.yaml
 - :id: location-type-registry/location-type-registry-1
   :file: data/location-type-registry-location-type-registry-1.yaml
-- :id: location-type-registry
-  :file: data/location-type-registry.yaml
 - :id: lost-location-profiles/lost-location-profiles-1
   :file: data/lost-location-profiles-lost-location-profiles-1.yaml
-- :id: lost-location-profiles
-  :file: data/lost-location-profiles.yaml
 - :id: ltp-parameters/cancel-segment-reason-codes
   :file: data/ltp-parameters-cancel-segment-reason-codes.yaml
 - :id: ltp-parameters/client-service-ids
@@ -3393,12 +2563,8 @@
   :file: data/ltp-parameters-ltp-parameters-1.yaml
 - :id: ltp-parameters/ltp-parameters-2
   :file: data/ltp-parameters-ltp-parameters-2.yaml
-- :id: ltp-parameters
-  :file: data/ltp-parameters.yaml
 - :id: machine-names/machine-names-1
   :file: data/machine-names-machine-names-1.yaml
-- :id: machine-names
-  :file: data/machine-names.yaml
 - :id: madcap-parameters/madcap-parameters-1
   :file: data/madcap-parameters-madcap-parameters-1.yaml
 - :id: madcap-parameters/madcap-parameters-2
@@ -3409,34 +2575,24 @@
   :file: data/madcap-parameters-madcap-parameters-4.yaml
 - :id: madcap-parameters/madcap-parameters-5
   :file: data/madcap-parameters-madcap-parameters-5.yaml
-- :id: madcap-parameters
-  :file: data/madcap-parameters.yaml
 - :id: mail-encoding/mail-encoding-1
   :file: data/mail-encoding-mail-encoding-1.yaml
-- :id: mail-encoding
-  :file: data/mail-encoding.yaml
 - :id: mail-parameters/mail-header-confidentiality-policies
   :file: data/mail-parameters-mail-header-confidentiality-policies.yaml
 - :id: mail-parameters/mail-parameters-10
   :file: data/mail-parameters-mail-parameters-10.yaml
 - :id: mail-parameters/mail-parameters-2
   :file: data/mail-parameters-mail-parameters-2.yaml
-- :id: mail-parameters/mail-parameters-5
-  :file: data/mail-parameters-mail-parameters-5.yaml
 - :id: mail-parameters/mail-parameters-9
   :file: data/mail-parameters-mail-parameters-9.yaml
 - :id: mail-parameters/multicast-email-smtp-extensions
   :file: data/mail-parameters-multicast-email-smtp-extensions.yaml
 - :id: mail-parameters/smtp-service-extensions
   :file: data/mail-parameters-smtp-service-extensions.yaml
-- :id: mail-parameters
-  :file: data/mail-parameters.yaml
 - :id: managesieve/capability
   :file: data/managesieve-capability.yaml
 - :id: managesieve/response
   :file: data/managesieve-response.yaml
-- :id: managesieve
-  :file: data/managesieve.yaml
 - :id: manet-parameters/address-block-tlv-types
   :file: data/manet-parameters-address-block-tlv-types.yaml
 - :id: manet-parameters/address-tlv-hello
@@ -3511,38 +2667,22 @@
   :file: data/manet-parameters-validity-time-address-block-tlv-type-extension.yaml
 - :id: manet-parameters/validity-time-message-type-extension
   :file: data/manet-parameters-validity-time-message-type-extension.yaml
-- :id: manet-parameters
-  :file: data/manet-parameters.yaml
 - :id: marf-parameters/marf-parameters-1
   :file: data/marf-parameters-marf-parameters-1.yaml
 - :id: marf-parameters/marf-parameters-2
   :file: data/marf-parameters-marf-parameters-2.yaml
-- :id: marf-parameters
-  :file: data/marf-parameters.yaml
 - :id: markdown-variants/variants
   :file: data/markdown-variants-variants.yaml
-- :id: markdown-variants
-  :file: data/markdown-variants.yaml
 - :id: masc-parameters/masc-parameters-1
   :file: data/masc-parameters-masc-parameters-1.yaml
-- :id: masc-parameters/masc-parameters-2
-  :file: data/masc-parameters-masc-parameters-2.yaml
 - :id: masc-parameters/masc-parameters-3
   :file: data/masc-parameters-masc-parameters-3.yaml
-- :id: masc-parameters/masc-parameters-4
-  :file: data/masc-parameters-masc-parameters-4.yaml
 - :id: masc-parameters/masc-parameters-5
   :file: data/masc-parameters-masc-parameters-5.yaml
-- :id: masc-parameters/masc-parameters-6
-  :file: data/masc-parameters-masc-parameters-6.yaml
-- :id: masc-parameters
-  :file: data/masc-parameters.yaml
 - :id: masque/http-capsule-types
   :file: data/masque-http-capsule-types.yaml
 - :id: masque/masque-uri-suffixes
   :file: data/masque-masque-uri-suffixes.yaml
-- :id: masque
-  :file: data/masque.yaml
 - :id: matroska/matroska-aes-cipher-modes
   :file: data/matroska-matroska-aes-cipher-modes.yaml
 - :id: matroska/matroska-alpha-modes
@@ -3577,16 +2717,12 @@
   :file: data/matroska-matroska-track-types.yaml
 - :id: matroska/matroska-vertical-chroma-sitings
   :file: data/matroska-matroska-vertical-chroma-sitings.yaml
-- :id: matroska
-  :file: data/matroska.yaml
 - :id: mdn/disp-mod
   :file: data/mdn-disp-mod.yaml
 - :id: mdn/disp-not-opt
   :file: data/mdn-disp-not-opt.yaml
 - :id: mdn/ext-field-names
   :file: data/mdn-ext-field-names.yaml
-- :id: mdn
-  :file: data/mdn.yaml
 - :id: media-control-channel/control-packages
   :file: data/media-control-channel-control-packages.yaml
 - :id: media-control-channel/header-fields
@@ -3601,50 +2737,32 @@
   :file: data/media-control-channel-mixer-ctrl.yaml
 - :id: media-control-channel/status-codes
   :file: data/media-control-channel-status-codes.yaml
-- :id: media-control-channel
-  :file: data/media-control-channel.yaml
 - :id: media-feature-tags/media-feature-tags-1
   :file: data/media-feature-tags-media-feature-tags-1.yaml
 - :id: media-feature-tags/media-feature-tags-2
   :file: data/media-feature-tags-media-feature-tags-2.yaml
-- :id: media-feature-tags/media-feature-tags-3
-  :file: data/media-feature-tags-media-feature-tags-3.yaml
 - :id: media-feature-tags/media-feature-tags-4
   :file: data/media-feature-tags-media-feature-tags-4.yaml
-- :id: media-feature-tags
-  :file: data/media-feature-tags.yaml
 - :id: media-type-structured-suffix/structured-syntax-suffix
   :file: data/media-type-structured-suffix-structured-syntax-suffix.yaml
-- :id: media-type-structured-suffix
-  :file: data/media-type-structured-suffix.yaml
 - :id: media-type-sub-parameters/cms-encapsulating
   :file: data/media-type-sub-parameters-cms-encapsulating.yaml
 - :id: media-type-sub-parameters/cms-inner
   :file: data/media-type-sub-parameters-cms-inner.yaml
 - :id: media-type-sub-parameters/media-type-sub-parameters-1
   :file: data/media-type-sub-parameters-media-type-sub-parameters-1.yaml
-- :id: media-type-sub-parameters/media-type-sub-parameters-14
-  :file: data/media-type-sub-parameters-media-type-sub-parameters-14.yaml
 - :id: media-type-sub-parameters/media-type-sub-parameters-17
   :file: data/media-type-sub-parameters-media-type-sub-parameters-17.yaml
 - :id: media-type-sub-parameters/media-type-sub-parameters-18
   :file: data/media-type-sub-parameters-media-type-sub-parameters-18.yaml
-- :id: media-type-sub-parameters/media-type-sub-parameters-2
-  :file: data/media-type-sub-parameters-media-type-sub-parameters-2.yaml
-- :id: media-type-sub-parameters/media-type-sub-parameters-8
-  :file: data/media-type-sub-parameters-media-type-sub-parameters-8.yaml
 - :id: media-type-sub-parameters/report-type
   :file: data/media-type-sub-parameters-report-type.yaml
 - :id: media-type-sub-parameters/smime
   :file: data/media-type-sub-parameters-smime.yaml
-- :id: media-type-sub-parameters
-  :file: data/media-type-sub-parameters.yaml
 - :id: media-types/application
   :file: data/media-types-application.yaml
 - :id: media-types/audio
   :file: data/media-types-audio.yaml
-- :id: media-types/example
-  :file: data/media-types-example.yaml
 - :id: media-types/font
   :file: data/media-types-font.yaml
 - :id: media-types/haptics
@@ -3663,16 +2781,10 @@
   :file: data/media-types-parameters-media-types-parameters-2.yaml
 - :id: media-types-parameters/media-types-parameters-3
   :file: data/media-types-parameters-media-types-parameters-3.yaml
-- :id: media-types-parameters
-  :file: data/media-types-parameters.yaml
 - :id: media-types/text
   :file: data/media-types-text.yaml
 - :id: media-types/video
   :file: data/media-types-video.yaml
-- :id: media-types
-  :file: data/media-types.yaml
-- :id: megaco-h248/megaco-h248-1
-  :file: data/megaco-h248-megaco-h248-1.yaml
 - :id: megaco-h248/megaco-h248-3
   :file: data/megaco-h248-megaco-h248-3.yaml
 - :id: megaco-h248/megaco-h248-4
@@ -3681,44 +2793,28 @@
   :file: data/megaco-h248-megaco-h248-5.yaml
 - :id: megaco-h248/megaco-h248-6
   :file: data/megaco-h248-megaco-h248-6.yaml
-- :id: megaco-h248
-  :file: data/megaco-h248.yaml
 - :id: message-header-types/message-header-types-1
   :file: data/message-header-types-message-header-types-1.yaml
-- :id: message-header-types
-  :file: data/message-header-types.yaml
 - :id: message-headers/content-translation-type-header-field-values
   :file: data/message-headers-content-translation-type-header-field-values.yaml
 - :id: message-headers/perm-headers
   :file: data/message-headers-perm-headers.yaml
 - :id: message-headers/prov-headers
   :file: data/message-headers-prov-headers.yaml
-- :id: message-headers
-  :file: data/message-headers.yaml
 - :id: message-store-events/message-store-events-2
   :file: data/message-store-events-message-store-events-2.yaml
 - :id: message-store-events/message-store-events-4
   :file: data/message-store-events-message-store-events-4.yaml
-- :id: message-store-events
-  :file: data/message-store-events.yaml
 - :id: method-tokens/method-tokens-1
   :file: data/method-tokens-method-tokens-1.yaml
-- :id: method-tokens
-  :file: data/method-tokens.yaml
 - :id: mgcp-localconnectionoptions/mgcp-localconnectionoptions-1
   :file: data/mgcp-localconnectionoptions-mgcp-localconnectionoptions-1.yaml
-- :id: mgcp-localconnectionoptions
-  :file: data/mgcp-localconnectionoptions.yaml
 - :id: mgcp-packages/mgcp-packages-1
   :file: data/mgcp-packages-mgcp-packages-1.yaml
 - :id: mgcp-packages/mgcp-packages-2
   :file: data/mgcp-packages-mgcp-packages-2.yaml
-- :id: mgcp-packages
-  :file: data/mgcp-packages.yaml
 - :id: mih/mih-1
   :file: data/mih-mih-1.yaml
-- :id: mih
-  :file: data/mih.yaml
 - :id: mikey-payloads/id-scheme
   :file: data/mikey-payloads-id-scheme.yaml
 - :id: mikey-payloads/mikey-payloads-1
@@ -3761,22 +2857,14 @@
   :file: data/mikey-payloads-mikey-payloads-7.yaml
 - :id: mikey-payloads/sakke-params
   :file: data/mikey-payloads-sakke-params.yaml
-- :id: mikey-payloads
-  :file: data/mikey-payloads.yaml
 - :id: milnet-parameters/milnet-parameters-1
   :file: data/milnet-parameters-milnet-parameters-1.yaml
 - :id: milnet-parameters/milnet-parameters-2
   :file: data/milnet-parameters-milnet-parameters-2.yaml
-- :id: milnet-parameters/milnet-parameters-3
-  :file: data/milnet-parameters-milnet-parameters-3.yaml
-- :id: milnet-parameters
-  :file: data/milnet-parameters.yaml
 - :id: mls/mls-ciphersuites
   :file: data/mls-mls-ciphersuites.yaml
 - :id: mls/mls-credential-types
   :file: data/mls-mls-credential-types.yaml
-- :id: mls/mls-exporter-labels
-  :file: data/mls-mls-exporter-labels.yaml
 - :id: mls/mls-extension-types
   :file: data/mls-mls-extension-types.yaml
 - :id: mls/mls-proposal-types
@@ -3787,8 +2875,6 @@
   :file: data/mls-mls-signature-labels.yaml
 - :id: mls/mls-wire-formats
   :file: data/mls-mls-wire-formats.yaml
-- :id: mls
-  :file: data/mls.yaml
 - :id: mobileip-numbers/mobileip-numbers-1
   :file: data/mobileip-numbers-mobileip-numbers-1.yaml
 - :id: mobileip-numbers/mobileip-numbers-15
@@ -3833,10 +2919,6 @@
   :file: data/mobileip-numbers-mobileip-numbers-38.yaml
 - :id: mobileip-numbers/mobileip-numbers-39
   :file: data/mobileip-numbers-mobileip-numbers-39.yaml
-- :id: mobileip-numbers/mobileip-numbers-4
-  :file: data/mobileip-numbers-mobileip-numbers-4.yaml
-- :id: mobileip-numbers
-  :file: data/mobileip-numbers.yaml
 - :id: mobility-parameters/ani
   :file: data/mobility-parameters-ani.yaml
 - :id: mobility-parameters/binding-revocation-status-codes
@@ -3911,20 +2993,14 @@
   :file: data/mobility-parameters-upa-status.yaml
 - :id: mobility-parameters/upn-reasons
   :file: data/mobility-parameters-upn-reasons.yaml
-- :id: mobility-parameters
-  :file: data/mobility-parameters.yaml
 - :id: mpls-id-type/mpls-id-type-2
   :file: data/mpls-id-type-mpls-id-type-2.yaml
 - :id: mpls-id-type/mpls-id-type-4
   :file: data/mpls-id-type-mpls-id-type-4.yaml
-- :id: mpls-id-type
-  :file: data/mpls-id-type.yaml
 - :id: mpls-label-values/extended
   :file: data/mpls-label-values-extended.yaml
 - :id: mpls-label-values/special-purpose
   :file: data/mpls-label-values-special-purpose.yaml
-- :id: mpls-label-values
-  :file: data/mpls-label-values.yaml
 - :id: mpls-lsp-ping-parameters/adjacency-type-igp-adjacency-segment-id
   :file: data/mpls-lsp-ping-parameters-adjacency-type-igp-adjacency-segment-id.yaml
 - :id: mpls-lsp-ping-parameters/downstream-mapping
@@ -3937,16 +3013,8 @@
   :file: data/mpls-lsp-ping-parameters-interface-index-flags.yaml
 - :id: mpls-lsp-ping-parameters/interface-label-stack-address-type
   :file: data/mpls-lsp-ping-parameters-interface-label-stack-address-type.yaml
-- :id: mpls-lsp-ping-parameters/loss-delay-control-code-query
-  :file: data/mpls-lsp-ping-parameters-loss-delay-control-code-query.yaml
-- :id: mpls-lsp-ping-parameters/loss-delay-control-code-response
-  :file: data/mpls-lsp-ping-parameters-loss-delay-control-code-response.yaml
-- :id: mpls-lsp-ping-parameters/loss-delay-measurement-tlv
-  :file: data/mpls-lsp-ping-parameters-loss-delay-measurement-tlv.yaml
 - :id: mpls-lsp-ping-parameters/lsr-capability-flags
   :file: data/mpls-lsp-ping-parameters-lsr-capability-flags.yaml
-- :id: mpls-lsp-ping-parameters/measurement-timestamp
-  :file: data/mpls-lsp-ping-parameters-measurement-timestamp.yaml
 - :id: mpls-lsp-ping-parameters/message-types
   :file: data/mpls-lsp-ping-parameters-message-types.yaml
 - :id: mpls-lsp-ping-parameters/multipath-type
@@ -3973,12 +3041,8 @@
   :file: data/mpls-lsp-ping-parameters-segment-id-sub-tlv-flags.yaml
 - :id: mpls-lsp-ping-parameters/tlvs
   :file: data/mpls-lsp-ping-parameters-tlvs.yaml
-- :id: mpls-lsp-ping-parameters
-  :file: data/mpls-lsp-ping-parameters.yaml
 - :id: mpls-multi-topology-parameters/multi-topology-ids
   :file: data/mpls-multi-topology-parameters-multi-topology-ids.yaml
-- :id: mpls-multi-topology-parameters
-  :file: data/mpls-multi-topology-parameters.yaml
 - :id: mrcpv2-parameters/grammar
   :file: data/mrcpv2-parameters-grammar.yaml
 - :id: mrcpv2-parameters/header-fields
@@ -3989,62 +3053,38 @@
   :file: data/mrcpv2-parameters-resource-types.yaml
 - :id: mrcpv2-parameters/status-codes
   :file: data/mrcpv2-parameters-status-codes.yaml
-- :id: mrcpv2-parameters/vendor-specific
-  :file: data/mrcpv2-parameters-vendor-specific.yaml
-- :id: mrcpv2-parameters
-  :file: data/mrcpv2-parameters.yaml
 - :id: mrt-parameters/mrt-profile-registry
   :file: data/mrt-parameters-mrt-profile-registry.yaml
-- :id: mrt-parameters
-  :file: data/mrt-parameters.yaml
-- :id: mrt/subtype-codes
-  :file: data/mrt-subtype-codes.yaml
 - :id: mrt/type-codes
   :file: data/mrt-type-codes.yaml
-- :id: mrt
-  :file: data/mrt.yaml
 - :id: msdp-tlv-values/msdp-tlv-values-2
   :file: data/msdp-tlv-values-msdp-tlv-values-2.yaml
-- :id: msdp-tlv-values
-  :file: data/msdp-tlv-values.yaml
 - :id: msrp-parameters/msrp-parameters-1
   :file: data/msrp-parameters-msrp-parameters-1.yaml
 - :id: msrp-parameters/msrp-parameters-2
   :file: data/msrp-parameters-msrp-parameters-2.yaml
 - :id: msrp-parameters/msrp-parameters-3
   :file: data/msrp-parameters-msrp-parameters-3.yaml
-- :id: msrp-parameters
-  :file: data/msrp-parameters.yaml
 - :id: mta-sts/mta-sts-policy-fields
   :file: data/mta-sts-mta-sts-policy-fields.yaml
 - :id: mta-sts/mta-sts-txt-record-fields
   :file: data/mta-sts-mta-sts-txt-record-fields.yaml
-- :id: mta-sts
-  :file: data/mta-sts.yaml
 - :id: mtqp-options/mtqp-options-2
   :file: data/mtqp-options-mtqp-options-2.yaml
-- :id: mtqp-options
-  :file: data/mtqp-options.yaml
 - :id: mtrace/mtrace2-forwarding-codes
   :file: data/mtrace-mtrace2-forwarding-codes.yaml
 - :id: mtrace/mtrace2-tlv-types
   :file: data/mtrace-mtrace2-tlv-types.yaml
-- :id: mtrace
-  :file: data/mtrace.yaml
 - :id: mud/mud-extensions
   :file: data/mud-mud-extensions.yaml
 - :id: mud/mud-well-known-urn
   :file: data/mud-mud-well-known-urn.yaml
-- :id: mud
-  :file: data/mud.yaml
 - :id: multicast-acquisition/method
   :file: data/multicast-acquisition-method.yaml
 - :id: multicast-acquisition/report-block-tlv
   :file: data/multicast-acquisition-report-block-tlv.yaml
 - :id: multicast-acquisition/status-code
   :file: data/multicast-acquisition-status-code.yaml
-- :id: multicast-acquisition
-  :file: data/multicast-acquisition.yaml
 - :id: multicast-addresses/glop
   :file: data/multicast-addresses-glop.yaml
 - :id: multicast-addresses/multicast-addresses-1
@@ -4075,80 +3115,42 @@
   :file: data/multicast-addresses-multicast-addresses-9.yaml
 - :id: multicast-addresses/unicast-prefix-based
   :file: data/multicast-addresses-unicast-prefix-based.yaml
-- :id: multicast-addresses
-  :file: data/multicast-addresses.yaml
 - :id: multicast-ping/message-types
   :file: data/multicast-ping-message-types.yaml
 - :id: multicast-ping/option-types
   :file: data/multicast-ping-option-types.yaml
-- :id: multicast-ping
-  :file: data/multicast-ping.yaml
 - :id: named-information/hash-alg
   :file: data/named-information-hash-alg.yaml
 - :id: named-information/uri-parameter
   :file: data/named-information-uri-parameter.yaml
-- :id: named-information
-  :file: data/named-information.yaml
 - :id: netconf-capability-urns/netconf-capability-urns-1
   :file: data/netconf-capability-urns-netconf-capability-urns-1.yaml
-- :id: netconf-capability-urns
-  :file: data/netconf-capability-urns.yaml
 - :id: netnews-parameters/cancel-lock-hash-algorithms
   :file: data/netnews-parameters-cancel-lock-hash-algorithms.yaml
-- :id: netnews-parameters
-  :file: data/netnews-parameters.yaml
 - :id: nfsv4-device-id-notifications/nfsv4-device-id-notifications-1
   :file: data/nfsv4-device-id-notifications-nfsv4-device-id-notifications-1.yaml
-- :id: nfsv4-device-id-notifications
-  :file: data/nfsv4-device-id-notifications.yaml
-- :id: nfsv4-named-attributes/nfsv4-named-attributes-1
-  :file: data/nfsv4-named-attributes-nfsv4-named-attributes-1.yaml
-- :id: nfsv4-named-attributes
-  :file: data/nfsv4-named-attributes.yaml
 - :id: nfsv4-path-variables/nfsv4-path-variables-1
   :file: data/nfsv4-path-variables-nfsv4-path-variables-1.yaml
-- :id: nfsv4-path-variables/nfsv4-path-variables-2
-  :file: data/nfsv4-path-variables-nfsv4-path-variables-2.yaml
-- :id: nfsv4-path-variables/nfsv4-path-variables-3
-  :file: data/nfsv4-path-variables-nfsv4-path-variables-3.yaml
-- :id: nfsv4-path-variables
-  :file: data/nfsv4-path-variables.yaml
 - :id: nfsv4-recallable-object-types/nfsv4-recallable-object-types-1
   :file: data/nfsv4-recallable-object-types-nfsv4-recallable-object-types-1.yaml
-- :id: nfsv4-recallable-object-types
-  :file: data/nfsv4-recallable-object-types.yaml
 - :id: nhrp-types/nhrp-types-1
   :file: data/nhrp-types-nhrp-types-1.yaml
 - :id: nhrp-types/nhrp-types-2
   :file: data/nhrp-types-nhrp-types-2.yaml
-- :id: nhrp-types
-  :file: data/nhrp-types.yaml
 - :id: nlpids/nlpids-1
   :file: data/nlpids-nlpids-1.yaml
-- :id: nlpids
-  :file: data/nlpids.yaml
 - :id: nntp-parameters/compression-algorithms
   :file: data/nntp-parameters-compression-algorithms.yaml
 - :id: nntp-parameters/nntp-parameters-1
   :file: data/nntp-parameters-nntp-parameters-1.yaml
-- :id: nntp-parameters
-  :file: data/nntp-parameters.yaml
 - :id: norm-parameters/norm-headers
   :file: data/norm-parameters-norm-headers.yaml
 - :id: norm-parameters/norm-stream-control
   :file: data/norm-parameters-norm-stream-control.yaml
 - :id: norm-parameters/norm_cmd-message-subtypes
   :file: data/norm-parameters-norm_cmd-message-subtypes.yaml
-- :id: norm-parameters
-  :file: data/norm-parameters.yaml
 - :id: notification-capability-parameters/notification-capability-parameters-2
   :file: data/notification-capability-parameters-notification-capability-parameters-2.yaml
-- :id: notification-capability-parameters
-  :file: data/notification-capability-parameters.yaml
-- :id: novell-sap-numbers/novell-sap-numbers-1
-  :file: data/novell-sap-numbers-novell-sap-numbers-1.yaml
-- :id: novell-sap-numbers
-  :file: data/novell-sap-numbers.yaml
 - :id: nsh/base-header
   :file: data/nsh-base-header.yaml
 - :id: nsh/flow-id-context-types
@@ -4165,8 +3167,6 @@
   :file: data/nsh-optional-variable-length-metadata-types.yaml
 - :id: nsh/version
   :file: data/nsh-version.yaml
-- :id: nsh
-  :file: data/nsh.yaml
 - :id: nslp-parameters/binding-codes
   :file: data/nslp-parameters-binding-codes.yaml
 - :id: nslp-parameters/error-classes
@@ -4207,16 +3207,12 @@
   :file: data/nslp-parameters-x-type-6-subtypes.yaml
 - :id: nslp-parameters/x-types
   :file: data/nslp-parameters-x-types.yaml
-- :id: nslp-parameters
-  :file: data/nslp-parameters.yaml
 - :id: ntp-parameters/ntp-parameters-1
   :file: data/ntp-parameters-ntp-parameters-1.yaml
 - :id: ntp-parameters/ntp-parameters-2
   :file: data/ntp-parameters-ntp-parameters-2.yaml
 - :id: ntp-parameters/ntp-parameters-3
   :file: data/ntp-parameters-ntp-parameters-3.yaml
-- :id: ntp-parameters
-  :file: data/ntp-parameters.yaml
 - :id: nts/nts-error-codes
   :file: data/nts-nts-error-codes.yaml
 - :id: nts/nts-key-establishment-record-types
@@ -4225,12 +3221,8 @@
   :file: data/nts-nts-next-protocols.yaml
 - :id: nts/nts-warning-codes
   :file: data/nts-nts-warning-codes.yaml
-- :id: nts
-  :file: data/nts.yaml
 - :id: nvo3/geneve-option-class
   :file: data/nvo3-geneve-option-class.yaml
-- :id: nvo3
-  :file: data/nvo3.yaml
 - :id: oauth-parameters/authorization-server-metadata
   :file: data/oauth-parameters-authorization-server-metadata.yaml
 - :id: oauth-parameters/client-metadata
@@ -4255,16 +3247,10 @@
   :file: data/oauth-parameters-token-types.yaml
 - :id: oauth-parameters/uri
   :file: data/oauth-parameters-uri.yaml
-- :id: oauth-parameters
-  :file: data/oauth-parameters.yaml
 - :id: olsr-types/olsr-types-2
   :file: data/olsr-types-olsr-types-2.yaml
-- :id: olsr-types
-  :file: data/olsr-types.yaml
 - :id: oncrpc-ids/oncrpc-ids-1
   :file: data/oncrpc-ids-oncrpc-ids-1.yaml
-- :id: oncrpc-ids
-  :file: data/oncrpc-ids.yaml
 - :id: openpgp/openpgp-aead-algorithms
   :file: data/openpgp-openpgp-aead-algorithms.yaml
 - :id: openpgp/openpgp-armor-header-keys
@@ -4303,8 +3289,6 @@
   :file: data/openpgp-openpgp-key-server-preference-flags.yaml
 - :id: openpgp/openpgp-key-signature-versions
   :file: data/openpgp-openpgp-key-signature-versions.yaml
-- :id: openpgp/openpgp-new-packet-versions
-  :file: data/openpgp-openpgp-new-packet-versions.yaml
 - :id: openpgp/openpgp-packet-types
   :file: data/openpgp-openpgp-packet-types.yaml
 - :id: openpgp/openpgp-public-key-algorithms
@@ -4317,8 +3301,6 @@
   :file: data/openpgp-openpgp-secret-key-encryption.yaml
 - :id: openpgp/openpgp-signature-notation-data-subpacket-notation-flags
   :file: data/openpgp-openpgp-signature-notation-data-subpacket-notation-flags.yaml
-- :id: openpgp/openpgp-signature-notation-data-subpacket-types
-  :file: data/openpgp-openpgp-signature-notation-data-subpacket-types.yaml
 - :id: openpgp/openpgp-signature-subpacket-types
   :file: data/openpgp-openpgp-signature-subpacket-types.yaml
 - :id: openpgp/openpgp-signature-types
@@ -4327,54 +3309,32 @@
   :file: data/openpgp-openpgp-symmetric-key-algorithms.yaml
 - :id: openpgp/openpgp-user-attribute-subpacket-types
   :file: data/openpgp-openpgp-user-attribute-subpacket-types.yaml
-- :id: openpgp
-  :file: data/openpgp.yaml
 - :id: operating-system-names/operating-system-names-1
   :file: data/operating-system-names-operating-system-names-1.yaml
-- :id: operating-system-names
-  :file: data/operating-system-names.yaml
 - :id: opes/ocp
   :file: data/opes-ocp.yaml
-- :id: opes
-  :file: data/opes.yaml
 - :id: opus-channel-mapping-families/mapping-families
   :file: data/opus-channel-mapping-families-mapping-families.yaml
-- :id: opus-channel-mapping-families
-  :file: data/opus-channel-mapping-families.yaml
 - :id: os-specific-parameters/fact-names
   :file: data/os-specific-parameters-fact-names.yaml
 - :id: os-specific-parameters/filetypes
   :file: data/os-specific-parameters-filetypes.yaml
-- :id: os-specific-parameters
-  :file: data/os-specific-parameters.yaml
 - :id: osi-nsapa-numbers/osi-nsapa-numbers-1
   :file: data/osi-nsapa-numbers-osi-nsapa-numbers-1.yaml
-- :id: osi-nsapa-numbers
-  :file: data/osi-nsapa-numbers.yaml
 - :id: ospf-authentication-codes/authentication-codes
   :file: data/ospf-authentication-codes-authentication-codes.yaml
-- :id: ospf-authentication-codes
-  :file: data/ospf-authentication-codes.yaml
 - :id: ospf-dd-packet-flags/ospf-dd-packet-flags-1
   :file: data/ospf-dd-packet-flags-ospf-dd-packet-flags-1.yaml
-- :id: ospf-dd-packet-flags
-  :file: data/ospf-dd-packet-flags.yaml
 - :id: ospf-lls-tlvs/ospf-lls-tlvs-1
   :file: data/ospf-lls-tlvs-ospf-lls-tlvs-1.yaml
 - :id: ospf-lls-tlvs/ospf-lls-tlvs-2
   :file: data/ospf-lls-tlvs-ospf-lls-tlvs-2.yaml
-- :id: ospf-lls-tlvs
-  :file: data/ospf-lls-tlvs.yaml
 - :id: ospf-mt-routing/ospf-mt-routing-2
   :file: data/ospf-mt-routing-ospf-mt-routing-2.yaml
-- :id: ospf-mt-routing
-  :file: data/ospf-mt-routing.yaml
 - :id: ospf-opaque-types/ospf-opaque-types-2
   :file: data/ospf-opaque-types-ospf-opaque-types-2.yaml
 - :id: ospf-opaque-types/ospfv2-ttz-lsa-tlvs
   :file: data/ospf-opaque-types-ospfv2-ttz-lsa-tlvs.yaml
-- :id: ospf-opaque-types
-  :file: data/ospf-opaque-types.yaml
 - :id: ospf-parameters/dynamic-flooding-lsa
   :file: data/ospf-parameters-dynamic-flooding-lsa.yaml
 - :id: ospf-parameters/flex-algorithm-prefix-metric-bits
@@ -4391,12 +3351,8 @@
   :file: data/ospf-parameters-router-informational-capability.yaml
 - :id: ospf-parameters/tunnel-parameter-tlv
   :file: data/ospf-parameters-tunnel-parameter-tlv.yaml
-- :id: ospf-parameters
-  :file: data/ospf-parameters.yaml
 - :id: ospf-sig-alg/ospf-sig-alg-1
   :file: data/ospf-sig-alg-ospf-sig-alg-1.yaml
-- :id: ospf-sig-alg
-  :file: data/ospf-sig-alg.yaml
 - :id: ospf-traffic-eng-tlvs/otn-tdm-scsi
   :file: data/ospf-traffic-eng-tlvs-otn-tdm-scsi.yaml
 - :id: ospf-traffic-eng-tlvs/subtlv1
@@ -4411,8 +3367,6 @@
   :file: data/ospf-traffic-eng-tlvs-top-level.yaml
 - :id: ospf-traffic-eng-tlvs/wson-lsc-scsi-sub-tlv
   :file: data/ospf-traffic-eng-tlvs-wson-lsc-scsi-sub-tlv.yaml
-- :id: ospf-traffic-eng-tlvs
-  :file: data/ospf-traffic-eng-tlvs.yaml
 - :id: ospfv2-parameters/extended-inter-area-asbr-sub-tlvs
   :file: data/ospfv2-parameters-extended-inter-area-asbr-sub-tlvs.yaml
 - :id: ospfv2-parameters/extended-inter-area-asbr-tlvs
@@ -4437,20 +3391,14 @@
   :file: data/ospfv2-parameters-ospfv2-parameters-11.yaml
 - :id: ospfv2-parameters/ospfv2-parameters-13
   :file: data/ospfv2-parameters-ospfv2-parameters-13.yaml
-- :id: ospfv2-parameters/ospfv2-parameters-14
-  :file: data/ospfv2-parameters-ospfv2-parameters-14.yaml
 - :id: ospfv2-parameters/ospfv2-parameters-3
   :file: data/ospfv2-parameters-ospfv2-parameters-3.yaml
 - :id: ospfv2-parameters/ospfv2-parameters-5
   :file: data/ospfv2-parameters-ospfv2-parameters-5.yaml
 - :id: ospfv2-parameters/ospfv2-parameters-7
   :file: data/ospfv2-parameters-ospfv2-parameters-7.yaml
-- :id: ospfv2-parameters
-  :file: data/ospfv2-parameters.yaml
 - :id: ospfv3-authentication-trailer-options/ospfv3-authentication-types
   :file: data/ospfv3-authentication-trailer-options-ospfv3-authentication-types.yaml
-- :id: ospfv3-authentication-trailer-options
-  :file: data/ospfv3-authentication-trailer-options.yaml
 - :id: ospfv3-parameters/ac-lsa
   :file: data/ospfv3-parameters-ac-lsa.yaml
 - :id: ospfv3-parameters/extended-lsa-sub-tlvs
@@ -4481,20 +3429,14 @@
   :file: data/ospfv3-parameters-srv6-locator-lsa-sub-tlvs.yaml
 - :id: ospfv3-parameters/srv6-locator-lsa
   :file: data/ospfv3-parameters-srv6-locator-lsa.yaml
-- :id: ospfv3-parameters
-  :file: data/ospfv3-parameters.yaml
 - :id: otp-parameters/otp-parameters-1
   :file: data/otp-parameters-otp-parameters-1.yaml
 - :id: otp-parameters/otp-parameters-2
   :file: data/otp-parameters-otp-parameters-2.yaml
-- :id: otp-parameters
-  :file: data/otp-parameters.yaml
 - :id: owamp-parameters/control-command-numbers
   :file: data/owamp-parameters-control-command-numbers.yaml
 - :id: owamp-parameters/owamp-modes
   :file: data/owamp-parameters-owamp-modes.yaml
-- :id: owamp-parameters
-  :file: data/owamp-parameters.yaml
 - :id: pa-tnc-parameters/pa-tnc-parameters-1
   :file: data/pa-tnc-parameters-pa-tnc-parameters-1.yaml
 - :id: pa-tnc-parameters/pa-tnc-parameters-2
@@ -4503,12 +3445,8 @@
   :file: data/pa-tnc-parameters-pa-tnc-parameters-3.yaml
 - :id: pa-tnc-parameters/software-data-model-types
   :file: data/pa-tnc-parameters-software-data-model-types.yaml
-- :id: pa-tnc-parameters
-  :file: data/pa-tnc-parameters.yaml
 - :id: pal-package-types/package-types
   :file: data/pal-package-types-package-types.yaml
-- :id: pal-package-types
-  :file: data/pal-package-types.yaml
 - :id: pana-parameters/pana-parameters-2
   :file: data/pana-parameters-pana-parameters-2.yaml
 - :id: pana-parameters/pana-parameters-3
@@ -4517,30 +3455,22 @@
   :file: data/pana-parameters-pana-parameters-4.yaml
 - :id: pana-parameters/pana-parameters-7
   :file: data/pana-parameters-pana-parameters-7.yaml
-- :id: pana-parameters
-  :file: data/pana-parameters.yaml
 - :id: params/params-1
   :file: data/params-params-1.yaml
 - :id: params/urn-subnamespaces
   :file: data/params-urn-subnamespaces.yaml
-- :id: params
-  :file: data/params.yaml
 - :id: passport/passport-extensions
   :file: data/passport-passport-extensions.yaml
 - :id: passport/passport-rcd-claim-types
   :file: data/passport-passport-rcd-claim-types.yaml
 - :id: passport/passport-rph-types
   :file: data/passport-passport-rph-types.yaml
-- :id: passport
-  :file: data/passport.yaml
 - :id: paws/error-codes
   :file: data/paws-error-codes.yaml
 - :id: paws/parameters
   :file: data/paws-parameters.yaml
 - :id: paws/ruleset-id
   :file: data/paws-ruleset-id.yaml
-- :id: paws
-  :file: data/paws.yaml
 - :id: pb-tnc-parameters/pb-tnc-parameters-1
   :file: data/pb-tnc-parameters-pb-tnc-parameters-1.yaml
 - :id: pb-tnc-parameters/pb-tnc-parameters-2
@@ -4549,8 +3479,6 @@
   :file: data/pb-tnc-parameters-pb-tnc-parameters-3.yaml
 - :id: pb-tnc-parameters/pb-tnc-parameters-4
   :file: data/pb-tnc-parameters-pb-tnc-parameters-4.yaml
-- :id: pb-tnc-parameters
-  :file: data/pb-tnc-parameters.yaml
 - :id: pcep/association-flag-field
   :file: data/pcep-association-flag-field.yaml
 - :id: pcep/association-type-field
@@ -4695,24 +3623,16 @@
   :file: data/pcep-xro-flag-field.yaml
 - :id: pcep/xro-subobject
   :file: data/pcep-xro-subobject.yaml
-- :id: pcep
-  :file: data/pcep.yaml
 - :id: pcim-oids/pcim-oids-1
   :file: data/pcim-oids-pcim-oids-1.yaml
-- :id: pcim-oids
-  :file: data/pcim-oids.yaml
 - :id: pcp-parameters/opcodes
   :file: data/pcp-parameters-opcodes.yaml
 - :id: pcp-parameters/options
   :file: data/pcp-parameters-options.yaml
 - :id: pcp-parameters/result-codes
   :file: data/pcp-parameters-result-codes.yaml
-- :id: pcp-parameters
-  :file: data/pcp-parameters.yaml
 - :id: perc/perc-dtls-tunnel-message-types
   :file: data/perc-perc-dtls-tunnel-message-types.yaml
-- :id: perc
-  :file: data/perc.yaml
 - :id: performance-metrics/performance-metrics-method
   :file: data/performance-metrics-performance-metrics-method.yaml
 - :id: performance-metrics/performance-metrics-metric-type
@@ -4727,24 +3647,14 @@
   :file: data/performance-metrics-performance-metrics-subtypemethod.yaml
 - :id: performance-metrics/performance-metrics-units
   :file: data/performance-metrics-performance-metrics-units.yaml
-- :id: performance-metrics
-  :file: data/performance-metrics.yaml
 - :id: perm-mcast-groupids/perm-mcast-groupids-1
   :file: data/perm-mcast-groupids-perm-mcast-groupids-1.yaml
-- :id: perm-mcast-groupids
-  :file: data/perm-mcast-groupids.yaml
 - :id: phbid-codes/phbid-codes-1
   :file: data/phbid-codes-phbid-codes-1.yaml
-- :id: phbid-codes
-  :file: data/phbid-codes.yaml
 - :id: pidf-lo-civic-address-consideration/pidf-lo-civic-address-consideration-1
   :file: data/pidf-lo-civic-address-consideration-pidf-lo-civic-address-consideration-1.yaml
-- :id: pidf-lo-civic-address-consideration
-  :file: data/pidf-lo-civic-address-consideration.yaml
 - :id: pidf-lo-civic-address-considerations/pidf-lo-civic-address-considerations-1
   :file: data/pidf-lo-civic-address-considerations-pidf-lo-civic-address-considerations-1.yaml
-- :id: pidf-lo-civic-address-considerations
-  :file: data/pidf-lo-civic-address-considerations.yaml
 - :id: pim-parameters/flooding-mechanism-message-types
   :file: data/pim-parameters-flooding-mechanism-message-types.yaml
 - :id: pim-parameters/join-prune-transport-types
@@ -4765,42 +3675,28 @@
   :file: data/pim-parameters-port-message-types.yaml
 - :id: pim-parameters/port-option-types
   :file: data/pim-parameters-port-option-types.yaml
-- :id: pim-parameters
-  :file: data/pim-parameters.yaml
 - :id: pkix-parameters/caa-flags
   :file: data/pkix-parameters-caa-flags.yaml
 - :id: pkix-parameters/caa-properties
   :file: data/pkix-parameters-caa-properties.yaml
 - :id: pkix-parameters/srv-protocol-labels
   :file: data/pkix-parameters-srv-protocol-labels.yaml
-- :id: pkix-parameters
-  :file: data/pkix-parameters.yaml
 - :id: pnfs-layout-types/pnfs-layout-types-1
   :file: data/pnfs-layout-types-pnfs-layout-types-1.yaml
-- :id: pnfs-layout-types
-  :file: data/pnfs-layout-types.yaml
 - :id: pop3-extension-mechanism/pop3-extension-mechanism-1
   :file: data/pop3-extension-mechanism-pop3-extension-mechanism-1.yaml
 - :id: pop3-extension-mechanism/pop3-extension-mechanism-2
   :file: data/pop3-extension-mechanism-pop3-extension-mechanism-2.yaml
-- :id: pop3-extension-mechanism
-  :file: data/pop3-extension-mechanism.yaml
 - :id: posh-service-names/service-names
   :file: data/posh-service-names-service-names.yaml
-- :id: posh-service-names
-  :file: data/posh-service-names.yaml
 - :id: post-stack-first-nibble/post-stack-first-nibble
   :file: data/post-stack-first-nibble-post-stack-first-nibble.yaml
-- :id: post-stack-first-nibble
-  :file: data/post-stack-first-nibble.yaml
 - :id: power-state-sets/dmtf
   :file: data/power-state-sets-dmtf.yaml
 - :id: power-state-sets/eman
   :file: data/power-state-sets-eman.yaml
 - :id: power-state-sets/ieee1621
   :file: data/power-state-sets-ieee1621.yaml
-- :id: power-state-sets
-  :file: data/power-state-sets.yaml
 - :id: ppp-numbers/ppp-numbers-10
   :file: data/ppp-numbers-ppp-numbers-10.yaml
 - :id: ppp-numbers/ppp-numbers-11
@@ -4825,8 +3721,6 @@
   :file: data/ppp-numbers-ppp-numbers-2.yaml
 - :id: ppp-numbers/ppp-numbers-22
   :file: data/ppp-numbers-ppp-numbers-22.yaml
-- :id: ppp-numbers/ppp-numbers-25
-  :file: data/ppp-numbers-ppp-numbers-25.yaml
 - :id: ppp-numbers/ppp-numbers-26
   :file: data/ppp-numbers-ppp-numbers-26.yaml
 - :id: ppp-numbers/ppp-numbers-27
@@ -4841,8 +3735,6 @@
   :file: data/ppp-numbers-ppp-numbers-30.yaml
 - :id: ppp-numbers/ppp-numbers-31
   :file: data/ppp-numbers-ppp-numbers-31.yaml
-- :id: ppp-numbers/ppp-numbers-32
-  :file: data/ppp-numbers-ppp-numbers-32.yaml
 - :id: ppp-numbers/ppp-numbers-33
   :file: data/ppp-numbers-ppp-numbers-33.yaml
 - :id: ppp-numbers/ppp-numbers-4
@@ -4857,22 +3749,16 @@
   :file: data/ppp-numbers-ppp-numbers-8.yaml
 - :id: ppp-numbers/ppp-numbers-9
   :file: data/ppp-numbers-ppp-numbers-9.yaml
-- :id: ppp-numbers
-  :file: data/ppp-numbers.yaml
 - :id: pppoe-parameters/pppoe-parameters-1
   :file: data/pppoe-parameters-pppoe-parameters-1.yaml
 - :id: pppoe-parameters/pppoe-parameters-2
   :file: data/pppoe-parameters-pppoe-parameters-2.yaml
-- :id: pppoe-parameters
-  :file: data/pppoe-parameters.yaml
 - :id: ppsp-tp/error-code
   :file: data/ppsp-tp-error-code.yaml
 - :id: ppsp-tp/request-type
   :file: data/ppsp-tp-request-type.yaml
 - :id: ppsp-tp/version
   :file: data/ppsp-tp-version.yaml
-- :id: ppsp-tp
-  :file: data/ppsp-tp.yaml
 - :id: ppspp/chunk-addressing
   :file: data/ppspp-chunk-addressing.yaml
 - :id: ppspp/content-integrity-protection
@@ -4885,38 +3771,22 @@
   :file: data/ppspp-options.yaml
 - :id: ppspp/version
   :file: data/ppspp-version.yaml
-- :id: ppspp
-  :file: data/ppspp.yaml
 - :id: precis-parameters/base-classes
   :file: data/precis-parameters-base-classes.yaml
 - :id: precis-parameters/profiles
   :file: data/precis-parameters-profiles.yaml
-- :id: precis-parameters
-  :file: data/precis-parameters.yaml
 - :id: precis-tables-6.3.0
   :file: data/precis-tables-6-3-0.yaml
 - :id: preemption-namespace/preemption-namespace-1
   :file: data/preemption-namespace-preemption-namespace-1.yaml
-- :id: preemption-namespace
-  :file: data/preemption-namespace.yaml
 - :id: pres-srv-labels/pres-srv-labels-1
   :file: data/pres-srv-labels-pres-srv-labels-1.yaml
-- :id: pres-srv-labels
-  :file: data/pres-srv-labels.yaml
-- :id: printer-language-numbers
-  :file: data/printer-language-numbers.yaml
 - :id: privacy-pass/token-type
   :file: data/privacy-pass-token-type.yaml
-- :id: privacy-pass
-  :file: data/privacy-pass.yaml
 - :id: profile-uris/profile
   :file: data/profile-uris-profile.yaml
-- :id: profile-uris
-  :file: data/profile-uris.yaml
 - :id: pronet80-type-numbers/pronet80-type-numbers-1
   :file: data/pronet80-type-numbers-pronet80-type-numbers-1.yaml
-- :id: pronet80-type-numbers
-  :file: data/pronet80-type-numbers.yaml
 - :id: prophet/bundle-offer-response-b-flags
   :file: data/prophet-bundle-offer-response-b-flags.yaml
 - :id: prophet/bundle-offer-response-tlv-flags
@@ -4947,62 +3817,30 @@
   :file: data/prophet-rib-tlv-flags.yaml
 - :id: prophet/tlv-type
   :file: data/prophet-tlv-type.yaml
-- :id: prophet
-  :file: data/prophet.yaml
 - :id: protocol-numbers/protocol-numbers-1
   :file: data/protocol-numbers-protocol-numbers-1.yaml
-- :id: protocol-numbers
-  :file: data/protocol-numbers.yaml
 - :id: provisional-standard-media-types/provisional-standard-types
   :file: data/provisional-standard-media-types-provisional-standard-types.yaml
-- :id: provisional-standard-media-types
-  :file: data/provisional-standard-media-types.yaml
 - :id: proxy-languages/proxy-languages-1
   :file: data/proxy-languages-proxy-languages-1.yaml
-- :id: proxy-languages
-  :file: data/proxy-languages.yaml
 - :id: psamp-parameters/psamp-parameters-1
   :file: data/psamp-parameters-psamp-parameters-1.yaml
-- :id: psamp-parameters
-  :file: data/psamp-parameters.yaml
 - :id: pskc/alg-profiles
   :file: data/pskc-alg-profiles.yaml
 - :id: pskc/key-usage
   :file: data/pskc-key-usage.yaml
 - :id: pskc/versions
   :file: data/pskc-versions.yaml
-- :id: pskc
-  :file: data/pskc.yaml
 - :id: pt-eap/versions
   :file: data/pt-eap-versions.yaml
-- :id: pt-eap
-  :file: data/pt-eap.yaml
 - :id: pt-tls-parameters/error-codes
   :file: data/pt-tls-parameters-error-codes.yaml
 - :id: pt-tls-parameters/message-types
   :file: data/pt-tls-parameters-message-types.yaml
-- :id: pt-tls-parameters
-  :file: data/pt-tls-parameters.yaml
-- :id: public-data-network-numbers/public-data-network-numbers-1
-  :file: data/public-data-network-numbers-public-data-network-numbers-1.yaml
-- :id: public-data-network-numbers
-  :file: data/public-data-network-numbers.yaml
 - :id: pvds/additional-information-pvd-keys
   :file: data/pvds-additional-information-pvd-keys.yaml
-- :id: pvds/pvd-option-flags
-  :file: data/pvds-pvd-option-flags.yaml
 - :id: pvds/pvd-split-dns-claims
   :file: data/pvds-pvd-split-dns-claims.yaml
-- :id: pvds
-  :file: data/pvds.yaml
-- :id: pwe3-parameters/cc-cv-mep-id
-  :file: data/pwe3-parameters-cc-cv-mep-id.yaml
-- :id: pwe3-parameters/gach-application
-  :file: data/pwe3-parameters-gach-application.yaml
-- :id: pwe3-parameters/gach-ethernet
-  :file: data/pwe3-parameters-gach-ethernet.yaml
-- :id: pwe3-parameters/gach-tlv
-  :file: data/pwe3-parameters-gach-tlv.yaml
 - :id: pwe3-parameters/generic-protocol-flags
   :file: data/pwe3-parameters-generic-protocol-flags.yaml
 - :id: pwe3-parameters/icc-rg
@@ -5019,10 +3857,6 @@
   :file: data/pwe3-parameters-pw-status-refresh-reduction-message-flags.yaml
 - :id: pwe3-parameters/pw-status-refresh-reduction-notification-codes
   :file: data/pwe3-parameters-pw-status-refresh-reduction-notification-codes.yaml
-- :id: pwe3-parameters/pwe3-parameters-11
-  :file: data/pwe3-parameters-pwe3-parameters-11.yaml
-- :id: pwe3-parameters/pwe3-parameters-12
-  :file: data/pwe3-parameters-pwe3-parameters-12.yaml
 - :id: pwe3-parameters/pwe3-parameters-13
   :file: data/pwe3-parameters-pwe3-parameters-13.yaml
 - :id: pwe3-parameters/pwe3-parameters-14
@@ -5043,8 +3877,6 @@
   :file: data/pwe3-parameters-pwe3-parameters-9.yaml
 - :id: pwe3-parameters/vccv-extended-cv
   :file: data/pwe3-parameters-vccv-extended-cv.yaml
-- :id: pwe3-parameters
-  :file: data/pwe3-parameters.yaml
 - :id: qspec/excess
   :file: data/qspec-excess.yaml
 - :id: qspec/extent-of-restoration
@@ -5067,8 +3899,6 @@
   :file: data/qspec-y1541.yaml
 - :id: qspec/y2171
   :file: data/qspec-y2171.yaml
-- :id: qspec
-  :file: data/qspec.yaml
 - :id: quic/quic-frame-types
   :file: data/quic-quic-frame-types.yaml
 - :id: quic/quic-transport-error-codes
@@ -5077,8 +3907,6 @@
   :file: data/quic-quic-transport.yaml
 - :id: quic/quic-versions
   :file: data/quic-quic-versions.yaml
-- :id: quic
-  :file: data/quic.yaml
 - :id: radius-types/data-type
   :file: data/radius-types-data-type.yaml
 - :id: radius-types/frag-status-241-1
@@ -5139,46 +3967,20 @@
   :file: data/radius-types-radius-types-9.yaml
 - :id: radius-types/softwire46-configuration-multicast-attributes
   :file: data/radius-types-softwire46-configuration-multicast-attributes.yaml
-- :id: radius-types
-  :file: data/radius-types.yaml
 - :id: rats/eat-intended-uses
   :file: data/rats-eat-intended-uses.yaml
-- :id: rats
-  :file: data/rats.yaml
-- :id: rdap-asn
-  :file: data/rdap-asn.yaml
-- :id: rdap-dns
-  :file: data/rdap-dns.yaml
 - :id: rdap-extensions/rdap-extensions-1
   :file: data/rdap-extensions-rdap-extensions-1.yaml
-- :id: rdap-extensions
-  :file: data/rdap-extensions.yaml
-- :id: rdap-ipv4
-  :file: data/rdap-ipv4.yaml
-- :id: rdap-ipv6
-  :file: data/rdap-ipv6.yaml
 - :id: rdap-json-values/rdap-json-values-1
   :file: data/rdap-json-values-rdap-json-values-1.yaml
-- :id: rdap-json-values
-  :file: data/rdap-json-values.yaml
-- :id: rdap-object-tags
-  :file: data/rdap-object-tags.yaml
 - :id: rdap-provider-object-tags/rdap-provider-object-tags-1
   :file: data/rdap-provider-object-tags-rdap-provider-object-tags-1.yaml
-- :id: rdap-provider-object-tags
-  :file: data/rdap-provider-object-tags.yaml
 - :id: rdap-query-purpose-values/rdap-query-purpose-values
   :file: data/rdap-query-purpose-values-rdap-query-purpose-values.yaml
-- :id: rdap-query-purpose-values
-  :file: data/rdap-query-purpose-values.yaml
 - :id: rdap-reverse-search-mapping/rdap-reverse-search-mapping
   :file: data/rdap-reverse-search-mapping-rdap-reverse-search-mapping.yaml
-- :id: rdap-reverse-search-mapping
-  :file: data/rdap-reverse-search-mapping.yaml
 - :id: rdap-reverse-search/rdap-reverse-search
   :file: data/rdap-reverse-search-rdap-reverse-search.yaml
-- :id: rdap-reverse-search
-  :file: data/rdap-reverse-search.yaml
 - :id: rddp/ddp-errors
   :file: data/rddp-ddp-errors.yaml
 - :id: rddp/mpa-errors
@@ -5193,12 +3995,8 @@
   :file: data/rddp-rdmap-message-operation.yaml
 - :id: rddp/sctp-function-codes
   :file: data/rddp-sctp-function-codes.yaml
-- :id: rddp
-  :file: data/rddp.yaml
 - :id: registrar-ids/registrar-ids-1
   :file: data/registrar-ids-registrar-ids-1.yaml
-- :id: registrar-ids
-  :file: data/registrar-ids.yaml
 - :id: reload/access-control-policy
   :file: data/reload-access-control-policy.yaml
 - :id: reload/access-control
@@ -5231,20 +4029,12 @@
   :file: data/reload-probe-info.yaml
 - :id: reload/services
   :file: data/reload-services.yaml
-- :id: reload
-  :file: data/reload.yaml
 - :id: remote-direct-data-placement/remote-direct-data-placement-rdma-cm-private-data-identifiers
   :file: data/remote-direct-data-placement-remote-direct-data-placement-rdma-cm-private-data-identifiers.yaml
-- :id: remote-direct-data-placement
-  :file: data/remote-direct-data-placement.yaml
 - :id: reputation-parameters/applications
   :file: data/reputation-parameters-applications.yaml
-- :id: reputation-parameters
-  :file: data/reputation-parameters.yaml
 - :id: restconf-capability-urns/restconf-index-urns
   :file: data/restconf-capability-urns-restconf-index-urns.yaml
-- :id: restconf-capability-urns
-  :file: data/restconf-capability-urns.yaml
 - :id: rfb/rfb-1
   :file: data/rfb-rfb-1.yaml
 - :id: rfb/rfb-2
@@ -5253,14 +4043,6 @@
   :file: data/rfb-rfb-3.yaml
 - :id: rfb/rfb-4
   :file: data/rfb-rfb-4.yaml
-- :id: rfb
-  :file: data/rfb.yaml
-- :id: rid/enumeration
-  :file: data/rid-enumeration.yaml
-- :id: rid/xml-schemas
-  :file: data/rid-xml-schemas.yaml
-- :id: rid
-  :file: data/rid.yaml
 - :id: rift/rift-common-addressfamilytype
   :file: data/rift-rift-common-addressfamilytype.yaml
 - :id: rift/rift-common-hierarchyindications
@@ -5335,8 +4117,6 @@
   :file: data/rift-rift-security-algorithms.yaml
 - :id: rift/rift-versions
   :file: data/rift-rift-versions.yaml
-- :id: rift
-  :file: data/rift.yaml
 - :id: rip-types/rip-types-1
   :file: data/rip-types-rip-types-1.yaml
 - :id: rip-types/rip-types-2
@@ -5349,60 +4129,40 @@
   :file: data/rip-types-rip-types-5.yaml
 - :id: rip-types/rip-types-6
   :file: data/rip-types-rip-types-6.yaml
-- :id: rip-types
-  :file: data/rip-types.yaml
 - :id: rmt-fec-parameters/fecframe-fec-encoding-ids
   :file: data/rmt-fec-parameters-fecframe-fec-encoding-ids.yaml
 - :id: rmt-fec-parameters/rmt-fec-parameters-1
   :file: data/rmt-fec-parameters-rmt-fec-parameters-1.yaml
 - :id: rmt-fec-parameters/rmt-fec-parameters-2
   :file: data/rmt-fec-parameters-rmt-fec-parameters-2.yaml
-- :id: rmt-fec-parameters
-  :file: data/rmt-fec-parameters.yaml
 - :id: rohc-pro-ids/rohc-pro-ids-1
   :file: data/rohc-pro-ids-rohc-pro-ids-1.yaml
-- :id: rohc-pro-ids
-  :file: data/rohc-pro-ids.yaml
 - :id: rohc-sub-ids/rohc-sub-ids-2
   :file: data/rohc-sub-ids-rohc-sub-ids-2.yaml
-- :id: rohc-sub-ids
-  :file: data/rohc-sub-ids.yaml
 - :id: rolie/rolie-information-types
   :file: data/rolie-rolie-information-types.yaml
 - :id: rolie/rolie-urn-parameters
   :file: data/rolie-rolie-urn-parameters.yaml
-- :id: rolie
-  :file: data/rolie.yaml
 - :id: route-distinguisher-types/route-distinguisher-types-2
   :file: data/route-distinguisher-types-route-distinguisher-types-2.yaml
-- :id: route-distinguisher-types
-  :file: data/route-distinguisher-types.yaml
 - :id: rpc-authentication-numbers/flavor
   :file: data/rpc-authentication-numbers-flavor.yaml
 - :id: rpc-authentication-numbers/rpcsec_gss-structured-privilege-names
   :file: data/rpc-authentication-numbers-rpcsec_gss-structured-privilege-names.yaml
 - :id: rpc-authentication-numbers/status
   :file: data/rpc-authentication-numbers-status.yaml
-- :id: rpc-authentication-numbers
-  :file: data/rpc-authentication-numbers.yaml
 - :id: rpc-netids/rpc-netids-1
   :file: data/rpc-netids-rpc-netids-1.yaml
 - :id: rpc-netids/rpc-netids-2
   :file: data/rpc-netids-rpc-netids-2.yaml
-- :id: rpc-netids
-  :file: data/rpc-netids.yaml
 - :id: rpc-program-numbers/rpc-program-numbers-data
   :file: data/rpc-program-numbers-rpc-program-numbers-data.yaml
-- :id: rpc-program-numbers
-  :file: data/rpc-program-numbers.yaml
 - :id: rpcbind-transport-parameters/rpcbind-transport-parameters-1
   :file: data/rpcbind-transport-parameters-rpcbind-transport-parameters-1.yaml
 - :id: rpcbind-transport-parameters/rpcbind-transport-parameters-2
   :file: data/rpcbind-transport-parameters-rpcbind-transport-parameters-2.yaml
 - :id: rpcbind-transport-parameters/rpcbind-transport-parameters-3
   :file: data/rpcbind-transport-parameters-rpcbind-transport-parameters-3.yaml
-- :id: rpcbind-transport-parameters
-  :file: data/rpcbind-transport-parameters.yaml
 - :id: rpki/bgpsec-algorithm-suite
   :file: data/rpki-bgpsec-algorithm-suite.yaml
 - :id: rpki/bgpsec-capability
@@ -5417,12 +4177,8 @@
   :file: data/rpki-rpki-rtr-error.yaml
 - :id: rpki/rpki-rtr-pdu
   :file: data/rpki-rpki-rtr-pdu.yaml
-- :id: rpki-signed-objects
-  :file: data/rpki-signed-objects-bbeb451e1924.yaml
 - :id: rpki/signed-objects
   :file: data/rpki-signed-objects.yaml
-- :id: rpki
-  :file: data/rpki.yaml
 - :id: rpl/cc-flags
   :file: data/rpl-cc-flags.yaml
 - :id: rpl/control-codes
@@ -5447,8 +4203,6 @@
   :file: data/rpl-ocp.yaml
 - :id: rpl/pdr-ack-acceptance-status-values
   :file: data/rpl-pdr-ack-acceptance-status-values.yaml
-- :id: rpl/pdr-ack-flags
-  :file: data/rpl-pdr-ack-flags.yaml
 - :id: rpl/pdr-ack-rejection-status-values
   :file: data/rpl-pdr-ack-rejection-status-values.yaml
 - :id: rpl/per-kim-security
@@ -5459,8 +4213,6 @@
   :file: data/rpl-routing-metric-constraint-common-header-a.yaml
 - :id: rpl-routing-metric-constraint/common-header-flag
   :file: data/rpl-routing-metric-constraint-common-header-flag.yaml
-- :id: rpl-routing-metric-constraint/hop-count-object-flag
-  :file: data/rpl-routing-metric-constraint-hop-count-object-flag.yaml
 - :id: rpl-routing-metric-constraint/node-type
   :file: data/rpl-routing-metric-constraint-node-type.yaml
 - :id: rpl-routing-metric-constraint/nsa-object-flag
@@ -5469,8 +4221,6 @@
   :file: data/rpl-routing-metric-constraint-rmc-tlv.yaml
 - :id: rpl-routing-metric-constraint/rmc-type
   :file: data/rpl-routing-metric-constraint-rmc-type.yaml
-- :id: rpl-routing-metric-constraint
-  :file: data/rpl-routing-metric-constraint.yaml
 - :id: rpl/rpl-dco-ack-flags
   :file: data/rpl-rpl-dco-ack-flags.yaml
 - :id: rpl/rpl-dco-flags
@@ -5491,10 +4241,6 @@
   :file: data/rpl-sibling-information-option-flags.yaml
 - :id: rpl/transit-info-option-flags
   :file: data/rpl-transit-info-option-flags.yaml
-- :id: rpl/via-information-options-flags
-  :file: data/rpl-via-information-options-flags.yaml
-- :id: rpl
-  :file: data/rpl.yaml
 - :id: rserpool-parameters/rserpool-parameters-1
   :file: data/rserpool-parameters-rserpool-parameters-1.yaml
 - :id: rserpool-parameters/rserpool-parameters-2
@@ -5507,8 +4253,6 @@
   :file: data/rserpool-parameters-rserpool-parameters-5.yaml
 - :id: rserpool-parameters/rserpool-parameters-6
   :file: data/rserpool-parameters-rserpool-parameters-6.yaml
-- :id: rserpool-parameters
-  :file: data/rserpool-parameters.yaml
 - :id: rsip-parameters/rsip-parameters-1
   :file: data/rsip-parameters-rsip-parameters-1.yaml
 - :id: rsip-parameters/rsip-parameters-2
@@ -5527,12 +4271,8 @@
   :file: data/rsip-parameters-rsip-parameters-8.yaml
 - :id: rsip-parameters/rsip-parameters-9
   :file: data/rsip-parameters-rsip-parameters-9.yaml
-- :id: rsip-parameters
-  :file: data/rsip-parameters.yaml
 - :id: rsvp-parameters/conditions-object-flags
   :file: data/rsvp-parameters-conditions-object-flags.yaml
-- :id: rsvp-parameters/rsvp-parameters-116
-  :file: data/rsvp-parameters-rsvp-parameters-116.yaml
 - :id: rsvp-parameters/rsvp-parameters-117
   :file: data/rsvp-parameters-rsvp-parameters-117.yaml
 - :id: rsvp-parameters/rsvp-parameters-118
@@ -5543,16 +4283,12 @@
   :file: data/rsvp-parameters-rsvp-parameters-2.yaml
 - :id: rsvp-parameters/rsvp-parameters-4
   :file: data/rsvp-parameters-rsvp-parameters-4.yaml
-- :id: rsvp-parameters/rsvp-parameters-97
-  :file: data/rsvp-parameters-rsvp-parameters-97.yaml
 - :id: rsvp-parameters/rsvp-parameters-99
   :file: data/rsvp-parameters-rsvp-parameters-99.yaml
 - :id: rsvp-parameters/vcat-elementary-signal
   :file: data/rsvp-parameters-vcat-elementary-signal.yaml
 - :id: rsvp-parameters/vcat-vgc-operation
   :file: data/rsvp-parameters-vcat-vgc-operation.yaml
-- :id: rsvp-parameters
-  :file: data/rsvp-parameters.yaml
 - :id: rsvp-te-oam/bfd-sub-tlvs
   :file: data/rsvp-te-oam-bfd-sub-tlvs.yaml
 - :id: rsvp-te-oam/ethernet-sub-tlvs
@@ -5567,8 +4303,6 @@
   :file: data/rsvp-te-oam-oam-types.yaml
 - :id: rsvp-te-oam/performance-monitoring-sub-tlvs
   :file: data/rsvp-te-oam-performance-monitoring-sub-tlvs.yaml
-- :id: rsvp-te-oam
-  :file: data/rsvp-te-oam.yaml
 - :id: rsvp-te-parameters/rsvp-te-parameters-1
   :file: data/rsvp-te-parameters-rsvp-te-parameters-1.yaml
 - :id: rsvp-te-parameters/rsvp-te-parameters-2
@@ -5583,8 +4317,6 @@
   :file: data/rsvp-te-parameters-wavelength-assignment-method.yaml
 - :id: rsvp-te-parameters/wson-processing-hop-sub-tlv
   :file: data/rsvp-te-parameters-wson-processing-hop-sub-tlv.yaml
-- :id: rsvp-te-parameters
-  :file: data/rsvp-te-parameters.yaml
 - :id: rtcp-xr-block-types/idms-spst
   :file: data/rtcp-xr-block-types-idms-spst.yaml
 - :id: rtcp-xr-block-types/mos-metric
@@ -5593,18 +4325,12 @@
   :file: data/rtcp-xr-block-types-pdv-types.yaml
 - :id: rtcp-xr-block-types/rtcp-xr-block-types-1
   :file: data/rtcp-xr-block-types-rtcp-xr-block-types-1.yaml
-- :id: rtcp-xr-block-types
-  :file: data/rtcp-xr-block-types.yaml
 - :id: rtcp-xr-sdp-parameters/rtcp-xr-sdp-parameters-1
   :file: data/rtcp-xr-sdp-parameters-rtcp-xr-sdp-parameters-1.yaml
-- :id: rtcp-xr-sdp-parameters
-  :file: data/rtcp-xr-sdp-parameters.yaml
 - :id: rtfm/attributes
   :file: data/rtfm-attributes.yaml
 - :id: rtfm/opcodes
   :file: data/rtfm-opcodes.yaml
-- :id: rtfm
-  :file: data/rtfm.yaml
 - :id: rtp-parameters/rtp-ekt-ciphers
   :file: data/rtp-parameters-rtp-ekt-ciphers.yaml
 - :id: rtp-parameters/rtp-ekt-message-types
@@ -5637,8 +4363,6 @@
   :file: data/rtp-parameters-rtp-parameters-9.yaml
 - :id: rtp-parameters/sdes-compact-header-extensions
   :file: data/rtp-parameters-sdes-compact-header-extensions.yaml
-- :id: rtp-parameters
-  :file: data/rtp-parameters.yaml
 - :id: rtsp-parameters/rtsp-parameters-1
   :file: data/rtsp-parameters-rtsp-parameters-1.yaml
 - :id: rtsp-parameters/rtsp-parameters-2
@@ -5647,8 +4371,6 @@
   :file: data/rtsp-parameters-rtsp-parameters-3.yaml
 - :id: rtsp-parameters/rtsp-parameters-4
   :file: data/rtsp-parameters-rtsp-parameters-4.yaml
-- :id: rtsp-parameters
-  :file: data/rtsp-parameters.yaml
 - :id: rtspv2-parameters/accept-credentials-hash
   :file: data/rtspv2-parameters-accept-credentials-hash.yaml
 - :id: rtspv2-parameters/accept-credentials-policies
@@ -5683,56 +4405,34 @@
   :file: data/rtspv2-parameters-transport-params.yaml
 - :id: rtspv2-parameters/transport-protocol-id
   :file: data/rtspv2-parameters-transport-protocol-id.yaml
-- :id: rtspv2-parameters
-  :file: data/rtspv2-parameters.yaml
-- :id: rue/rue-provider-list
-  :file: data/rue-rue-provider-list.yaml
-- :id: rue
-  :file: data/rue.yaml
 - :id: s-naptr-parameters/s-naptr-parameters-1
   :file: data/s-naptr-parameters-s-naptr-parameters-1.yaml
 - :id: s-naptr-parameters/s-naptr-parameters-2
   :file: data/s-naptr-parameters-s-naptr-parameters-2.yaml
-- :id: s-naptr-parameters
-  :file: data/s-naptr-parameters.yaml
 - :id: s-pmsi-parameters/s-pmsi-parameters-1
   :file: data/s-pmsi-parameters-s-pmsi-parameters-1.yaml
-- :id: s-pmsi-parameters
-  :file: data/s-pmsi-parameters.yaml
 - :id: safi-namespace/safi-namespace-2
   :file: data/safi-namespace-safi-namespace-2.yaml
-- :id: safi-namespace
-  :file: data/safi-namespace.yaml
 - :id: sam-baseline/alm-alg-ids
   :file: data/sam-baseline-alm-alg-ids.yaml
 - :id: sam-baseline/alm-error-codes
   :file: data/sam-baseline-alm-error-codes.yaml
 - :id: sam-baseline/alm-message-codes
   :file: data/sam-baseline-alm-message-codes.yaml
-- :id: sam-baseline
-  :file: data/sam-baseline.yaml
 - :id: sasl-mechanisms/sasl-mechanisms-1
   :file: data/sasl-mechanisms-sasl-mechanisms-1.yaml
 - :id: sasl-mechanisms/scram
   :file: data/sasl-mechanisms-scram.yaml
-- :id: sasl-mechanisms
-  :file: data/sasl-mechanisms.yaml
 - :id: scep/scep-ca-capabilities
   :file: data/scep-scep-ca-capabilities.yaml
 - :id: scep/scep-message-types
   :file: data/scep-scep-message-types.yaml
-- :id: scep
-  :file: data/scep.yaml
 - :id: scim/data-resources
   :file: data/scim-data-resources.yaml
 - :id: scim/server-related
   :file: data/scim-server-related.yaml
-- :id: scim
-  :file: data/scim.yaml
 - :id: scsp-numbers/scsp-numbers-1
   :file: data/scsp-numbers-scsp-numbers-1.yaml
-- :id: scsp-numbers
-  :file: data/scsp-numbers.yaml
 - :id: sctp-parameters/sctp-error-detection-methods
   :file: data/sctp-parameters-sctp-error-detection-methods.yaml
 - :id: sctp-parameters/sctp-parameters-1
@@ -5747,24 +4447,12 @@
   :file: data/sctp-parameters-sctp-parameters-26.yaml
 - :id: sctp-parameters/sctp-parameters-27
   :file: data/sctp-parameters-sctp-parameters-27.yaml
-- :id: sctp-parameters/sctp-parameters-3
-  :file: data/sctp-parameters-sctp-parameters-3.yaml
-- :id: sctp-parameters
-  :file: data/sctp-parameters.yaml
-- :id: sdf/sdf-feature-names
-  :file: data/sdf-sdf-feature-names.yaml
-- :id: sdf/sdf-quality-name-prefixes
-  :file: data/sdf-sdf-quality-name-prefixes.yaml
 - :id: sdf/sdf-quality-names
   :file: data/sdf-sdf-quality-names.yaml
 - :id: sdf/sdftype-values
   :file: data/sdf-sdftype-values.yaml
-- :id: sdf
-  :file: data/sdf.yaml
 - :id: sdp-parameters/association-usage-name
   :file: data/sdp-parameters-association-usage-name.yaml
-- :id: sdp-parameters/candidate-attribute-extensions
-  :file: data/sdp-parameters-candidate-attribute-extensions.yaml
 - :id: sdp-parameters/cs-correlation-values
   :file: data/sdp-parameters-cs-correlation-values.yaml
 - :id: sdp-parameters/media-clock-source
@@ -5811,8 +4499,6 @@
   :file: data/sdp-parameters-sdp-parameters-6.yaml
 - :id: sdp-parameters/timestamp-ref-clock-source
   :file: data/sdp-parameters-timestamp-ref-clock-source.yaml
-- :id: sdp-parameters
-  :file: data/sdp-parameters.yaml
 - :id: sdp-security-descriptions/sdp-security-descriptions-1
   :file: data/sdp-security-descriptions-sdp-security-descriptions-1.yaml
 - :id: sdp-security-descriptions/sdp-security-descriptions-2
@@ -5821,32 +4507,20 @@
   :file: data/sdp-security-descriptions-sdp-security-descriptions-3.yaml
 - :id: sdp-security-descriptions/sdp-security-descriptions-4
   :file: data/sdp-security-descriptions-sdp-security-descriptions-4.yaml
-- :id: sdp-security-descriptions
-  :file: data/sdp-security-descriptions.yaml
 - :id: sdxf-parameters/sdxf-parameters-1
   :file: data/sdxf-parameters-sdxf-parameters-1.yaml
 - :id: sdxf-parameters/sdxf-parameters-2
   :file: data/sdxf-parameters-sdxf-parameters-2.yaml
-- :id: sdxf-parameters
-  :file: data/sdxf-parameters.yaml
 - :id: sec-ext-enum/sec-ext-enum-1
   :file: data/sec-ext-enum-sec-ext-enum-1.yaml
-- :id: sec-ext-enum
-  :file: data/sec-ext-enum.yaml
 - :id: secevent/secevent-error-codes
   :file: data/secevent-secevent-error-codes.yaml
 - :id: secevent/subject-identifier-formats
   :file: data/secevent-subject-identifier-formats.yaml
-- :id: secevent
-  :file: data/secevent.yaml
 - :id: security-label-format-selection/security-label-format-selection-registry
   :file: data/security-label-format-selection-security-label-format-selection-registry.yaml
-- :id: security-label-format-selection
-  :file: data/security-label-format-selection.yaml
 - :id: security-txt-fields/security-txt-fields
   :file: data/security-txt-fields-security-txt-fields.yaml
-- :id: security-txt-fields
-  :file: data/security-txt-fields.yaml
 - :id: segment-routing/segment-types
   :file: data/segment-routing-segment-types.yaml
 - :id: segment-routing/sr-policy-enlp-values
@@ -5855,8 +4529,6 @@
   :file: data/segment-routing-sr-policy-protocol-origin.yaml
 - :id: segment-routing/srv6-endpoint-behaviors
   :file: data/segment-routing-srv6-endpoint-behaviors.yaml
-- :id: segment-routing
-  :file: data/segment-routing.yaml
 - :id: senml/secondary-units
   :file: data/senml-secondary-units.yaml
 - :id: senml/senml-features
@@ -5865,16 +4537,10 @@
   :file: data/senml-senml-labels.yaml
 - :id: senml/senml-units
   :file: data/senml-senml-units.yaml
-- :id: senml
-  :file: data/senml.yaml
 - :id: service-codes/service-codes-1
   :file: data/service-codes-service-codes-1.yaml
-- :id: service-codes
-  :file: data/service-codes.yaml
 - :id: service-function-chaining-service-function-types/service-function-chaining-service-function-types-2
   :file: data/service-function-chaining-service-function-types-service-function-chaining-service-function-types-2.yaml
-- :id: service-function-chaining-service-function-types
-  :file: data/service-function-chaining-service-function-types.yaml
 - :id: service-names-port-numbers
   :file: data/service-names-port-numbers.yaml
 - :id: sfc-active-oam/sfc-active-oam
@@ -5891,16 +4557,10 @@
   :file: data/sfc-active-oam-sfc-echo-types.yaml
 - :id: sfc-active-oam/sfc-identifier
   :file: data/sfc-active-oam-sfc-identifier.yaml
-- :id: sfc-active-oam
-  :file: data/sfc-active-oam.yaml
 - :id: sframe/sframe-cipher-suites
   :file: data/sframe-sframe-cipher-suites.yaml
-- :id: sframe
-  :file: data/sframe.yaml
 - :id: sgmp-vendor-specific-codes/sgmp-vendor-specific-codes-1
   :file: data/sgmp-vendor-specific-codes-sgmp-vendor-specific-codes-1.yaml
-- :id: sgmp-vendor-specific-codes
-  :file: data/sgmp-vendor-specific-codes.yaml
 - :id: shim6/error-codes
   :file: data/shim6-error-codes.yaml
 - :id: shim6/options
@@ -5909,32 +4569,20 @@
   :file: data/shim6-types.yaml
 - :id: shim6/verification
   :file: data/shim6-verification.yaml
-- :id: shim6
-  :file: data/shim6.yaml
 - :id: sieve-environment-items/sieve-environment-items-2
   :file: data/sieve-environment-items-sieve-environment-items-2.yaml
-- :id: sieve-environment-items
-  :file: data/sieve-environment-items.yaml
 - :id: sieve-extensions/sieve-actions
   :file: data/sieve-extensions-sieve-actions.yaml
 - :id: sieve-extensions/sieve-extensions-2
   :file: data/sieve-extensions-sieve-extensions-2.yaml
 - :id: sieve-extensions/urn-parameters
   :file: data/sieve-extensions-urn-parameters.yaml
-- :id: sieve-extensions
-  :file: data/sieve-extensions.yaml
 - :id: sieve-notification/sieve-notification-2
   :file: data/sieve-notification-sieve-notification-2.yaml
-- :id: sieve-notification
-  :file: data/sieve-notification.yaml
 - :id: sig-alg-numbers/sig-alg-numbers-1
   :file: data/sig-alg-numbers-sig-alg-numbers-1.yaml
-- :id: sig-alg-numbers
-  :file: data/sig-alg-numbers.yaml
 - :id: sigcomp-namespace/sigcomp-namespace-1
   :file: data/sigcomp-namespace-sigcomp-namespace-1.yaml
-- :id: sigcomp-namespace
-  :file: data/sigcomp-namespace.yaml
 - :id: sigtran-adapt/sigtran-adapt-1
   :file: data/sigtran-adapt-sigtran-adapt-1.yaml
 - :id: sigtran-adapt/sigtran-adapt-10
@@ -5969,18 +4617,12 @@
   :file: data/sigtran-adapt-sigtran-adapt-8.yaml
 - :id: sigtran-adapt/sigtran-adapt-9
   :file: data/sigtran-adapt-sigtran-adapt-9.yaml
-- :id: sigtran-adapt
-  :file: data/sigtran-adapt.yaml
 - :id: sip-clf-parameters/transport-flag
   :file: data/sip-clf-parameters-transport-flag.yaml
 - :id: sip-clf-parameters/version
   :file: data/sip-clf-parameters-version.yaml
-- :id: sip-clf-parameters
-  :file: data/sip-clf-parameters.yaml
 - :id: sip-events/sip-events-2
   :file: data/sip-events-sip-events-2.yaml
-- :id: sip-events
-  :file: data/sip-events.yaml
 - :id: sip-parameters/sip-alertmsg-error-codes
   :file: data/sip-parameters-sip-alertmsg-error-codes.yaml
 - :id: sip-parameters/sip-parameters-10
@@ -5993,8 +4635,6 @@
   :file: data/sip-parameters-sip-parameters-13.yaml
 - :id: sip-parameters/sip-parameters-14
   :file: data/sip-parameters-sip-parameters-14.yaml
-- :id: sip-parameters/sip-parameters-15
-  :file: data/sip-parameters-sip-parameters-15.yaml
 - :id: sip-parameters/sip-parameters-2
   :file: data/sip-parameters-sip-parameters-2.yaml
 - :id: sip-parameters/sip-parameters-3
@@ -6045,40 +4685,20 @@
   :file: data/sip-parameters-uui-encoding.yaml
 - :id: sip-parameters/uui-packages
   :file: data/sip-parameters-uui-packages.yaml
-- :id: sip-parameters
-  :file: data/sip-parameters.yaml
 - :id: sip-precond-types/sip-precond-types-1
   :file: data/sip-precond-types-sip-precond-types-1.yaml
-- :id: sip-precond-types
-  :file: data/sip-precond-types.yaml
-- :id: sip-priv-values/sip-priv-values-1
-  :file: data/sip-priv-values-sip-priv-values-1.yaml
-- :id: sip-priv-values
-  :file: data/sip-priv-values.yaml
 - :id: sip-table/sip-table-1
   :file: data/sip-table-sip-table-1.yaml
-- :id: sip-table
-  :file: data/sip-table.yaml
 - :id: slp-da-service/slp-da-service-1
   :file: data/slp-da-service-slp-da-service-1.yaml
-- :id: slp-da-service
-  :file: data/slp-da-service.yaml
 - :id: smi-numbers/smi-numbers-1.3.101
   :file: data/smi-numbers-smi-numbers-1-3-101.yaml
 - :id: smi-numbers/smi-numbers-1.3.6.1.2.1.198.4
   :file: data/smi-numbers-smi-numbers-1-3-6-1-2-1-198-4.yaml
-- :id: smi-numbers/smi-numbers-1
-  :file: data/smi-numbers-smi-numbers-1.yaml
 - :id: smi-numbers/smi-numbers-10
   :file: data/smi-numbers-smi-numbers-10.yaml
-- :id: smi-numbers/smi-numbers-12
-  :file: data/smi-numbers-smi-numbers-12.yaml
-- :id: smi-numbers/smi-numbers-16
-  :file: data/smi-numbers-smi-numbers-16.yaml
 - :id: smi-numbers/smi-numbers-18
   :file: data/smi-numbers-smi-numbers-18.yaml
-- :id: smi-numbers/smi-numbers-19
-  :file: data/smi-numbers-smi-numbers-19.yaml
 - :id: smi-numbers/smi-numbers-2
   :file: data/smi-numbers-smi-numbers-2.yaml
 - :id: smi-numbers/smi-numbers-20
@@ -6101,26 +4721,16 @@
   :file: data/smi-numbers-smi-numbers-59.yaml
 - :id: smi-numbers/smi-numbers-6
   :file: data/smi-numbers-smi-numbers-6.yaml
-- :id: smi-numbers/smi-numbers-62
-  :file: data/smi-numbers-smi-numbers-62.yaml
-- :id: smi-numbers/smi-numbers-63
-  :file: data/smi-numbers-smi-numbers-63.yaml
 - :id: smi-numbers/smi-numbers-64
   :file: data/smi-numbers-smi-numbers-64.yaml
 - :id: smi-numbers/smi-numbers-7
   :file: data/smi-numbers-smi-numbers-7.yaml
-- :id: smi-numbers/smi-numbers-71
-  :file: data/smi-numbers-smi-numbers-71.yaml
-- :id: smi-numbers
-  :file: data/smi-numbers.yaml
 - :id: smtp-enhanced-status-codes/smtp-enhanced-status-codes-1
   :file: data/smtp-enhanced-status-codes-smtp-enhanced-status-codes-1.yaml
 - :id: smtp-enhanced-status-codes/smtp-enhanced-status-codes-2
   :file: data/smtp-enhanced-status-codes-smtp-enhanced-status-codes-2.yaml
 - :id: smtp-enhanced-status-codes/smtp-enhanced-status-codes-3
   :file: data/smtp-enhanced-status-codes-smtp-enhanced-status-codes-3.yaml
-- :id: smtp-enhanced-status-codes
-  :file: data/smtp-enhanced-status-codes.yaml
 - :id: snmp-number-spaces/snmp-number-spaces-1
   :file: data/snmp-number-spaces-snmp-number-spaces-1.yaml
 - :id: snmp-number-spaces/snmp-number-spaces-2
@@ -6133,16 +4743,10 @@
   :file: data/snmp-number-spaces-snmp-number-spaces-6.yaml
 - :id: snmp-number-spaces/snmp-number-spaces-7
   :file: data/snmp-number-spaces-snmp-number-spaces-7.yaml
-- :id: snmp-number-spaces
-  :file: data/snmp-number-spaces.yaml
 - :id: snoop-datalink-types/snoop-datalink-types-2
   :file: data/snoop-datalink-types-snoop-datalink-types-2.yaml
-- :id: snoop-datalink-types
-  :file: data/snoop-datalink-types.yaml
 - :id: socks-methods/socks-methods-1
   :file: data/socks-methods-socks-methods-1.yaml
-- :id: socks-methods
-  :file: data/socks-methods.yaml
 - :id: software-id/entity-role-values
   :file: data/software-id-entity-role-values.yaml
 - :id: software-id/link-ownership-values
@@ -6153,32 +4757,18 @@
   :file: data/software-id-link-use-values.yaml
 - :id: software-id/version-scheme-values
   :file: data/software-id-version-scheme-values.yaml
-- :id: software-id
-  :file: data/software-id.yaml
 - :id: special-registry/special-registry-1
   :file: data/special-registry-special-registry-1.yaml
-- :id: special-registry
-  :file: data/special-registry.yaml
 - :id: special-use-domain-names/special-use-domain
   :file: data/special-use-domain-names-special-use-domain.yaml
-- :id: special-use-domain-names
-  :file: data/special-use-domain-names.yaml
 - :id: spf-parameters/spf-parameters-modifier-names
   :file: data/spf-parameters-spf-parameters-modifier-names.yaml
-- :id: spf-parameters
-  :file: data/spf-parameters.yaml
 - :id: spi-numbers/spi-numbers-1
   :file: data/spi-numbers-spi-numbers-1.yaml
-- :id: spi-numbers
-  :file: data/spi-numbers.yaml
 - :id: sppf-orgidtype-namespace/sppf-orgidtype-namespace-1
   :file: data/sppf-orgidtype-namespace-sppf-orgidtype-namespace-1.yaml
-- :id: sppf-orgidtype-namespace
-  :file: data/sppf-orgidtype-namespace.yaml
 - :id: srtp-protection/srtp-protection-1
   :file: data/srtp-protection-srtp-protection-1.yaml
-- :id: srtp-protection
-  :file: data/srtp-protection.yaml
 - :id: ssh-parameters/extension-names
   :file: data/ssh-parameters-extension-names.yaml
 - :id: ssh-parameters/ssh-parameters-1
@@ -6225,8 +4815,6 @@
   :file: data/ssh-parameters-ssh-parameters-8.yaml
 - :id: ssh-parameters/ssh-parameters-9
   :file: data/ssh-parameters-ssh-parameters-9.yaml
-- :id: ssh-parameters
-  :file: data/ssh-parameters.yaml
 - :id: stamp-tlv-types/stamp-return-codes
   :file: data/stamp-tlv-types-stamp-return-codes.yaml
 - :id: stamp-tlv-types/stamp-return-path-control-code-flags
@@ -6243,16 +4831,10 @@
   :file: data/stamp-tlv-types-stamp-tlv-flags.yaml
 - :id: stamp-tlv-types/stamp-tlv-types-1
   :file: data/stamp-tlv-types-stamp-tlv-types-1.yaml
-- :id: stamp-tlv-types
-  :file: data/stamp-tlv-types.yaml
 - :id: starttls-validation-result-types/starttls-validation-result-types-1
   :file: data/starttls-validation-result-types-starttls-validation-result-types-1.yaml
-- :id: starttls-validation-result-types
-  :file: data/starttls-validation-result-types.yaml
 - :id: stringprep-profiles/stringprep-profiles-1
   :file: data/stringprep-profiles-stringprep-profiles-1.yaml
-- :id: stringprep-profiles
-  :file: data/stringprep-profiles.yaml
 - :id: stun-parameters/stun-parameters-2
   :file: data/stun-parameters-stun-parameters-2.yaml
 - :id: stun-parameters/stun-parameters-4
@@ -6265,8 +4847,6 @@
   :file: data/stun-parameters-stun-security-features.yaml
 - :id: stun-parameters/turn-channel
   :file: data/stun-parameters-turn-channel.yaml
-- :id: stun-parameters
-  :file: data/stun-parameters.yaml
 - :id: suit/suit-commands
   :file: data/suit-suit-commands.yaml
 - :id: suit/suit-common-elements
@@ -6281,28 +4861,14 @@
   :file: data/suit-suit-parameters.yaml
 - :id: suit/suit-text-values
   :file: data/suit-suit-text-values.yaml
-- :id: suit
-  :file: data/suit.yaml
-- :id: sun-rpc-numbers/sun-rpc-numbers-1
-  :file: data/sun-rpc-numbers-sun-rpc-numbers-1.yaml
-- :id: sun-rpc-numbers
-  :file: data/sun-rpc-numbers.yaml
 - :id: svrloc-cryptographic-bsd/svrloc-cryptographic-bsd-1
   :file: data/svrloc-cryptographic-bsd-svrloc-cryptographic-bsd-1.yaml
-- :id: svrloc-cryptographic-bsd
-  :file: data/svrloc-cryptographic-bsd.yaml
 - :id: svrloc-error-numbers/svrloc-error-numbers-1
   :file: data/svrloc-error-numbers-svrloc-error-numbers-1.yaml
-- :id: svrloc-error-numbers
-  :file: data/svrloc-error-numbers.yaml
 - :id: svrloc-extensions/svrloc-extensions-1
   :file: data/svrloc-extensions-svrloc-extensions-1.yaml
-- :id: svrloc-extensions
-  :file: data/svrloc-extensions.yaml
 - :id: svrloc-function-ids/svrloc-function-ids-1
   :file: data/svrloc-function-ids-svrloc-function-ids-1.yaml
-- :id: svrloc-function-ids
-  :file: data/svrloc-function-ids.yaml
 - :id: svrloc-templates
   :file: data/svrloc-templates.yaml
 - :id: syslog-parameters/syslog-parameters-1
@@ -6323,20 +4889,12 @@
   :file: data/syslog-parameters-syslog-parameters-8.yaml
 - :id: syslog-parameters/syslog-parameters-9
   :file: data/syslog-parameters-syslog-parameters-9.yaml
-- :id: syslog-parameters
-  :file: data/syslog-parameters.yaml
 - :id: tcp-convert-protocol-parameters/convert-errors
   :file: data/tcp-convert-protocol-parameters-convert-errors.yaml
 - :id: tcp-convert-protocol-parameters/convert-tlv
   :file: data/tcp-convert-protocol-parameters-convert-tlv.yaml
 - :id: tcp-convert-protocol-parameters/convert-versions
   :file: data/tcp-convert-protocol-parameters-convert-versions.yaml
-- :id: tcp-convert-protocol-parameters
-  :file: data/tcp-convert-protocol-parameters.yaml
-- :id: tcp-header-flags/tcp-header-flags-1
-  :file: data/tcp-header-flags-tcp-header-flags-1.yaml
-- :id: tcp-header-flags
-  :file: data/tcp-header-flags.yaml
 - :id: tcp-parameters/mptcp-handshake
   :file: data/tcp-parameters-mptcp-handshake.yaml
 - :id: tcp-parameters/mptcp-mp-tcprst-reason-codes
@@ -6357,18 +4915,12 @@
   :file: data/tcp-parameters-tcp-udp-exids.yaml
 - :id: tcp-parameters/tcpcrypt-aead-algorithms
   :file: data/tcp-parameters-tcpcrypt-aead-algorithms.yaml
-- :id: tcp-parameters
-  :file: data/tcp-parameters.yaml
 - :id: te-link-capabilities/te-node-capabilities
   :file: data/te-link-capabilities-te-node-capabilities.yaml
-- :id: te-link-capabilities
-  :file: data/te-link-capabilities.yaml
 - :id: te-types/rfc-4973-experimental-te-lsa-types
   :file: data/te-types-rfc-4973-experimental-te-lsa-types.yaml
 - :id: te-types/rfc-4973-experimental-te-tlvs
   :file: data/te-types-rfc-4973-experimental-te-tlvs.yaml
-- :id: te-types
-  :file: data/te-types.yaml
 - :id: teap-parameters/error
   :file: data/teap-parameters-error.yaml
 - :id: teap-parameters/identity-type
@@ -6385,16 +4937,10 @@
   :file: data/teap-parameters-teap-tlvs.yaml
 - :id: teap-parameters/trusted-server-root
   :file: data/teap-parameters-trusted-server-root.yaml
-- :id: teap-parameters
-  :file: data/teap-parameters.yaml
 - :id: tel-uri-parameters/tel-uri-parameters-1
   :file: data/tel-uri-parameters-tel-uri-parameters-1.yaml
-- :id: tel-uri-parameters
-  :file: data/tel-uri-parameters.yaml
 - :id: telnet-options/telnet-options-1
   :file: data/telnet-options-telnet-options-1.yaml
-- :id: telnet-options/telnet-options-10
-  :file: data/telnet-options-telnet-options-10.yaml
 - :id: telnet-options/telnet-options-13
   :file: data/telnet-options-telnet-options-13.yaml
 - :id: telnet-options/telnet-options-14
@@ -6407,8 +4953,6 @@
   :file: data/telnet-options-telnet-options-17.yaml
 - :id: telnet-options/telnet-options-18
   :file: data/telnet-options-telnet-options-18.yaml
-- :id: telnet-options/telnet-options-2
-  :file: data/telnet-options-telnet-options-2.yaml
 - :id: telnet-options/telnet-options-5
   :file: data/telnet-options-telnet-options-5.yaml
 - :id: telnet-options/telnet-options-6
@@ -6419,12 +4963,8 @@
   :file: data/telnet-options-telnet-options-8.yaml
 - :id: telnet-options/telnet-options-9
   :file: data/telnet-options-telnet-options-9.yaml
-- :id: telnet-options
-  :file: data/telnet-options.yaml
 - :id: terminal-type-names/terminal-type-names-1
   :file: data/terminal-type-names-terminal-type-names-1.yaml
-- :id: terminal-type-names
-  :file: data/terminal-type-names.yaml
 - :id: tesla-parameters/tesla-parameters-1
   :file: data/tesla-parameters-tesla-parameters-1.yaml
 - :id: tesla-parameters/tesla-parameters-2
@@ -6433,16 +4973,10 @@
   :file: data/tesla-parameters-tesla-parameters-3.yaml
 - :id: tesla-parameters/tesla-parameters-4
   :file: data/tesla-parameters-tesla-parameters-4.yaml
-- :id: tesla-parameters
-  :file: data/tesla-parameters.yaml
 - :id: text-directory-registrations/text-directory-registrations-1
   :file: data/text-directory-registrations-text-directory-registrations-1.yaml
 - :id: text-directory-registrations/text-directory-registrations-2
   :file: data/text-directory-registrations-text-directory-registrations-2.yaml
-- :id: text-directory-registrations/text-directory-registrations-3
-  :file: data/text-directory-registrations-text-directory-registrations-3.yaml
-- :id: text-directory-registrations
-  :file: data/text-directory-registrations.yaml
 - :id: tls-extensiontype-values/alpn-protocol-ids
   :file: data/tls-extensiontype-values-alpn-protocol-ids.yaml
 - :id: tls-extensiontype-values/cachedinformationtype
@@ -6455,8 +4989,6 @@
   :file: data/tls-extensiontype-values-tls-extensiontype-values-1.yaml
 - :id: tls-extensiontype-values/tls-extensiontype-values-3
   :file: data/tls-extensiontype-values-tls-extensiontype-values-3.yaml
-- :id: tls-extensiontype-values
-  :file: data/tls-extensiontype-values.yaml
 - :id: tls-parameters/authorization-data
   :file: data/tls-parameters-authorization-data.yaml
 - :id: tls-parameters/exporter-labels
@@ -6495,24 +5027,16 @@
   :file: data/tls-parameters-tls-pskkeyexchangemode.yaml
 - :id: tls-parameters/tls-signaturescheme
   :file: data/tls-parameters-tls-signaturescheme.yaml
-- :id: tls-parameters
-  :file: data/tls-parameters.yaml
 - :id: token-binding-protocol/token-binding-extensions
   :file: data/token-binding-protocol-token-binding-extensions.yaml
 - :id: token-binding-protocol/token-binding-key-parameters
   :file: data/token-binding-protocol-token-binding-key-parameters.yaml
 - :id: token-binding-protocol/token-binding-types
   :file: data/token-binding-protocol-token-binding-types.yaml
-- :id: token-binding-protocol
-  :file: data/token-binding-protocol.yaml
 - :id: top-level-media-types/top-level-media-types
   :file: data/top-level-media-types-top-level-media-types.yaml
-- :id: top-level-media-types
-  :file: data/top-level-media-types.yaml
 - :id: trailer-types/trailer-types-1
   :file: data/trailer-types-trailer-types-1.yaml
-- :id: trailer-types
-  :file: data/trailer-types.yaml
 - :id: trans/trans-error-types
   :file: data/trans-trans-error-types.yaml
 - :id: trans/trans-hash-algorithms
@@ -6525,12 +5049,8 @@
   :file: data/trans-trans-signature-algorithms.yaml
 - :id: trans/trans-versionedtranstype
   :file: data/trans-trans-versionedtranstype.yaml
-- :id: trans
-  :file: data/trans.yaml
 - :id: transfer-encodings/transfer-encodings-1
   :file: data/transfer-encodings-transfer-encodings-1.yaml
-- :id: transfer-encodings
-  :file: data/transfer-encodings.yaml
 - :id: trill-parameters/extended-header-flags
   :file: data/trill-parameters-extended-header-flags.yaml
 - :id: trill-parameters/extended-rbridge-channel-payload-types
@@ -6567,8 +5087,6 @@
   :file: data/trill-parameters-trill-pull-directory-qtypes.yaml
 - :id: trill-parameters/trill-ver-capability
   :file: data/trill-parameters-trill-ver-capability.yaml
-- :id: trill-parameters
-  :file: data/trill-parameters.yaml
 - :id: trip-parameters/trip-parameters-1
   :file: data/trip-parameters-trip-parameters-1.yaml
 - :id: trip-parameters/trip-parameters-2
@@ -6579,46 +5097,26 @@
   :file: data/trip-parameters-trip-parameters-4.yaml
 - :id: trip-parameters/trip-parameters-5
   :file: data/trip-parameters-trip-parameters-5.yaml
-- :id: trip-parameters
-  :file: data/trip-parameters.yaml
 - :id: tsig-algorithm-names/tsig-algorithm-names-1
   :file: data/tsig-algorithm-names-tsig-algorithm-names-1.yaml
-- :id: tsig-algorithm-names
-  :file: data/tsig-algorithm-names.yaml
 - :id: tunnel-setup-protocol/tunnel-types
   :file: data/tunnel-setup-protocol-tunnel-types.yaml
-- :id: tunnel-setup-protocol
-  :file: data/tunnel-setup-protocol.yaml
 - :id: twamp-parameters/twamp-modes
   :file: data/twamp-parameters-twamp-modes.yaml
 - :id: twamp-parameters/twamp-parameters-1
   :file: data/twamp-parameters-twamp-parameters-1.yaml
-- :id: twamp-parameters
-  :file: data/twamp-parameters.yaml
 - :id: tzdist-actions/actions
   :file: data/tzdist-actions-actions.yaml
-- :id: tzdist-actions
-  :file: data/tzdist-actions.yaml
 - :id: tzdist-identifiers/identifiers
   :file: data/tzdist-identifiers-identifiers.yaml
-- :id: tzdist-identifiers
-  :file: data/tzdist-identifiers.yaml
 - :id: uaddr-formats/uaddr-formats-1
   :file: data/uaddr-formats-uaddr-formats-1.yaml
-- :id: uaddr-formats
-  :file: data/uaddr-formats.yaml
-- :id: udp/tcp-udp-exids
-  :file: data/udp-tcp-udp-exids.yaml
 - :id: udp/udp-options
   :file: data/udp-udp-options.yaml
-- :id: udp
-  :file: data/udp.yaml
 - :id: ule-next-headers/ule-next-headers-1
   :file: data/ule-next-headers-ule-next-headers-1.yaml
 - :id: ule-next-headers/ule-next-headers-2
   :file: data/ule-next-headers-ule-next-headers-2.yaml
-- :id: ule-next-headers
-  :file: data/ule-next-headers.yaml
 - :id: uri-schemes/ipn-scheme-uri-allocator-identifiers
   :file: data/uri-schemes-ipn-scheme-uri-allocator-identifiers.yaml
 - :id: uri-schemes/ipn-scheme-uri-default-allocator-node-numbers
@@ -6627,32 +5125,20 @@
   :file: data/uri-schemes-ipn-scheme-uri-well-known-service-numbers-for-bpv7.yaml
 - :id: uri-schemes/uri-schemes-1
   :file: data/uri-schemes-uri-schemes-1.yaml
-- :id: uri-schemes
-  :file: data/uri-schemes.yaml
 - :id: urlauth-access-ids/access
   :file: data/urlauth-access-ids-access.yaml
-- :id: urlauth-access-ids
-  :file: data/urlauth-access-ids.yaml
 - :id: urlauth-authorization-mechanism-registry/urlauth-authorization-mechanism-registry-1
   :file: data/urlauth-authorization-mechanism-registry-urlauth-authorization-mechanism-registry-1.yaml
-- :id: urlauth-authorization-mechanism-registry
-  :file: data/urlauth-authorization-mechanism-registry.yaml
 - :id: urn-namespaces/urn-namespaces-1
   :file: data/urn-namespaces-urn-namespaces-1.yaml
 - :id: urn-namespaces/urn-namespaces-2
   :file: data/urn-namespaces-urn-namespaces-2.yaml
-- :id: urn-namespaces
-  :file: data/urn-namespaces.yaml
 - :id: urn-serviceid-labels/urn-serviceid-labels-1
   :file: data/urn-serviceid-labels-urn-serviceid-labels-1.yaml
-- :id: urn-serviceid-labels
-  :file: data/urn-serviceid-labels.yaml
 - :id: uuid/uuid-namespace-ids
   :file: data/uuid-uuid-namespace-ids.yaml
 - :id: uuid/uuid-subtypes
   :file: data/uuid-uuid-subtypes.yaml
-- :id: uuid
-  :file: data/uuid.yaml
 - :id: vcard-elements/parameter-values
   :file: data/vcard-elements-parameter-values.yaml
 - :id: vcard-elements/parameters
@@ -6663,54 +5149,30 @@
   :file: data/vcard-elements-property-values.yaml
 - :id: vcard-elements/value-data-types
   :file: data/vcard-elements-value-data-types.yaml
-- :id: vcard-elements
-  :file: data/vcard-elements.yaml
 - :id: vcdiff-comp-ids/vcdiff-comp-ids-1
   :file: data/vcdiff-comp-ids-vcdiff-comp-ids-1.yaml
-- :id: vcdiff-comp-ids
-  :file: data/vcdiff-comp-ids.yaml
 - :id: version-numbers/version-numbers-1
   :file: data/version-numbers-version-numbers-1.yaml
-- :id: version-numbers
-  :file: data/version-numbers.yaml
 - :id: version-symbols/version-symbols-1
   :file: data/version-symbols-version-symbols-1.yaml
 - :id: version-symbols/version-symbols-2
   :file: data/version-symbols-version-symbols-2.yaml
-- :id: version-symbols
-  :file: data/version-symbols.yaml
 - :id: vnc-uri/connection-channel-types
   :file: data/vnc-uri-connection-channel-types.yaml
 - :id: vnc-uri/id-hash-algorithms
   :file: data/vnc-uri-id-hash-algorithms.yaml
 - :id: vnc-uri/parameters
   :file: data/vnc-uri-parameters.yaml
-- :id: vnc-uri
-  :file: data/vnc-uri.yaml
 - :id: vot/vot-components
   :file: data/vot-vot-components.yaml
-- :id: vot
-  :file: data/vot.yaml
-- :id: wave-avi-codec-registry/wave-avi-codec-registry-1
-  :file: data/wave-avi-codec-registry-wave-avi-codec-registry-1.yaml
-- :id: wave-avi-codec-registry
-  :file: data/wave-avi-codec-registry.yaml
 - :id: webauthn/webauthn-attestation-statement-format-ids
   :file: data/webauthn-webauthn-attestation-statement-format-ids.yaml
 - :id: webauthn/webauthn-extension-ids
   :file: data/webauthn-webauthn-extension-ids.yaml
-- :id: webauthn
-  :file: data/webauthn.yaml
-- :id: webfinger/properties
-  :file: data/webfinger-properties.yaml
-- :id: webfinger
-  :file: data/webfinger.yaml
 - :id: webpush-parameters/identifiers
   :file: data/webpush-parameters-identifiers.yaml
 - :id: webpush-parameters/vapid-authentication-scheme-parameters
   :file: data/webpush-parameters-vapid-authentication-scheme-parameters.yaml
-- :id: webpush-parameters
-  :file: data/webpush-parameters.yaml
 - :id: websocket/close-code-number
   :file: data/websocket-close-code-number.yaml
 - :id: websocket/extension-name
@@ -6723,89 +5185,53 @@
   :file: data/websocket-subprotocol-name.yaml
 - :id: websocket/version-number
   :file: data/websocket-version-number.yaml
-- :id: websocket
-  :file: data/websocket.yaml
 - :id: well-known-uris/well-known-uris-1
   :file: data/well-known-uris-well-known-uris-1.yaml
-- :id: well-known-uris
-  :file: data/well-known-uris.yaml
 - :id: wesp-flags/wesp-flags-1
   :file: data/wesp-flags-wesp-flags-1.yaml
 - :id: wesp-flags/wesp-flags-2
   :file: data/wesp-flags-wesp-flags-2.yaml
-- :id: wesp-flags
-  :file: data/wesp-flags.yaml
-- :id: whip/whip-extension-urns
-  :file: data/whip-whip-extension-urns.yaml
 - :id: whip/whip-urns
   :file: data/whip-whip-urns.yaml
-- :id: whip
-  :file: data/whip.yaml
 - :id: x25-type-numbers/x25-type-numbers-1
   :file: data/x25-type-numbers-x25-type-numbers-1.yaml
-- :id: x25-type-numbers
-  :file: data/x25-type-numbers.yaml
 - :id: xcap-parameters/xcap-parameters-1
   :file: data/xcap-parameters-xcap-parameters-1.yaml
-- :id: xcap-parameters
-  :file: data/xcap-parameters.yaml
 - :id: xml-ns-provided-by/xml-ns-provided-by-1
   :file: data/xml-ns-provided-by-xml-ns-provided-by-1.yaml
-- :id: xml-ns-provided-by
-  :file: data/xml-ns-provided-by.yaml
 - :id: xml-registry/ns
   :file: data/xml-registry-ns.yaml
 - :id: xml-registry/publicid
   :file: data/xml-registry-publicid.yaml
-- :id: xml-registry/rdfschema
-  :file: data/xml-registry-rdfschema.yaml
 - :id: xml-registry/schema
   :file: data/xml-registry-schema.yaml
-- :id: xml-registry
-  :file: data/xml-registry.yaml
 - :id: xml-security-uris/security-uris
   :file: data/xml-security-uris-security-uris.yaml
-- :id: xml-security-uris
-  :file: data/xml-security-uris.yaml
 - :id: xmlers/crypto-info
   :file: data/xmlers-crypto-info.yaml
 - :id: xmlers/time-stamp-token
   :file: data/xmlers-time-stamp-token.yaml
-- :id: xmlers
-  :file: data/xmlers.yaml
 - :id: xmss-extended-hash-based-signatures/wots-signatures
   :file: data/xmss-extended-hash-based-signatures-wots-signatures.yaml
 - :id: xmss-extended-hash-based-signatures/xmss-mt-signatures
   :file: data/xmss-extended-hash-based-signatures-xmss-mt-signatures.yaml
 - :id: xmss-extended-hash-based-signatures/xmss-signatures
   :file: data/xmss-extended-hash-based-signatures-xmss-signatures.yaml
-- :id: xmss-extended-hash-based-signatures
-  :file: data/xmss-extended-hash-based-signatures.yaml
 - :id: xns-protocol-types/xns-protocol-types-1
   :file: data/xns-protocol-types-xns-protocol-types-1.yaml
 - :id: xns-protocol-types/xns-protocol-types-2
   :file: data/xns-protocol-types-xns-protocol-types-2.yaml
-- :id: xns-protocol-types
-  :file: data/xns-protocol-types.yaml
 - :id: yang-geographic-location/geodetic-system-values
   :file: data/yang-geographic-location-geodetic-system-values.yaml
-- :id: yang-geographic-location
-  :file: data/yang-geographic-location.yaml
 - :id: yang-module-tags/ietf-yang-module-tags
   :file: data/yang-module-tags-ietf-yang-module-tags.yaml
 - :id: yang-module-tags/yang-module-tag-prefixes
   :file: data/yang-module-tags-yang-module-tag-prefixes.yaml
-- :id: yang-module-tags
-  :file: data/yang-module-tags.yaml
 - :id: yang-parameters/yang-parameters-1
   :file: data/yang-parameters-yang-parameters-1.yaml
-- :id: yang-parameters
-  :file: data/yang-parameters.yaml
 - :id: yang-sid/sid-mega-range
   :file: data/yang-sid-sid-mega-range.yaml
 - :id: yang-sid/yang-sid-range
   :file: data/yang-sid-yang-sid-range.yaml
-- :id: yang-sid/yang-sid
-  :file: data/yang-sid-yang-sid.yaml
-- :id: yang-sid
-  :file: data/yang-sid.yaml
+- :id: rpki-signed-objects
+  :file: data/rpki-signed-objects.yaml

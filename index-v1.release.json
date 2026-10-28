@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "index": "index-v1",
+  "sha256": "82d8dedf10c3edd01a0143f5222d04c02a33d52924b1b912eb6ea9ec78cfd535",
+  "bytes": 31305,
+  "count": 2618,
+  "generated": "2026-10-28T04:52:29Z",
+  "source_revision": "c76b37f6a7d32fefad6f3bd773be2f347f3c9948",
+  "run_id": "40634562621",
+  "repository": "relaton/relaton-data-iana"
+}
