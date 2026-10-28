@@ -103,12 +103,12 @@ RSpec.describe IanaIndexBuilder do
       end
     end
 
-    # A data/ walk sees one docnumber per file, so a shadowed id is invisible to
-    # it. The reference index is what makes the loss detectable.
-    it "raises naming the shadowed id, and leaves index-v1.yaml untouched" do
-      existing = [{ id: "rpki/signed-objects", file: "data/rpki-signed-objects.yaml" },
-                  { id: "rpki-signed-objects", file: "data/rpki-signed-objects.yaml" }]
-      in_workdir("data/rpki-signed-objects.yaml" => doc("rpki-signed-objects"),
+    # A data/ walk sees one docnumber per file, so a lost id is invisible to
+    # it. The reference index is what makes the loss detectable: the id names
+    # a file the crawl did not produce.
+    it "raises naming the lost id, and leaves index-v1.yaml untouched" do
+      existing = [{ id: "rpki/signed-objects", file: "data/rpki-signed-objects.yaml" }]
+      in_workdir("data/other.yaml" => doc("other"),
                  "index-v1.yaml" => existing) do
         expect { described_class.build_index_v1 }
           .to raise_error(described_class::Error, %r{rpki/signed-objects})
@@ -116,27 +116,37 @@ RSpec.describe IanaIndexBuilder do
           .to eq(existing)
       end
     end
+
+    # relaton-iana#8, #9: a record-less registry's id aliases the
+    # record-bearing document's file. The alias has no docnumber of its own
+    # in data/, and index-v1 carries it to the shared file, so a released-v2
+    # consumer resolves either spelling to the same document.
+    it "carries an alias id into index-v1, pointing at the aliased file" do
+      in_workdir("data/rpki-signed-objects.yaml" => doc("rpki/signed-objects"),
+                 "index-v2.yaml" => [v2_row("rpki", "signed-objects", "data/rpki-signed-objects.yaml"),
+                                     v2_row("rpki-signed-objects", nil, "data/rpki-signed-objects.yaml")]) do
+        described_class.build_index_v1
+        expect(YAML.safe_load_file("index-v1.yaml", permitted_classes: [Symbol]))
+          .to eq([{ id: "rpki/signed-objects", file: "data/rpki-signed-objects.yaml" },
+                  { id: "rpki-signed-objects", file: "data/rpki-signed-objects.yaml" }])
+      end
+    end
   end
 
-  # Guard against this repo's real committed corpus, which still carries the
-  # pre-fix crawl: `rpki/signed-objects` and `rpki-signed-objects` both mapped to
-  # data/rpki-signed-objects.yaml through Core::DataFetcher#output_file, and
-  # Iana::DataFetcher#save_doc overwrote instead of disambiguating, so the first
-  # id has no file of its own -- 3405 index rows over 3404 files.
-  #
-  # relaton has since fixed this (Core::DataFetcher#unique_output_file), and a
-  # crawl on the current gem produces 3405 files with no shadowed id. The
-  # committed corpus does not change until that crawl is COMMITTED here, which
-  # is what flips this spec, not the gem fix on its own.
-  #
-  # WHEN THE NEXT CRAWL LANDS, THIS SPEC GOES RED. Change the expectation to
-  # `be_empty` then; it is what proves the regenerated corpus is whole.
+  # The committed corpus is whole: `unique_output_file` gave the sparse
+  # standalone its digest-suffixed file, so every reference id owns a data
+  # file (lost: []) and none aliases another (alias: []). A future crawl on
+  # the dedup fetcher (relaton-iana#8, #9) folds the standalone into the
+  # rich record's file and flips the expectation to
+  # alias == ["rpki-signed-objects"] -- this spec is what tracks the corpus
+  # generation when that lands.
   describe "the committed corpus" do
-    it "shadows exactly one id, the pre-fix relaton output_file collision" do
+    it "has no lost and no alias ids: every reference id owns its file" do
       Dir.chdir(REPO_ROOT) do
+        reference = described_class.reference_rows
         rows = described_class.rows
-        expect(described_class.shadowed_ids(rows, described_class.reference_ids))
-          .to eq(["rpki/signed-objects"])
+        expect(described_class.lost_rows(rows, reference)).to be_empty
+        expect(described_class.alias_rows(rows, reference)).to be_empty
       end
     end
   end
