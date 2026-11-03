@@ -6,7 +6,7 @@ title:
 - language: en
   script: Latn
   content: |2
-    
+
     Allocations made from the Current Recovered IPv4 Pool
 source:
 - type: src
