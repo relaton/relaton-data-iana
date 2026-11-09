@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Message Types - SS7 Signalling Network Management (SSNM) Messages (Value
-    2)
+  content: Message Types - SS7 Signalling Network Management (SSNM) Messages (Value 2)
 source:
 - type: src
   content: https://www.iana.org/assignments/sigtran-adapt

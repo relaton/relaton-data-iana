@@ -5,8 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Message Types - Q.921/Q.931 Boundary Primitives Transport (QPTM) Messages
-    (Value 5)
+  content: Message Types - Q.921/Q.931 Boundary Primitives Transport (QPTM) Messages (Value 5)
 source:
 - type: src
   content: https://www.iana.org/assignments/sigtran-adapt
