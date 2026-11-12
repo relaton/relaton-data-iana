@@ -1,9 +1,9 @@
 {
   "repository": "relaton/relaton-data-iana",
   "workflow": "Crawler",
-  "run_id": "43100848719",
+  "run_id": "43309642910",
   "run_attempt": "1",
-  "source_revision": "8c75cc6b0794113f17b8535f2eff3bb83abc638d",
+  "source_revision": "98c3dcfa175aa052e4378399277f68c8c3fdcad3",
   "crawler": "bundle exec ruby crawler.rb",
-  "crawled_at": "2026-11-11T21:13:08Z"
+  "crawled_at": "2026-11-12T21:24:13Z"
 }
